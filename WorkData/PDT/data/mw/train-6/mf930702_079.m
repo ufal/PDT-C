@@ -501,7 +501,7 @@
 <tag>
 <AM lemma="ČOS_:B_;K_^(Česká_obec_sokolská)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČOS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-079-p2s2w24">
@@ -545,7 +545,7 @@
 <tag>
 <AM lemma="ČOS_:B_;K_^(Česká_obec_sokolská)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČOS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-079-p2s2w29">

@@ -196,7 +196,7 @@
 <form>WEC</form>
 <tag>
 <AM lemma="WEC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="WEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-13-p2s1Bw12">
@@ -223,7 +223,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-13-p2s1Bw15">

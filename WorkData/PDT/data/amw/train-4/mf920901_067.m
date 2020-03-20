@@ -167,7 +167,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-067-p2s1w14">
@@ -572,7 +572,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-067-p3s2w7">
@@ -884,7 +884,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-067-p3s5w4">
@@ -1249,7 +1249,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-067-p4s1Aw11">
@@ -1399,7 +1399,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-067-p4s1Aw29">

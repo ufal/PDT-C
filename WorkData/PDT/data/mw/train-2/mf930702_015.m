@@ -1063,7 +1063,7 @@
 <form>ZPS</form>
 <tag>
 <AM lemma="ZPS-1_:B_^(změněná_prac._schopnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-015-p2s5w41">
@@ -3149,7 +3149,7 @@
 <form>OSVČ</form>
 <tag>
 <AM lemma="OSVČ_:B_^(osoba_samostatně_výdělečně_činná)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OSVČ-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="OSVČ-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="OSVČ_:B_^(osoba_samostatně_výdělečně_činná)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -3307,7 +3307,7 @@
 <form>OSVČ</form>
 <tag>
 <AM lemma="OSVČ_:B_^(osoba_samostatně_výdělečně_činná)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OSVČ-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="OSVČ-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="OSVČ_:B_^(osoba_samostatně_výdělečně_činná)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

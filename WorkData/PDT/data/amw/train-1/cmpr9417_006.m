@@ -416,7 +416,7 @@
 <form>ČSN</form>
 <tag>
 <AM lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-006-p5s2w7">

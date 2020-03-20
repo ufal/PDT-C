@@ -760,7 +760,7 @@
 <form>FUNCINPEC</form>
 <tag>
 <AM lemma="FUNCINPEC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FUNCINPEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FUNCINPEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-110-p2s4w27">
@@ -813,7 +813,7 @@
 <form>FUNCINPEC</form>
 <tag>
 <AM lemma="FUNCINPEC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FUNCINPEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FUNCINPEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-110-p2s5w2">

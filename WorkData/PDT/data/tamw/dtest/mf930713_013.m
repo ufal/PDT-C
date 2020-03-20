@@ -63,7 +63,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-013-p2s1w2">
@@ -212,7 +212,7 @@
 <form>NG</form>
 <tag>
 <AM lemma="NG_:B_;K_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

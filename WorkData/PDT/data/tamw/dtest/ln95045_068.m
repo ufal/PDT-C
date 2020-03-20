@@ -1105,7 +1105,7 @@
 <form>CSU</form>
 <tag>
 <AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-068-p2s5w5">

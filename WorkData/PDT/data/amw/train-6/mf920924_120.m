@@ -87,7 +87,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p2s1w8">
@@ -106,7 +106,7 @@
 <form>HSDSMS</form>
 <tag>
 <AM lemma="HSDSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSDSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HSDSMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p2s1w10">
@@ -125,7 +125,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p2s1w12">
@@ -296,7 +296,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p2s1w33">
@@ -315,7 +315,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p2s1w35">
@@ -344,7 +344,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p2s2w3">
@@ -363,7 +363,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p2s2w5">

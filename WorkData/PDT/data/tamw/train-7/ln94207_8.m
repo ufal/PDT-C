@@ -992,7 +992,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-8-p4s1w5">
@@ -1297,7 +1297,7 @@
 <form>IPB</form>
 <tag>
 <AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-8-p4s2w16">
@@ -1695,7 +1695,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-8-p4s3w15">
@@ -1921,7 +1921,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-8-p5s1w6">
@@ -1956,7 +1956,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-8-p5s1w10">
@@ -1991,7 +1991,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-8-p5s1w14">
@@ -2080,7 +2080,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-8-p5s1w24">
@@ -2158,7 +2158,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-8-p5s1w33">

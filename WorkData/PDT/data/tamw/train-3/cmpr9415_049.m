@@ -270,7 +270,7 @@
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-77" src="manual">F%-------------</AM>
-<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-049-p3s1Bw5">

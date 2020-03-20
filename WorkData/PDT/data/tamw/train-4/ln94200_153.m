@@ -163,7 +163,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p2s1Aw14">
@@ -174,7 +174,7 @@
 <form>ZPS</form>
 <tag>
 <AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p2s1Aw15">
@@ -288,7 +288,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p2s1Cw8">
@@ -299,7 +299,7 @@
 <form>ZPS</form>
 <tag>
 <AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p2s1Cw9">
@@ -3170,7 +3170,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p5s3w3">
@@ -3181,7 +3181,7 @@
 <form>ZPS</form>
 <tag>
 <AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p5s3w4">
@@ -4793,7 +4793,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p5s15w15">
@@ -4804,7 +4804,7 @@
 <form>ZPS</form>
 <tag>
 <AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p5s15w16">
@@ -4893,7 +4893,7 @@
 <form>HC</form>
 <tag>
 <AM lemma="HC-1_:B_^(hockey_club)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p5s15w26">
@@ -5066,7 +5066,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p6s1w18">
@@ -5077,7 +5077,7 @@
 <form>ZPS</form>
 <tag>
 <AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p6s1w19">

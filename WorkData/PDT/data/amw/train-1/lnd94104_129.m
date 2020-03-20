@@ -93,7 +93,7 @@
 <form>HME</form>
 <tag>
 <AM lemma="HME-1_:B_^(halové_mistrovství_Evropy)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HME-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HME-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-129-p1s1w11">
@@ -399,7 +399,7 @@
 <form>HME</form>
 <tag>
 <AM lemma="HME-1_:B_^(halové_mistrovství_Evropy)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HME-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HME-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-129-p1s3w10">

@@ -915,7 +915,7 @@
 <form>ČSTK</form>
 <tag>
 <AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-091-p3s4w7">
@@ -974,7 +974,7 @@
 <form>FMZV</form>
 <tag>
 <AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-091-p3s4w14">

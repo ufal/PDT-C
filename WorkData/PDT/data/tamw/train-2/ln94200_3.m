@@ -538,7 +538,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-3-p2s5w12">
@@ -711,7 +711,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-3-p3s1w14">
@@ -746,7 +746,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-3-p3s1w18">

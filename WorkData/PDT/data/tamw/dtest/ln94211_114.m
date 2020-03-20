@@ -21,7 +21,7 @@
 <form>HOST</form>
 <tag>
 <AM lemma="host" src="orig">NNMS1-----A----</AM>
-<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-114-p1s1w2">
@@ -175,7 +175,7 @@
 <form>HOST</form>
 <tag>
 <AM lemma="host" src="orig">NNMS1-----A----</AM>
-<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-114-p2s1Bw8">
@@ -412,7 +412,7 @@
 <form>HOST</form>
 <tag>
 <AM lemma="host" src="orig">NNMS1-----A----</AM>
-<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-114-p3s1w2">
@@ -727,7 +727,7 @@
 <form>HOST</form>
 <tag>
 <AM lemma="host" src="orig">NNMS1-----A----</AM>
-<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-114-p3s2w2">
@@ -1237,7 +1237,7 @@
 <form>HOST</form>
 <tag>
 <AM lemma="host" src="orig">NNMS1-----A----</AM>
-<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-114-p4s2w2">

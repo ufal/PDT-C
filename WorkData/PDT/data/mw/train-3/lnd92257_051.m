@@ -1520,7 +1520,7 @@
 <form>OMON</form>
 <tag>
 <AM lemma="OMON_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OMON-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OMON-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-051-p5s2w21">
@@ -1723,7 +1723,7 @@
 <form>OMON</form>
 <tag>
 <AM lemma="OMON_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OMON-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OMON-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-051-p5s3w16">

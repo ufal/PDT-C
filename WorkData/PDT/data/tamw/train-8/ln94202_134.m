@@ -508,7 +508,7 @@
 <form>Mercosur</form>
 <tag>
 <AM lemma="Mercosur_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mercosur-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Mercosur-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-134-p3s1w17">

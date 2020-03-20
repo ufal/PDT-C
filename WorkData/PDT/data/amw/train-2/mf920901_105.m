@@ -435,7 +435,7 @@
 <form>Ch</form>
 <tag>
 <AM lemma="Ch-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ch-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ch-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-105-p2s3w10">

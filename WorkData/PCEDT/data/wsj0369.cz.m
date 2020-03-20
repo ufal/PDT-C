@@ -35,9 +35,9 @@
 <tag>
 <AM lemma="M-3`1000" src="auto">C}-------------</AM>
 <AM lemma="M-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="M-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="m-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="metr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -314,7 +314,7 @@
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -372,7 +372,7 @@
 <LM>w#w-wsj0369-001-p1s2W2</LM>
 </w.rf>
 <form>EMC</form>
-<tag lemma="EMC-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="EMC-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0369-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -498,7 +498,7 @@
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

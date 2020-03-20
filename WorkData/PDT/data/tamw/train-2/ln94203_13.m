@@ -1136,7 +1136,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-13-p4s2w20">
@@ -1618,7 +1618,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-13-p4s5w16">

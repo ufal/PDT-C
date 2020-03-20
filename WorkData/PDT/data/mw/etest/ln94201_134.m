@@ -211,8 +211,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Kč-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Kč-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

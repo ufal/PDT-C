@@ -21,7 +21,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-011-p1s1w2">
@@ -404,7 +404,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-011-p2s2w8">
@@ -423,7 +423,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-011-p2s2w10">
@@ -676,7 +676,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-011-p2s4w9">
@@ -1157,7 +1157,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-011-p2s6w5">
@@ -1363,7 +1363,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-011-p2s6w30">
@@ -1456,7 +1456,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-011-p2s7w2">
@@ -1653,7 +1653,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-011-p2s8w13">
@@ -1784,7 +1784,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-011-p2s8w29">

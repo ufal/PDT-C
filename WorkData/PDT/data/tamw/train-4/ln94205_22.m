@@ -1826,7 +1826,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-22-p6s2w6">

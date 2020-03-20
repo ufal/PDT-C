@@ -317,7 +317,7 @@
 <tag>
 <AM lemma="JELO_;K" src="orig">NNXXX-----A----</AM>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpNS----R-AAI--</AM>
-<AM lemma="JELO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JELO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-006-p2s1Bw21">
@@ -844,7 +844,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-006-p2s2Bw30">
@@ -1217,7 +1217,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-006-p2s4w21">
@@ -1236,7 +1236,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-006-p2s4w23">
@@ -2863,7 +2863,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-006-p2s20w12">
@@ -2882,7 +2882,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-006-p2s20w14">
@@ -2975,7 +2975,7 @@
 <form>DAMU</form>
 <tag>
 <AM lemma="DAMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DAMU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-006-p2s21w5">
@@ -3076,7 +3076,7 @@
 <form>DAMU</form>
 <tag>
 <AM lemma="DAMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-006-p2s22w4">

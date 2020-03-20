@@ -1935,7 +1935,7 @@
 <form>0x00000000</form>
 <tag>
 <AM lemma="0x00000000">X@-------------</AM>
-<AM lemma="0x00000000-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="0x00000000-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0335-s1-w12">
@@ -2403,7 +2403,7 @@
 <form>RRB</form>
 <tag>
 <AM lemma="RRB">X@-------------</AM>
-<AM lemma="RRB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RRB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0349-s1-w7">
@@ -3866,7 +3866,7 @@
 <form>www</form>
 <tag>
 <AM lemma="WWW-1_:B_,t_,x_^(World_Wide_Web)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="www-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="www-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0369-s1-w3">
@@ -5988,7 +5988,7 @@
 <AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="CD-2_:B_;b_,t_^(Cash_Deposit)">NNIXX-----A---8</AM>
 <AM lemma="kadmium_:B_;H_,t">NNNXX-----A---8</AM>
-<AM lemma="CD-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="CD-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>

@@ -1148,7 +1148,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-30-p4s3w15">
@@ -3393,7 +3393,7 @@
 <AM lemma="jihovýchod_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="jihovýchod_:B_,x" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="JV_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="JV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-30-p10s2w11">

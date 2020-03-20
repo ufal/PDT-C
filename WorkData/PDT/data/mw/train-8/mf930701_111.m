@@ -135,7 +135,7 @@
 <form>RCS</form>
 <tag>
 <AM lemma="RCS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RCS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RCS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p2s1w11">
@@ -277,7 +277,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p2s1w28">
@@ -484,7 +484,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p4s1w14">
@@ -650,7 +650,7 @@
 <form>PMEZ</form>
 <tag>
 <AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p4s1w34">
@@ -754,7 +754,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p4s2w7">
@@ -861,7 +861,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p4s2w20">
@@ -1316,7 +1316,7 @@
 <form>RCS</form>
 <tag>
 <AM lemma="RCS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RCS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RCS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p6s1w25">
@@ -1597,7 +1597,7 @@
 <form>SSC</form>
 <tag>
 <AM lemma="SSC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SSC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SSC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p8s2w9">
@@ -1816,7 +1816,7 @@
 <form>FC</form>
 <tag>
 <AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p8s3w8">
@@ -1828,7 +1828,7 @@
 <tag>
 <AM lemma="Sao_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Sao_;G_^(Sao_Paulo)" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Sao-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Sao-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p8s3w9">
@@ -1839,7 +1839,7 @@
 <form>Paulo</form>
 <tag>
 <AM lemma="Paulo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Paulo-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Paulo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p8s3w10">
@@ -2752,7 +2752,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p11s1w6">

@@ -342,7 +342,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-003-p1s4w3">
@@ -1041,7 +1041,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-003-p1s7Bw9">

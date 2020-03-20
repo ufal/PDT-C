@@ -1729,7 +1729,7 @@
 <AM lemma="PO-1_:B_,t_^(Post-Office)">AAXXX----1A---8</AM>
 <AM lemma="po-1">RR--4----------</AM>
 <AM lemma="po-1">RR--6----------</AM>
-<AM lemma="PO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_17-SCzechM-p1769-s1-w10">
@@ -1798,7 +1798,7 @@
 <form>SFSV</form>
 <tag>
 <AM lemma="SFSV">X@-------------</AM>
-<AM lemma="SFSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_17-SCzechM-p1769-s1-w19">
@@ -4543,7 +4543,7 @@
 <form>RFP</form>
 <tag>
 <AM lemma="RFP">X@-------------</AM>
-<AM lemma="RFP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_17-SCzechM-p1803-s1-w5">
@@ -4712,7 +4712,7 @@
 <form>DC</form>
 <tag>
 <AM lemma="DC_:B" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_17-SCzechM-p1803-s1-w17">
@@ -4926,7 +4926,7 @@
 <form>DC</form>
 <tag>
 <AM lemma="DC_:B" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_17-SCzechM-p1803-s1-w34">

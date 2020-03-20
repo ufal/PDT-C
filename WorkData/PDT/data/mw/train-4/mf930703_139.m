@@ -69,7 +69,7 @@
 <form>RB</form>
 <tag>
 <AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-139-p1s1w8">
@@ -405,7 +405,7 @@
 <form>RB</form>
 <tag>
 <AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-139-p2s2w12">

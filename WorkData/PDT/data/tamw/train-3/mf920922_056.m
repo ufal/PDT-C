@@ -39,7 +39,7 @@
 <form>HC</form>
 <tag>
 <AM lemma="HC-1_:B_^(hockey_club)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-056-p2s1Aw2">
@@ -372,7 +372,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-056-p2s1Bw34">
@@ -415,7 +415,7 @@
 <form>HC</form>
 <tag>
 <AM lemma="HC-1_:B_^(hockey_club)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-056-p2s1Bw39">

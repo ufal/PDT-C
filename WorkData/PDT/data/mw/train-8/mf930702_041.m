@@ -1109,7 +1109,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s6w30">
@@ -1128,7 +1128,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s6w32">
@@ -1147,7 +1147,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s6w34">
@@ -1390,7 +1390,7 @@
 <form>DAMU</form>
 <tag>
 <AM lemma="DAMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DAMU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s6w64">
@@ -1451,7 +1451,7 @@
 <form>DAMU</form>
 <tag>
 <AM lemma="DAMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DAMU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s7w7">
@@ -2946,7 +2946,7 @@
 <form>MDP</form>
 <tag>
 <AM lemma="MDP-1_:B_;K_^(Městská_divadla_pražská)" src="orig">NNNPX-----A---8</AM>
-<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s15w33">
@@ -5952,7 +5952,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s30w16">
@@ -5971,7 +5971,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s30w18">

@@ -274,7 +274,7 @@
 <AM lemma="Fil_;SFIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Fil_;SFIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNFXX-----A---8</AM>
 <AM lemma="FIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNFXX-----A---8</AM>
-<AM lemma="FIL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-076-p2s1w30">
@@ -529,7 +529,7 @@
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-076-p2s3w9">

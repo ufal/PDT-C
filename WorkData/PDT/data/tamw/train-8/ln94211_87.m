@@ -232,7 +232,7 @@
 <AM lemma="Uno_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="un-1_,t_^(franc._člen,_souč._názvů_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="uno_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
-<AM lemma="UN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-87-p2s1Bw16">
@@ -2649,7 +2649,7 @@
 <form>UNHCR</form>
 <tag>
 <AM lemma="UNHCR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNHCR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNHCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-87-p6s3w12">
@@ -3690,7 +3690,7 @@
 <form>UNPROFOR</form>
 <tag>
 <AM lemma="UNPROFOR_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNPROFOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-87-p7s3w22">
@@ -4306,7 +4306,7 @@
 <form>UNPROFOR</form>
 <tag>
 <AM lemma="UNPROFOR_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNPROFOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-87-p9s1w24">
@@ -5035,7 +5035,7 @@
 <form>UNPROFOR</form>
 <tag>
 <AM lemma="UNPROFOR_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNPROFOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-87-p10s4w3">
@@ -5274,7 +5274,7 @@
 <form>UNPROFOR</form>
 <tag>
 <AM lemma="UNPROFOR_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNPROFOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-87-p10s6w14">

@@ -1144,7 +1144,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p7s1w11">
@@ -1633,7 +1633,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p9s2w33">
@@ -1990,7 +1990,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p9s4w15">
@@ -2364,7 +2364,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p9s7w18">
@@ -2532,7 +2532,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p9s9w21">
@@ -2652,7 +2652,7 @@
 <AM lemma="SCA-1_:B_,t_^(synchronous_communication_adapter)" src="auto">NNIXX-----A----</AM>
 <AM lemma="SCA-2_:B_,t_^(system_control_area)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="SCA-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p10s1w14">
@@ -2752,7 +2752,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p10s1w26">
@@ -2790,7 +2790,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p10s1w30">
@@ -3019,7 +3019,7 @@
 <AM lemma="SCA-1_:B_,t_^(synchronous_communication_adapter)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="SCA-2_:B_,t_^(system_control_area)" src="auto">NNFXX-----A----</AM>
 <AM lemma="SCA-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p11s1w2">
@@ -3090,7 +3090,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p11s1w10">
@@ -3457,7 +3457,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p11s4w16">
@@ -3532,7 +3532,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p11s4w25">
@@ -4122,7 +4122,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p13s3w6">
@@ -4693,7 +4693,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p14s1w13">
@@ -4793,7 +4793,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p14s1w25">
@@ -5949,7 +5949,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p17s2w22">
@@ -6000,7 +6000,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p17s2w28">
@@ -6190,7 +6190,7 @@
 <tag>
 <AM lemma="HNP_:B_^(hrubý_národní_produkt)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p17s3w16">
@@ -6258,7 +6258,7 @@
 <tag>
 <AM lemma="HNP_:B_^(hrubý_národní_produkt)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p17s3w24">

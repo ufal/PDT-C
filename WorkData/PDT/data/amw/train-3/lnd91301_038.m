@@ -1045,7 +1045,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="StB-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

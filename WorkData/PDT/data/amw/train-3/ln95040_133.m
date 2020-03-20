@@ -2736,7 +2736,7 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="BBC_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

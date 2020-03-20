@@ -1472,7 +1472,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-081-p1s13w9">
@@ -1810,7 +1810,7 @@
 <AM lemma="rif" src="auto">NNIS4-----A----</AM>
 <AM lemma="RIF_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="RIF_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="RIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-081-p1s13w49">
@@ -1829,7 +1829,7 @@
 <form>NIF</form>
 <tag>
 <AM lemma="NIF-1_:B_;K_^(Nadační_investiční_fond)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-081-p1s13w51">

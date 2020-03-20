@@ -305,7 +305,7 @@
 <form>SEČ</form>
 <tag>
 <AM lemma="SEČ-1_:B_^(středoevropský_čas)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SEČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SEČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-118-p2s1Bw28">

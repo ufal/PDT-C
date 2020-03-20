@@ -29,7 +29,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s1w3">
@@ -1824,7 +1824,7 @@
 <form>AFP</form>
 <tag>
 <AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s13w13">
@@ -2158,7 +2158,7 @@
 <form>ANC</form>
 <tag>
 <AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s15w15">
@@ -2347,7 +2347,7 @@
 <form>ANC</form>
 <tag>
 <AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s16w12">

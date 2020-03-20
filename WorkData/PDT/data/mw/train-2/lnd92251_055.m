@@ -333,7 +333,7 @@
 <form>SDSS</form>
 <tag>
 <AM lemma="SDSS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SDSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-055-p2s2w9">
@@ -360,7 +360,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-055-p2s2w12">
@@ -413,7 +413,7 @@
 <form>SDSS</form>
 <tag>
 <AM lemma="SDSS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SDSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-055-p2s3w4">
@@ -432,7 +432,7 @@
 <AM lemma="podnik_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
-<AM lemma="p-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="p-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-055-p2s3w5">
@@ -716,7 +716,7 @@
 <form>SDSS</form>
 <tag>
 <AM lemma="SDSS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SDSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-055-p2s5w3">

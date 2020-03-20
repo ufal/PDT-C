@@ -263,7 +263,7 @@
 <form>ČZPI</form>
 <tag>
 <AM lemma="ČZPI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČZPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-037-p2s1w28">
@@ -893,7 +893,7 @@
 <form>ČZPI</form>
 <tag>
 <AM lemma="ČZPI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČZPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-037-p3s1w43">

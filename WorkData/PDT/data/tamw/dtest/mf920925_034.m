@@ -172,7 +172,7 @@
 <AM lemma="Vika_;Y_,t" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="vika" src="auto">NNFS1-----A----</AM>
 <AM lemma="Vika-2_;G" src="manual">NNXXX-----A----</AM>
-<AM lemma="VIKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VIKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-034-p1s1w20">

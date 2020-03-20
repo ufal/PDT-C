@@ -617,7 +617,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p3s2w10">
@@ -653,7 +653,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p3s2w14">
@@ -828,7 +828,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p4s2w7">
@@ -1126,7 +1126,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p5s1w11">
@@ -1178,7 +1178,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p5s1w17">

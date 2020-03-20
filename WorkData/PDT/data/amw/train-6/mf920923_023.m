@@ -337,7 +337,7 @@
 <form>FIJEC</form>
 <tag>
 <AM lemma="FIJEC_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FIJEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIJEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-023-p3s1w34">

@@ -587,7 +587,7 @@
 <tag>
 <AM lemma="LP-1_:B_,t_^(deska,_nesamostatně,_př._vydali_LP_desku_XY)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="LP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="LP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s1Bw26">
@@ -623,7 +623,7 @@
 <tag>
 <AM lemma="LP-1_:B_,t_^(deska,_samostatně,_př._vydali_LP_XY)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="LP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s1Bw30">
@@ -1066,7 +1066,7 @@
 <form>RCA</form>
 <tag>
 <AM lemma="RCA-1_:B_;K_,t_^(Radio_Corporation_of_America)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RCA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s2Bw21">
@@ -1267,7 +1267,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw18">
@@ -1302,7 +1302,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw22">
@@ -2185,7 +2185,7 @@
 <form>CBS</form>
 <tag>
 <AM lemma="CBS_:B_;K_,t_^(am._televizní_společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s4w12">
@@ -2311,7 +2311,7 @@
 <tag>
 <AM lemma="LP-1_:B_,t_^(deska,_nesamostatně,_př._vydali_LP_desku_XY)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="LP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="LP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s5Aw10">

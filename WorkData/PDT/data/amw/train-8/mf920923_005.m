@@ -170,7 +170,7 @@
 <form>SFTR</form>
 <tag>
 <AM lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-005-p2s1w15">
@@ -630,7 +630,7 @@
 <form>FFTR</form>
 <tag>
 <AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-005-p3s1w18">
@@ -827,7 +827,7 @@
 <form>FFTR</form>
 <tag>
 <AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-005-p3s2w23">
@@ -908,7 +908,7 @@
 <form>SFTR</form>
 <tag>
 <AM lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-005-p3s3w2">

@@ -1969,7 +1969,7 @@
 <form>ČMSS</form>
 <tag>
 <AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-47-p5s2w48">

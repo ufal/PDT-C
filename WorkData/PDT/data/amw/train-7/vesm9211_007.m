@@ -53,7 +53,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-007-p1s1w6">
@@ -971,7 +971,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-007-p1s3w41">
@@ -990,7 +990,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-007-p1s3w43">
@@ -2680,7 +2680,7 @@
 <form>NSF</form>
 <tag>
 <AM lemma="NSF-1_:B_;K_,t_^(National_Science_Foundation)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NSF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NSF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-007-p3s2w10">
@@ -3203,7 +3203,7 @@
 <form>NSF</form>
 <tag>
 <AM lemma="NSF-1_:B_;K_,t_^(National_Science_Foundation)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NSF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NSF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-007-p3s4w19">
@@ -9158,7 +9158,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-007-p8s2w7">
@@ -9177,7 +9177,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-007-p8s2w9">
@@ -13487,7 +13487,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-007-p12s2w14">
@@ -13530,7 +13530,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-007-p12s2w19">

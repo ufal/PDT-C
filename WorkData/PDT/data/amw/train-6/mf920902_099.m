@@ -215,7 +215,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-1_:B_^(značení_evr._silnic)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-099-p2s1w14">

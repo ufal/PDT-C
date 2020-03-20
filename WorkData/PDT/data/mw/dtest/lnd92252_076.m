@@ -230,7 +230,7 @@
 <form>F</form>
 <tag>
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p3s2w15">
@@ -728,7 +728,7 @@
 <form>Brit</form>
 <tag>
 <AM lemma="Brit_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brit-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Brit-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p4s1w13">
@@ -1238,7 +1238,7 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="It-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="It-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s2w4">
@@ -1370,7 +1370,7 @@
 <form>Rak</form>
 <tag>
 <AM lemma="rak" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rak-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Rak-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s3w4">
@@ -1484,7 +1484,7 @@
 <form>Brit</form>
 <tag>
 <AM lemma="Británie_:B_;m" src="orig">NNFXX-----A---9</AM>
-<AM lemma="Brit-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Brit-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s4w4">
@@ -1613,7 +1613,7 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="It-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="It-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s5w7">
@@ -1701,7 +1701,7 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
-<AM lemma="Fr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Fr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s6w4">
@@ -1786,7 +1786,7 @@
 <form>Braz</form>
 <tag>
 <AM lemma="Brazílie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Braz-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Braz-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s7w4">
@@ -2027,7 +2027,7 @@
 <form>Braz</form>
 <tag>
 <AM lemma="Brazílie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Braz-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Braz-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s11w4">
@@ -2104,7 +2104,7 @@
 <form>Něm</form>
 <tag>
 <AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Něm-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Něm-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s12w4">

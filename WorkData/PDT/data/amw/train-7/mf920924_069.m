@@ -644,7 +644,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-069-p2s3w13">
@@ -809,7 +809,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-069-p2s4w18">
@@ -862,7 +862,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-069-p2s5Aw6">
@@ -1080,7 +1080,7 @@
 <AM lemma="PZ_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="PZ-1_:B_^(podzol,_klasifikace_půd)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PZ-2_:B_;G_;K_^(podporované_zaměstnávání)" src="auto">NNNSX-----A---8</AM>
-<AM lemma="PZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-069-p2s5Bw7">
@@ -1147,7 +1147,7 @@
 <form>MV</form>
 <tag>
 <AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-069-p2s5Bw15">

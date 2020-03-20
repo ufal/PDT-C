@@ -820,7 +820,7 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-118-p4s3w5">
@@ -1165,7 +1165,7 @@
 <form>de</form>
 <tag>
 <AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
-<AM lemma="de-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="de-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -108,7 +108,7 @@
 <tag>
 <AM lemma="Apli_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="APLI_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="APLI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="APLI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p5s1w2">
@@ -131,7 +131,7 @@
 <AM lemma="comp_:B_,t_^(počítač)" src="auto">NNIS1-----A----</AM>
 <AM lemma="comp_:B_,t_^(počítač)" src="auto">NNIS4-----A----</AM>
 <AM lemma="COMP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="COMP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="COMP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p5s1w4">
@@ -366,7 +366,7 @@
 <form>ZS</form>
 <tag>
 <AM lemma="ZS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ZS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p5s2w5">
@@ -377,7 +377,7 @@
 <form>VTS</form>
 <tag>
 <AM lemma="VTS-1_:B_^(vědeckotechnická_společnost)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VTS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p5s2w6">
@@ -1239,7 +1239,7 @@
 <AM lemma="TMM_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TMM_:B_;b_,t_^(turkmenský_manat)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="TMM_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TMM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TMM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p7s1w12">
@@ -1356,7 +1356,7 @@
 <AM lemma="TMM_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TMM_:B_;b_,t_^(turkmenský_manat)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="TMM_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TMM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TMM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p7s2w4">
@@ -1940,7 +1940,7 @@
 <AM lemma="TMM_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TMM_:B_;b_,t_^(turkmenský_manat)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="TMM_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TMM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TMM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p8s2w4">
@@ -5683,7 +5683,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p32s1w8">
@@ -5702,7 +5702,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p32s1w10">

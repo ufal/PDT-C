@@ -1520,7 +1520,7 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-037-p4s3w10">

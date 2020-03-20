@@ -280,7 +280,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-094-p1s3w28">
@@ -373,7 +373,7 @@
 <form>MOV</form>
 <tag>
 <AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-094-p1s4w6">
@@ -443,7 +443,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-094-p1s4w14">

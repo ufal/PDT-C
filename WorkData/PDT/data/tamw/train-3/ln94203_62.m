@@ -915,7 +915,7 @@
 <form>RTV</form>
 <tag>
 <AM lemma="RTV_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-62-p4s1w28">

@@ -176,7 +176,7 @@
 <tag>
 <AM lemma="vládní" src="orig">AAXXX----1A----</AM>
 <AM lemma="vládní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="Vl-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Vl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-057-p1s2w9">

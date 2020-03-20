@@ -423,7 +423,7 @@
 <form>ČSLH</form>
 <tag>
 <AM lemma="ČSLH-1_:B_;K_^(Český_svaz_ledního_hokeje)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČSLH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSLH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-073-p2s1w43">
@@ -498,7 +498,7 @@
 <form>ČSLH</form>
 <tag>
 <AM lemma="ČSLH-1_:B_;K_^(Český_svaz_ledního_hokeje)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČSLH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSLH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-073-p2s1w52">
@@ -623,7 +623,7 @@
 <form>NHL</form>
 <tag>
 <AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="NHL-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

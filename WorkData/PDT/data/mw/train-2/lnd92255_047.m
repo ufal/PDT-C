@@ -142,7 +142,7 @@
 <form>UNESCO</form>
 <tag>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNESCO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-047-p4s1w3">
@@ -228,7 +228,7 @@
 <form>UNESCO</form>
 <tag>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNESCO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-047-p4s1w13">
@@ -419,7 +419,7 @@
 <form>UNESCO</form>
 <tag>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNESCO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-047-p5s1w13">

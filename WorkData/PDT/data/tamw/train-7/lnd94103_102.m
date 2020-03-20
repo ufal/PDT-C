@@ -371,7 +371,7 @@
 <form>GEN</form>
 <tag>
 <AM lemma="gen" src="orig">NNIS4-----A----</AM>
-<AM lemma="GEN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-102-p1s1Dw30">
@@ -467,7 +467,7 @@
 <form>FAMU</form>
 <tag>
 <AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-102-p1s2w11">
@@ -766,7 +766,7 @@
 <form>FAMU</form>
 <tag>
 <AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-102-p1s5w3">
@@ -2998,7 +2998,7 @@
 <form>FAMU</form>
 <tag>
 <AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-102-p1s20w5">

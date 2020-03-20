@@ -429,7 +429,7 @@
 <tag>
 <AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="BMW-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-104-p2s2w14">

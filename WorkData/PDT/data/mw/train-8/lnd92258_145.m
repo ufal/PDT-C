@@ -187,7 +187,7 @@
 <AM lemma="CONCACAF_:B_;K_,t_^(Severoamer._fotbalová_konfederace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Concacaf-2_:B_;K_;w_,t_^(Conf.of_North,Cen.....Football.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Concacaf-1_:B_;K_;w_,t_^(Conf.of_North,Cen......Football.)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="CONCACAF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CONCACAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p2s2w19">
@@ -1885,7 +1885,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p11s1w34">
@@ -2570,7 +2570,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p13s3w4">
@@ -3391,7 +3391,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p17s2w39">

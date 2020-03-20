@@ -270,7 +270,7 @@
 <AM lemma="Emma_;Y" src="auto">NNFP5-----A----</AM>
 <AM lemma="Emma_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="EMMY-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
-<AM lemma="EMMY-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="EMMY-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-1-p2s2w13">

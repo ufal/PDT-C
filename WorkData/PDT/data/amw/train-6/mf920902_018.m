@@ -105,7 +105,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-018-p2s1Bw7">
@@ -304,7 +304,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-018-p2s2w7">
@@ -759,7 +759,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-018-p2s5w3">

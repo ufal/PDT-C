@@ -4056,7 +4056,7 @@
 <form>ABC</form>
 <tag>
 <AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-157-p11s2w27">
@@ -5269,7 +5269,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-157-p15s1w5">

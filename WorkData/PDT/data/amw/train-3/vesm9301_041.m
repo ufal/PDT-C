@@ -201,7 +201,7 @@
 <AM lemma="lepit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="lepit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="LEP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LEP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p5s1w9">
@@ -716,7 +716,7 @@
 <AM lemma="lepit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="lepit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="LEP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LEP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p5s4Aw10">
@@ -1081,7 +1081,7 @@
 <AM lemma="lepit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="lepit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="LEP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LEP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p5s5w25">
@@ -1638,7 +1638,7 @@
 <AM lemma="Diké_;S" src="auto" recommended="1">NNFS3-----A---1</AM>
 <AM lemma="Diké_;S" src="auto">NNFS6-----A---1</AM>
 <AM lemma="DICE_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DICE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DICE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p7s1w5">
@@ -3182,7 +3182,7 @@
 <form>EPA</form>
 <tag>
 <AM lemma="EPA-1_:B_;K_,t_^(Environmental_Protection_Agency)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EPA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p13s1w5">
@@ -4354,7 +4354,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p16s1w5">
@@ -7732,7 +7732,7 @@
 <form>UV</form>
 <tag>
 <AM lemma="UV-3_:B_,t_^(ultraviolet)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="UV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p21s1w12">

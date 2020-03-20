@@ -346,7 +346,7 @@
 <AM lemma="SOS_:B" src="auto" recommended="1">TT------------8</AM>
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
-<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-069-p1s2w16">
@@ -826,7 +826,7 @@
 <form>DAMU</form>
 <tag>
 <AM lemma="DAMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DAMU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-069-p1s4w34">
@@ -1517,7 +1517,7 @@
 <AM lemma="Unimo_;R" src="auto">NNNP4-----A----</AM>
 <AM lemma="Unimo_;R" src="auto">NNNP5-----A----</AM>
 <AM lemma="Unimo_;R" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="UNIMA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNIMA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-069-p1s8w22">

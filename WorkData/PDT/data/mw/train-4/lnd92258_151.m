@@ -128,7 +128,7 @@
 <AM lemma="GTS-3_:B_;R" src="orig">NNNXX-----A---8</AM>
 <AM lemma="GTS-1_:B_;R_,t_^(Global_Telecommunication_System)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="GTS-2_:B_;K_,t_^(Guide_Travel_Service)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-151-p1s1w14">

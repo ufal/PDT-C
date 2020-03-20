@@ -103,7 +103,7 @@
 <form>c</form>
 <tag>
 <AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="c-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="c-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-055-p2s1w6">
@@ -122,7 +122,7 @@
 <form>k</form>
 <tag>
 <AM lemma="k-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="k-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="k-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-055-p2s1w8">
@@ -1319,7 +1319,7 @@
 <AM lemma="telefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto" recommended="1">PDXXX---------8</AM>
-<AM lemma="t-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="t-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-055-p2s5w6">

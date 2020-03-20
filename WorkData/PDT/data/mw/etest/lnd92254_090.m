@@ -126,8 +126,8 @@
 <AM lemma="EHF-1_:B_;K_^(Evropská_házenkářská_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EHF-1_:B_;K_^(Evropská_hokejová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EHF-2_:B_,t_^(extremly_high_frequency)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EHF-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EHF-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-090-p2s2w8">

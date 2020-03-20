@@ -87,7 +87,7 @@
 <form>FIBA</form>
 <tag>
 <AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-103-p2s1w9">

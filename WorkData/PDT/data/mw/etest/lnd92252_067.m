@@ -706,7 +706,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2760,7 +2760,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2848,7 +2848,7 @@
 <AM lemma="VS_:B_;K_^(Valné_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="VS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="versus_:B_,t" src="auto">RR--1---------8</AM>
-<AM lemma="VS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p19s1w3">
@@ -3253,7 +3253,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p25s1w8">
@@ -3272,7 +3272,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p25s1w10">
@@ -3776,7 +3776,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GATT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p32s1w15">

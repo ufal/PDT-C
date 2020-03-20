@@ -53,7 +53,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-46-p1s1w6">
@@ -431,7 +431,7 @@
 <tag>
 <AM lemma="OSŽ_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OSŽ_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="OSŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-46-p2s2w15">

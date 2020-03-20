@@ -163,7 +163,7 @@
 <form>ŽPSV</form>
 <tag>
 <AM lemma="ŽPSV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ŽPSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ŽPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-035-p3s1w16">
@@ -542,7 +542,7 @@
 <form>ŽPSV</form>
 <tag>
 <AM lemma="ŽPSV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ŽPSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ŽPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-035-p4s1w11">

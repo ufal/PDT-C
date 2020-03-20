@@ -204,7 +204,7 @@
 <form>PTŘS</form>
 <tag>
 <AM lemma="PTŘS-1_:B_^(protitanková_řízená_střela)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PTŘS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTŘS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-115-p2s1w13">
@@ -247,7 +247,7 @@
 <form>ZVS</form>
 <tag>
 <AM lemma="ZVS-1_:B_;K_^(Závody_všeobecného_strojírenství)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="ZVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-115-p2s1w18">
@@ -528,7 +528,7 @@
 <form>ZVS</form>
 <tag>
 <AM lemma="ZVS-1_:B_;K_^(Závody_všeobecného_strojírenství)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="ZVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-115-p2s3w3">
@@ -1487,7 +1487,7 @@
 <form>PTŘS</form>
 <tag>
 <AM lemma="PTŘS-1_:B_^(protitanková_řízená_střela)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PTŘS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTŘS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-115-p2s7w26">
@@ -2090,7 +2090,7 @@
 <form>ZVS</form>
 <tag>
 <AM lemma="ZVS-1_:B_;K_^(Závody_všeobecného_strojírenství)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="ZVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-115-p2s11w5">
@@ -2223,7 +2223,7 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-115-p2s12w2">
@@ -2373,7 +2373,7 @@
 <form>PTŘS</form>
 <tag>
 <AM lemma="PTŘS-1_:B_^(protitanková_řízená_střela)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PTŘS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTŘS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-115-p2s12w20">

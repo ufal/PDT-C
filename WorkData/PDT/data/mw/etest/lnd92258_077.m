@@ -518,8 +518,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p10s1Aw7">
@@ -622,8 +622,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p12s1Aw7">
@@ -726,8 +726,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p14s1Aw7">
@@ -2578,8 +2578,8 @@
 <AM lemma="slečna_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="sloupec_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="sloupec" src="manual">NNIXX-----A---8</AM>
-<AM lemma="Sl-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Sl-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sl-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p18s3w5">
@@ -3066,8 +3066,8 @@
 <AM lemma="podzol_:B_^(podzol,_klasifikace_půd)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PZ-1_:B_^(podzol,_klasifikace_půd)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PZ-2_:B_;G_;K_^(podporované_zaměstnávání)" src="auto">NNNSX-----A---8</AM>
-<AM lemma="PZ-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PZ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p20s1Aw7">
@@ -3424,8 +3424,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p21s1Aw6">
@@ -3699,8 +3699,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p21s2w13">
@@ -4170,8 +4170,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p22s3w6">
@@ -4486,8 +4486,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p22s5w6">
@@ -4674,8 +4674,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p23s2Aw5">
@@ -4784,8 +4784,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p23s3w7">
@@ -4921,8 +4921,8 @@
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="manual">NNIXX-----A----</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p23s3w23">
@@ -5436,8 +5436,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p26s2w4">
@@ -5475,8 +5475,8 @@
 <tag>
 <AM lemma="sloupec_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="sloupec" src="manual">NNIXX-----A---8</AM>
-<AM lemma="Sl-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Sl-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sl-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p27s2w2">
@@ -5537,8 +5537,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p28s2w4">
@@ -5583,8 +5583,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p29s1Aw5">
@@ -6921,8 +6921,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p32s2Aw5">
@@ -7490,8 +7490,8 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p34s2Aw4">
@@ -7547,8 +7547,8 @@
 <tag>
 <AM lemma="sloupec_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="sloupec" src="manual">NNIXX-----A---8</AM>
-<AM lemma="Sl-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Sl-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sl-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p34s4w3">
@@ -10379,7 +10379,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p47s7w12">
@@ -17362,7 +17362,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p85s3w8">
@@ -17548,8 +17548,8 @@
 <form>FEL</form>
 <tag>
 <AM lemma="FEL-1_:B_;K_^(fakulta_elektrotechnická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FEL-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FEL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FEL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FEL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p85s6w3">
@@ -19109,7 +19109,7 @@
 <form>IRR</form>
 <tag>
 <AM lemma="IRR-2_:B_,t_^(internal_rate_return)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IRR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IRR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p86s6w9">
@@ -20289,7 +20289,7 @@
 <form>Sl</form>
 <tag>
 <AM lemma="sloupec_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Sl-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Sl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p94s1w8">
@@ -20840,7 +20840,7 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -21701,7 +21701,7 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -22156,7 +22156,7 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p1s1Dw4">
@@ -22223,7 +22223,7 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p1s1Dw12">
@@ -22300,7 +22300,7 @@
 <form>PP</form>
 <tag>
 <AM lemma="PP-1_:B_;b_^(podnikatelský_plán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p1s2Bw9">
@@ -22848,7 +22848,7 @@
 <form>UNIDO</form>
 <tag>
 <AM lemma="UNIDO-1_:B_;K_,t_^(United_Nations_Idustr._Develop._Organ.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNIDO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNIDO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p1s4w43">
@@ -23299,7 +23299,7 @@
 <form>BERD</form>
 <tag>
 <AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p5s1Dw12">
@@ -33239,7 +33239,7 @@
 <form>Sl</form>
 <tag>
 <AM lemma="sloupec_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Sl-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Sl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p43s1Bw2">
@@ -33268,7 +33268,7 @@
 <form>Sl</form>
 <tag>
 <AM lemma="sloupec_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Sl-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Sl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p43s2w3">

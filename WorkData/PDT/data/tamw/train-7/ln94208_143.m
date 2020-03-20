@@ -103,7 +103,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-143-p2s1w7">
@@ -122,7 +122,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-143-p2s1w9">
@@ -152,7 +152,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-143-p2s1w12">

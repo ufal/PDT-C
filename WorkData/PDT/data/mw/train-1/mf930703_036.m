@@ -261,7 +261,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p5s1w2">
@@ -272,7 +272,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p5s1w3">
@@ -347,7 +347,7 @@
 <form>GBP</form>
 <tag>
 <AM lemma="GBP_:B_;b_^(Britská_libra,_mez._zkr.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GBP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GBP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p6s1w3">
@@ -446,7 +446,7 @@
 <form>JPY</form>
 <tag>
 <AM lemma="JPY_:B_;b_^(japonský_jen)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="JPY-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JPY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p7s1w6">
@@ -521,7 +521,7 @@
 <form>CHF</form>
 <tag>
 <AM lemma="CHF_:B_;b_^(Švýc._frank,_mez._zkr.)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p8s1w3">
@@ -596,7 +596,7 @@
 <form>FRF</form>
 <tag>
 <AM lemma="FRF_:B_;b_^(francouzský_frank)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FRF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FRF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p9s1w3">
@@ -695,7 +695,7 @@
 <form>BEF</form>
 <tag>
 <AM lemma="BEF_:B_;b_^(belgický_frank)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BEF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BEF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p10s1w6">
@@ -770,7 +770,7 @@
 <form>NLG</form>
 <tag>
 <AM lemma="NLG_:B_;b_^(nizozemský_gulden)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NLG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NLG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p11s1w3">
@@ -869,7 +869,7 @@
 <form>ITL</form>
 <tag>
 <AM lemma="ITL_:B_;b_^(italská_lira)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ITL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p12s1w6">
@@ -944,7 +944,7 @@
 <form>ATS</form>
 <tag>
 <AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ATS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p13s1w3">
@@ -1043,7 +1043,7 @@
 <form>GRD</form>
 <tag>
 <AM lemma="GRD_:B_;b_^(řecká_drachma)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GRD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GRD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p14s1w6">
@@ -1142,7 +1142,7 @@
 <form>ESP</form>
 <tag>
 <AM lemma="ESP_:B_;b_^(španělská_peseta)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ESP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ESP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p15s1w6">
@@ -1217,7 +1217,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p16s1w3">
@@ -1292,7 +1292,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p17s1w3">
@@ -1364,7 +1364,7 @@
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
-<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p18s1w2">
@@ -1384,7 +1384,7 @@
 <tag>
 <AM lemma="ECU_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p18s1w4">
@@ -1396,7 +1396,7 @@
 <tag>
 <AM lemma="XEU_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="XEU_:B" src="manual">NNNXX-----A---8</AM>
-<AM lemma="XEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XEU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p18s1w5">
@@ -1468,7 +1468,7 @@
 <form>XCU</form>
 <tag>
 <AM lemma="XCU_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="XCU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XCU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p19s1w3">
@@ -1542,7 +1542,7 @@
 <tag>
 <AM lemma="XCU_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="XCU_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="XCU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XCU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p20s1w3">
@@ -1578,7 +1578,7 @@
 <form>Sk</form>
 <tag>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p20s1w7">
@@ -1632,7 +1632,7 @@
 <form>NBS</form>
 <tag>
 <AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p20s1w13">

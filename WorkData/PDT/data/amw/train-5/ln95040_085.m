@@ -892,7 +892,7 @@
 <form>NPT</form>
 <tag>
 <AM lemma="NPT-1_:B_;R_,t_^(Nonproliferation_Treaty)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NPT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-085-p3s2w12">

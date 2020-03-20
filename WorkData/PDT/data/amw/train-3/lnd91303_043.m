@@ -734,7 +734,7 @@
 <form>IFJ</form>
 <tag>
 <AM lemma="IFJ-1_:B_;K_,t_^(International_Federation_of_Journalists)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IFJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-043-p4s4w3">
@@ -1428,7 +1428,7 @@
 <form>IFJ</form>
 <tag>
 <AM lemma="IFJ-1_:B_;K_,t_^(International_Federation_of_Journalists)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IFJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-043-p4s8w13">

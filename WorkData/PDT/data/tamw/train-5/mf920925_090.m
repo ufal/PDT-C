@@ -179,7 +179,7 @@
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
 <AM lemma="SOS-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-090-p2s1w17">
@@ -700,7 +700,7 @@
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="SOS-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-090-p2s6w9">
@@ -1524,7 +1524,7 @@
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="SOS-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-090-p2s10w17">
@@ -3657,7 +3657,7 @@
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
 <AM lemma="SOS-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-090-p2s22w12">

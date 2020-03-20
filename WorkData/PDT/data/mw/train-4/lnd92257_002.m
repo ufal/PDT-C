@@ -271,7 +271,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="ba" src="orig">TT-------------</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-002-p2s1w4">
@@ -404,7 +404,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="ba" src="orig">TT-------------</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-002-p3s1w4">
@@ -514,7 +514,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="ba" src="orig">TT-------------</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-002-p4s1w4">
@@ -624,7 +624,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="ba" src="orig">TT-------------</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-002-p5s1w4">

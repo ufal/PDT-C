@@ -1681,7 +1681,7 @@
 <form>SCP</form>
 <tag>
 <AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p4s5w15">
@@ -1724,7 +1724,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p4s5w20">
@@ -1852,7 +1852,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p5s1w5">
@@ -2162,7 +2162,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p5s3w5">
@@ -2684,7 +2684,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p6s2w8">
@@ -2842,7 +2842,7 @@
 <form>SCP</form>
 <tag>
 <AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p6s2w27">
@@ -2887,7 +2887,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p6s3w5">
@@ -3013,7 +3013,7 @@
 <AM lemma="jumbo_,h" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="jumbo_,h" src="auto">NNNS4-----A----</AM>
 <AM lemma="jumbo_,h" src="auto">NNNS5-----A----</AM>
-<AM lemma="JUMBO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JUMBO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p6s3w19">
@@ -3507,7 +3507,7 @@
 <form>ISIN</form>
 <tag>
 <AM lemma="ISIN_:B_;b_^(Mez._norma_identifikace_cenných_papírů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ISIN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ISIN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p8s2w12">
@@ -3699,7 +3699,7 @@
 <form>SCP</form>
 <tag>
 <AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p9s1w13">
@@ -4594,7 +4594,7 @@
 <form>SCP</form>
 <tag>
 <AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p11s3w11">

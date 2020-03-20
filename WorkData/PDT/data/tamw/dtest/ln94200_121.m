@@ -53,7 +53,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -622,7 +622,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p3s1w9">
@@ -876,7 +876,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p3s2w24">
@@ -905,7 +905,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p3s3w3">
@@ -1023,7 +1023,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p3s3w17">
@@ -1164,7 +1164,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p4s1w8">
@@ -1295,7 +1295,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p4s1w24">
@@ -1442,7 +1442,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p4s1w42">
@@ -1578,7 +1578,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p5s1w9">
@@ -1642,7 +1642,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p5s1w14">
@@ -2053,7 +2053,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p6s1w2">
@@ -2408,7 +2408,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p6s2w9">
@@ -2613,7 +2613,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p7s1w12">
@@ -2794,7 +2794,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p8s1w9">
@@ -2821,7 +2821,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p8s1w12">
@@ -2957,7 +2957,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p8s2w8">
@@ -2976,7 +2976,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p8s2w10">
@@ -3097,7 +3097,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p8s2w24">
@@ -3180,7 +3180,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p8s2w34">
@@ -3239,7 +3239,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p8s2w41">
@@ -3476,7 +3476,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p9s1w7">
@@ -3553,7 +3553,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p9s2w5">
@@ -3694,7 +3694,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p9s3w3">
@@ -4552,7 +4552,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-121-p12s1w3">

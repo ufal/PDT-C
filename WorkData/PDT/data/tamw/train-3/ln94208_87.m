@@ -647,7 +647,7 @@
 <form>MTV</form>
 <tag>
 <AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-87-p3s3w13">

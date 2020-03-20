@@ -103,7 +103,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-099-p3s1w5">
@@ -163,7 +163,7 @@
 <tag>
 <AM lemma="NY_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="NY_:B_;G_^(New_York)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="NY-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-099-p3s1w12">

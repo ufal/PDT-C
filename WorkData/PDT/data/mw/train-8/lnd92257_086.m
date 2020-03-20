@@ -822,7 +822,7 @@
 <form>ODU</form>
 <tag>
 <AM lemma="ODU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ODU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-086-p2s7w11">
@@ -841,7 +841,7 @@
 <form>DS</form>
 <tag>
 <AM lemma="DS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-086-p2s7w13">

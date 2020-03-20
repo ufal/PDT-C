@@ -184,7 +184,7 @@
 <form>ÚLUV</form>
 <tag>
 <AM lemma="ÚLUV_:B_;K_^(Ústředí_lidové_umělecké_výroby)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ÚLUV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚLUV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p2s1w18">
@@ -308,7 +308,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p2s2w6">

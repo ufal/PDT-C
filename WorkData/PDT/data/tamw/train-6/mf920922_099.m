@@ -279,7 +279,7 @@
 <form>LS</form>
 <tag>
 <AM lemma="LS_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="LS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-099-p2s3w13">
@@ -342,7 +342,7 @@
 <form>LS</form>
 <tag>
 <AM lemma="LS_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="LS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-099-p2s3w20">

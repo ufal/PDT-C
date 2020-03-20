@@ -287,7 +287,7 @@
 <tag>
 <AM lemma="VC_:B_;m_^(Velká_cena)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="VC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s1Bw24">
@@ -339,7 +339,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s1Bw30">
@@ -402,7 +402,7 @@
 <AM lemma="SISU_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Sisu_;K_;R" src="auto">NNNSX-----A----</AM>
-<AM lemma="SISU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SISU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s2w4">
@@ -600,7 +600,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s3w7">
@@ -648,7 +648,7 @@
 <AM lemma="IMC-3_:B_;K_,t_^(International_Meteorological_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IMC-4_:B_;K_,t_^(International_Music_Council)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IMC-5_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s3w12">
@@ -659,7 +659,7 @@
 <form>SPAGG</form>
 <tag>
 <AM lemma="SPAGG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SPAGG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPAGG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s3w13">

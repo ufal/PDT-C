@@ -1088,7 +1088,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-019-p5s1w2">
@@ -1852,7 +1852,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-019-p6s3w6">
@@ -2816,7 +2816,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-019-p7s6w10">
@@ -3541,7 +3541,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-019-p11s1w2">
@@ -3961,7 +3961,7 @@
 <AM lemma="HC-3_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HC-1_:B_^(hockey_club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="HC-2_:B_;K_,t_^(House_of_Commons)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-019-p11s3w17">

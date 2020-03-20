@@ -5379,7 +5379,7 @@
 <AM lemma="DH-2_:B_;G_^(Devil's_Hole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DH-1_:B_;K_^(Divadlo_hudby)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="DH-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-038-p9s5w14">
@@ -5880,7 +5880,7 @@
 <form>SPECMAB</form>
 <tag>
 <AM lemma="SPECMAB_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SPECMAB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPECMAB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-038-p9s8w18">
@@ -6116,7 +6116,7 @@
 <AM lemma="DH-2_:B_;G_^(Devil's_Hole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DH-1_:B_;K_^(Divadlo_hudby)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="DH-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-038-p9s9w10">
@@ -7006,7 +7006,7 @@
 <AM lemma="DH-2_:B_;G_^(Devil's_Hole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DH-1_:B_;K_^(Divadlo_hudby)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="DH-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-038-p12s1w16">
@@ -8252,7 +8252,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-038-p17s1w2">
@@ -8271,7 +8271,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-038-p17s1w4">

@@ -191,7 +191,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p2s1Bw6">
@@ -496,7 +496,7 @@
 <form>CDU</form>
 <tag>
 <AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p2s3w12">
@@ -515,7 +515,7 @@
 <form>CSU</form>
 <tag>
 <AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p2s3w14">
@@ -2114,7 +2114,7 @@
 <form>SPD</form>
 <tag>
 <AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p5s3w13">
@@ -2636,7 +2636,7 @@
 <form>SPD</form>
 <tag>
 <AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p5s6w16">
@@ -2682,7 +2682,7 @@
 <form>CDU</form>
 <tag>
 <AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p5s6w21">
@@ -4389,7 +4389,7 @@
 <form>SPD</form>
 <tag>
 <AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p7s2w34">
@@ -4674,7 +4674,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p8s1w28">
@@ -4815,7 +4815,7 @@
 <form>SPD</form>
 <tag>
 <AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p8s2w3">
@@ -4997,7 +4997,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p8s2w25">
@@ -5293,7 +5293,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p8s3w11">
@@ -5474,7 +5474,7 @@
 <form>NDR</form>
 <tag>
 <AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p8s4w17">
@@ -5519,7 +5519,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p9s1w5">
@@ -5858,7 +5858,7 @@
 <form>CDU</form>
 <tag>
 <AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p9s3w14">
@@ -5877,7 +5877,7 @@
 <form>CSU</form>
 <tag>
 <AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p9s3w16">
@@ -5936,7 +5936,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p9s3w23">
@@ -6227,7 +6227,7 @@
 <form>CDU</form>
 <tag>
 <AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w15">
@@ -6246,7 +6246,7 @@
 <form>CSU</form>
 <tag>
 <AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w17">
@@ -6265,7 +6265,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w19">
@@ -6284,7 +6284,7 @@
 <form>SPD</form>
 <tag>
 <AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w21">
@@ -6319,7 +6319,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w25">
@@ -6460,7 +6460,7 @@
 <form>SPD</form>
 <tag>
 <AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w41">
@@ -6479,7 +6479,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w43">
@@ -6554,7 +6554,7 @@
 <form>CDU</form>
 <tag>
 <AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w52">
@@ -6573,7 +6573,7 @@
 <form>CSU</form>
 <tag>
 <AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w54">
@@ -6592,7 +6592,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w56">
@@ -6767,7 +6767,7 @@
 <form>SPD</form>
 <tag>
 <AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s3w10">
@@ -6794,7 +6794,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s3w13">

@@ -1672,7 +1672,7 @@
 <tag>
 <AM lemma="ÚVV_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚVV_:B_;K_^(Ústřední_výkonný_výbor)" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="ÚVV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-082-p4s1w8">
@@ -1846,7 +1846,7 @@
 <tag>
 <AM lemma="ÚVV_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚVV_:B_;K_^(Ústřední_výkonný_výbor)" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="ÚVV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-082-p4s2w16">

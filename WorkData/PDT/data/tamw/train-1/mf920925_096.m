@@ -41,7 +41,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-096-p3s1w2">
@@ -62,7 +62,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-096-p5s1w2">

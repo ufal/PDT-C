@@ -1386,7 +1386,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p5s4w11">
@@ -1567,7 +1567,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p6s2w8">

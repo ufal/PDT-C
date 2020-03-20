@@ -845,7 +845,7 @@
 <AM lemma="JETE_:B_;K_^(JE_Temelín)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JETE_:B_;K_^(jaderná_elektrárna_Temelín)" src="auto" recommended="1">NNFSX-----A---8</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS5-----A----</AM>
-<AM lemma="JETE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JETE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-007-p2s3w49">

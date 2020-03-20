@@ -2835,7 +2835,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)">NNFS1-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])">Ca--X----------</AM>
 <AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)">Db-------------</AM>
-<AM lemma="MOC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1128-s1-w14">
@@ -3706,7 +3706,7 @@
 <form>UAE</form>
 <tag>
 <AM lemma="UAE">X@-------------</AM>
-<AM lemma="UAE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1149-s1-w5">
@@ -3890,7 +3890,7 @@
 <form>WIU</form>
 <tag>
 <AM lemma="WIU">X@-------------</AM>
-<AM lemma="WIU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WIU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1151-s1-w10">
@@ -3907,7 +3907,7 @@
 <form>WIJ</form>
 <tag>
 <AM lemma="WIJ">X@-------------</AM>
-<AM lemma="WIJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WIJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1151-s1-w12">
@@ -3924,7 +3924,7 @@
 <form>WTO</form>
 <tag>
 <AM lemma="WTO_:B_;K_^(Světová_obchodní_organizace)" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="WTO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WTO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1151-s1-w14">
@@ -3948,7 +3948,7 @@
 <form>WIU</form>
 <tag>
 <AM lemma="WIU">X@-------------</AM>
-<AM lemma="WIU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WIU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1151-s1-w17">
@@ -5782,7 +5782,7 @@
 <AM lemma="mimo-1_:B">RR--4---------8</AM>
 <AM lemma="minuta_:B">NNFXX-----A---8</AM>
 <AM lemma="město_:B">NNNXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1182-s1-w17">

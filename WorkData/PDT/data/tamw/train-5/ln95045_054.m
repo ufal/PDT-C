@@ -1865,7 +1865,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-054-p5s1w18">
@@ -1884,7 +1884,7 @@
 <form>0</form>
 <tag>
 <AM lemma="0" src="orig">C=-------------</AM>
-<AM lemma="0-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="0-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-054-p5s1w20">

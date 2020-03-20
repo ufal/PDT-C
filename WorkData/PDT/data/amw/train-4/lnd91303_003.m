@@ -1502,7 +1502,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-003-p4s4w18">
@@ -5969,7 +5969,7 @@
 <form>DNz</form>
 <tag>
 <AM lemma="DNz_:B_;K_^(Divadlo_Na_zábradlí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="DNz-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DNz-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-003-p7s1w23">
@@ -6824,7 +6824,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-003-p8s1w3">

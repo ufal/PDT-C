@@ -21,7 +21,7 @@
 <form>OP</form>
 <tag>
 <AM lemma="op" src="orig">NNMS1-----A----</AM>
-<AM lemma="OP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-012-p1s1w2">
@@ -748,7 +748,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-012-p4s1w5">
@@ -815,7 +815,7 @@
 <form>OP</form>
 <tag>
 <AM lemma="OP-1_:B_;K_^(operační_program;_oděvní_podnik)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-012-p4s1w13">
@@ -1160,7 +1160,7 @@
 <form>OP</form>
 <tag>
 <AM lemma="op" src="orig">NNMS1-----A----</AM>
-<AM lemma="OP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-012-p5s1w2">
@@ -1357,7 +1357,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-012-p5s2w16">

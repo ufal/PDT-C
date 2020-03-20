@@ -236,7 +236,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-055-p2s2w24">
@@ -247,7 +247,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-055-p2s2w25">
@@ -316,7 +316,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-055-p2s3w6">
@@ -367,7 +367,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-055-p2s3w12">
@@ -498,7 +498,7 @@
 <form>NR</form>
 <tag>
 <AM lemma="NR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-055-p2s3w28">
@@ -509,7 +509,7 @@
 <form>SR</form>
 <tag>
 <AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SR-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -718,7 +718,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-055-p2s5w19">

@@ -5230,7 +5230,7 @@
 <form>TDR</form>
 <tag>
 <AM lemma="TDR_:B_;R_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-020-p6s8w3">

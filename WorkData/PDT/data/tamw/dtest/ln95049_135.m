@@ -607,7 +607,7 @@
 <form>PTB</form>
 <tag>
 <AM lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PTB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-135-p3s1w23">
@@ -1463,7 +1463,7 @@
 <form>PTB</form>
 <tag>
 <AM lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PTB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-135-p4s5w24">

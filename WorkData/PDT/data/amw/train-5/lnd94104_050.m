@@ -352,7 +352,7 @@
 <form>EPA</form>
 <tag>
 <AM lemma="EPA_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EPA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

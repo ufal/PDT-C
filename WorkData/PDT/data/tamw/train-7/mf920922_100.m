@@ -45,7 +45,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-100-p1s1Aw5">
@@ -462,7 +462,7 @@
 <form>Tvs</form>
 <tag>
 <AM lemma="Tvs_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Tvs-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tvs-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-100-p1s3w15">
@@ -837,7 +837,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-100-p1s5w8">

@@ -2460,7 +2460,7 @@
 <form>NKA</form>
 <tag>
 <AM lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-045-p10s1w4">
@@ -2606,7 +2606,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-045-p10s1w20">
@@ -2625,7 +2625,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-045-p10s1w22">

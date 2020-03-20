@@ -503,7 +503,7 @@
 <form>PX</form>
 <tag>
 <AM lemma="PX_:B_^(index)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p3s1w7">
@@ -2103,7 +2103,7 @@
 <tag>
 <AM lemma="HIF-2_:B_;K_^(Harvardský_investiční_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIF_:B_^(kurs)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p6s2w5">
@@ -2138,7 +2138,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p6s2w9">
@@ -2158,7 +2158,7 @@
 <tag>
 <AM lemma="HIF-2_:B_;K_^(Harvardský_investiční_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIF_:B_^(kurs)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p6s2w11">
@@ -2185,7 +2185,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p6s2w14">
@@ -2506,7 +2506,7 @@
 <tag>
 <AM lemma="HIF-2_:B_;K_^(Harvardský_investiční_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIF_:B_^(kurs)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p6s6w4">
@@ -2906,7 +2906,7 @@
 <form>SIF</form>
 <tag>
 <AM lemma="SIF_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p7s2w8">
@@ -3308,7 +3308,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p8s2w10">

@@ -21,7 +21,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-116-p1s1Aw2">
@@ -58,7 +58,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-116-p1s1Bw2">
@@ -159,7 +159,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-116-p1s1Cw10">
@@ -548,7 +548,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-116-p1s2Bw12">
@@ -1006,7 +1006,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-116-p1s4w12">
@@ -1538,7 +1538,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-116-p1s8w7">
@@ -2339,7 +2339,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-116-p1s13w2">

@@ -2771,7 +2771,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-006-p13s2w15">
@@ -3189,7 +3189,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-006-p13s5w12">
@@ -3952,7 +3952,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-006-p14s4w13">
@@ -4362,7 +4362,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-006-p16s4w18">
@@ -4518,7 +4518,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-006-p16s4w37">
@@ -4830,7 +4830,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-006-p16s7w11">
@@ -5282,7 +5282,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-006-p17s3w9">
@@ -5397,7 +5397,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-006-p17s4w13">
@@ -5719,7 +5719,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-006-p19s2w18">

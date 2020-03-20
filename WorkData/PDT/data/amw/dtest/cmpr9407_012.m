@@ -99,7 +99,7 @@
 <AM lemma="SES_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SES_:B" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S4--2-------</AM>
-<AM lemma="SES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-012-p4s1w4">
@@ -1164,7 +1164,7 @@
 <AM lemma="SES_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SES_:B" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S4--2-------</AM>
-<AM lemma="SES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-012-p6s3w26">
@@ -2917,7 +2917,7 @@
 <AM lemma="SES_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SES_:B" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S4--2-------</AM>
-<AM lemma="SES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-012-p9s3w13">
@@ -3524,7 +3524,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-012-p10s2w13">
@@ -3587,7 +3587,7 @@
 <AM lemma="SES_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SES_:B" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S4--2-------</AM>
-<AM lemma="SES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-012-p10s3w6">
@@ -4130,7 +4130,7 @@
 <AM lemma="SES_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SES_:B" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S4--2-------</AM>
-<AM lemma="SES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-012-p12s1w9">

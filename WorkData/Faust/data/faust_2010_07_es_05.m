@@ -1915,7 +1915,7 @@
 <form>EFT</form>
 <tag>
 <AM lemma="EFT">X@-------------</AM>
-<AM lemma="EFT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EFT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_05-SCzechM-p0481-s1-w2">
@@ -4420,7 +4420,7 @@
 <AM lemma="e-3_^(označení_pomocí_písmene)" recommended="1">NNNXX-----A----</AM>
 <AM lemma="e-1">II-------------</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="e-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="e-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_05-SCzechM-p0503-s1-w3">
@@ -6366,7 +6366,7 @@
 <form>BMX</form>
 <tag>
 <AM lemma="BMX">X@-------------</AM>
-<AM lemma="BMX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_05-SCzechM-p0538-s1-w44">

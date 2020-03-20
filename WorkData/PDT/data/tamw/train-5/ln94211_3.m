@@ -3379,7 +3379,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-3-p5s9w10">
@@ -3548,7 +3548,7 @@
 <form>Del</form>
 <tag>
 <AM lemma="Del_:B_;c_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Del-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Del-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Del_:B_^(delete)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

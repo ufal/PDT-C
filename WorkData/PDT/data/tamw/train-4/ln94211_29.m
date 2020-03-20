@@ -140,7 +140,7 @@
 <form>KCF</form>
 <tag>
 <AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KCF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KCF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p2s1Bw5">
@@ -308,7 +308,7 @@
 <AM lemma="IOC-1_:B_;K_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IOC-2_:B_,t_^(input-output_controller)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="IOC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IOC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IOC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p2s2w12">
@@ -556,7 +556,7 @@
 <form>KCF</form>
 <tag>
 <AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KCF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KCF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s1w2">
@@ -832,7 +832,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s2w5">
@@ -973,7 +973,7 @@
 <form>KCF</form>
 <tag>
 <AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KCF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KCF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s3w8">
@@ -1089,7 +1089,7 @@
 <form>KCF</form>
 <tag>
 <AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KCF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KCF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s4w3">
@@ -1426,7 +1426,7 @@
 <form>řekl</form>
 <tag>
 <AM lemma="říci" src="auto" selected="1">VpYS----R-AAP--</AM>
-<AM lemma="řekl-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="řekl-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s5w24">

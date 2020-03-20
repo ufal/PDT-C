@@ -3284,7 +3284,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-084-p7s4w2">
@@ -3303,7 +3303,7 @@
 <form>Y</form>
 <tag>
 <AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Y-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Y-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-084-p7s4w4">
@@ -3438,7 +3438,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-084-p7s6w2">
@@ -3457,7 +3457,7 @@
 <form>Y</form>
 <tag>
 <AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Y-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Y-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-084-p7s6w4">
@@ -4280,7 +4280,7 @@
 <form>St</form>
 <tag>
 <AM lemma="St-6_:B_,t_^(saint,_svatý)" src="orig">AAXXX----1A----</AM>
-<AM lemma="St-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="St-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="St-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

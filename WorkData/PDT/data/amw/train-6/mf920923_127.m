@@ -83,7 +83,7 @@
 <form>MMF</form>
 <tag>
 <AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-127-p2s1w2">
@@ -312,7 +312,7 @@
 <form>MMF</form>
 <tag>
 <AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-127-p4s3w6">

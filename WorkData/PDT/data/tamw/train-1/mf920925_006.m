@@ -499,7 +499,7 @@
 <form>FFTR</form>
 <tag>
 <AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-006-p3s1w9">
@@ -1123,7 +1123,7 @@
 <form>FFTR</form>
 <tag>
 <AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-006-p3s4Aw11">

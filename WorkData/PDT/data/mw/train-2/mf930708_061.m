@@ -844,7 +844,7 @@
 <tag>
 <AM lemma="ASPM_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ASPM_:B_;K_;u_^(hudební_skupina)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="ASPM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ASPM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-061-p2s4w36">

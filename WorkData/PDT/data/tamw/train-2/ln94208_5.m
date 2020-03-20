@@ -3604,7 +3604,7 @@
 <AM lemma="ABS-1_:B_;g_^(Antiblokovací_systém_brzd)" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="ABS-2_:B_;g_^(umělá_hmota)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="absolvent_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="ABS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-5-p5s2w19">

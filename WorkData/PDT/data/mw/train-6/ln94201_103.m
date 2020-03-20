@@ -257,7 +257,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p2s2w14">
@@ -464,7 +464,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p3s1w6">
@@ -714,7 +714,7 @@
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p3s3w7">
@@ -726,7 +726,7 @@
 <tag>
 <AM lemma="obměn_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="obměna" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Obměn-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Obměn-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Obměn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -749,7 +749,7 @@
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 <AM lemma="AB-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -761,7 +761,7 @@
 <form>Služobnaja</form>
 <tag>
 <AM lemma="služobnyj_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Služobnaja-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Služobnaja-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Služobnaja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

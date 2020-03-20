@@ -300,7 +300,7 @@
 <form>CCRM</form>
 <tag>
 <AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CCRM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CCRM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s2w10">
@@ -675,7 +675,7 @@
 <form>CCRM</form>
 <tag>
 <AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CCRM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CCRM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s4w8">
@@ -856,7 +856,7 @@
 <form>CCRM</form>
 <tag>
 <AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CCRM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CCRM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s5w2">

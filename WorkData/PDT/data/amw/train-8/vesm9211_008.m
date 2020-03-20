@@ -705,7 +705,7 @@
 <AM lemma="ORL_:B_^(otorinolaryngologie)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ORL_:B" src="auto">NNNSX-----A---8</AM>
 <AM lemma="Orlický_:B_;G" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ORL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p3s3w7">
@@ -910,7 +910,7 @@
 <form>ČVUT</form>
 <tag>
 <AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</AM>
-<AM lemma="ČVUT-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČVUT-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p4s2w9">
@@ -1011,7 +1011,7 @@
 <form>ČSAV</form>
 <tag>
 <AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p4s3w10">
@@ -1445,7 +1445,7 @@
 <form>MFF</form>
 <tag>
 <AM lemma="MFF-1_:B_;K_;u_^(Matematicko-fyzikální_fakulta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MFF-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MFF-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="MFF-1_:B_;K_^(Matematicko-fyzikální_fakulta)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -1532,7 +1532,7 @@
 <form>ČVUT</form>
 <tag>
 <AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</AM>
-<AM lemma="ČVUT-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČVUT-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p6s3w7">
@@ -2038,7 +2038,7 @@
 <form>VŠCHT</form>
 <tag>
 <AM lemma="VŠCHT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VŠCHT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VŠCHT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p8s2w11">

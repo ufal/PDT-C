@@ -721,7 +721,7 @@
 <tag>
 <AM lemma="R-6_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="R-77" src="manual">F%-------------</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-97-p3s1w21">
@@ -741,7 +741,7 @@
 <tag>
 <AM lemma="U-6_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="U-77" src="manual">F%-------------</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-97-p3s1w23">
@@ -761,7 +761,7 @@
 <tag>
 <AM lemma="R-6_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="R-77" src="manual">F%-------------</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-97-p3s1w25">

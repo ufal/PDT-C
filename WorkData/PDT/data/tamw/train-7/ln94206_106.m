@@ -135,7 +135,7 @@
 <form>NLN</form>
 <tag>
 <AM lemma="NLN_:B_;R" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-106-p2s1w12">
@@ -3348,7 +3348,7 @@
 <form>ČSR</form>
 <tag>
 <AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-106-p5s6w21">

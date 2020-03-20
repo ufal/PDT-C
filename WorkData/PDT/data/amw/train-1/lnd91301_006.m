@@ -55,7 +55,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -387,7 +387,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-006-p4s3w4">
@@ -914,7 +914,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SSSR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

@@ -283,7 +283,7 @@
 <form>APS</form>
 <tag>
 <AM lemma="APS-4_:B_;K_,t_^(Algérie_Presse_Service)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="APS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="APS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-67-p2s2w9">

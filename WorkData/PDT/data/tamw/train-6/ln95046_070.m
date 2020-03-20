@@ -233,8 +233,8 @@
 <form>KP</form>
 <tag>
 <AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-070-p2s2w6">
@@ -317,8 +317,8 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-070-p2s2w16">
@@ -481,8 +481,8 @@
 <form>KP</form>
 <tag>
 <AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-070-p2s2w36">
@@ -781,8 +781,8 @@
 <AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
-<AM lemma="SIS-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SIS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-070-p3s1w14">

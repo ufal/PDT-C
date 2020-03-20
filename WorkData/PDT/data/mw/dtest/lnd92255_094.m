@@ -125,7 +125,7 @@
 <form>MXM</form>
 <tag>
 <AM lemma="MXM`1990" src="orig" selected="1">C}-------------</AM>
-<AM lemma="MXM-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MXM-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-094-p1s1w15">

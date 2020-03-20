@@ -2839,7 +2839,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-080-p7s1w20">

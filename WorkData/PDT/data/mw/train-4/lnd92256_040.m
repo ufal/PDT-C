@@ -85,7 +85,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-040-p1s1w10">
@@ -325,7 +325,7 @@
 <form>KBSE</form>
 <tag>
 <AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-040-p1s2w14">
@@ -378,7 +378,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-040-p1s3w2">

@@ -409,7 +409,7 @@
 <form>SDI</form>
 <tag>
 <AM lemma="SDI-1_:B_,t_^(Strategic_Defense_Initiative)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SDI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-103-p2s2w32">
@@ -1674,7 +1674,7 @@
 <form>SDI</form>
 <tag>
 <AM lemma="SDI-1_:B_,t_^(Strategic_Defense_Initiative)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SDI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-103-p4s2w20">
@@ -2288,7 +2288,7 @@
 <form>SDI</form>
 <tag>
 <AM lemma="SDI-1_:B_,t_^(Strategic_Defense_Initiative)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SDI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-103-p6s1w5">
@@ -2964,7 +2964,7 @@
 <form>SDI</form>
 <tag>
 <AM lemma="SDI-1_:B_,t_^(Strategic_Defense_Initiative)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SDI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-103-p7s1w26">

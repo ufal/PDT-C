@@ -119,7 +119,7 @@
 <form>KRNAP</form>
 <tag>
 <AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-132-p2s1w9">
@@ -516,7 +516,7 @@
 <form>KRNAP</form>
 <tag>
 <AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-132-p2s4w3">
@@ -1083,7 +1083,7 @@
 <form>KRNAP</form>
 <tag>
 <AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-132-p2s8w10">
@@ -1365,7 +1365,7 @@
 <form>KRNAP</form>
 <tag>
 <AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-132-p2s10w3">

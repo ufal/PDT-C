@@ -388,7 +388,7 @@
 <tag>
 <AM lemma="ČBS_:B_;K_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČBS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p3s2w30">
@@ -571,7 +571,7 @@
 <tag>
 <AM lemma="SBA-3_:B_;K_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p3s2w52">
@@ -880,7 +880,7 @@
 <form>FIBA</form>
 <tag>
 <AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p3s3w30">
@@ -1248,7 +1248,7 @@
 <form>FIBA</form>
 <tag>
 <AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p7s2w4">
@@ -1459,7 +1459,7 @@
 <form>FIBA</form>
 <tag>
 <AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p7s2w30">

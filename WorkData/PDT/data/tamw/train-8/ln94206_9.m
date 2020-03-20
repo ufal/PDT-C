@@ -865,7 +865,7 @@
 <AM lemma="RIF_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="rif" src="auto">NNIS1-----A----</AM>
 <AM lemma="rif" src="auto">NNIS4-----A----</AM>
-<AM lemma="RIF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p3s3w33">

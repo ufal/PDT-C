@@ -3638,7 +3638,7 @@
 <AM lemma="Hla_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="hnout" src="auto">VpQW---XR-AA--7</AM>
 <AM lemma="hnout_,h_,x" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="HLA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p5s5w20">

@@ -815,7 +815,7 @@
 <tag>
 <AM lemma="VAC_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="VAC-1_:B_,t_^(volts_alternating_current)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="VAC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VAC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-046-p2s3w6">
@@ -2023,7 +2023,7 @@
 <AM lemma="ZOO_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ZOO_:B" src="auto">NNFXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="zoo-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="zoo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-046-p5s1w41">

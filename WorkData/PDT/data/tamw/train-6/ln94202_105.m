@@ -93,7 +93,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-105-p1s1Aw11">

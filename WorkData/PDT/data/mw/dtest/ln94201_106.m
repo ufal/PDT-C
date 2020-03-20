@@ -2755,7 +2755,7 @@
 <form>TN</form>
 <tag>
 <AM lemma="TN-1_:B_;R_^(Televizní_noviny)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="TN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-106-p4s4w7">

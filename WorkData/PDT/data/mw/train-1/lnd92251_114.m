@@ -78,7 +78,7 @@
 <AM lemma="fl-2_:B_^(fentolitr)" src="auto">Xx-------------</AM>
 <AM lemma="FL-3_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="FL-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p2s1w7">
@@ -411,7 +411,7 @@
 <tag>
 <AM lemma="VV_:B_^(ve_výslužbě)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="VV_:B_;K_^(výkonný_výbor)" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="VV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p4s1w3">
@@ -1463,7 +1463,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p10s1w9">
@@ -1736,7 +1736,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIS1-----A----</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p10s3w4">
@@ -1826,7 +1826,7 @@
 <form>USK</form>
 <tag>
 <AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p12s1w3">
@@ -1893,7 +1893,7 @@
 <form>CSKA</form>
 <tag>
 <AM lemma="CSKA-1_:B_;K_;w_,t_^(sov._sport._klub)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CSKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p12s1w11">

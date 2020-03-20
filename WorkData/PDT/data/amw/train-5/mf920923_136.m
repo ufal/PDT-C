@@ -215,7 +215,7 @@
 <AM lemma="Sl_:B" src="auto">Xx-------------</AM>
 <AM lemma="slečna_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="sloupec_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-136-p2s2w13">

@@ -602,7 +602,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p3s2w10">
@@ -1525,7 +1525,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p6s1w5">
@@ -2694,7 +2694,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p7s3w13">
@@ -3045,7 +3045,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p8s1w36">
@@ -3088,7 +3088,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p8s1w41">
@@ -3375,7 +3375,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p10s1w4">

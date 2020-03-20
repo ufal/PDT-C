@@ -21,7 +21,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-056-p1s1Aw2">
@@ -281,7 +281,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-056-p2s2w24">
@@ -819,7 +819,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-056-p2s4w28">
@@ -1406,7 +1406,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-056-p2s7Bw15">

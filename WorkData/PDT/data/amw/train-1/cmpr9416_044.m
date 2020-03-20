@@ -979,7 +979,7 @@
 <form>ČMC</form>
 <tag>
 <AM lemma="ČMC_:B_;K_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-044-p9s1w15">
@@ -1774,7 +1774,7 @@
 <form>ČMC</form>
 <tag>
 <AM lemma="ČMC_:B_;K_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-044-p17s1w4">

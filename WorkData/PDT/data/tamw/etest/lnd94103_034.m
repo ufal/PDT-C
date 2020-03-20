@@ -53,7 +53,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -127,7 +127,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-034-p1s3w4">
@@ -330,7 +330,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-034-p1s3w29">
@@ -481,7 +481,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-034-p1s5w7">
@@ -492,7 +492,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-034-p1s5w8">
@@ -577,7 +577,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-034-p1s6w8">
@@ -718,7 +718,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-034-p1s7w8">
@@ -945,7 +945,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-034-p1s7w36">

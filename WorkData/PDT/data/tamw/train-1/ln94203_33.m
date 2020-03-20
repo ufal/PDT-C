@@ -787,7 +787,7 @@
 <form>KHS</form>
 <tag>
 <AM lemma="KHS-1_:B_;K_^(krajská_hygienická_stanice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KHS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KHS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s4w24">
@@ -798,7 +798,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Č-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s4w25">
@@ -1183,7 +1183,7 @@
 <form>KHS</form>
 <tag>
 <AM lemma="KHS-1_:B_;K_^(krajská_hygienická_stanice)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KHS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KHS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s6w9">
@@ -1348,7 +1348,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s7w4">

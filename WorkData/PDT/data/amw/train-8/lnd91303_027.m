@@ -1396,7 +1396,7 @@
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
 <AM lemma="p-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="p-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="p-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-027-p3s7Aw31">
@@ -2370,7 +2370,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-027-p4s3w11">

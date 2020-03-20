@@ -552,7 +552,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-032-p3s3w36">
@@ -571,7 +571,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-032-p3s3w38">

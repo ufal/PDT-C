@@ -284,7 +284,7 @@
 <AM lemma="SBS-2_:B_;K_^(Svaz_bojovníků_za_svobodu)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SBS-3_:B_;K_^(Sběrná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SBS-4_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-109-p2s1Bw19">
@@ -375,7 +375,7 @@
 <form>ABC</form>
 <tag>
 <AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-109-p2s1Bw30">
@@ -487,7 +487,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="LN-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -503,7 +503,7 @@
 <AM lemma="SBS-2_:B_;K_^(Svaz_bojovníků_za_svobodu)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SBS-3_:B_;K_^(Sběrná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SBS-4_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-109-p3s1w14">
@@ -1182,7 +1182,7 @@
 <form>IPB</form>
 <tag>
 <AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-109-p5s1w2">
@@ -1368,7 +1368,7 @@
 <AM lemma="FTV_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FTV_:B_;K_^(Fashion_TV)" src="auto" recommended="1">NNFSX-----A---8</AM>
 <AM lemma="FTV-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-109-p5s2w12">

@@ -580,7 +580,7 @@
 <form>WTA</form>
 <tag>
 <AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WTA-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="WTA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="WTA-1_:B_;K_^(Women's_Tennis_Association)" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>

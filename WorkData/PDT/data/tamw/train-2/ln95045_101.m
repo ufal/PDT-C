@@ -45,7 +45,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p1s1w5">
@@ -88,7 +88,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-7_:B_;K_^(RM-systém)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -268,7 +268,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p2s1Cw5">
@@ -564,7 +564,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p2s2w20">
@@ -607,7 +607,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-7_:B_;K_^(RM-systém)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p2s2w22">
@@ -765,7 +765,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p3s1Aw16">
@@ -808,7 +808,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-7_:B_;K_^(RM-systém)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p3s1Aw18">
@@ -919,7 +919,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p4s1w6">
@@ -962,7 +962,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-7_:B_;K_^(RM-systém)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p4s1w8">
@@ -1165,7 +1165,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p4s2w6">
@@ -1208,7 +1208,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-7_:B_;K_^(RM-systém)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p4s2w8">
@@ -1400,7 +1400,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p4s3w13">
@@ -1443,7 +1443,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-7_:B_;K_^(RM-systém)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p4s3w15">
@@ -1645,7 +1645,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p5s2w5">
@@ -1688,7 +1688,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-7_:B_;K_^(RM-systém)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p5s2w7">
@@ -2358,7 +2358,7 @@
 <form>SCP</form>
 <tag>
 <AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p7s1w11">
@@ -2401,7 +2401,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p7s1w16">
@@ -2510,7 +2510,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p8s1w5">
@@ -2553,7 +2553,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-7_:B_;K_^(RM-systém)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p8s1w7">
@@ -3186,7 +3186,7 @@
 <form>SCP</form>
 <tag>
 <AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-101-p10s2w9">

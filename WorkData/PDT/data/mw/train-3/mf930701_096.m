@@ -476,7 +476,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-096-p2s3w3">
@@ -969,7 +969,7 @@
 <form>SPD</form>
 <tag>
 <AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-096-p2s5w5">
@@ -996,7 +996,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-096-p2s5w8">
@@ -1289,7 +1289,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-096-p3s1w19">

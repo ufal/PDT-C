@@ -833,7 +833,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-065-p2s5w14">
@@ -2247,7 +2247,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-065-p5s3w7">
@@ -3202,7 +3202,7 @@
 <form>SD</form>
 <tag>
 <AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
-<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-065-p6s2w7">

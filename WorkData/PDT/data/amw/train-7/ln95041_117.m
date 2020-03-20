@@ -94,7 +94,7 @@
 <AM lemma="Eta-2_;K" src="auto">NNFS1-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ETA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ETA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-117-p2s1Aw4">
@@ -1675,7 +1675,7 @@
 <AM lemma="Eta-2_;K" src="auto">NNFS1-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ETA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ETA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-117-p5s1w11">
@@ -3252,7 +3252,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-117-p7s2w22">

@@ -682,7 +682,7 @@
 <tag>
 <AM lemma="NSR_;G" src="orig">NNFSX-----A----</AM>
 <AM lemma="NSR_:B_;G" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="NSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s3w5">

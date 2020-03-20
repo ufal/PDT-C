@@ -73,7 +73,7 @@
 <form>Al</form>
 <tag>
 <AM lemma="Al-3_;Y_^(Al_Gore_apod._jm.)" src="orig">NNMS1-----A----</AM>
-<AM lemma="Al-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Al-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Al-77" src="manual">F%-------------</AM>
 <AM lemma="al-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -95,7 +95,7 @@
 <tag>
 <AM lemma="jr_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="jr_:B" src="auto" recommended="1">NNMSX-----A----</AM>
-<AM lemma="jr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-97-p2s1Bw4">
@@ -158,7 +158,7 @@
 <form>GP</form>
 <tag>
 <AM lemma="GP_:B_;K_^(Grand_Prix)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-97-p2s1Bw11">
@@ -1547,7 +1547,7 @@
 <AM lemma="F-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="f-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-97-p2s11w5">

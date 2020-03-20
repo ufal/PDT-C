@@ -1607,7 +1607,7 @@
 <AM lemma="SP-5_:B_,t_^(stop_pulse)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="speciální_:B_,x" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="SP-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-91-p4s2w5">

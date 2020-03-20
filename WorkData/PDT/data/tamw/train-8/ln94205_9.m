@@ -239,7 +239,7 @@
 <form>AISA</form>
 <tag>
 <AM lemma="AISA_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="AISA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p2s1Bw15">
@@ -2571,7 +2571,7 @@
 <AM lemma="OP-1_:B_;K_^(operační_program;_oděvní_podnik)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="OP-2_:B_;K_^(občanská_platforma)" src="auto">NNFSX-----A---8</AM>
 <AM lemma="op" src="auto">NNMS1-----A----</AM>
-<AM lemma="OP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p10s1w8">
@@ -3558,7 +3558,7 @@
 <form>JVC</form>
 <tag>
 <AM lemma="JVC_:B_;K_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JVC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JVC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p12s2w7">
@@ -3681,7 +3681,7 @@
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="dr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p12s3w3">

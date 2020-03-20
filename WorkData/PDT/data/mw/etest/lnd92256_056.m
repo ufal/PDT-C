@@ -946,8 +946,8 @@
 <AM lemma="Red_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Reda_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="redakce_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ReD-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ReD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ReD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ReD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-056-p4s3w21">

@@ -79,7 +79,7 @@
 <form>VfB</form>
 <tag>
 <AM lemma="VfB_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VfB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VfB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-116-p2s1w6">

@@ -533,7 +533,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-148-p3s2w12">
@@ -2117,7 +2117,7 @@
 <form>YSE</form>
 <tag>
 <AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="YSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="YSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-148-p6s3w3">
@@ -2188,7 +2188,7 @@
 <AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
-<AM lemma="SIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-148-p6s3w11">

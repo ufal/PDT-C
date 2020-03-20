@@ -545,7 +545,7 @@
 <tag>
 <AM lemma="SNB-2_:B_;K_^(Slovenská_národní_banka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNB-1_:B_;K_;p_^(Sbor_národní_bezpečnosti)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SNB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-049-p3s3w22">
@@ -4168,7 +4168,7 @@
 <form>SBČS</form>
 <tag>
 <AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SBČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-049-p5s9w19">
@@ -4333,7 +4333,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-049-p5s10w15">
@@ -4354,7 +4354,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-049-p5s11w2">

@@ -543,7 +543,7 @@
 <form>MK</form>
 <tag>
 <AM lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-128-p2s3w18">
@@ -573,7 +573,7 @@
 <form>Š</form>
 <tag>
 <AM lemma="Š-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Š-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Š-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-128-p2s3w21">

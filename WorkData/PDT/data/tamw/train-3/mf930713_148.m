@@ -1287,7 +1287,7 @@
 <form>SSR</form>
 <tag>
 <AM lemma="SSR-1_:B_;G_^(Slovenská_socialistická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-148-p4s2w18">
@@ -1682,7 +1682,7 @@
 <form>KBSE</form>
 <tag>
 <AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-148-p6s1w3">

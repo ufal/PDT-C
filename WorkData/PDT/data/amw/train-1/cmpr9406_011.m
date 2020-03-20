@@ -209,7 +209,7 @@
 <form>ČNIS</form>
 <tag>
 <AM lemma="ČNIS-1_:B_;K_^(Česká_národní_investiční_společnost)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČNIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-011-p4s1w16">
@@ -1293,7 +1293,7 @@
 <form>RMS</form>
 <tag>
 <AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-011-p6s1w39">
@@ -1466,7 +1466,7 @@
 <form>RMS</form>
 <tag>
 <AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-011-p6s2w14">

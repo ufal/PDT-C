@@ -1070,7 +1070,7 @@
 <form>MDF</form>
 <tag>
 <AM lemma="MDF-1_:B_;K_,t_^(Magyar_Demokrata_Fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MDF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-116-p4s1w23">

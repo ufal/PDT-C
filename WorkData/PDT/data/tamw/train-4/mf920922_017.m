@@ -122,7 +122,7 @@
 <form>MMF</form>
 <tag>
 <AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-017-p2s1w11">
@@ -399,8 +399,8 @@
 <form>MMF</form>
 <tag>
 <AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MMF-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MMF-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-017-p2s2w10">
@@ -1064,7 +1064,7 @@
 <form>ERM</form>
 <tag>
 <AM lemma="ERM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ERM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ERM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-017-p2s5w19">
@@ -2973,7 +2973,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-017-p2s18w8">
@@ -3322,7 +3322,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-017-p2s21w12">

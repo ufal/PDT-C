@@ -111,7 +111,7 @@
 <form>ATS</form>
 <tag>
 <AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ATS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-003-p2s1w12">

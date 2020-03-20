@@ -1255,7 +1255,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="Č-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Č-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-23-p3s4w15">
@@ -2885,7 +2885,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SSSR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

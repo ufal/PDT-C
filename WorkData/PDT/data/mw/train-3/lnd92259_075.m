@@ -3625,7 +3625,7 @@
 <AM lemma="Fas_:B" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="fasit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="fasit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="FaS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FaS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-075-p9s1w44">

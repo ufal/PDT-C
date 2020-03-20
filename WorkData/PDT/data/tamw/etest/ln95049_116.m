@@ -37,7 +37,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-116-p1s1w4">
@@ -124,7 +124,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw6">
@@ -992,7 +992,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-116-p2s6w27">

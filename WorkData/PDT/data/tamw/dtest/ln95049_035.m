@@ -456,7 +456,7 @@
 <form>IHL</form>
 <tag>
 <AM lemma="IHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IHL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-035-p2s2w29">
@@ -1704,7 +1704,7 @@
 <form>IHL</form>
 <tag>
 <AM lemma="IHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IHL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-035-p3s6w18">
@@ -3720,7 +3720,7 @@
 <form>IHL</form>
 <tag>
 <AM lemma="IHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IHL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-035-p3s16w36">

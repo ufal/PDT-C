@@ -1415,7 +1415,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-017-p6s2w49">
@@ -2909,7 +2909,7 @@
 <form>LAN</form>
 <tag>
 <AM lemma="LAN_:B_^(počítačová_síť)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LAN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-017-p11s2w23">

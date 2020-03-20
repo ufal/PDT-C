@@ -78,7 +78,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2187,7 +2187,7 @@
 <tag>
 <AM lemma="N-4_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="N-5_:B_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p5s1w4">
@@ -2207,7 +2207,7 @@
 <tag>
 <AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Y-1_:B_;G" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Y-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Y-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p5s1w6">
@@ -2495,7 +2495,7 @@
 <tag>
 <AM lemma="N-4_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="N-5_:B_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p5s2w24">
@@ -2515,7 +2515,7 @@
 <tag>
 <AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Y-1_:B_;G" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Y-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Y-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p5s2w26">
@@ -2979,7 +2979,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p6s2w11">

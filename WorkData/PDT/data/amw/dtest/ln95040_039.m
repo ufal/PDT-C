@@ -1893,7 +1893,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-039-p4s1w7">
@@ -1912,7 +1912,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-039-p4s1w9">
@@ -2163,7 +2163,7 @@
 <form>ČLS</form>
 <tag>
 <AM lemma="ČLS-2_:B_;K_^(Československá_letecká_společnost)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČLS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČLS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-039-p4s1w40">
@@ -2176,7 +2176,7 @@
 <AM lemma="JEP_:B_;K_^(ČLS_J._E._Purkyně)" src="orig">NNMXX-----A---8</AM>
 <AM lemma="JEP-1_:B_;K_,t_^(VLA_JEP,_Vojen_.lékař._akad._J.E.Purkyně)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="JEP_:B_^(jednotná_klasifikace_půdy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JEP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-039-p4s1w41">

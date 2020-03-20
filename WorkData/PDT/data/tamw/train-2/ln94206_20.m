@@ -111,7 +111,7 @@
 <form>AG</form>
 <tag>
 <AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-20-p2s1Bw7">
@@ -218,7 +218,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-20-p2s1Bw20">

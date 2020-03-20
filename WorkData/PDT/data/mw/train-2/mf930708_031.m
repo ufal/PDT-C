@@ -1615,7 +1615,7 @@
 <form>AEG</form>
 <tag>
 <AM lemma="AEG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-031-p4s1w30">
@@ -1634,7 +1634,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-031-p4s1w32">
@@ -2444,7 +2444,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-031-p8s1w12">
@@ -2542,7 +2542,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-031-p9s2w3">

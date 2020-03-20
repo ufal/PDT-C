@@ -277,7 +277,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p4s1w17">
@@ -979,7 +979,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p6s1w15">
@@ -1128,7 +1128,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p6s2w18">
@@ -1651,7 +1651,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p6s6w11">
@@ -1978,7 +1978,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p7s2w6">
@@ -2270,7 +2270,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p7s5w2">
@@ -3247,7 +3247,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p8s3w22">
@@ -3559,7 +3559,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p9s1w30">
@@ -3963,7 +3963,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p10s1w13">
@@ -4046,7 +4046,7 @@
 <form>KBSE</form>
 <tag>
 <AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p10s1w23">
@@ -4115,7 +4115,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p10s2w3">
@@ -5591,7 +5591,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p14s1w6">

@@ -61,7 +61,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MS-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -531,7 +531,7 @@
 <AM lemma="EHF-3_:B_;K_^(Evropská_házenkářská_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EHF-1_:B_;K_^(Evropská_hokejová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EHF-2_:B_,t_^(extremly_high_frequency)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EHF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-129-p3s3w12">
@@ -3342,7 +3342,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-129-p5s5w37">

@@ -3688,7 +3688,7 @@
 <form>MŽP</form>
 <tag>
 <AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MŽP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-113-p2s28w33">
@@ -3781,7 +3781,7 @@
 <form>MŽP</form>
 <tag>
 <AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MŽP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-113-p2s29w2">

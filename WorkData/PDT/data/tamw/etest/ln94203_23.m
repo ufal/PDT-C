@@ -813,7 +813,7 @@
 <form>SDLP</form>
 <tag>
 <AM lemma="SDLP-1_:B_;K_,t_^(Social_Democratic_and_Labour_Party)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDLP-88" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDLP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-23-p2s3w38">

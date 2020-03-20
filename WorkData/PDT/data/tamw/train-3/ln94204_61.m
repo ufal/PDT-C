@@ -21,7 +21,7 @@
 <form>LSNS</form>
 <tag>
 <AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-61-p1s1w2">
@@ -416,7 +416,7 @@
 <form>LSNS</form>
 <tag>
 <AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-61-p2s2w6">

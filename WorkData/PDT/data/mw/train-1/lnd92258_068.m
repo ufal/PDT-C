@@ -21,7 +21,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-068-p1s1w2">
@@ -930,7 +930,7 @@
 <form>OMON</form>
 <tag>
 <AM lemma="OMON_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OMON-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OMON-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-068-p4s5w13">

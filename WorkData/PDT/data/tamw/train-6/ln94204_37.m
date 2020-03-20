@@ -183,7 +183,7 @@
 <form>MEDIPO</form>
 <tag>
 <AM lemma="MEDIPO_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MEDIPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MEDIPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-37-p2s1Bw12">

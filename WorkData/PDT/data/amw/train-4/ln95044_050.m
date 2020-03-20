@@ -727,7 +727,7 @@
 <tag>
 <AM lemma="FIPRESCI_;m_^(Cena)" src="orig">NNXXX-----A----</AM>
 <AM lemma="FIPRESCI_:B_;K_;u_,t_^(Fédér._Inter._de_Presse_Cinématog.)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIPRESCI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIPRESCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p3s2w12">

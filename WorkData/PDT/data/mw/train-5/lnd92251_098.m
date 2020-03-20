@@ -38,7 +38,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RVHP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -196,7 +196,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RVHP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-098-p3s2w14">
@@ -370,7 +370,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RVHP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-098-p3s3w13">
@@ -672,7 +672,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RVHP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-098-p3s4w33">

@@ -1421,7 +1421,7 @@
 <form>NDR</form>
 <tag>
 <AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-107-p1s8w30">
@@ -1853,7 +1853,7 @@
 <form>TICO</form>
 <tag>
 <AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="orig">NNNS1-----A----</AM>
-<AM lemma="TICO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TICO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-107-p1s10w13">
@@ -2003,7 +2003,7 @@
 <form>ZVVZ</form>
 <tag>
 <AM lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ZVVZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZVVZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-107-p1s10w31">

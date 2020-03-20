@@ -87,7 +87,7 @@
 <form>SFX</form>
 <tag>
 <AM lemma="SFX-98_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SFX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SFX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-017-p2s1w7">
@@ -142,7 +142,7 @@
 <AM lemma="TZ-2_:B_^(tepelný_záznam)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="TZ-1_:B_;K_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="TZ-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -264,7 +264,7 @@
 <form>ECM</form>
 <tag>
 <AM lemma="ECM-3_:B_,t_^(Error_Correction_Mode,_mód_u_faxů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ECM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ECM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-017-p5s1w5">

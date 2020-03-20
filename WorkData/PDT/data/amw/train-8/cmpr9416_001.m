@@ -599,7 +599,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-001-p4s2w23">
@@ -2492,7 +2492,7 @@
 <AM lemma="CPD-2_:B_,t_^(Collections_Premieren_Dusseldorf)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CPD-1_:B_,t_^(Cape_Photographic_Durchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="CPD-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="CPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-001-p15s1w2">
@@ -2831,7 +2831,7 @@
 <form>GDS</form>
 <tag>
 <AM lemma="GDS_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-001-p17s1w2">
@@ -3353,7 +3353,7 @@
 <form>CMT</form>
 <tag>
 <AM lemma="CMT-1_:B_;K_,t_^(Int._Ausstel._für_Caravan,_Motor,_Tourism)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CMT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CMT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-001-p20s2w11">
@@ -4234,7 +4234,7 @@
 <AM lemma="MH_:B_;K_^(ministerstvo_hospodářství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="mha_,n" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="MH_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-001-p23s3w9">
@@ -4556,7 +4556,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-001-p24s2w11">
@@ -4575,7 +4575,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-001-p24s2w13">
@@ -4606,7 +4606,7 @@
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="Box_:B_,t" src="manual">NNXXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-001-p24s2w15">

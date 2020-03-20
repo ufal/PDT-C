@@ -4710,7 +4710,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-043-p15s1w24">
@@ -6938,7 +6938,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-043-p21s1w5">
@@ -7121,7 +7121,7 @@
 <form>U</form>
 <tag>
 <AM lemma="United-2_:B_;K_,t_^(United,_spojený)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-043-p23s1w11">
@@ -7159,7 +7159,7 @@
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="N-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-043-p23s1w13">
@@ -7218,7 +7218,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-043-p24s1w2">

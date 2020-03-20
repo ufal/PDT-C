@@ -667,7 +667,7 @@
 <form>YMCY</form>
 <tag>
 <AM lemma="YMCA_:B_;K_,t" src="orig">NNFS2-----A----</AM>
-<AM lemma="YMCY-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="YMCY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-044-p2s4w15">

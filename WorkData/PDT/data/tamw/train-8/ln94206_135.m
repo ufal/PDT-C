@@ -215,7 +215,7 @@
 <form>NEOBLBA</form>
 <tag>
 <AM lemma="NEOBLBA_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="NEOBLBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NEOBLBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-135-p2s1Bw11">
@@ -617,7 +617,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-135-p2s3w6">
@@ -843,7 +843,7 @@
 <form>NEOBLBY</form>
 <tag>
 <AM lemma="NEOBLBA_;K" src="orig">NNFS2-----A----</AM>
-<AM lemma="NEOBLBY-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NEOBLBY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-135-p3s1w4">
@@ -1231,7 +1231,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-135-p3s3w6">

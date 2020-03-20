@@ -1103,7 +1103,7 @@
 <form>SFRJ</form>
 <tag>
 <AM lemma="SFRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SFRJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-065-p5s1w6">
@@ -1303,7 +1303,7 @@
 <form>SFRJ</form>
 <tag>
 <AM lemma="SFRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SFRJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-065-p5s2w8">
@@ -1662,7 +1662,7 @@
 <form>SFRJ</form>
 <tag>
 <AM lemma="SFRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SFRJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-065-p5s4w4">
@@ -2640,7 +2640,7 @@
 <form>SFRJ</form>
 <tag>
 <AM lemma="SFRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SFRJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-065-p7s1w26">

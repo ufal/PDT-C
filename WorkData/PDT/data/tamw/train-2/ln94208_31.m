@@ -669,7 +669,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-31-p2s4w13">
@@ -712,7 +712,7 @@
 <form>KRNAP</form>
 <tag>
 <AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-31-p2s4w18">

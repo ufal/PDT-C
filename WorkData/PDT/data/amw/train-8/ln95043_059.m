@@ -1480,7 +1480,7 @@
 <form>MNS</form>
 <tag>
 <AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-059-p4s4w27">

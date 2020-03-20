@@ -192,7 +192,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-031-p2s1Bw9">
@@ -463,7 +463,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-031-p3s1w2">
@@ -966,7 +966,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-031-p3s4w24">
@@ -1651,7 +1651,7 @@
 <form>IH</form>
 <tag>
 <AM lemma="IH_:B_;K_^(Interhotel)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-031-p5s1w26">
@@ -1815,7 +1815,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-031-p6s2w5">
@@ -2325,7 +2325,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-031-p7s1w29">

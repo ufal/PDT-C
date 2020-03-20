@@ -2214,7 +2214,7 @@
 <form>AM</form>
 <tag>
 <AM lemma="AM-1_:B_;G_^(Arménie,_mez._zkr.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-069-p1s9w9">
@@ -2401,7 +2401,7 @@
 <form>FM</form>
 <tag>
 <AM lemma="FM-1_:B_^(frekvenční_modulace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-069-p1s9w32">
@@ -2436,7 +2436,7 @@
 <form>VKV</form>
 <tag>
 <AM lemma="VKV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VKV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VKV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-069-p1s9w36">
@@ -2487,7 +2487,7 @@
 <form>VKV</form>
 <tag>
 <AM lemma="VKV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VKV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VKV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-069-p1s9w42">
@@ -3946,7 +3946,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-069-p1s16w56">
@@ -4013,7 +4013,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-069-p1s16w64">

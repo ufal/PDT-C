@@ -29,7 +29,7 @@
 <form>ANC</form>
 <tag>
 <AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-050-p1s1Aw3">

@@ -2325,7 +2325,7 @@
 <tag>
 <AM lemma="IFPI_:B_;K_,t_^(Inter.Feder.of_Phonogram_and_Videogram)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFPI-77" src="manual">F%-------------</AM>
-<AM lemma="IFPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-151-p6s1w9">
@@ -4382,7 +4382,7 @@
 <form>WEA</form>
 <tag>
 <AM lemma="WEA_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="WEA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WEA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-151-p9s5w15">
@@ -5820,7 +5820,7 @@
 <form>STOPP</form>
 <tag>
 <AM lemma="STOPP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STOPP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STOPP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-151-p11s1w18">

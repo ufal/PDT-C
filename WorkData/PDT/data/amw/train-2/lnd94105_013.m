@@ -747,7 +747,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-013-p1s15w3">
@@ -1247,7 +1247,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-013-p1s19w6">
@@ -1349,7 +1349,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-013-p1s19w18">
@@ -2307,7 +2307,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-013-p1s27w13">
@@ -2482,7 +2482,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-013-p1s29w3">
@@ -2869,7 +2869,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-013-p1s31w4">
@@ -2990,7 +2990,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-013-p1s32w8">
@@ -3094,7 +3094,7 @@
 <form>FNM</form>
 <tag>
 <AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-013-p1s33w4">

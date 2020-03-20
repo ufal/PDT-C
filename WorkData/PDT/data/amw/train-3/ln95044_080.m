@@ -498,7 +498,7 @@
 <form>KLDR</form>
 <tag>
 <AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KLDR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="KLDR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2192,7 +2192,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JAR-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2296,7 +2296,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-080-p8s1Aw16">
@@ -2478,7 +2478,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
-<AM lemma="JAR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2583,7 +2583,7 @@
 <form>SHP</form>
 <tag>
 <AM lemma="SHP-1_:B_;G_^(Severočeská_hnědouhelná_pánev)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SHP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-080-p9s1w10">
@@ -2655,7 +2655,7 @@
 <form>SHP</form>
 <tag>
 <AM lemma="SHP-1_:B_;G_^(Severočeská_hnědouhelná_pánev)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SHP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-080-p9s2w2">
@@ -2733,7 +2733,7 @@
 <form>CHP</form>
 <tag>
 <AM lemma="CHP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CHP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-080-p9s2w11">
@@ -4165,7 +4165,7 @@
 <form>CFA</form>
 <tag>
 <AM lemma="CFA-2_:B_;G_,t_^(Colonies_Francaise_Africaines)" src="auto">NNIXX-----A----</AM>
-<AM lemma="CFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-080-p13s1w4">

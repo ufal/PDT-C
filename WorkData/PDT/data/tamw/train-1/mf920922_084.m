@@ -267,7 +267,7 @@
 <form>HSDSMS</form>
 <tag>
 <AM lemma="HSDSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSDSMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HSDSMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p2s1w29">
@@ -773,7 +773,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p2s2w55">
@@ -858,7 +858,7 @@
 <form>SDSS</form>
 <tag>
 <AM lemma="SDSS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SDSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p3s1w8">
@@ -887,7 +887,7 @@
 <form>SDSS</form>
 <tag>
 <AM lemma="SDSS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SDSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p3s2w3">
@@ -943,7 +943,7 @@
 <AM lemma="být" src="auto">VB-S---2P-AA--7</AM>
 <AM lemma="SI_:B_;K_^(Socialistická_internacionála)" src="manual">NNFXX-----A---8</AM>
 <AM lemma="SI_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p3s2w9">
@@ -1269,7 +1269,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p4s1w31">
@@ -1491,7 +1491,7 @@
 <form>SZ</form>
 <tag>
 <AM lemma="SZ-1_:B_;K_^(Strana_zelených)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p4s2w20">
@@ -1558,7 +1558,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p4s2w28">
@@ -1577,7 +1577,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p4s2w30">
@@ -1823,7 +1823,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p5s2w10">
@@ -1962,7 +1962,7 @@
 <form>ČSSD</form>
 <tag>
 <AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p5s2w27">
@@ -2021,7 +2021,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p5s2w34">

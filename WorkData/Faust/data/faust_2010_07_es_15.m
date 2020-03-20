@@ -369,7 +369,7 @@
 <form>NASDAQ</form>
 <tag>
 <AM lemma="NASDAQ_:B_;K_,t_^(National_Assoc._of_Secur._Dealers_Aut...)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="NASDAQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NASDAQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1537-s1-w3">
@@ -386,7 +386,7 @@
 <form>INTC</form>
 <tag>
 <AM lemma="INTC">X@-------------</AM>
-<AM lemma="INTC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="INTC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1537-s1-w5">
@@ -396,7 +396,7 @@
 <form>SEHK</form>
 <tag>
 <AM lemma="SEHK">X@-------------</AM>
-<AM lemma="SEHK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEHK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1537-s1-w6">
@@ -1914,7 +1914,7 @@
 <AM lemma="PAM-1_:B_,t_^(pulse_amplitude_modulation)">NNFXX-----A---8</AM>
 <AM lemma="PAM-3_:B_,t_^(page_allocation_map)">NNFXX-----A---8</AM>
 <AM lemma="Pam_;Y">NNMS1-----A----</AM>
-<AM lemma="PAM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PAM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1557-s1-w4">
@@ -3091,7 +3091,7 @@
 <AM lemma="LED_:B_;c_,t_^(light_emitting_diode)" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="led">NNIS1-----A----</AM>
 <AM lemma="led">NNIS4-----A----</AM>
-<AM lemma="LED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1586-s1-w14">

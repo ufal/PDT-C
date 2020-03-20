@@ -529,7 +529,7 @@
 <AM lemma="ORL_:B_^(otorinolaryngologie)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ORL_:B" src="auto">NNNSX-----A---8</AM>
 <AM lemma="Orlický_:B_;G" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ORL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-027-p5s1w15">

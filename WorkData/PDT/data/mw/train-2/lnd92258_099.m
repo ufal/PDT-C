@@ -373,7 +373,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-099-p3s2w5">
@@ -916,7 +916,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-099-p4s1w7">
@@ -1103,7 +1103,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-099-p4s1w31">
@@ -1212,7 +1212,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-099-p5s1w13">
@@ -1935,7 +1935,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-099-p6s1w40">
@@ -2341,7 +2341,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-099-p6s5w9">

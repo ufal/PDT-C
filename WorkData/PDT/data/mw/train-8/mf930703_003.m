@@ -510,7 +510,7 @@
 <form>HSDMS</form>
 <tag>
 <AM lemma="HSDMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HSDMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HSDMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-003-p2s3w8">
@@ -1011,7 +1011,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-003-p3s1w41">
@@ -1138,7 +1138,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-003-p4s1w4">

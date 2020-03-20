@@ -108,7 +108,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
-<AM lemma="JAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-046-p2s1Bw4">
@@ -258,7 +258,7 @@
 <form>ANC</form>
 <tag>
 <AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-046-p2s1Bw22">
@@ -394,7 +394,7 @@
 <tag>
 <AM lemma="NP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="NP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-046-p2s2w12">
@@ -438,7 +438,7 @@
 <tag>
 <AM lemma="NP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="NP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-046-p2s2w17">
@@ -556,7 +556,7 @@
 <form>ANC</form>
 <tag>
 <AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-046-p2s2w31">
@@ -585,7 +585,7 @@
 <form>de</form>
 <tag>
 <AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
-<AM lemma="de-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="de-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -637,7 +637,7 @@
 <form>ANC</form>
 <tag>
 <AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-046-p2s3w9">
@@ -777,7 +777,7 @@
 <tag>
 <AM lemma="NP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="NP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-046-p2s3w26">

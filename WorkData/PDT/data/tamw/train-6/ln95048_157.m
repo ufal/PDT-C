@@ -508,7 +508,7 @@
 <tag>
 <AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-157-p2s3w18">
@@ -788,7 +788,7 @@
 <tag>
 <AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-157-p3s2w5">

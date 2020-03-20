@@ -660,7 +660,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s1w8">
@@ -815,7 +815,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s1w27">
@@ -866,7 +866,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s1w33">
@@ -1365,8 +1365,8 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s3w20">
@@ -1404,8 +1404,8 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s3w24">
@@ -2212,8 +2212,8 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s9w10">
@@ -2750,7 +2750,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s12w30">

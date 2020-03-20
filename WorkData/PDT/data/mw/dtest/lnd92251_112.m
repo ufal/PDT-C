@@ -1115,7 +1115,7 @@
 <form>La</form>
 <tag>
 <AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
-<AM lemma="La-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="La-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

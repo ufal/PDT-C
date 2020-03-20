@@ -1321,7 +1321,7 @@
 <form>XTZ</form>
 <tag>
 <AM lemma="XTZ_:B_;R" src="orig">NNXXX-----A----</AM>
-<AM lemma="XTZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XTZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-059-p3s1w27">

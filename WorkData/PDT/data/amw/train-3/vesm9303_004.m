@@ -1633,7 +1633,7 @@
 <form>PCR</form>
 <tag>
 <AM lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PCR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-004-p5s3w10">
@@ -4353,7 +4353,7 @@
 <form>PNAS</form>
 <tag>
 <AM lemma="PNAS_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PNAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-004-p7s3w22">
@@ -5533,7 +5533,7 @@
 <form>SELEX</form>
 <tag>
 <AM lemma="SELEX_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SELEX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SELEX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-004-p8s4w15">

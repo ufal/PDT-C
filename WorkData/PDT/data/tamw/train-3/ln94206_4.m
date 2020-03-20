@@ -379,7 +379,7 @@
 <form>CIS</form>
 <tag>
 <AM lemma="CIS-2_:B_;K_^(Cestovní_informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-4-p2s2w11">
@@ -477,7 +477,7 @@
 <form>UNIDO</form>
 <tag>
 <AM lemma="UNIDO-1_:B_;K_,t_^(United_Nations_Idustr._Develop._Organ.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNIDO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNIDO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-4-p3s1w10">
@@ -1187,7 +1187,7 @@
 <form>CIS</form>
 <tag>
 <AM lemma="CIS-2_:B_;K_^(Cestovní_informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-4-p4s2w8">

@@ -539,7 +539,7 @@
 <form>UCI</form>
 <tag>
 <AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-99-p2s3w8">
@@ -598,7 +598,7 @@
 <form>UCI</form>
 <tag>
 <AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-99-p2s3w15">

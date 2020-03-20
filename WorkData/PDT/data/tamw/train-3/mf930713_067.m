@@ -1292,7 +1292,7 @@
 <form>EKOSS</form>
 <tag>
 <AM lemma="EKOSS_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EKOSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EKOSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-067-p3s3w9">

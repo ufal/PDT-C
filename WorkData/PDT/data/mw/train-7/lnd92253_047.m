@@ -1160,7 +1160,7 @@
 <form>BP</form>
 <tag>
 <AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p3s2w12">
@@ -1323,7 +1323,7 @@
 <form>BP</form>
 <tag>
 <AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p3s2w32">
@@ -1629,7 +1629,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p4s1w15">
@@ -1680,7 +1680,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p4s1w21">
@@ -2136,7 +2136,7 @@
 <form>ÚV</form>
 <tag>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p5s1w22">
@@ -2147,7 +2147,7 @@
 <form>KS</form>
 <tag>
 <AM lemma="KS_:B_^(komunistická_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p5s1w23">
@@ -2334,7 +2334,7 @@
 <form>ÚV</form>
 <tag>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p5s2w12">
@@ -2345,7 +2345,7 @@
 <form>KS</form>
 <tag>
 <AM lemma="KS_:B_^(komunistická_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p5s2w13">

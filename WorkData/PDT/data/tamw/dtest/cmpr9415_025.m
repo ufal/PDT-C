@@ -7141,7 +7141,7 @@
 <form>HaK</form>
 <tag>
 <AM lemma="HaK_:B_;K_^(nakladatelství)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HaK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HaK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-025-p17s1w7">
@@ -11778,7 +11778,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-025-p34s1w3">
@@ -12041,7 +12041,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-025-p41s1w2">

@@ -86,7 +86,7 @@
 <form>PTV</form>
 <tag>
 <AM lemma="PTV_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-025-p4s1w5">
@@ -527,7 +527,7 @@
 <form>PTV</form>
 <tag>
 <AM lemma="PTV_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-025-p5s1w6">

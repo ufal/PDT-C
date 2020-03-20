@@ -1448,7 +1448,7 @@
 <tag>
 <AM lemma="MHD" src="orig">NNFSX-----A----</AM>
 <AM lemma="MHD_:B" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="MHD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MHD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-13-p3s5w12">
@@ -2744,7 +2744,7 @@
 <form>n</form>
 <tag>
 <AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
-<AM lemma="n-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="n-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
 </tag>
 </m>
@@ -2783,7 +2783,7 @@
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="N-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-13-p4s1w37">

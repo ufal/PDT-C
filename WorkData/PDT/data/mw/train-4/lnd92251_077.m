@@ -558,7 +558,7 @@
 <AM lemma="ECM-1_:B_,t_^(European_Common_Market)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECM-2_:B_,t_^(enhanced_color_monitor)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ECM-3_:B_,t_^(Error_Correction_Mode,_mód_u_faxů)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ECM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ECM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-077-p3s3w10">
@@ -900,7 +900,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-077-p4s1w13">
@@ -919,7 +919,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-077-p4s1w15">
@@ -2030,7 +2030,7 @@
 <AM lemma="ECM-1_:B_,t_^(European_Common_Market)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECM-2_:B_,t_^(enhanced_color_monitor)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ECM-3_:B_,t_^(Error_Correction_Mode,_mód_u_faxů)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ECM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ECM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-077-p4s7w5">

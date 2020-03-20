@@ -199,7 +199,7 @@
 <AM lemma="jihovýchod_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="jihovýchod_:B_,x" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="JV_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="JV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-78-p2s1Bw7">
@@ -825,7 +825,7 @@
 <AM lemma="jihovýchod_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="jihovýchod_:B_,x" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="JV_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="JV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-78-p3s2w9">
@@ -967,7 +967,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-78-p3s2w26">
@@ -1079,7 +1079,7 @@
 <AM lemma="jihovýchod_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="jihovýchod_:B_,x" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="JV_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="JV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-78-p4s1w6">
@@ -1123,7 +1123,7 @@
 <tag>
 <AM lemma="MHD" src="orig">NNFSX-----A----</AM>
 <AM lemma="MHD_:B" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="MHD-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="MHD-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="MHD_:B_^(Městská_hromadná_doprava)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1519,7 +1519,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-78-p4s2w23">
@@ -1573,7 +1573,7 @@
 <AM lemma="jihovýchod_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="jihovýchod_:B_,x" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="JV_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="JV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-78-p4s2w29">

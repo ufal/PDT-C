@@ -51,7 +51,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p1s1w5">
@@ -1022,7 +1022,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p4s1w9">
@@ -1099,7 +1099,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p4s2w4">
@@ -1238,7 +1238,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p4s2w21">
@@ -1559,7 +1559,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p6s1w4">
@@ -1700,7 +1700,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p6s2w7">
@@ -1753,7 +1753,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p7s1w2">
@@ -1990,7 +1990,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p8s1w17">
@@ -2041,7 +2041,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p8s1w23">
@@ -2700,7 +2700,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p9s5w7">
@@ -3428,7 +3428,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p10s1w23">

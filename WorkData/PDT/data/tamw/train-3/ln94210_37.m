@@ -262,7 +262,7 @@
 <form>ČNZP</form>
 <tag>
 <AM lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNZP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-37-p2s1Bw21">
@@ -576,7 +576,7 @@
 <tag>
 <AM lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNZP-77" src="manual">F%-------------</AM>
-<AM lemma="ČNZP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-37-p2s4w6">
@@ -929,7 +929,7 @@
 <form>ČNZP</form>
 <tag>
 <AM lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNZP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-37-p2s7w2">
@@ -1153,7 +1153,7 @@
 <form>ČNZP</form>
 <tag>
 <AM lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNZP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-37-p2s8w2">
@@ -1327,7 +1327,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-37-p2s8w23">

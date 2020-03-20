@@ -1178,7 +1178,7 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-91-p3s2w20">

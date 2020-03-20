@@ -194,7 +194,7 @@
 <tag>
 <AM lemma="VČE_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VČE_:B_;K_^(Východočeské_elektrárny)" src="auto" recommended="1">NNFPX-----A---8</AM>
-<AM lemma="VČE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VČE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-063-p4s1w10">
@@ -1379,7 +1379,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1846,7 +1846,7 @@
 <tag>
 <AM lemma="VČE_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VČE_:B_;K_^(Východočeské_elektrárny)" src="auto" recommended="1">NNFPX-----A---8</AM>
-<AM lemma="VČE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VČE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-063-p12s1w20">

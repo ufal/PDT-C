@@ -137,7 +137,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-131-p2s1Bw8">
@@ -920,7 +920,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-131-p2s6w3">
@@ -955,7 +955,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-131-p2s6w7">
@@ -1080,7 +1080,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-131-p2s7w12">
@@ -1480,7 +1480,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-131-p2s9w14">

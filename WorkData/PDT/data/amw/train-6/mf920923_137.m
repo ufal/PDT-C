@@ -111,7 +111,7 @@
 <form>DINCOTE</form>
 <tag>
 <AM lemma="DINCOTE_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DINCOTE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DINCOTE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-137-p2s1Aw5">
@@ -1023,7 +1023,7 @@
 <form>DINCOTE</form>
 <tag>
 <AM lemma="DINCOTE_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DINCOTE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DINCOTE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-137-p3s2w24">
@@ -1379,7 +1379,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-137-p4s1w14">
@@ -2793,7 +2793,7 @@
 <form>DINCOTE</form>
 <tag>
 <AM lemma="DINCOTE_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DINCOTE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DINCOTE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-137-p6s3w8">

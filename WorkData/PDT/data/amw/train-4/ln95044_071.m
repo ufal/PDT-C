@@ -421,7 +421,7 @@
 <form>CSA</form>
 <tag>
 <AM lemma="CSA-1_:B_;K_,t_^(Confédération_Syndicale_Africaine)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CSA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-071-p2s3w15">

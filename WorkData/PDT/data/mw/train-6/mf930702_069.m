@@ -106,7 +106,7 @@
 <form>FC</form>
 <tag>
 <AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-069-p2s1w8">
@@ -894,7 +894,7 @@
 <form>AS</form>
 <tag>
 <AM lemma="AS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-069-p3s4w5">
@@ -2034,7 +2034,7 @@
 <form>FC</form>
 <tag>
 <AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-069-p4s6w13">

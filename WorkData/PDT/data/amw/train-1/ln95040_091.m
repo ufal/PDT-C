@@ -703,7 +703,7 @@
 <form>IFOP</form>
 <tag>
 <AM lemma="IFOP-1_:B_;K_,t_^(Institut_Francais_de_l'Opinion_Publique)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IFOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IFOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-091-p2s5w4">
@@ -1060,7 +1060,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-091-p2s6w25">

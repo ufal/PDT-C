@@ -1020,7 +1020,7 @@
 <form>SC</form>
 <tag>
 <AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-090-p1s6w12">
@@ -2307,7 +2307,7 @@
 <form>CSKA</form>
 <tag>
 <AM lemma="CSKA-1_:B_;K_;w_,t_^(sov._sport._klub)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CSKA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CSKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-090-p1s15w19">

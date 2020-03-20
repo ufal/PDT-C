@@ -294,7 +294,7 @@
 <form>NDR</form>
 <tag>
 <AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-052-p3s2w27">
@@ -451,7 +451,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-052-p3s3w19">
@@ -520,7 +520,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-052-p3s4w2">
@@ -936,7 +936,7 @@
 <form>NDR</form>
 <tag>
 <AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-052-p3s5w19">

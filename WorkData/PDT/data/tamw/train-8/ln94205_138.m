@@ -21,7 +21,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-138-p1s1w2">
@@ -215,7 +215,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-138-p2s1Bw16">

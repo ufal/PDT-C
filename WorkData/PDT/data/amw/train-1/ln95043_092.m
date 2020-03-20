@@ -265,7 +265,7 @@
 <tag>
 <AM lemma="BIBA_:B_;K_,t_^(Bermuda_International_Bussiness_Association)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BIBA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BIBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-092-p2s2w9">

@@ -690,7 +690,7 @@
 <AM lemma="síci" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="s-2`sekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SEC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-026-p3s5w11">

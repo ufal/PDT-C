@@ -243,8 +243,8 @@
 <form>Sk</form>
 <tag>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sk-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sk-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-114-p2s3w8">
@@ -755,7 +755,7 @@
 <form>SNB</form>
 <tag>
 <AM lemma="SNB-1_:B_;K_;p_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SNB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-114-p2s7w6">
@@ -1450,7 +1450,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-114-p2s11w16">

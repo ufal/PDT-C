@@ -689,7 +689,7 @@
 <form>ONC</form>
 <tag>
 <AM lemma="ONC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ONC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ONC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-010-p6s2w9">
@@ -1413,7 +1413,7 @@
 <form>Int</form>
 <tag>
 <AM lemma="International_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Int-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Int-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-010-p9s5w4">
@@ -1902,7 +1902,7 @@
 <form>Int</form>
 <tag>
 <AM lemma="International_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Int-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Int-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-010-p9s7w24">
@@ -2033,7 +2033,7 @@
 <form>Int</form>
 <tag>
 <AM lemma="International_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Int-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Int-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-010-p11s2w3">
@@ -2164,7 +2164,7 @@
 <form>NCS</form>
 <tag>
 <AM lemma="NCS_:B_;K_,t" src="orig">NNXSX-----A----</AM>
-<AM lemma="NCS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NCS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-010-p11s2w19">

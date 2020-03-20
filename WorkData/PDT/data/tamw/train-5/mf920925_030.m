@@ -109,7 +109,7 @@
 <form>BHT</form>
 <tag>
 <AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BHT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p2s2w4">
@@ -472,7 +472,7 @@
 <form>BHT</form>
 <tag>
 <AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BHT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p2s3w18">
@@ -794,7 +794,7 @@
 <form>BHT</form>
 <tag>
 <AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BHT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p3s1w22">
@@ -1157,7 +1157,7 @@
 <form>BHT</form>
 <tag>
 <AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BHT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s1w3">
@@ -1438,7 +1438,7 @@
 <form>BHT</form>
 <tag>
 <AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BHT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s4w3">

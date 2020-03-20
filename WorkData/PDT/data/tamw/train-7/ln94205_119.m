@@ -154,7 +154,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw12">
@@ -1119,7 +1119,7 @@
 <form>MOV</form>
 <tag>
 <AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p4s1w9">
@@ -1154,7 +1154,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p4s1w13">
@@ -1191,7 +1191,7 @@
 <form>MOV</form>
 <tag>
 <AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p4s2w3">

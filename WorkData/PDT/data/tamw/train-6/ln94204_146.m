@@ -1550,7 +1550,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-146-p2s8w29">
@@ -2577,7 +2577,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-146-p2s13Aw3">
@@ -3274,7 +3274,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -4088,7 +4088,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-146-p2s17Bw47">

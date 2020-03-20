@@ -103,7 +103,7 @@
 <AM lemma="UFO-1_:B_,h_,t_,x_^(unidentified_flying_object)" src="auto">NNNP2-----A----</AM>
 <AM lemma="uf" src="auto" recommended="1">II-------------</AM>
 <AM lemma="UF-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="UF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-019-p2s1w8">
@@ -286,7 +286,7 @@
 <form>ECM</form>
 <tag>
 <AM lemma="ECM-3_:B_,t_^(Error_Correction_Mode,_mód_u_faxů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ECM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-019-p5s1w6">

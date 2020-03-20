@@ -664,7 +664,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-068-p3s2w2">
@@ -1909,7 +1909,7 @@
 <form>MNS</form>
 <tag>
 <AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-068-p5s1w27">
@@ -1994,7 +1994,7 @@
 <form>MNS</form>
 <tag>
 <AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-068-p5s2w2">

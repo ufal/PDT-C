@@ -37,7 +37,7 @@
 <form>GSR</form>
 <tag>
 <AM lemma="GSR_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-23-p1s1w4">
@@ -258,7 +258,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-23-p2s1Bw18">
@@ -606,7 +606,7 @@
 <form>GSR</form>
 <tag>
 <AM lemma="GSR_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-23-p3s1w10">
@@ -920,7 +920,7 @@
 <form>GSR</form>
 <tag>
 <AM lemma="GSR_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-23-p3s3w3">
@@ -1649,7 +1649,7 @@
 <form>BERD</form>
 <tag>
 <AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-23-p4s5w10">

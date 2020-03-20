@@ -1508,7 +1508,7 @@
 <form>OV</form>
 <tag>
 <AM lemma="OV-1_:B_;K_^(obvodní/okresní_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="OV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-138-p3s7w5">
@@ -1519,7 +1519,7 @@
 <form>SSM</form>
 <tag>
 <AM lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SSM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-138-p3s7w6">
@@ -2458,7 +2458,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-138-p4s5w15">
@@ -2597,7 +2597,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-138-p4s5w32">

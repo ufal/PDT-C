@@ -132,7 +132,7 @@
 <form>IEC</form>
 <tag>
 <AM lemma="IEC-1_:B_;K_,t_^(International_Electrotechnical_Commission)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-046-p1s1Cw6">
@@ -1083,7 +1083,7 @@
 <form>IFP</form>
 <tag>
 <AM lemma="IFP-1_:B_;K_,t_^(Int._Feder._of_Publisher,_Proprietors_...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IFP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-046-p1s6w15">
@@ -1191,7 +1191,7 @@
 <form>ANC</form>
 <tag>
 <AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-046-p1s6w28">
@@ -1286,7 +1286,7 @@
 <form>NP</form>
 <tag>
 <AM lemma="NP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-046-p1s6w39">
@@ -1313,7 +1313,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-046-p1s6w42">

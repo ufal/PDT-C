@@ -199,7 +199,7 @@
 <AM lemma="BVV_:B_;K" src="auto">NNIPX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-017-p2s1Bw9">
@@ -2136,7 +2136,7 @@
 <AM lemma="BVV_:B_;K" src="auto">NNIPX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-017-p2s14w4">

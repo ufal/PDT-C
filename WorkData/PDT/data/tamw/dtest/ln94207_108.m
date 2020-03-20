@@ -625,7 +625,7 @@
 <form>MCH</form>
 <tag>
 <AM lemma="MCH_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="MCH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MCH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-108-p3s1w21">
@@ -767,7 +767,7 @@
 <form>FTVS</form>
 <tag>
 <AM lemma="FTVS-1_:B_^(fakulta_tělesné_výchovy_a_sportu)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FTVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FTVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-108-p3s1w38">

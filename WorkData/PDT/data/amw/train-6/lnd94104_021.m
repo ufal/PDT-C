@@ -69,7 +69,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-021-p1s1Aw8">
@@ -296,7 +296,7 @@
 <form>MV</form>
 <tag>
 <AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-021-p1s1Aw37">
@@ -372,7 +372,7 @@
 <tag>
 <AM lemma="ÚDV_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚDV_:B_;K_^(Úřad_dokumentace_a_vyšetřování_zločinů_komunismu)" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="ÚDV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚDV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-021-p1s1Aw46">

@@ -235,7 +235,7 @@
 <AM lemma="EPA-3_:B_;K_^(sport._klub)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EPA-1_:B_;K_,t_^(Environmental_Protection_Agency)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EPA_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="EPA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-067-p2s1w13">
@@ -3163,7 +3163,7 @@
 <AM lemma="EPA-3_:B_;K_^(sport._klub)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EPA-1_:B_;K_,t_^(Environmental_Protection_Agency)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EPA_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="EPA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-067-p8s2w8">

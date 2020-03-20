@@ -2369,7 +2369,7 @@
 <AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._MS-DOS)">NNIXX-----A---8</AM>
 <AM lemma="MS-9_:B_;w_^(mistryně_sportu)">NNFXX-----A---8</AM>
 <AM lemma="ms-2`milisekunda_:B">NNFXX-----A---8</AM>
-<AM lemma="MS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_18-SCzechM-p1883-s1-w16">
@@ -2457,7 +2457,7 @@
 <form>Ms</form>
 <tag>
 <AM lemma="ms-2`milisekunda_:B" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Ms-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ms-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_18-SCzechM-p1883-s1-w24">
@@ -2679,7 +2679,7 @@
 <AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._MS-DOS)">NNIXX-----A---8</AM>
 <AM lemma="MS-9_:B_;w_^(mistryně_sportu)">NNFXX-----A---8</AM>
 <AM lemma="ms-2`milisekunda_:B">NNFXX-----A---8</AM>
-<AM lemma="MS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_18-SCzechM-p1883-s1-w44">

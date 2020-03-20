@@ -82,7 +82,7 @@
 <form>AP</form>
 <tag>
 <AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p2s1w4">
@@ -1031,7 +1031,7 @@
 <form>U</form>
 <tag>
 <AM lemma="United-1_:B_;G_,t_^(United,_spojený)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p3s3w14">
@@ -1050,7 +1050,7 @@
 <form>S</form>
 <tag>
 <AM lemma="States_:B_;G_,t_^(United_States_ve_zkr._apod.)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p3s3w16">
@@ -1731,7 +1731,7 @@
 <form>U</form>
 <tag>
 <AM lemma="United-1_:B_;G_,t_^(United,_spojený)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p4s2w14">
@@ -1752,7 +1752,7 @@
 <form>S</form>
 <tag>
 <AM lemma="States_:B_;G_,t_^(United_States_ve_zkr._apod.)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p4s3w2">

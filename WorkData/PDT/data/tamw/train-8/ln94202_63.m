@@ -1670,7 +1670,7 @@
 <form>RSK</form>
 <tag>
 <AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RSK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RSK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-63-p6s1w28">
@@ -2668,7 +2668,7 @@
 <form>UNPROFOR</form>
 <tag>
 <AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNPROFOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-63-p7s1w34">

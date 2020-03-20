@@ -752,7 +752,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-001-p3s1w33">
@@ -771,7 +771,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-001-p3s1w35">
@@ -790,7 +790,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-001-p3s1w37">

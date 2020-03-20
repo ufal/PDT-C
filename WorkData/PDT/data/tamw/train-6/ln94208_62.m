@@ -1493,7 +1493,7 @@
 <form>SRJ</form>
 <tag>
 <AM lemma="SRJ_:B_;G_^(Jugoslávská_svazová_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-62-p4s1w17">

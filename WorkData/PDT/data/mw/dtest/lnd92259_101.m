@@ -73,7 +73,7 @@
 <form>Arm</form>
 <tag>
 <AM lemma="armádní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Arm-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Arm-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p2s2w4">
@@ -214,7 +214,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p2s3w7">
@@ -645,7 +645,7 @@
 <form>ČNL</form>
 <tag>
 <AM lemma="ČNL_:B_;m_^(Česká_nár._liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p5s2w25">
@@ -846,7 +846,7 @@
 <form>SNL</form>
 <tag>
 <AM lemma="SNL_:B_;m_^(Slovenská_nár._liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p6s2w2">
@@ -1021,7 +1021,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p6s3w2">
@@ -1096,7 +1096,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p6s3w11">
@@ -1156,7 +1156,7 @@
 <tag>
 <AM lemma="Liptovský_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Lipta_;K" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Lipt-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Lipt-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p6s3w18">
@@ -1981,7 +1981,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p8s2w84">

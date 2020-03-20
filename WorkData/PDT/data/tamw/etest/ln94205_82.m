@@ -290,7 +290,7 @@
 <form>FIS</form>
 <tag>
 <AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-82-p2s1Bw27">
@@ -469,7 +469,7 @@
 <form>FIS</form>
 <tag>
 <AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-82-p2s3w6">
@@ -994,7 +994,7 @@
 <form>FIS</form>
 <tag>
 <AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-82-p2s5w18">

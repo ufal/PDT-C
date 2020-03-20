@@ -589,7 +589,7 @@
 <form>UCI</form>
 <tag>
 <AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UCI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-108-p3s1w23">
@@ -648,7 +648,7 @@
 <form>MOV</form>
 <tag>
 <AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-108-p3s1w30">

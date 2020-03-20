@@ -4499,7 +4499,7 @@
 <form>DNSAP</form>
 <tag>
 <AM lemma="DNSAP-1_:B_;K_,t_^(Deutsche_nationalsoz._Arbeiterpartei)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DNSAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNSAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-089-p5s4w10">
@@ -4562,7 +4562,7 @@
 <tag>
 <AM lemma="DNP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-089-p5s4w17">
@@ -5220,7 +5220,7 @@
 <form>SA</form>
 <tag>
 <AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-089-p5s8w17">
@@ -5314,7 +5314,7 @@
 <form>NSDAP</form>
 <tag>
 <AM lemma="NSDAP-1_:B_;K_,t_^(Nationalsoz._Deutsche_Arbeiterpartei)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NSDAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NSDAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-089-p5s8w28">
@@ -7259,7 +7259,7 @@
 <form>DNSAP</form>
 <tag>
 <AM lemma="DNSAP-1_:B_;K_,t_^(Deutsche_nationalsoz._Arbeiterpartei)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DNSAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNSAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-089-p8s2w11">
@@ -7279,7 +7279,7 @@
 <tag>
 <AM lemma="DNP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-089-p8s2w13">

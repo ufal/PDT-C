@@ -392,7 +392,7 @@
 <AM lemma="duna" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="dunajský_:B_;G" src="manual">AAXXX----1A---8</AM>
 <AM lemma="dunajský_:B" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Dun-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Dun-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-119-p2s2w3">
@@ -637,7 +637,7 @@
 <form>DAC</form>
 <tag>
 <AM lemma="DAC_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="DAC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DAC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-119-p2s4w19">
@@ -1289,7 +1289,7 @@
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="d-5_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-119-p2s8w8">
@@ -1876,7 +1876,7 @@
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="d-5_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-119-p2s11w6">

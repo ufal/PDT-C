@@ -712,7 +712,7 @@
 <form>ODT</form>
 <tag>
 <AM lemma="ODT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ODT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-071-p2s3w21">
@@ -742,7 +742,7 @@
 <form>SODA</form>
 <tag>
 <AM lemma="soda" src="orig">NNFS1-----A----</AM>
-<AM lemma="SODA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-071-p2s3w24">

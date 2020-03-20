@@ -2582,7 +2582,7 @@
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="f-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="F-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-046-p3s6w4">
@@ -2625,7 +2625,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-046-p3s6w6">
@@ -2724,7 +2724,7 @@
 <form>KF</form>
 <tag>
 <AM lemma="KF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-046-p3s6w18">

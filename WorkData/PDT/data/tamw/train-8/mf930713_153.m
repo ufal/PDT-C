@@ -217,7 +217,7 @@
 <form>UNPROFOR</form>
 <tag>
 <AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNPROFOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-153-p2s1Bw18">

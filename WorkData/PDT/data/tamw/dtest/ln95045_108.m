@@ -1148,7 +1148,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-108-p3s3w13">
@@ -2009,7 +2009,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-108-p4s1w26">
@@ -2735,7 +2735,7 @@
 <form>FRYMA</form>
 <tag>
 <AM lemma="FRYMA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FRYMA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FRYMA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-108-p6s1w33">

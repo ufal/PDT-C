@@ -5679,7 +5679,7 @@
 <form>HMO</form>
 <tag>
 <AM lemma="HMO_:B_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="HMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p9s4w13">
@@ -6254,7 +6254,7 @@
 <form>HMO</form>
 <tag>
 <AM lemma="HMO_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="HMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p9s7w32">
@@ -8877,7 +8877,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p12s1w3">
@@ -8912,7 +8912,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p12s2w4">
@@ -8931,7 +8931,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p12s2w6">

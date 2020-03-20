@@ -1502,7 +1502,7 @@
 <form>TMI</form>
 <tag>
 <AM lemma="TMI_:B_;K_^(eletrárna_Three_Mile_Island)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TMI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p4s2w11">
@@ -1869,7 +1869,7 @@
 <form>TMI</form>
 <tag>
 <AM lemma="TMI_:B_;K_^(eletrárna_Three_Mile_Island)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TMI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p4s4w4">
@@ -1934,7 +1934,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p4s4w11">
@@ -1953,7 +1953,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p4s4w13">

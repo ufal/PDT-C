@@ -201,7 +201,7 @@
 <form>FTN</form>
 <tag>
 <AM lemma="FTN-1_:B_;K_^(Fakultní_Thomayerova_nemocnice)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FTN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FTN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p3s1w15">
@@ -300,7 +300,7 @@
 <form>FITES</form>
 <tag>
 <AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FITES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FITES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p3s1w27">
@@ -449,9 +449,9 @@
 <form>FITESu</form>
 <tag>
 <AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIS2-----A----</AM>
-<AM lemma="FITESu-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FITESu-88_:B" src="manual">NNIS2-----A----</AM>
-<AM lemma="FITES-88_:B" src="manual">NNIS2-----A----</AM>
+<AM lemma="FITESu-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FITESu-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FITES-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FITES-1_:B" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -566,7 +566,7 @@
 <form>FTN</form>
 <tag>
 <AM lemma="FTN-1_:B_;K_^(Fakultní_Thomayerova_nemocnice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FTN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FTN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p4s1w4">
@@ -625,8 +625,8 @@
 <form>FITESu</form>
 <tag>
 <AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIS2-----A----</AM>
-<AM lemma="FITESu-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FITES-88_:B" src="manual">NNIS2-----A----</AM>
+<AM lemma="FITESu-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FITES-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FITES-1_:B" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -1964,7 +1964,7 @@
 <form>FTN</form>
 <tag>
 <AM lemma="FTN-1_:B_;K_^(Fakultní_Thomayerova_nemocnice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FTN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FTN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p7s2w17">
@@ -2033,8 +2033,8 @@
 <form>FITESu</form>
 <tag>
 <AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIS2-----A----</AM>
-<AM lemma="FITESu-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FITES-88_:B" src="manual">NNIS2-----A----</AM>
+<AM lemma="FITESu-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FITES-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FITES-1_:B" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -2766,7 +2766,7 @@
 <form>FTN</form>
 <tag>
 <AM lemma="FTN-1_:B_;K_^(Fakultní_Thomayerova_nemocnice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FTN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FTN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p7s9w21">
@@ -3084,7 +3084,7 @@
 <form>FITES</form>
 <tag>
 <AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FITES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FITES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p9s1w6">
@@ -3259,8 +3259,8 @@
 <form>FITESu</form>
 <tag>
 <AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIS2-----A----</AM>
-<AM lemma="FITESu-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FITES-88_:B" src="manual">NNIS2-----A----</AM>
+<AM lemma="FITESu-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FITES-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FITES-1_:B" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -3312,7 +3312,7 @@
 <form>FTN</form>
 <tag>
 <AM lemma="FTN-1_:B_;K_^(Fakultní_Thomayerova_nemocnice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FTN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FTN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p9s3w14">
@@ -3485,7 +3485,7 @@
 <form>FTN</form>
 <tag>
 <AM lemma="FTN-1_:B_;K_^(Fakultní_Thomayerova_nemocnice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FTN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FTN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p9s4w17">
@@ -3918,7 +3918,7 @@
 <form>FTN</form>
 <tag>
 <AM lemma="FTN-1_:B_;K_^(Fakultní_Thomayerova_nemocnice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FTN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FTN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p11s1w9">

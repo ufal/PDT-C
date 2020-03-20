@@ -137,7 +137,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-121-p1s1Bw8">
@@ -172,7 +172,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-121-p1s1Bw12">
@@ -767,7 +767,7 @@
 <form>SPN</form>
 <tag>
 <AM lemma="SPN_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SPN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-121-p1s2w35">
@@ -1919,7 +1919,7 @@
 <form>SPN</form>
 <tag>
 <AM lemma="SPN_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SPN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-121-p1s10w13">
@@ -2297,7 +2297,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-121-p1s12w24">

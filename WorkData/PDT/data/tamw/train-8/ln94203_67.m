@@ -1170,7 +1170,7 @@
 <tag>
 <AM lemma="DEA-2_:B_;K_,t_^(Drug_Enforcement_Administration)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEA-1_:B_,t_^(décollage_en_aveugle)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="DEA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DEA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-67-p4s2w12">
@@ -1500,7 +1500,7 @@
 <form>OIC</form>
 <tag>
 <AM lemma="OIC-1_:B_;K_,t_^(Organisation_Internationale_du_Commerce)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OIC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-67-p5s2w11">

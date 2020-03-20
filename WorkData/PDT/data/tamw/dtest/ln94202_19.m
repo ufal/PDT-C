@@ -4673,7 +4673,7 @@
 <AM lemma="mop" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="mop" src="auto">NNIS4-----A----</AM>
 <AM lemma="MOP-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-19-p10s2w3">
@@ -5392,7 +5392,7 @@
 <AM lemma="mop" src="auto">NNIS1-----A----</AM>
 <AM lemma="mop" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="MOP-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-19-p10s8w5">
@@ -6027,7 +6027,7 @@
 <AM lemma="mop" src="auto">NNIS1-----A----</AM>
 <AM lemma="mop" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="MOP-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-19-p12s1w3">

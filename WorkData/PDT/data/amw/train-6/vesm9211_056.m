@@ -87,7 +87,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s1w6">
@@ -275,7 +275,7 @@
 <form>COBE</form>
 <tag>
 <AM lemma="COBE-1_:B_,t_^(cosmic_bacground_explorer)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="COBE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="COBE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s1w29">
@@ -707,7 +707,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w11">
@@ -769,7 +769,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w18">
@@ -821,7 +821,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w22">
@@ -865,7 +865,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w25">
@@ -980,7 +980,7 @@
 <form>COBE</form>
 <tag>
 <AM lemma="COBE-1_:B_,t_^(cosmic_bacground_explorer)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="COBE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="COBE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w39">
@@ -1379,7 +1379,7 @@
 <form>COBE</form>
 <tag>
 <AM lemma="COBE-1_:B_,t_^(cosmic_bacground_explorer)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="COBE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="COBE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s6w20">

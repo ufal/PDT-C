@@ -55,7 +55,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-075-p2s1Aw2">
@@ -376,7 +376,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-075-p2s2w13">
@@ -854,7 +854,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-075-p3s4w7">

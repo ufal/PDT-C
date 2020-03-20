@@ -1695,7 +1695,7 @@
 <form>SaKO</form>
 <tag>
 <AM lemma="sako" src="orig">NNNS1-----A----</AM>
-<AM lemma="SaKO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SaKO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-022-p6s2w4">

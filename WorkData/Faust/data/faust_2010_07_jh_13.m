@@ -2499,7 +2499,7 @@
 <form>MLPS</form>
 <tag>
 <AM lemma="MLPS">X@-------------</AM>
-<AM lemma="MLPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MLPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_13-SCzechM-p1354-s1-w14">
@@ -2671,7 +2671,7 @@
 <form>NIE</form>
 <tag>
 <AM lemma="NIE">X@-------------</AM>
-<AM lemma="NIE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NIE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_13-SCzechM-p1356-s1-w9">

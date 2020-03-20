@@ -792,7 +792,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-066-p3s1w34">
@@ -1743,7 +1743,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-066-p3s7w18">
@@ -1778,7 +1778,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-066-p3s7w22">
@@ -2698,7 +2698,7 @@
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
 <AM lemma="Jaroslav_:B" src="manual">NNMS2-----A---8</AM>
 <AM lemma="Jaroslav-1_;Y_:B" src="manual">NNMXX-----A---8</AM>
-<AM lemma="Jar-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Jar-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-066-p3s11w7">
@@ -3589,7 +3589,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-066-p5s1w10">
@@ -3624,7 +3624,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-066-p5s1w14">
@@ -3818,7 +3818,7 @@
 <AM lemma="jár_,x_^(stružka,_žlábek;;potůček_tekoucí_ze_studánky)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jár_,x_^(stružka,_žlábek;;potůček_tekoucí_ze_studánky)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Jaroslav-1_;Y_:B" src="manual">NNMXX-----A---8</AM>
-<AM lemma="Jar-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Jar-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-066-p5s1w37">
@@ -4059,7 +4059,7 @@
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
 <AM lemma="Jaroslav-1_;Y_:B" src="manual">NNMXX-----A---8</AM>
-<AM lemma="Jar-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Jar-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-066-p6s1w17">

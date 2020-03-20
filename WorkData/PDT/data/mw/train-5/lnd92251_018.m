@@ -564,7 +564,7 @@
 <form>VZP</form>
 <tag>
 <AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-018-p3s4w6">
@@ -1003,7 +1003,7 @@
 <form>VZP</form>
 <tag>
 <AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-018-p3s6w7">
@@ -1046,7 +1046,7 @@
 <form>MZ</form>
 <tag>
 <AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-018-p3s6w12">
@@ -1065,7 +1065,7 @@
 <form>VZP</form>
 <tag>
 <AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-018-p3s6w14">

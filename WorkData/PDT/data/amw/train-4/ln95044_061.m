@@ -358,7 +358,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČLK_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -652,7 +652,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČLK_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1576,7 +1576,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČLK_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1638,7 +1638,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČLK_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

@@ -85,7 +85,7 @@
 <form>IRA</form>
 <tag>
 <AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -491,7 +491,7 @@
 <form>IRA</form>
 <tag>
 <AM lemma="Ir_;E" src="orig">NNMS2-----A----</AM>
-<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-052-p1s6w3">

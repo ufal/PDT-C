@@ -195,7 +195,7 @@
 <AM lemma="OM-2_:B_;K_,t_^(Olympique_Marseille)" src="orig">NNIXX-----A----</AM>
 <AM lemma="OM-1_:B_^(okresní_muzeum)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="OM-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="OM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-025-p2s1w11">
@@ -1169,7 +1169,7 @@
 <AM lemma="OM-2_:B_;K_,t_^(Olympique_Marseille)" src="orig">NNIXX-----A----</AM>
 <AM lemma="OM-1_:B_^(okresní_muzeum)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="OM-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="OM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-025-p4s1w9">
@@ -3817,7 +3817,7 @@
 <form>PMEZ</form>
 <tag>
 <AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-025-p7s4w6">

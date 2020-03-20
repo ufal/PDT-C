@@ -58,7 +58,7 @@
 <form>EKOL</form>
 <tag>
 <AM lemma="Ekol_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EKOL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EKOL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p2s1w3">
@@ -98,7 +98,7 @@
 <form>FM</form>
 <tag>
 <AM lemma="FM-1_:B_^(frekvenční_modulace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -538,7 +538,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p13s1w6">
@@ -770,7 +770,7 @@
 <form>FM</form>
 <tag>
 <AM lemma="FM-1_:B_^(frekvenční_modulace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2002,7 +2002,7 @@
 <form>FM</form>
 <tag>
 <AM lemma="FM-1_:B_^(frekvenční_modulace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -3118,7 +3118,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p66s1w6">
@@ -3445,7 +3445,7 @@
 <form>VKV</form>
 <tag>
 <AM lemma="vkv_:B_^(velmi_krátké_vlny)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VKV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VKV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p70s1w15">
@@ -5076,7 +5076,7 @@
 <tag>
 <AM lemma="LP-2_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="LP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="LP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p110s1w6">

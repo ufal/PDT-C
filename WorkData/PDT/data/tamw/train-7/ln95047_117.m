@@ -111,7 +111,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p2s1Aw8">
@@ -304,7 +304,7 @@
 <AM lemma="ÚV_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p2s1Cw17">
@@ -315,7 +315,7 @@
 <form>SSM</form>
 <tag>
 <AM lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SSM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p2s1Cw18">
@@ -523,7 +523,7 @@
 <form>ZO</form>
 <tag>
 <AM lemma="ZO-1_:B_;K_^(základní_organizace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p2s2w14">
@@ -534,7 +534,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p2s2w15">
@@ -962,7 +962,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="StB-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1102,7 +1102,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="StB-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1322,7 +1322,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p4s1w26">
@@ -2290,7 +2290,7 @@
 <form>ZO</form>
 <tag>
 <AM lemma="ZO-1_:B_;K_^(základní_organizace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p5s5w9">
@@ -2301,7 +2301,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p5s5w10">
@@ -2485,7 +2485,7 @@
 <form>ZO</form>
 <tag>
 <AM lemma="ZO-1_:B_;K_^(základní_organizace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p5s6w9">
@@ -2496,7 +2496,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-117-p5s6w10">

@@ -336,7 +336,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-093-p3s1Aw5">
@@ -998,7 +998,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-093-p3s4w22">
@@ -1041,7 +1041,7 @@
 <form>ČSR</form>
 <tag>
 <AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-093-p3s4w27">
@@ -2500,7 +2500,7 @@
 <form>LSNS</form>
 <tag>
 <AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-093-p3s16Aw5">
@@ -2826,7 +2826,7 @@
 <form>ČMUS</form>
 <tag>
 <AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMUS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-093-p3s19Aw5">
@@ -3215,7 +3215,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-093-p3s23Aw5">

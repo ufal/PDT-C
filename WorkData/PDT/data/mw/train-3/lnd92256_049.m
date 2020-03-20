@@ -616,7 +616,7 @@
 <AM lemma="AH_:B" src="orig">NNNXX-----A----</AM>
 <AM lemma="Ah-1`ampérhodina_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ah" src="auto">II-------------</AM>
-<AM lemma="AH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-049-p2s3w11">
@@ -635,7 +635,7 @@
 <form>N</form>
 <tag>
 <AM lemma="n-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-049-p2s3w13">

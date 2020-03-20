@@ -462,7 +462,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-116-p3s1w18">
@@ -517,7 +517,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-116-p3s1w24">
@@ -903,7 +903,7 @@
 <form>ITL</form>
 <tag>
 <AM lemma="ITL_:B_;b_^(italská_lira)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ITL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-116-p4s3w10">
@@ -990,7 +990,7 @@
 <form>FRF</form>
 <tag>
 <AM lemma="FRF_:B_;b_^(francouzský_frank)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FRF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FRF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-116-p4s3w20">
@@ -1009,7 +1009,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-116-p4s3w22">

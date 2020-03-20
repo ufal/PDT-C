@@ -40,7 +40,7 @@
 <form>IPB</form>
 <tag>
 <AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s1w4">
@@ -1539,7 +1539,7 @@
 <form>IPB</form>
 <tag>
 <AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s14w2">
@@ -1640,7 +1640,7 @@
 <form>IPB</form>
 <tag>
 <AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s15w6">
@@ -1848,7 +1848,7 @@
 <form>IPB</form>
 <tag>
 <AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s16w20">
@@ -2070,7 +2070,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
-<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s19w11">
@@ -2517,7 +2517,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
-<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s23w4">
@@ -2738,7 +2738,7 @@
 <form>IPB</form>
 <tag>
 <AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s24w4">
@@ -2961,7 +2961,7 @@
 <form>IPB</form>
 <tag>
 <AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s25w10">

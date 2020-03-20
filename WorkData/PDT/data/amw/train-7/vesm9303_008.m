@@ -3341,7 +3341,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-008-p1s24w21">
@@ -3683,7 +3683,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-008-p1s26w12">
@@ -4530,7 +4530,7 @@
 <tag>
 <AM lemma="CERN-1_:B_;K_,t_^(Výzkumné_centrum,_švýc.-franc.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="CERN-1_:B_;K_;u_,t_^(Výzkumné_centrum,_švýc.-franc.)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="CERN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CERN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-008-p1s34Aw6">
@@ -4586,7 +4586,7 @@
 <AM lemma="eso" src="auto">NNNP4-----A----</AM>
 <AM lemma="eso" src="auto">NNNP5-----A----</AM>
 <AM lemma="eso" src="auto">NNNS2-----A----</AM>
-<AM lemma="ESA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ESA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-008-p1s34Aw12">

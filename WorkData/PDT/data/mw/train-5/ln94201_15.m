@@ -790,7 +790,7 @@
 <form>IAHR</form>
 <tag>
 <AM lemma="IAHR_:B_;K_,t_^(Mezinárodní_asociace_pro_dějiny_náboženství)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IAHR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IAHR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-15-p2s5w15">

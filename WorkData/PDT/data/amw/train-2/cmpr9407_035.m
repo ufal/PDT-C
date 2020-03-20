@@ -65,7 +65,7 @@
 <form>ZAS</form>
 <tag>
 <AM lemma="zas-1" src="auto">Db-------------</AM>
-<AM lemma="ZAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-035-p4s1w3">
@@ -639,7 +639,7 @@
 <form>ZAS</form>
 <tag>
 <AM lemma="zas-1" src="auto">Db-------------</AM>
-<AM lemma="ZAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-035-p5s1w4">

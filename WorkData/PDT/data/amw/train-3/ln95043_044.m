@@ -2151,7 +2151,7 @@
 <AM lemma="PSD-3_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PSD-1_:B_;R_,t_^(Postdamer_Spektraldurchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PSD-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p5s5w11">
@@ -3493,7 +3493,7 @@
 <AM lemma="PSD-3_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PSD-1_:B_;R_,t_^(Postdamer_Spektraldurchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PSD-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p9s2w12">
@@ -3989,7 +3989,7 @@
 <AM lemma="PSD-3_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PSD-1_:B_;R_,t_^(Postdamer_Spektraldurchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PSD-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p10s2w16">

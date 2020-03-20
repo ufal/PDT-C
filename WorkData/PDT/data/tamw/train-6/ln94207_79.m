@@ -870,7 +870,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p3s3w18">
@@ -5316,7 +5316,7 @@
 <form>DM</form>
 <tag>
 <AM lemma="DM-7_:B_;U_,t_^(diabetes_mellitus)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p14s2w19">
@@ -6982,7 +6982,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p17s2w32">
@@ -7173,7 +7173,7 @@
 <AM lemma="sed" src="auto">NNIS1-----A----</AM>
 <AM lemma="sed" src="auto">NNIS4-----A----</AM>
 <AM lemma="sednout" src="auto">VpYS----R-AAP-6</AM>
-<AM lemma="SED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p18s1w4">
@@ -7703,7 +7703,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p19s1w4">
@@ -8113,7 +8113,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p19s3w7">
@@ -8320,7 +8320,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p20s1Bw14">
@@ -8530,7 +8530,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p20s3w2">
@@ -8693,7 +8693,7 @@
 <form>NDR</form>
 <tag>
 <AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p20s3w22">
@@ -10288,7 +10288,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p23s2w29">
@@ -12366,7 +12366,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p29s1Aw4">
@@ -12590,7 +12590,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p29s2w4">
@@ -14560,7 +14560,7 @@
 <AM lemma="EMNID_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Emnid_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Emnid_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="EMNID-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMNID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p32s6w8">
@@ -14800,7 +14800,7 @@
 <form>NDR</form>
 <tag>
 <AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p32s7w21">
@@ -17345,7 +17345,7 @@
 <tag>
 <AM lemma="NDR_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="NDR_:B_;G_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p38s2w10">
@@ -17767,7 +17767,7 @@
 <form>NDR</form>
 <tag>
 <AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p39s1Bw24">
@@ -22448,7 +22448,7 @@
 <AM lemma="EMNID_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Emnid_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Emnid_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Emnid-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Emnid-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p46s3w15">

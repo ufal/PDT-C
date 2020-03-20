@@ -277,7 +277,7 @@
 <form>RIA</form>
 <tag>
 <AM lemma="RIA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RIA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-042-p3s3w5">

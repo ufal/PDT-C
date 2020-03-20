@@ -148,7 +148,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s2w9">
@@ -884,7 +884,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s7w4">

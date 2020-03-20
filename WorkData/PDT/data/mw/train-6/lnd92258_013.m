@@ -548,7 +548,7 @@
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSFR-77" src="manual">F%-------------</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-013-p4s1w9">
@@ -1611,7 +1611,7 @@
 <AM lemma="NADAS_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="NADAS_:B_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="NADAS_:B_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="NADAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NADAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-013-p5s5w11">
@@ -1718,7 +1718,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-013-p5s5w24">
@@ -1753,7 +1753,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-013-p5s5w28">
@@ -1788,7 +1788,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-013-p5s5w32">

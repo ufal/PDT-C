@@ -444,7 +444,7 @@
 <form>AVP</form>
 <tag>
 <AM lemma="AVP_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-109-p3s1w17">

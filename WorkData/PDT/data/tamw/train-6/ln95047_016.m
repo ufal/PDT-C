@@ -573,7 +573,7 @@
 <form>FIAPF</form>
 <tag>
 <AM lemma="FIAPF-1_:B_;K_,t_^(Fedér._Int._des_Assoc._de_Pr._de_Films)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIAPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIAPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s4w12">
@@ -647,7 +647,7 @@
 <form>MFF</form>
 <tag>
 <AM lemma="MFF-1_:B_;K_;u_^(Matematicko-fyzikální_fakulta)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MFF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MFF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s4w20">

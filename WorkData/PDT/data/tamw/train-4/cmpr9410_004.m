@@ -1293,7 +1293,7 @@
 <form>ČSN</form>
 <tag>
 <AM lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-004-p7s1Bw8">
@@ -1352,7 +1352,7 @@
 <form>IEC</form>
 <tag>
 <AM lemma="IEC-1_:B_;K_,t_^(International_Electrotechnical_Commission)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-004-p7s1Bw15">
@@ -1491,7 +1491,7 @@
 <form>RO</form>
 <tag>
 <AM lemma="RO_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="RO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-004-p7s1Bw32">
@@ -1518,7 +1518,7 @@
 <form>ČSN</form>
 <tag>
 <AM lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-004-p7s1Bw35">
@@ -3464,7 +3464,7 @@
 <AM lemma="cb-2_:B_,t_^(confined_to_barraks)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="cubicus_:B_,t_^(kubický,_krychlový)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="CB_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="CB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-004-p16s2w7">
@@ -3485,7 +3485,7 @@
 <AM lemma="CCA_:B_,t_^(certifikát)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="cca_:B_,t" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="CCA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="CCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-004-p16s2w9">

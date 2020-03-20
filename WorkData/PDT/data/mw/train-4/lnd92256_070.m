@@ -1578,7 +1578,7 @@
 <form>MTV</form>
 <tag>
 <AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p6s1w19">
@@ -4240,7 +4240,7 @@
 <form>ABC</form>
 <tag>
 <AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p11s1w8">

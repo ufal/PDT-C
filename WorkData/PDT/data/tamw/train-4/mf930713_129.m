@@ -124,7 +124,7 @@
 <form>MBT</form>
 <tag>
 <AM lemma="MBT-1_:B_,t_^(metal-base_transistor)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MBT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MBT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-129-p1s1Bw9">
@@ -563,7 +563,7 @@
 <form>MBT</form>
 <tag>
 <AM lemma="MBT-1_:B_,t_^(metal-base_transistor)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MBT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MBT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-129-p1s3w12">
@@ -841,7 +841,7 @@
 <form>MBT</form>
 <tag>
 <AM lemma="MBT-1_:B_,t_^(metal-base_transistor)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MBT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MBT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-129-p1s5w5">

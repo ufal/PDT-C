@@ -204,7 +204,7 @@
 <form>HSDMS</form>
 <tag>
 <AM lemma="HSDMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HSDMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HSDMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-58-p2s1Bw14">
@@ -261,7 +261,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-58-p2s1Bw20">
@@ -1091,7 +1091,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-58-p3s3w17">
@@ -1264,7 +1264,7 @@
 <form>HSMS</form>
 <tag>
 <AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HSMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-58-p3s4w21">
@@ -1309,7 +1309,7 @@
 <form>HSMS</form>
 <tag>
 <AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HSMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-58-p4s1w4">

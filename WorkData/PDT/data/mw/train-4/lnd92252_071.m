@@ -564,7 +564,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-071-p4s3w9">
@@ -671,7 +671,7 @@
 <form>ÚV</form>
 <tag>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-071-p4s3w22">
@@ -682,7 +682,7 @@
 <form>KSSS</form>
 <tag>
 <AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-071-p4s3w23">

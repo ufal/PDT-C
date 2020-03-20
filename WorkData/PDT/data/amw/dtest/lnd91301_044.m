@@ -1086,7 +1086,7 @@
 <form>SNB</form>
 <tag>
 <AM lemma="SNB-1_:B_;K_;p_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SNB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-044-p2s6Bw8">

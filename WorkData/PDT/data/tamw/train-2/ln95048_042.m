@@ -47,7 +47,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-042-p2s1w2">
@@ -66,7 +66,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-042-p2s1w4">
@@ -1271,7 +1271,7 @@
 <form>JiMfa</form>
 <tag>
 <AM lemma="JiMfa_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="JiMfa-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JiMfa-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-042-p5s2w17">

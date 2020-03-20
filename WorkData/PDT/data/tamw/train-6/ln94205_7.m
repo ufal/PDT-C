@@ -406,7 +406,7 @@
 <form>CRF</form>
 <tag>
 <AM lemma="CRF-1_:B_,t_^(cross_reference_file)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CRF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CRF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-7-p2s2w14">
@@ -829,7 +829,7 @@
 <AM lemma="cirrostratus_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="CS-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="CS-1_:B_;G_^(mez._zkr._Československa)" src="manual">NNXXX-----A----</AM>
-<AM lemma="CS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-7-p4s1w10">
@@ -1157,7 +1157,7 @@
 <form>CRF</form>
 <tag>
 <AM lemma="CRF-1_:B_,t_^(cross_reference_file)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CRF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CRF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-7-p4s2w18">

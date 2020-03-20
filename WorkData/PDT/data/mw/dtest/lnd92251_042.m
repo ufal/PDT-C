@@ -433,7 +433,7 @@
 <form>VSŽ</form>
 <tag>
 <AM lemma="VSŽ_:B_;K" src="orig">NNFPX-----A---8</AM>
-<AM lemma="VSŽ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VSŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-042-p3s3w18">
@@ -460,7 +460,7 @@
 <form>ZŤS</form>
 <tag>
 <AM lemma="ZŤS-1_:B_;K_,t_^(Závody_ťažkého_strojárstva)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ZŤS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZŤS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-042-p3s3w21">

@@ -360,7 +360,7 @@
 <form>CIA</form>
 <tag>
 <AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-105-p2s3w6">
@@ -772,7 +772,7 @@
 <form>AFP</form>
 <tag>
 <AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-105-p3s1w16">
@@ -1001,7 +1001,7 @@
 <form>de</form>
 <tag>
 <AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
-<AM lemma="de-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="de-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1559,7 +1559,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-105-p3s5w27">

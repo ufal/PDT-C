@@ -1576,7 +1576,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="oko" src="orig">NNNP2-----A----</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-036-p6s1w24">
@@ -1730,7 +1730,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-036-p6s3w4">
@@ -2493,7 +2493,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-036-p7s5w6">
@@ -3744,7 +3744,7 @@
 <form>ILC</form>
 <tag>
 <AM lemma="ILC-2_:B_;K_,t_^(International_Languages_Centrum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ILC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ILC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-036-p9s3w4">
@@ -8950,7 +8950,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._MS-DOS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-036-p18s1w9">
@@ -8996,7 +8996,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._MS-DOS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-036-p18s1w14">
@@ -9164,7 +9164,7 @@
 <form>DOS</form>
 <tag>
 <AM lemma="DOS_;R" src="orig">NNIS4-----A----</AM>
-<AM lemma="DOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-036-p18s1w34">

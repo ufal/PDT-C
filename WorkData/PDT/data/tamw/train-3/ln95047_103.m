@@ -153,7 +153,7 @@
 <form>ETE</form>
 <tag>
 <AM lemma="ETE-1_:B_;K_^(Elektrárna_Temelín)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ETE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ETE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p2s1Bw8">
@@ -354,7 +354,7 @@
 <form>ETE</form>
 <tag>
 <AM lemma="ETE-1_:B_;K_^(Elektrárna_Temelín)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ETE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ETE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p2s2w8">
@@ -551,7 +551,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p3s1w17">
@@ -652,7 +652,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p3s2w7">
@@ -1093,7 +1093,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p3s5w12">
@@ -1314,7 +1314,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p3s6w20">

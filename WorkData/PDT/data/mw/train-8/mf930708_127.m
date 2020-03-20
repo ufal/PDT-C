@@ -593,7 +593,7 @@
 <form>NDR</form>
 <tag>
 <AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p4s1w8">
@@ -662,7 +662,7 @@
 <AM lemma="Stasi_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Stasi-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p4s1w16">
@@ -1650,7 +1650,7 @@
 <form>WBC</form>
 <tag>
 <AM lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="WBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="WBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p8s1w20">
@@ -1868,7 +1868,7 @@
 <form>VOKD</form>
 <tag>
 <AM lemma="VOKD_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VOKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VOKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p9s1w6">
@@ -1935,7 +1935,7 @@
 <form>VOKD</form>
 <tag>
 <AM lemma="VOKD_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VOKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VOKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p9s1w14">

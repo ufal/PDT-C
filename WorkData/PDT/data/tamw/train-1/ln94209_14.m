@@ -37,7 +37,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p1s1w4">
@@ -175,7 +175,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s1Bw6">
@@ -471,7 +471,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s2w18">
@@ -554,7 +554,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s2w28">
@@ -695,7 +695,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s3w15">
@@ -826,7 +826,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s3w31">
@@ -1023,7 +1023,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s4w16">
@@ -1068,7 +1068,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s5w2">
@@ -1167,7 +1167,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s5w14">
@@ -1258,7 +1258,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s5w25">

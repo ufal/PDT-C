@@ -4092,7 +4092,7 @@
 <form>KSSS</form>
 <tag>
 <AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-064-p11s4w18">

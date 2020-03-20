@@ -600,7 +600,7 @@
 <AM lemma="Sk_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-075-p2s4w21">
@@ -795,7 +795,7 @@
 <form>BTIU</form>
 <tag>
 <AM lemma="BTIU_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="BTIU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BTIU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-075-p2s4w44">

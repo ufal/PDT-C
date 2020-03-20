@@ -87,7 +87,7 @@
 <form>vers</form>
 <tag>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
-<AM lemma="vers-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="vers-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-144-p2s1w4">
@@ -576,7 +576,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-144-p2s5w8">
@@ -1839,7 +1839,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-144-p2s13w18">

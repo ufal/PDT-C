@@ -158,7 +158,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-71-p2s1Bw13">
@@ -3205,7 +3205,7 @@
 <form>PNR</form>
 <tag>
 <AM lemma="PNR_:B_;K_;p_,t_^(Partido_Nacional_Revolucionaro)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PNR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-71-p7s2w21">
@@ -3426,7 +3426,7 @@
 <form>PNR</form>
 <tag>
 <AM lemma="PNR_:B_;K_;p_,t_^(Partido_Nacional_Revolucionaro)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PNR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-71-p7s3w25">
@@ -3567,7 +3567,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-71-p8s1w15">
@@ -3988,7 +3988,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-71-p9s1w20">
@@ -4242,7 +4242,7 @@
 <form>PNR</form>
 <tag>
 <AM lemma="PNR_:B_;K_;p_,t_^(Partido_Nacional_Revolucionaro)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PNR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-71-p9s2w30">

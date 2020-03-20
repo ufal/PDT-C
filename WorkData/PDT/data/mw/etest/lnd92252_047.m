@@ -2014,7 +2014,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFSX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-047-p4s8w22">
@@ -2171,7 +2171,7 @@
 <form>ČTV</form>
 <tag>
 <AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-047-p5s1w5">

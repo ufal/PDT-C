@@ -1152,7 +1152,7 @@
 <form>ŽK</form>
 <tag>
 <AM lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ŽK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ŽK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-093-p3s4w6">

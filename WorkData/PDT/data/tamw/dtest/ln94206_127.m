@@ -266,7 +266,7 @@
 <form>WTA</form>
 <tag>
 <AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-127-p2s1Bw22">
@@ -853,7 +853,7 @@
 <AM lemma="KD_:B_;Y" src="orig">NNMXX-----A---8</AM>
 <AM lemma="KD_:B_^(kulturní_dům)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="KD_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="KD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-127-p3s2w13">

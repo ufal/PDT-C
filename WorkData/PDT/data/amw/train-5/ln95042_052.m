@@ -131,7 +131,7 @@
 <AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p2s1Bw4">
@@ -306,7 +306,7 @@
 <AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p2s2w12">
@@ -1366,7 +1366,7 @@
 <AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p4s1w16">
@@ -1501,7 +1501,7 @@
 <AM lemma="Eta-2_;K" src="auto">NNFS1-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ETA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ETA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p4s1w32">
@@ -1668,7 +1668,7 @@
 <AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p4s2w14">
@@ -1851,7 +1851,7 @@
 <AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p4s3w8">
@@ -3607,7 +3607,7 @@
 <AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p6s7w3">
@@ -4119,7 +4119,7 @@
 <AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p7s3w17">

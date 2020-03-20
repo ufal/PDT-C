@@ -111,7 +111,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-105-p2s1w9">
@@ -1994,7 +1994,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-105-p2s19w14">

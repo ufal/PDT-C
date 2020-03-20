@@ -1147,7 +1147,7 @@
 <AM lemma="Iwo_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Iwo_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Iwo_;G" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="IWA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IWA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-053-p2s8w6">

@@ -897,7 +897,7 @@
 <form>OAS</form>
 <tag>
 <AM lemma="oáza" src="orig">NNFP2-----A----</AM>
-<AM lemma="OAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-113-p3s2w27">

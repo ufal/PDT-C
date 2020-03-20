@@ -1946,7 +1946,7 @@
 <AM lemma="DBM-2_:B_;K_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DBM-1_:B_;K_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="DBM-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-28-p5s4w6">
@@ -2482,7 +2482,7 @@
 <AM lemma="DBM-2_:B_;K_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DBM-1_:B_;K_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="DBM-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-28-p6s1w3">
@@ -2786,7 +2786,7 @@
 <AM lemma="DBM-2_:B_;K_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DBM-1_:B_;K_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="DBM-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-28-p6s3w7">

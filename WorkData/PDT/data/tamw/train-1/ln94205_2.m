@@ -47,7 +47,7 @@
 <AM lemma="OEM_:B_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="OEM_:B_;R_^(Original_Equipment_Manufacturer)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Oma_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="OEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-2-p1s1w5">
@@ -108,7 +108,7 @@
 <form>DECpc</form>
 <tag>
 <AM lemma="DECpc_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="DECpc-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DECpc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-2-p1s2w3">
@@ -127,7 +127,7 @@
 <form>SLC</form>
 <tag>
 <AM lemma="SLC_;R_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SLC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SLC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-2-p1s2w5">

@@ -4214,7 +4214,7 @@
 <form>SBD</form>
 <tag>
 <AM lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SBD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-001-p22s1w5">
@@ -4233,7 +4233,7 @@
 <form>LBD</form>
 <tag>
 <AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="LBD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-001-p22s1w7">

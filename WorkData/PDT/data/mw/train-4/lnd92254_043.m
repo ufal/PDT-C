@@ -82,7 +82,7 @@
 <form>SBČS</form>
 <tag>
 <AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SBČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-043-p3s1w6">
@@ -265,7 +265,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-043-p3s2w13">
@@ -422,7 +422,7 @@
 <form>SKDH</form>
 <tag>
 <AM lemma="SKDH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SKDH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SKDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-043-p3s3w15">
@@ -975,7 +975,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-043-p3s6w5">

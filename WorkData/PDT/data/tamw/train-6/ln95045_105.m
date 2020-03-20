@@ -121,7 +121,7 @@
 <form>CKP</form>
 <tag>
 <AM lemma="CKP_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-105-p2s1Bw5">

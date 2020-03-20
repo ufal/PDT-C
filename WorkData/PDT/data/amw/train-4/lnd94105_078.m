@@ -230,7 +230,7 @@
 <tag>
 <AM lemma="RM_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-078-p1s3w15">
@@ -794,7 +794,7 @@
 <form>CP</form>
 <tag>
 <AM lemma="CP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-078-p1s9w6">
@@ -1562,7 +1562,7 @@
 <tag>
 <AM lemma="RM_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-078-p1s14w5">

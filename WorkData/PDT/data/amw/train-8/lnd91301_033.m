@@ -1161,7 +1161,7 @@
 <form>PS</form>
 <tag>
 <AM lemma="PS-2_:B_;K_^(poštovní_schránka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-033-p6s1w13">

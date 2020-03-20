@@ -61,7 +61,7 @@
 <form>ČBD</form>
 <tag>
 <AM lemma="ČBD_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČBD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-074-p1s1w7">

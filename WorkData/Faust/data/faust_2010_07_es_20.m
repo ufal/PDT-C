@@ -362,7 +362,7 @@
 <form>PPM</form>
 <tag>
 <AM lemma="ppm_:B_^(partes_per_milion)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="PPM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PPM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2093-s1-w2">
@@ -730,7 +730,7 @@
 <tag>
 <AM lemma="PPMTM">X@-------------</AM>
 <AM lemma="PPMTM-77" src="manual">F%-------------</AM>
-<AM lemma="PPMTM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PPMTM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2093-s1-w29">
@@ -1361,7 +1361,7 @@
 <tag>
 <AM lemma="k-1" src="auto" recommended="1">RR--3----------</AM>
 <AM lemma="k-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="k-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="k-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kůň" src="auto">NNMXX-----A---8</AM>
 </tag>
@@ -2755,7 +2755,7 @@
 <AM lemma="nad-1_:B">RR--7---------8</AM>
 <AM lemma="nádraží_:B">NNNXX-----A---9</AM>
 <AM lemma="národní_:B">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2133-s1-w28">
@@ -2788,7 +2788,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)">AAXXX----1A---8</AM>
 <AM lemma="á_,t">RF------------1</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2133-s1-w30">
@@ -3360,7 +3360,7 @@
 <tag>
 <AM lemma="Nysa_;G" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Nysa_;G">NNFS6-----A----</AM>
-<AM lemma="NYSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NYSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2141-s1-w5">
@@ -3377,7 +3377,7 @@
 <form>EW</form>
 <tag>
 <AM lemma="Ewa_;Y" recommended="1">NNFP2-----A----</AM>
-<AM lemma="EW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2141-s1-w7">
@@ -6209,7 +6209,7 @@
 <form>GSD</form>
 <tag>
 <AM lemma="GSD">X@-------------</AM>
-<AM lemma="GSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2159-s1-w3">
@@ -6283,7 +6283,7 @@
 <form>PTF</form>
 <tag>
 <AM lemma="PTF">X@-------------</AM>
-<AM lemma="PTF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2159-s1-w10">
@@ -6344,7 +6344,7 @@
 <form>PTF</form>
 <tag>
 <AM lemma="PTF">X@-------------</AM>
-<AM lemma="PTF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2159-s1-w16">
@@ -6457,7 +6457,7 @@
 <form>IPL</form>
 <tag>
 <AM lemma="IPL">X@-------------</AM>
-<AM lemma="IPL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2159-s1-w23">
@@ -7339,7 +7339,7 @@
 <tag>
 <AM lemma="DVD-1_:B_;K_;R_^(digital_versatile_disc)" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="DVD-2_:B_;K_;R_^(digital_video_disc)">NNIXX-----A---8</AM>
-<AM lemma="DVD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2170-s1-w4">
@@ -8684,7 +8684,7 @@
 <AM lemma="Ana_;Y">NNFS4-----A----</AM>
 <AM lemma="anus">NNIS3-----A----</AM>
 <AM lemma="anus">NNIS6-----A----</AM>
-<AM lemma="ANU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ANU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2185-s1-w10">

@@ -572,7 +572,7 @@
 <AM lemma="LED_:B_;c_,t_^(light_emitting_diode)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="led" src="auto">NNIS1-----A----</AM>
 <AM lemma="led" src="auto">NNIS4-----A----</AM>
-<AM lemma="LED-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-016-p2s5w6">
@@ -764,7 +764,7 @@
 <AM lemma="LED_:B_;c_,t_^(light_emitting_diode)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="led" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="led" src="auto">NNIS4-----A----</AM>
-<AM lemma="LED-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-016-p2s6w3">

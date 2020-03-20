@@ -629,7 +629,7 @@
 <form>Mr</form>
 <tag>
 <AM lemma="Mister_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Mr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Mr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s13w2">

@@ -43,7 +43,7 @@
 <AM lemma="AA-10_:B_;K_,t_^(Athens_News_Agency)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
 <AM lemma="AA-11_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p1s1w3">
@@ -62,7 +62,7 @@
 <form>FBIS</form>
 <tag>
 <AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -109,7 +109,7 @@
 <form>FBIS</form>
 <tag>
 <AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s2w4">
@@ -238,7 +238,7 @@
 <AM lemma="AA-10_:B_;K_,t_^(Athens_News_Agency)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
 <AM lemma="AA-11_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s2w18">
@@ -257,7 +257,7 @@
 <form>FBIS</form>
 <tag>
 <AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s2w20">
@@ -332,7 +332,7 @@
 <form>FBIS</form>
 <tag>
 <AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s2w29">
@@ -489,7 +489,7 @@
 <form>FBIS</form>
 <tag>
 <AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s3w13">
@@ -554,7 +554,7 @@
 <AM lemma="AA-10_:B_;K_,t_^(Athens_News_Agency)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
 <AM lemma="AA-11_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s3w19">
@@ -589,7 +589,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s3w23">
@@ -667,7 +667,7 @@
 <form>ČSTK</form>
 <tag>
 <AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s3w32">
@@ -776,7 +776,7 @@
 <form>FBIS</form>
 <tag>
 <AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s4w13">
@@ -1022,7 +1022,7 @@
 <form>FBIS</form>
 <tag>
 <AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-069-p2s4w43">

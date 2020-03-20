@@ -61,7 +61,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-026-p1s1w7">
@@ -346,7 +346,7 @@
 <AM lemma="SID_:B_;K_^(agentura)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Sido_;G" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="SID_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SID-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-026-p2s3w19">
@@ -469,7 +469,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-026-p2s3w35">

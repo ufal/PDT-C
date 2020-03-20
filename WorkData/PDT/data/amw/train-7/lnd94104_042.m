@@ -228,7 +228,7 @@
 <form>LTO</form>
 <tag>
 <AM lemma="LTO-1_:B_^(lehký_topný_olej)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="LTO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LTO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-042-p1s3w8">
@@ -645,7 +645,7 @@
 <form>LTO</form>
 <tag>
 <AM lemma="LTO-1_:B_^(lehký_topný_olej)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="LTO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LTO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-042-p1s6w8">

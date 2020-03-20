@@ -127,7 +127,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p2s1Aw4">
@@ -228,7 +228,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p2s1Bw11">
@@ -872,7 +872,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p4s1w7">
@@ -1333,7 +1333,7 @@
 <form>CP</form>
 <tag>
 <AM lemma="CP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p4s5w5">
@@ -1414,7 +1414,7 @@
 <form>RMS</form>
 <tag>
 <AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p4s6w3">
@@ -1710,7 +1710,7 @@
 <form>CP</form>
 <tag>
 <AM lemma="CP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p5s2w6">
@@ -1737,7 +1737,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p5s2w9">
@@ -1772,7 +1772,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p5s2w13">
@@ -1791,7 +1791,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p5s2w15">
@@ -1826,7 +1826,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p5s2w19">
@@ -1861,7 +1861,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p5s2w23">
@@ -1872,7 +1872,7 @@
 <form>YSE</form>
 <tag>
 <AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="YSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="YSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p5s2w24">
@@ -1923,7 +1923,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p5s2w30">
@@ -2354,7 +2354,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p6s3w7">
@@ -2366,7 +2366,7 @@
 <tag>
 <AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 <AM lemma="AIFA_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="AlFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AlFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p6s3w8">
@@ -2441,7 +2441,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p6s3w16">
@@ -2609,7 +2609,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p7s1w16">
@@ -3048,7 +3048,7 @@
 <form>RMS</form>
 <tag>
 <AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p8s1w13">
@@ -3071,7 +3071,7 @@
 <AM lemma="PK-2_:B_^(produkce_kalu)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="PK-3_:B_^(burzovní_index)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pedokomplex_:B_^(půdní_komplex)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p8s1w15">
@@ -3321,7 +3321,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p9s1w3">

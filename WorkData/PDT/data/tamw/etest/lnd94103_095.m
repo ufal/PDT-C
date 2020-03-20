@@ -345,7 +345,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w39">
@@ -364,7 +364,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w41">
@@ -426,7 +426,7 @@
 <form>EMI</form>
 <tag>
 <AM lemma="EMI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w48">
@@ -986,7 +986,7 @@
 <AM lemma="BMG_:B_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="BMG_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="BMG_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BMG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BMG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w113">

@@ -483,7 +483,7 @@
 <form>AP</form>
 <tag>
 <AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-18-p2s2w11">

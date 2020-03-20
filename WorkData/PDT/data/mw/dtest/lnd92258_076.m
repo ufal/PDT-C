@@ -5011,7 +5011,7 @@
 <tag>
 <AM lemma="SBA-2_:B_,t_^(Small_Busines_Administration)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p74s1w4">

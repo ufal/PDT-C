@@ -207,7 +207,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s2w18">
@@ -970,7 +970,7 @@
 <form>XM</form>
 <tag>
 <AM lemma="XM_:B_;R" src="orig">NNNXX-----A----</AM>
-<AM lemma="XM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="XM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w44">
@@ -1038,7 +1038,7 @@
 <tag>
 <AM lemma="LX-4_;R" src="orig">NNXXX-----A----</AM>
 <AM lemma="LX-3`60" src="auto" recommended="1">C}-------------</AM>
-<AM lemma="LX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w50">
@@ -1114,7 +1114,7 @@
 <form>GLX</form>
 <tag>
 <AM lemma="GLX_;R" src="orig">NNNXX-----A----</AM>
-<AM lemma="GLX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GLX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w59">
@@ -1189,7 +1189,7 @@
 <form>SRDT</form>
 <tag>
 <AM lemma="SRDT_;R" src="orig">NNNXX-----A----</AM>
-<AM lemma="SRDT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRDT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w68">
@@ -1256,7 +1256,7 @@
 <form>GLX</form>
 <tag>
 <AM lemma="GLX_;R" src="orig">NNNXX-----A----</AM>
-<AM lemma="GLX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GLX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w76">
@@ -1337,7 +1337,7 @@
 <AM lemma="CL-2_;R" src="orig">NNNXX-----A----</AM>
 <AM lemma="CL_:B_^(Chile)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="centilitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w84">
@@ -1379,7 +1379,7 @@
 <tag>
 <AM lemma="GL-2_:B_;R" src="orig">NNNXX-----A---8</AM>
 <AM lemma="GL-1_:B_^(glejová_půda)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="GL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w88">

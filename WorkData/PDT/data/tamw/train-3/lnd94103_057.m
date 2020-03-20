@@ -1829,7 +1829,7 @@
 <form>CIA</form>
 <tag>
 <AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-057-p1s9w15">
@@ -2566,7 +2566,7 @@
 <form>KCNA</form>
 <tag>
 <AM lemma="KCNA-1_:B_;K_,t_^(Korean_Central_News_Agency)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KCNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KCNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-057-p1s12w26">
@@ -2795,7 +2795,7 @@
 <form>KCNA</form>
 <tag>
 <AM lemma="KCNA-1_:B_;K_,t_^(Korean_Central_News_Agency)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KCNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KCNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-057-p1s13w28">
@@ -3335,7 +3335,7 @@
 <form>MAAE</form>
 <tag>
 <AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MAAE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-057-p1s15w21">
@@ -3750,7 +3750,7 @@
 <form>MAAE</form>
 <tag>
 <AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MAAE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-057-p1s17w8">

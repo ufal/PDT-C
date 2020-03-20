@@ -145,7 +145,7 @@
 <form>KP</form>
 <tag>
 <AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-020-p2s1Bw12">
@@ -341,7 +341,7 @@
 <form>PMEZ</form>
 <tag>
 <AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-020-p2s2w19">

@@ -39,7 +39,7 @@
 <form>ST</form>
 <tag>
 <AM lemma="St-6_:B_,t_^(saint,_svatý)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ST-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-065-p2s1w2">

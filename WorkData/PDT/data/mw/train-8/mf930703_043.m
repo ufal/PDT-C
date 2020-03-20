@@ -189,7 +189,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p2s1w17">
@@ -394,7 +394,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GATT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p2s2w6">
@@ -421,7 +421,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p2s2w9">
@@ -480,7 +480,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p2s2w16">
@@ -589,7 +589,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p3s1w4">
@@ -852,7 +852,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p3s3w10">
@@ -946,7 +946,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p3s4w6">
@@ -1124,7 +1124,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p4s1w7">
@@ -1610,7 +1610,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p5s1w7">
@@ -2080,7 +2080,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p6s1w13">
@@ -4422,7 +4422,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p11s2w18">

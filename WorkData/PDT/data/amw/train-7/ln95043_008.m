@@ -823,7 +823,7 @@
 <tag>
 <AM lemma="VTJ_:B_;K_^(vojenská_tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="VTJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VTJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p3s2w3">

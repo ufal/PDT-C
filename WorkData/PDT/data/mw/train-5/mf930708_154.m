@@ -658,7 +658,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-154-p6s1w3">
@@ -1085,7 +1085,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-154-p8s1w2">

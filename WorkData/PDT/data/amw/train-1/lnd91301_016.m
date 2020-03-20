@@ -788,7 +788,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p5s2Bw16">
@@ -878,7 +878,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p5s2Bw23">
@@ -1291,7 +1291,7 @@
 <form>ÚV</form>
 <tag>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p6s1w29">
@@ -2444,7 +2444,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p7s2w21">

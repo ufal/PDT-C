@@ -129,7 +129,7 @@
 <form>NBA</form>
 <tag>
 <AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-019-p2s1Bw7">
@@ -369,7 +369,7 @@
 <form>ČBF</form>
 <tag>
 <AM lemma="ČBF-1_:B_;K_^(Česká_basketbalová_federace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČBF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČBF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-019-p2s2w6">
@@ -671,7 +671,7 @@
 <form>USK</form>
 <tag>
 <AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-019-p2s3w26">
@@ -868,7 +868,7 @@
 <form>NBA</form>
 <tag>
 <AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-019-p2s4w9">
@@ -1105,7 +1105,7 @@
 <form>ALK</form>
 <tag>
 <AM lemma="ALK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ALK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ALK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-019-p2s5w19">
@@ -1116,7 +1116,7 @@
 <form>ČBF</form>
 <tag>
 <AM lemma="ČBF-1_:B_;K_^(Česká_basketbalová_federace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČBF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČBF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-019-p2s5w20">
@@ -1135,7 +1135,7 @@
 <form>PO</form>
 <tag>
 <AM lemma="PO-1_:B_,t_^(Post-Office)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="PO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-019-p2s5w22">

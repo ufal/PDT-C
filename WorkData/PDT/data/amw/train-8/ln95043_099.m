@@ -220,7 +220,7 @@
 <form>OECD</form>
 <tag>
 <AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-099-p2s2w4">
@@ -3610,7 +3610,7 @@
 <form>VÚVEV</form>
 <tag>
 <AM lemma="VÚVEV_:B_;K_^(Výzkumný_ústav_vnějších_ekon._vztahů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VÚVEV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VÚVEV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-099-p9s2w5">

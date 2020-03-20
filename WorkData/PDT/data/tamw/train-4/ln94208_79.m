@@ -594,7 +594,7 @@
 <form>ICPD</form>
 <tag>
 <AM lemma="ICPD_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ICPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ICPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-79-p2s2w42">
@@ -2563,7 +2563,7 @@
 <tag>
 <AM lemma="LP-3_:B_^(léta_páně)" src="orig">NNNS2-----A----</AM>
 <AM lemma="LP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="LP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-79-p5s2w39">

@@ -2042,7 +2042,7 @@
 <form>CDA</form>
 <tag>
 <AM lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CDA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-055-p1s10w16">
@@ -2181,7 +2181,7 @@
 <form>VVD</form>
 <tag>
 <AM lemma="VVD-1_:B_;K_,t_^(Volkspartij_voor_Vrijheid_en_Demokratie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-055-p1s10w33">
@@ -2256,7 +2256,7 @@
 <form>PvDA</form>
 <tag>
 <AM lemma="PvDA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PvDA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PvDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-055-p1s10w42">
@@ -2317,7 +2317,7 @@
 <form>CDA</form>
 <tag>
 <AM lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-055-p1s11w6">

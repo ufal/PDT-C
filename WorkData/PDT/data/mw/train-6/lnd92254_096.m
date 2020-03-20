@@ -32,7 +32,7 @@
 <tag>
 <AM lemma="ČFL-1_:B_;K_^(Česká_fotbalová_liga)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČFL-77" src="manual">F%-------------</AM>
-<AM lemma="ČFL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČFL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p2s1w2">
@@ -648,7 +648,7 @@
 <form>VS</form>
 <tag>
 <AM lemma="VS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p2s3w14">
@@ -853,7 +853,7 @@
 <form>VTJ</form>
 <tag>
 <AM lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VTJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VTJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p2s4w13">
@@ -1788,7 +1788,7 @@
 <tag>
 <AM lemma="NH_:B_;K_^(Nová_Huť)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NH_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="NH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p5s1w2">
@@ -2108,7 +2108,7 @@
 <AM lemma="EV_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EV_:B_^(endovaskulární_výkon;_Electric_Vehicle)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Eva_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="EV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p7s1w17">
@@ -2138,7 +2138,7 @@
 <form>ERC</form>
 <tag>
 <AM lemma="ERC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ERC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ERC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p7s1w20">

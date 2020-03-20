@@ -405,7 +405,7 @@
 <form>v</form>
 <tag>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="v-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="v-88" src="manual" selected="1">BNXXX-----A----</AM>
 <AM lemma="volný" src="manual">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -425,7 +425,7 @@
 <form>zp</form>
 <tag>
 <AM lemma="způsob_:B_,a" src="orig">NNIXX-----A---8</AM>
-<AM lemma="zp-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="zp-88" src="manual" selected="1">BNXXX-----A----</AM>
 <AM lemma="způsob" src="manual">NNIXX-----A---8</AM>
 </tag>
 </m>
@@ -616,7 +616,7 @@
 <form>vš</form>
 <tag>
 <AM lemma="vysokoškolský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="vš-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="vš-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s5w4">
@@ -699,7 +699,7 @@
 <AM lemma="mot-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="motto_,x" src="auto">NNNP2-----A----</AM>
 <AM lemma="motýlek" src="manual">NNIXX-----A---8</AM>
-<AM lemma="mot-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mot-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s6w8">
@@ -914,7 +914,7 @@
 <AM lemma="kdo" src="auto" recommended="1">PKM-6----------</AM>
 <AM lemma="koma_^(čárka;;plynný_obal_jádra_komety;;aj.)" src="auto">NNFP2-----A----</AM>
 <AM lemma="kometa" src="manual">NNFXX-----A---8</AM>
-<AM lemma="Kom-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Kom-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s9w5">
@@ -1388,7 +1388,7 @@
 <AM lemma="kdo" src="auto" recommended="1">PKM-6----------</AM>
 <AM lemma="koma_^(čárka;;plynný_obal_jádra_komety;;aj.)" src="auto">NNFP2-----A----</AM>
 <AM lemma="kometa" src="manual">NNFXX-----A---8</AM>
-<AM lemma="Kom-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Kom-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s15w5">
@@ -1528,7 +1528,7 @@
 <AM lemma="Liberec_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Libra_:B_;G_,t_^(souhvězdí_Vah)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Liberec" src="manual">NNIXX-----A---8</AM>
-<AM lemma="Lib-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Lib-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s17w4">
@@ -1762,7 +1762,7 @@
 <tag>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="volný" src="manual">AAXXX----1A---8</AM>
-<AM lemma="v-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="v-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s21w7">
@@ -1782,7 +1782,7 @@
 <tag>
 <AM lemma="způsob_:B_,a" src="orig">NNIXX-----A---8</AM>
 <AM lemma="způsob" src="manual">NNIXX-----A---8</AM>
-<AM lemma="zp-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="zp-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s21w9">
@@ -1827,7 +1827,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s22w2">
@@ -1862,7 +1862,7 @@
 <form>vš</form>
 <tag>
 <AM lemma="vysokoškolský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="vš-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="vš-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s22w6">
@@ -1883,7 +1883,7 @@
 <form>USK</form>
 <tag>
 <AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s23w2">

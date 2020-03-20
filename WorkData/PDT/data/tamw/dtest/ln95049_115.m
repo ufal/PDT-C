@@ -3039,7 +3039,7 @@
 <form>MiG</form>
 <tag>
 <AM lemma="mig_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-115-p4s8w13">

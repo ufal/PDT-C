@@ -71,8 +71,8 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p2s1w7">
@@ -184,8 +184,8 @@
 <AM lemma="SV_:B_;K_^(sport._klub)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="svazek_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="SV-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SV-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p3s1w2">
@@ -733,8 +733,8 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p6s1w24">
@@ -2351,8 +2351,8 @@
 <form>SKP</form>
 <tag>
 <AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SKP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SKP-88_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SKP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SKP-88_;K" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p10s5w4">
@@ -3067,8 +3067,8 @@
 <tag>
 <AM lemma="VC_:B_;m_^(Velká_cena)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="VC-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="VC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="VC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p16s1w3">
@@ -3742,8 +3742,8 @@
 <form>VKP</form>
 <tag>
 <AM lemma="VKP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VKP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="VKP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VKP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="VKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p18s1w24">

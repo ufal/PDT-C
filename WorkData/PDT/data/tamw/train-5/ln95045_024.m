@@ -37,7 +37,7 @@
 <form>NBA</form>
 <tag>
 <AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-024-p1s1w4">
@@ -130,7 +130,7 @@
 <form>NBA</form>
 <tag>
 <AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-024-p2s1Bw7">

@@ -63,7 +63,7 @@
 <form>ber</form>
 <tag>
 <AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ber-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-117-p2s1Aw4">
@@ -263,7 +263,7 @@
 <tag>
 <AM lemma="CZ-2_:B_;K_^(sport._klub)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="CZ-1_:B_^(ISO_2p._zkratka_pro_Českou_rep.)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="CZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-117-p2s2w12">

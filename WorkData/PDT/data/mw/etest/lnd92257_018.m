@@ -127,7 +127,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p3s1w3">
@@ -718,7 +718,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p4s1w10">
@@ -1030,7 +1030,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p4s3w6">
@@ -1084,7 +1084,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p4s3w12">
@@ -1715,7 +1715,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p5s2w18">
@@ -2987,7 +2987,7 @@
 <tag>
 <AM lemma="KP_:B_;K_^(Karlovarský_porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p8s1w6">
@@ -3505,7 +3505,7 @@
 <tag>
 <AM lemma="KP_:B_;K_^(Karlovarský_porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p8s3w12">
@@ -3808,7 +3808,7 @@
 <tag>
 <AM lemma="KP_:B_;K_^(Karlovarský_porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p8s5w11">
@@ -3888,7 +3888,7 @@
 <tag>
 <AM lemma="KP_:B_;K_^(Karlovarský_porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p8s5w18">
@@ -4011,7 +4011,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p8s5w33">
@@ -4161,7 +4161,7 @@
 <tag>
 <AM lemma="KP_:B_;K_^(Karlovarský_porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p8s6w16">

@@ -728,7 +728,7 @@
 <form>KNV</form>
 <tag>
 <AM lemma="KNV_:B_;K_;p_^(Krajský_nár._výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="KNV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KNV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-024-p4s3w11">

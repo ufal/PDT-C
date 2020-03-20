@@ -229,7 +229,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-094-p3s1w22">
@@ -466,7 +466,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-094-p3s2w17">

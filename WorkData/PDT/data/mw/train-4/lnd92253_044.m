@@ -281,7 +281,7 @@
 <AM lemma="kalit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kalit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kalo-1" src="auto">NNNP2-----A----</AM>
-<AM lemma="KAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KAL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-044-p3s2w26">
@@ -780,7 +780,7 @@
 <AM lemma="kalit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kalit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kalo-1" src="auto">NNNP2-----A----</AM>
-<AM lemma="KAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KAL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-044-p3s5w11">
@@ -1027,8 +1027,8 @@
 <tag>
 <AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIA-1_:B_;K_^(Central_Intelligence_Agency,_USA)" src="manual">NNXXX-----A----</AM>
-<AM lemma="CIA-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-044-p3s6w11">

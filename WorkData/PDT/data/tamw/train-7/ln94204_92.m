@@ -74,7 +74,7 @@
 <AM lemma="Ag_:B_^(stříbro)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="AG-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-92-p1s1w8">

@@ -3063,7 +3063,7 @@
 <form>STEM</form>
 <tag>
 <AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="STEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-091-p5s5w5">

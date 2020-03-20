@@ -611,7 +611,7 @@
 <form>TTI</form>
 <tag>
 <AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p4s5w11">
@@ -2523,7 +2523,7 @@
 <form>TTI</form>
 <tag>
 <AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p11s3w3">
@@ -4374,7 +4374,7 @@
 <form>TTI</form>
 <tag>
 <AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p15s1w2">
@@ -4692,7 +4692,7 @@
 <form>TTI</form>
 <tag>
 <AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p16s1w3">
@@ -5331,7 +5331,7 @@
 <form>TTI</form>
 <tag>
 <AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p17s1w2">
@@ -5576,7 +5576,7 @@
 <form>TTI</form>
 <tag>
 <AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p17s3w2">
@@ -5915,7 +5915,7 @@
 <form>TTI</form>
 <tag>
 <AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p21s1Bw9">

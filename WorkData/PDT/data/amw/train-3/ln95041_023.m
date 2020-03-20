@@ -80,7 +80,7 @@
 <tag>
 <AM lemma="DK_:B_^(disciplinární_komise)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p2s1Aw4">
@@ -91,7 +91,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p2s1Aw5">
@@ -339,7 +339,7 @@
 <tag>
 <AM lemma="DK_:B_^(disciplinární_komise)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p2s2w13">
@@ -358,7 +358,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p2s2w15">
@@ -1445,7 +1445,7 @@
 <tag>
 <AM lemma="DK_:B_^(disciplinární_komise)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p5s1w30">
@@ -1570,7 +1570,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p6s1w12">
@@ -1681,7 +1681,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p6s1w25">
@@ -1768,7 +1768,7 @@
 <tag>
 <AM lemma="DK_:B_^(disciplinární_komise)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p6s1w35">

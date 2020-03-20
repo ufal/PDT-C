@@ -73,7 +73,7 @@
 <form>CMC</form>
 <tag>
 <AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p4s1w3">
@@ -1232,7 +1232,7 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p7s6w5">
@@ -1243,7 +1243,7 @@
 <form>ROM</form>
 <tag>
 <AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ROM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ROM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p7s6w6">
@@ -1453,7 +1453,7 @@
 <form>CMC</form>
 <tag>
 <AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p8s3w11">
@@ -1895,7 +1895,7 @@
 <form>CMC</form>
 <tag>
 <AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p11s1w19">
@@ -1930,7 +1930,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p11s1w23">

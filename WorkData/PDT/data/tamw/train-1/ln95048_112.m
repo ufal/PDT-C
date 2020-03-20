@@ -96,7 +96,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p2s1Aw6">
@@ -747,7 +747,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p2s4w28">
@@ -1892,7 +1892,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p4s1w12">
@@ -2377,7 +2377,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p4s6w6">
@@ -3565,7 +3565,7 @@
 <form>CSU</form>
 <tag>
 <AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p6s2w29">
@@ -4065,7 +4065,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p6s6w7">
@@ -4527,7 +4527,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p6s10w16">
@@ -4639,7 +4639,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p6s11w6">

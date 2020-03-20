@@ -314,7 +314,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-101-p2s3w9">
@@ -501,7 +501,7 @@
 <form>BVV</form>
 <tag>
 <AM lemma="BVV_:B_;K" src="orig">NNIPX-----A---8</AM>
-<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-101-p2s5w6">

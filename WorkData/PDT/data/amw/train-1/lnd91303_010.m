@@ -229,7 +229,7 @@
 <AM lemma="GRU_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Grus_:B_;G_,t_^(Jeřáb,_souhvězdí)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GRU_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="GRU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GRU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-010-p5s1w18">

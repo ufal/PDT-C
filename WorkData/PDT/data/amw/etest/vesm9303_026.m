@@ -10592,7 +10592,7 @@
 <AM lemma="TC-5_:B_,t_^(transmission_convergence)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="TC-6_:B_;R_,t_^(Turbo_C)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="technecium_:B_;H" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p13s4w19">
@@ -10700,7 +10700,7 @@
 <AM lemma="TC-5_:B_,t_^(transmission_convergence)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="TC-6_:B_;R_,t_^(Turbo_C)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="technecium_:B_;H" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p14s1w12">
@@ -11815,7 +11815,7 @@
 <AM lemma="TC-5_:B_,t_^(transmission_convergence)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="TC-6_:B_;R_,t_^(Turbo_C)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="technecium_:B_;H" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p14s11w3">
@@ -11987,7 +11987,7 @@
 <AM lemma="TC-5_:B_,t_^(transmission_convergence)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="TC-6_:B_;R_,t_^(Turbo_C)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="technecium_:B_;H" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p14s12w6">

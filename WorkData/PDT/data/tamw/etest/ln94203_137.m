@@ -29,7 +29,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p1s1w3">
@@ -48,7 +48,7 @@
 <form>CERGE</form>
 <tag>
 <AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CERGE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CERGE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p1s1w5">
@@ -68,7 +68,7 @@
 <tag>
 <AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -243,7 +243,7 @@
 <form>CERGE</form>
 <tag>
 <AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CERGE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CERGE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw20">
@@ -302,7 +302,7 @@
 <form>AV</form>
 <tag>
 <AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw27">
@@ -390,7 +390,7 @@
 <form>CMC</form>
 <tag>
 <AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw37">
@@ -459,7 +459,7 @@
 <form>CERGE</form>
 <tag>
 <AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CERGE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CERGE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p3s1w7">
@@ -481,7 +481,7 @@
 <AM lemma="EI-1_:B_;K_,t_^(letecká_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EI-2_:B_^(expres_informace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EI-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p3s1w9">

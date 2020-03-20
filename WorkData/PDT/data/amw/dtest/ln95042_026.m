@@ -1658,7 +1658,7 @@
 <AM lemma="Su_:B_;R_^(letadlo)" src="orig">NNIXX-----A----</AM>
 <AM lemma="být_,n" src="auto" recommended="1">VB-S---1P-AA--7</AM>
 <AM lemma="Su_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="Su-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Su-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-026-p3s7w18">

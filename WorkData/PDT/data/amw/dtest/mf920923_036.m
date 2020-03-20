@@ -198,7 +198,7 @@
 <AM lemma="MI_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
 <AM lemma="MI_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p2s2w15">
@@ -1008,7 +1008,7 @@
 <form>FMZV</form>
 <tag>
 <AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p3s1w21">
@@ -1197,7 +1197,7 @@
 <form>FMZO</form>
 <tag>
 <AM lemma="FMZO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FMZO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMZO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p4s1w22">

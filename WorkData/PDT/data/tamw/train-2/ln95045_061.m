@@ -422,7 +422,7 @@
 <form>BVA</form>
 <tag>
 <AM lemma="BVA_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="BVA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BVA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-061-p2s2w13">
@@ -744,7 +744,7 @@
 <form>RPR</form>
 <tag>
 <AM lemma="RPR-1_:B_;K_,t_^(Rassemblement_pour_la_République)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="RPR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-061-p2s4w8">

@@ -1628,7 +1628,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-013-p14s2w20">
@@ -1809,7 +1809,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-013-p14s3w10">
@@ -2907,7 +2907,7 @@
 <AM lemma="SES_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-S4--2-------</AM>
 <AM lemma="SES_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ses-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ses-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-013-p18s3w18">
@@ -2950,7 +2950,7 @@
 <form>MNCP</form>
 <tag>
 <AM lemma="MNCP_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MNCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MNCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-013-p18s3w23">

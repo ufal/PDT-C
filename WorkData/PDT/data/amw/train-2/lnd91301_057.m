@@ -302,7 +302,7 @@
 <form>AFP</form>
 <tag>
 <AM lemma="AFP_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-057-p4s2Bw6">

@@ -282,7 +282,7 @@
 <form>hud</form>
 <tag>
 <AM lemma="hudební_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="hud-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="hud-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p9s1w6">
@@ -303,7 +303,7 @@
 <AM lemma="dokument_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="dok" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="dok" src="auto">NNIS4-----A----</AM>
-<AM lemma="dok-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="dok-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p9s1w8">
@@ -328,7 +328,7 @@
 <AM lemma="telefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto">PDXXX---------8</AM>
-<AM lemma="t-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="t-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1164,7 +1164,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p30s1w3">
@@ -1533,7 +1533,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p38s1w3">
@@ -1552,7 +1552,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p38s1w5">
@@ -1762,7 +1762,7 @@
 <form>GEN</form>
 <tag>
 <AM lemma="gen" src="orig">NNIS1-----A----</AM>
-<AM lemma="GEN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p45s1w3">
@@ -1833,7 +1833,7 @@
 <form>CKP</form>
 <tag>
 <AM lemma="CKP_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2207,7 +2207,7 @@
 <tag>
 <AM lemma="HB_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Hb_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p57s1w4">
@@ -2268,7 +2268,7 @@
 <form>RMS</form>
 <tag>
 <AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p59s1w3">
@@ -2637,7 +2637,7 @@
 <form>HAZ</form>
 <tag>
 <AM lemma="HAZ" src="orig">AAXXX----1A----</AM>
-<AM lemma="HAZ-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="HAZ-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="HAZ-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2671,7 +2671,7 @@
 <form>RMS</form>
 <tag>
 <AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p71s1w3">

@@ -317,7 +317,7 @@
 <form>UNPROFOR</form>
 <tag>
 <AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNPROFOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-113-p2s2w3">
@@ -328,7 +328,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-113-p2s2w4">
@@ -445,7 +445,7 @@
 <form>UNPROFOR</form>
 <tag>
 <AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNPROFOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-113-p2s3w2">
@@ -1013,7 +1013,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-113-p3s3w12">

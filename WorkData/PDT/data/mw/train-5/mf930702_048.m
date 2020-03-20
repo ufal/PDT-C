@@ -557,7 +557,7 @@
 <AM lemma="CET-2_:B_,t_^(central_european_time)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CET_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Cet-1_:B_;G_,t_^(Cetus,_souhvězdí_Velryba)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="CET-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-048-p1s2w17">
@@ -2374,7 +2374,7 @@
 <form>ČNTS</form>
 <tag>
 <AM lemma="ČNTS-1_:B_;K_^(Česká_nezávislá_televizní_společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-048-p1s14w9">
@@ -2563,7 +2563,7 @@
 <form>ČNTS</form>
 <tag>
 <AM lemma="ČNTS-1_:B_;K_^(Česká_nezávislá_televizní_společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-048-p1s15w6">

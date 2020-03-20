@@ -2198,7 +2198,7 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="v-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="v-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-161-p5s1w8">
@@ -2217,7 +2217,7 @@
 <form>zp</form>
 <tag>
 <AM lemma="zp-8_:B_^(ost._zkratka)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="zp-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zp-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-161-p5s1w10">

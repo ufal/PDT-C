@@ -215,7 +215,7 @@
 <form>PCR</form>
 <tag>
 <AM lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-016-p3s3w10">
@@ -450,7 +450,7 @@
 <form>PCR</form>
 <tag>
 <AM lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-016-p5s2w4">

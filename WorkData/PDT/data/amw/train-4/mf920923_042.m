@@ -111,7 +111,7 @@
 <form>ČMFL</form>
 <tag>
 <AM lemma="ČMFL_:B_;K_;w_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMFL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1179,7 +1179,7 @@
 <form>SKPP</form>
 <tag>
 <AM lemma="SKPP_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SKPP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SKPP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-042-p5s1w11">
@@ -2245,7 +2245,7 @@
 <form>ČMFL</form>
 <tag>
 <AM lemma="ČMFL_:B_;K_;w_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMFL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-042-p6s1w9">
@@ -3077,7 +3077,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-042-p6s6w17">

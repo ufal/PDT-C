@@ -343,7 +343,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s1Bw31">
@@ -429,7 +429,7 @@
 <AM lemma="Ĺ-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ĺ-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="ĺ-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="Ĺ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ĺ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s1Bw40">
@@ -1162,7 +1162,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s6w8">

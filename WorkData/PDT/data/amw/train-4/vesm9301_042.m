@@ -201,7 +201,7 @@
 <AM lemma="lep" src="auto">NNIS4-----A----</AM>
 <AM lemma="lepit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="lepit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="LEP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-042-p5s1w9">
@@ -2529,7 +2529,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-042-p26s1w16">
@@ -3008,7 +3008,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-042-p26s4w5">
@@ -3477,7 +3477,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-042-p26s7w5">
@@ -3520,7 +3520,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-042-p26s7w10">
@@ -4787,7 +4787,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-042-p27s8w7">
@@ -5980,7 +5980,7 @@
 <form>CCT</form>
 <tag>
 <AM lemma="CCT_:B_;R_,t" src="orig">NNIPX-----A---8</AM>
-<AM lemma="CCT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CCT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-042-p37s4w8">

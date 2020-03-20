@@ -3327,7 +3327,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p8s1w5">
@@ -3346,7 +3346,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p8s1w7">
@@ -3897,7 +3897,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p8s3w12">
@@ -3966,7 +3966,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p9s1w4">
@@ -4081,7 +4081,7 @@
 <form>PAUP</form>
 <tag>
 <AM lemma="PAUP_:B_;R_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PAUP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PAUP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p9s1w18">
@@ -4524,7 +4524,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p10s1w10">
@@ -4979,7 +4979,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p10s3w15">
@@ -5226,7 +5226,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p10s5w10">
@@ -5650,7 +5650,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p10s7w5">
@@ -8652,7 +8652,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p14s5w44">
@@ -8746,7 +8746,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p14s6w5">
@@ -9717,7 +9717,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p15s6w10">
@@ -9762,7 +9762,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p15s7w5">
@@ -9917,7 +9917,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p15s7w24">
@@ -9993,7 +9993,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p15s7w33">
@@ -10779,7 +10779,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p16s4w9">
@@ -12117,7 +12117,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p18s5w6">
@@ -12897,7 +12897,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p18s9w17">
@@ -14253,7 +14253,7 @@
 <form>mtDNA</form>
 <tag>
 <AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="mtDNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p20s1w15">

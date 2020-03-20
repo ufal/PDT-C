@@ -311,7 +311,7 @@
 <form>GSR</form>
 <tag>
 <AM lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-029-p3s1w8">
@@ -418,7 +418,7 @@
 <form>GSR</form>
 <tag>
 <AM lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-029-p3s1w21">
@@ -1106,7 +1106,7 @@
 <form>GSR</form>
 <tag>
 <AM lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w17">

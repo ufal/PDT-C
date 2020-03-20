@@ -683,7 +683,7 @@
 <form>ČSAV</form>
 <tag>
 <AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-047-p3s4w14">
@@ -997,7 +997,7 @@
 <form>SPR</form>
 <tag>
 <AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SPR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-047-p3s6w11">
@@ -1016,7 +1016,7 @@
 <form>RSČ</form>
 <tag>
 <AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RSČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-047-p3s6w13">

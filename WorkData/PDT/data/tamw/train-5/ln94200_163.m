@@ -322,7 +322,7 @@
 <form>SNP</form>
 <tag>
 <AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-163-p1s2w18">

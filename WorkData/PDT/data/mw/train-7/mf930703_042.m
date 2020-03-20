@@ -680,7 +680,7 @@
 <tag>
 <AM lemma="VCC_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="VCC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="VCC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VCC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-042-p2s3w14">

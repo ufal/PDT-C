@@ -1391,7 +1391,7 @@
 <AM lemma="BEG_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Bega_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="BEG_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-59-p3s3Bw29">
@@ -1411,7 +1411,7 @@
 <tag>
 <AM lemma="BRUG_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="BRUG_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BRUG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BRUG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-59-p3s3Bw31">
@@ -1440,7 +1440,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-59-p4s1w3">
@@ -1585,7 +1585,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-59-p4s1w20">
@@ -2109,7 +2109,7 @@
 <form>BRUG</form>
 <tag>
 <AM lemma="BRUG_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BRUG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BRUG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-59-p5s2w13">
@@ -2592,7 +2592,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-59-p5s6w3">
@@ -3544,7 +3544,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-59-p7s5w8">
@@ -7364,7 +7364,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-59-p14s1w13">

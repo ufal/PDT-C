@@ -670,7 +670,7 @@
 <form>UNCTAD</form>
 <tag>
 <AM lemma="UNCTAD-1_:B_;K_,t_^(United_Nations_Conference_on_Trade...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNCTAD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNCTAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-141-p2s4w20">
@@ -994,7 +994,7 @@
 <form>UNCTAD</form>
 <tag>
 <AM lemma="UNCTAD-1_:B_;K_,t_^(United_Nations_Conference_on_Trade...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNCTAD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNCTAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-141-p3s3w3">

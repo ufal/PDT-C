@@ -572,7 +572,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-028-p2s3w21">
@@ -591,7 +591,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-028-p2s3w23">

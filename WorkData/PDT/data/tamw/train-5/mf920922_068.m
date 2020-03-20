@@ -466,7 +466,7 @@
 <form>VOKD</form>
 <tag>
 <AM lemma="VOKD_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="VOKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VOKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-068-p3s1w11">
@@ -616,7 +616,7 @@
 <form>VŠZ</form>
 <tag>
 <AM lemma="VŠZ-1_:B_;K_^(Vysoká_škola_zemědělská)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VŠZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VŠZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-068-p3s1w29">
@@ -2292,7 +2292,7 @@
 <tag>
 <AM lemma="N-5_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="nový" src="manual">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-068-p6s3w3">
@@ -2595,7 +2595,7 @@
 <form>VTJ</form>
 <tag>
 <AM lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VTJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VTJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-068-p8s1w8">
@@ -2666,7 +2666,7 @@
 <AM lemma="mladý_:B" src="auto">AAXXX----2A---8</AM>
 <AM lemma="mladý_:B" src="manual">AAXXX----1A---8</AM>
 <AM lemma="mladý" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Ml-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ml-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-068-p8s1w16">
@@ -2760,7 +2760,7 @@
 <tag>
 <AM lemma="ŠKP_:B_;K_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ŠKP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ŠKP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ŠKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-068-p9s1w4">

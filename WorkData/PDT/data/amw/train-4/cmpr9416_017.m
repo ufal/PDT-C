@@ -230,7 +230,7 @@
 <AM lemma="AZ-1_:B_;G_^(Azerbájdžán,_mez._zkr.)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Aza_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="AZ-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-017-p4s3w4">

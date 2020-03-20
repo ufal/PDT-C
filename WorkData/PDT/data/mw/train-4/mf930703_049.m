@@ -21,7 +21,7 @@
 <form>Ch</form>
 <tag>
 <AM lemma="ch-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Ch-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ch-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-049-p1s1w2">
@@ -56,7 +56,7 @@
 <form>L</form>
 <tag>
 <AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-049-p1s1w6">
@@ -91,7 +91,7 @@
 <form>b</form>
 <tag>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="b-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="b-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-049-p1s1w10">

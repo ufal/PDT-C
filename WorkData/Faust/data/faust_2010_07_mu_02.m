@@ -6281,7 +6281,7 @@
 <AM lemma="ICC-3_:B_,t_^(součinitel_vnitřní_konverze)" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ICC-1_:B_,t_^(Mezinárodní_úmluva_o_autorském_právu)">NNFXX-----A---8</AM>
 <AM lemma="ICC-2_:B_;K_,t_^(Mezinárodní_obchodní_komora)">NNFXX-----A---8</AM>
-<AM lemma="ICC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ICC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -1607,7 +1607,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-076-p1s13w16">
@@ -2013,7 +2013,7 @@
 <form>DTJ</form>
 <tag>
 <AM lemma="DTJ-1_:B_;K_^(Dělnická_tělocvičná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DTJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DTJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-076-p1s15w11">

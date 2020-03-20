@@ -355,7 +355,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-016-p1s4w6">
@@ -599,7 +599,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-016-p1s5w6">
@@ -716,7 +716,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-016-p1s6w2">
@@ -1822,7 +1822,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-016-p1s11w10">
@@ -1873,7 +1873,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-016-p1s11w16">

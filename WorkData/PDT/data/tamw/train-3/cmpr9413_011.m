@@ -6201,7 +6201,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-011-p24s4w9">

@@ -53,7 +53,7 @@
 <form>FALL</form>
 <tag>
 <AM lemma="FALL_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FALL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FALL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -148,7 +148,7 @@
 <form>FALL</form>
 <tag>
 <AM lemma="FALL_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FALL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FALL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-158-p2s1Bw10">

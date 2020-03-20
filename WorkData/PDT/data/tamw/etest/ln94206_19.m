@@ -247,7 +247,7 @@
 <form>PKVT</form>
 <tag>
 <AM lemma="PKVT-1_:B_;K_^(Pražské_kanalizace_a_vodní_toky)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="PKVT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PKVT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-19-p2s1Bw17">

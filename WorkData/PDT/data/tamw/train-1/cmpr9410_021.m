@@ -692,7 +692,7 @@
 <AM lemma="Communicatio" src="auto">NNNS1-----A----</AM>
 <AM lemma="Communicatio_;K" src="auto">NNNS1-----A----</AM>
 <AM lemma="communicatio" src="auto">NNMS1-----A----</AM>
-<AM lemma="Communicatio-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Communicatio-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Communicatio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -713,7 +713,7 @@
 <AM lemma="Humana" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Human_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="humana" src="auto">NNMS1-----A----</AM>
-<AM lemma="Humana-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Humana-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Humana-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1225,7 +1225,7 @@
 <form>AK</form>
 <tag>
 <AM lemma="AK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-021-p8s2w4">
@@ -2076,7 +2076,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-021-p11s2w3">
@@ -2095,7 +2095,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-021-p11s2w5">
@@ -2127,7 +2127,7 @@
 <AM lemma="e-1" src="auto">II-------------</AM>
 <AM lemma="e-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-021-p11s2w7">
@@ -2432,7 +2432,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-021-p12s2w3">
@@ -2451,7 +2451,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-021-p12s2w5">
@@ -2483,7 +2483,7 @@
 <AM lemma="e-1" src="auto">II-------------</AM>
 <AM lemma="e-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-021-p12s2w7">

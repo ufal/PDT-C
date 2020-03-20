@@ -573,7 +573,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-054-p5s1w6">
@@ -796,7 +796,7 @@
 <AM lemma="všechen_:B" src="orig">PLXXX---------8</AM>
 <AM lemma="vysokoškolský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="vš_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="vš-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vš-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-054-p6s1w14">
@@ -815,7 +815,7 @@
 <form>SKP</form>
 <tag>
 <AM lemma="SKP_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-054-p6s1w16">

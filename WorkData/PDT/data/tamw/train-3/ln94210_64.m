@@ -636,7 +636,7 @@
 <form>DM</form>
 <tag>
 <AM lemma="DM-7_:B_;U_,t_^(diabetes_mellitus)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-64-p2s2w28">

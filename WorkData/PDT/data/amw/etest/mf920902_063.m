@@ -441,7 +441,7 @@
 <form>U</form>
 <tag>
 <AM lemma="United-4_:B_;m_,t_^(United,_spojený)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-063-p2s3w19">
@@ -483,7 +483,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-063-p2s3w21">
@@ -502,7 +502,7 @@
 <form>Open</form>
 <tag>
 <AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Open-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Open-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

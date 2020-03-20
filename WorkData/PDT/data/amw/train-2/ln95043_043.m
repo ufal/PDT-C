@@ -673,7 +673,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-043-p3s1w3">
@@ -1852,7 +1852,7 @@
 <form>SLA</form>
 <tag>
 <AM lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SLA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-043-p4s4w15">

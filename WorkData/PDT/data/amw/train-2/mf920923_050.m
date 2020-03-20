@@ -364,7 +364,7 @@
 <form>ZX</form>
 <tag>
 <AM lemma="ZX_:B_;R" src="orig">NNXXX-----A----</AM>
-<AM lemma="ZX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-050-p2s2w23">

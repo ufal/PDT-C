@@ -592,7 +592,7 @@
 <form>PIAT</form>
 <tag>
 <AM lemma="PIAT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PIAT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PIAT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-010-p4s1w11">
@@ -670,7 +670,7 @@
 <tag>
 <AM lemma="PIADC_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PIADC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PIADC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PIADC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-010-p4s2w9">
@@ -878,7 +878,7 @@
 <form>PIAT</form>
 <tag>
 <AM lemma="PIAT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PIAT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PIAT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-010-p5s1w8">

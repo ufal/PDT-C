@@ -180,7 +180,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-068-p3s1w17">
@@ -284,7 +284,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-068-p3s2w3">

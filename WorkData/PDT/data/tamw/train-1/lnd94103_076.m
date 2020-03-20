@@ -352,7 +352,7 @@
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="la-3_,t" src="auto">RF-------------</AM>
 <AM lemma="LA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-076-p1s3w12">

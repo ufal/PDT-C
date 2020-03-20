@@ -89,7 +89,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DPH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p4s1w2">
@@ -5389,7 +5389,7 @@
 <tag>
 <AM lemma="HRD_:B_;K_,t_^(Hoge_Raad_voor_Diamant)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hrd" src="auto" recommended="1">ACYS------A----</AM>
-<AM lemma="HRD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HRD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p22s2w7">
@@ -5552,7 +5552,7 @@
 <form>GIA</form>
 <tag>
 <AM lemma="GIA_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GIA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p22s3w6">
@@ -5571,7 +5571,7 @@
 <form>IGI</form>
 <tag>
 <AM lemma="IGI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="IGI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IGI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p22s3w8">
@@ -6072,7 +6072,7 @@
 <tag>
 <AM lemma="HRD_:B_;K_,t_^(Hoge_Raad_voor_Diamant)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hrd" src="auto" recommended="1">ACYS------A----</AM>
-<AM lemma="HRD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HRD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p23s1w12">
@@ -7356,7 +7356,7 @@
 <tag>
 <AM lemma="IF_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p30s1w8">
@@ -7561,7 +7561,7 @@
 <form>VVS</form>
 <tag>
 <AM lemma="VVS_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="VVS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p31s1w2">
@@ -7580,7 +7580,7 @@
 <form>VS</form>
 <tag>
 <AM lemma="VS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p31s1w4">
@@ -7602,7 +7602,7 @@
 <AM lemma="SI-1_:B_^(mez._soustava_jednotek_SI)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-X3----------</AM>
 <AM lemma="být" src="auto">VB-S---2P-AA--7</AM>
-<AM lemma="SI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p31s1w6">
@@ -9181,7 +9181,7 @@
 <form>SI</form>
 <tag>
 <AM lemma="SI-1_:B_^(mez._soustava_jednotek_SI)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p49s1w9">
@@ -12001,7 +12001,7 @@
 <form>SI</form>
 <tag>
 <AM lemma="SI-1_:B_^(mez._soustava_jednotek_SI)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p58s2w9">
@@ -12203,7 +12203,7 @@
 <tag>
 <AM lemma="HRD_:B_;K_,t_^(Hoge_Raad_voor_Diamant)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hrd" src="auto" recommended="1">ACYS------A----</AM>
-<AM lemma="HRD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HRD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p58s3w11">
@@ -12774,7 +12774,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DPH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p59s2w17">
@@ -13563,7 +13563,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DPH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p60s3w19">
@@ -14035,7 +14035,7 @@
 <form>SI</form>
 <tag>
 <AM lemma="SI-1_:B_^(mez._soustava_jednotek_SI)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p61s2w20">
@@ -14070,7 +14070,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DPH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p61s2w24">
@@ -14500,7 +14500,7 @@
 <tag>
 <AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B_;b" src="manual">NNFXX-----A---8</AM>
-<AM lemma="DPH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DPH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p61s3w41">

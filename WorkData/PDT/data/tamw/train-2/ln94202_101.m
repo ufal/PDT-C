@@ -2152,7 +2152,7 @@
 <form>IAAF</form>
 <tag>
 <AM lemma="IAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IAAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IAAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p4s3w19">
@@ -2320,7 +2320,7 @@
 <form>IAAF</form>
 <tag>
 <AM lemma="IAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IAAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IAAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p4s4w3">

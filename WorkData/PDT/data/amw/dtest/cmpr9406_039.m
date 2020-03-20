@@ -72,7 +72,7 @@
 <tag>
 <AM lemma="DG_:B_;K" src="orig">NNXXX-----A----</AM>
 <AM lemma="dg_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-039-p3s1w4">
@@ -2776,7 +2776,7 @@
 <AM lemma="BIC-1_:B_;K_,t_^(Bureau_International_de_Cinéma)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="BIC-2_:B_;K_,t_^(Bureau_Inter._du_Commerce_et_de_l'Indust.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="BIC-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BIC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-039-p10s2w13">
@@ -3706,7 +3706,7 @@
 <AM lemma="BIC-1_:B_;K_,t_^(Bureau_International_de_Cinéma)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="BIC-2_:B_;K_,t_^(Bureau_Inter._du_Commerce_et_de_l'Indust.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="BIC-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BIC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-039-p21s1w4">

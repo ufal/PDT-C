@@ -1084,7 +1084,7 @@
 <AM lemma="eso" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="eso" src="auto">NNNS4-----A----</AM>
 <AM lemma="eso" src="auto">NNNS5-----A----</AM>
-<AM lemma="ESO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ESO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p3s1w41">
@@ -1146,7 +1146,7 @@
 <tag>
 <AM lemma="OMI_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Omi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="OMI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p3s2w2">
@@ -1488,7 +1488,7 @@
 <AM lemma="eso" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="eso" src="auto">NNNS4-----A----</AM>
 <AM lemma="eso" src="auto">NNNS5-----A----</AM>
-<AM lemma="ESO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ESO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p3s2w44">
@@ -1568,7 +1568,7 @@
 <AM lemma="eso" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="eso" src="auto">NNNS4-----A----</AM>
 <AM lemma="eso" src="auto">NNNS5-----A----</AM>
-<AM lemma="ESO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ESO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p3s3w7">

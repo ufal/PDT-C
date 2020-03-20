@@ -191,7 +191,7 @@
 <form>STV</form>
 <tag>
 <AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s2w14">
@@ -404,7 +404,7 @@
 <form>STV</form>
 <tag>
 <AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s3w24">
@@ -596,7 +596,7 @@
 <form>STV</form>
 <tag>
 <AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s5w13">
@@ -748,7 +748,7 @@
 <form>STV</form>
 <tag>
 <AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s6w3">
@@ -1406,7 +1406,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s12w18">

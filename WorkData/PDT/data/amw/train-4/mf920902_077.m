@@ -143,7 +143,7 @@
 <form>PSV</form>
 <tag>
 <AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-077-p1s1Bw15">
@@ -210,7 +210,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-077-p1s1Bw23">
@@ -221,7 +221,7 @@
 <form>FC</form>
 <tag>
 <AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-077-p1s1Bw24">
@@ -407,7 +407,7 @@
 <form>PSV</form>
 <tag>
 <AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-077-p1s2w21">
@@ -690,7 +690,7 @@
 <form>PSV</form>
 <tag>
 <AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-077-p1s4w5">

@@ -587,7 +587,7 @@
 <tag>
 <AM lemma="Intes_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Intesa_;K" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="INTES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="INTES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-055-p4s3w4">
@@ -1044,7 +1044,7 @@
 <tag>
 <AM lemma="Intes_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Intesa_;K" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="INTES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="INTES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-055-p5s3w4">
@@ -1497,7 +1497,7 @@
 <tag>
 <AM lemma="Intes_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Intesa_;K" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="INTES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="INTES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-055-p6s3w4">
@@ -1835,7 +1835,7 @@
 <form>MŠMT</form>
 <tag>
 <AM lemma="MŠMT_:B_;K_^(Ministerstvo_školství_mládeže_a_tělovýchovy)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MŠMT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MŠMT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-055-p7s1Aw13">

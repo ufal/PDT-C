@@ -21,7 +21,7 @@
 <form>ČMSS</form>
 <tag>
 <AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p1s1w2">
@@ -182,7 +182,7 @@
 <form>ČMSS</form>
 <tag>
 <AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s1Cw6">
@@ -305,7 +305,7 @@
 <form>HSMS</form>
 <tag>
 <AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HSMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s1Cw21">
@@ -356,7 +356,7 @@
 <form>ČMSS</form>
 <tag>
 <AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s1Cw27">
@@ -431,7 +431,7 @@
 <form>MNS</form>
 <tag>
 <AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s1Cw36">
@@ -551,7 +551,7 @@
 <form>ČMSS</form>
 <tag>
 <AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s2w7">
@@ -562,7 +562,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s2w8">
@@ -647,7 +647,7 @@
 <form>HSMS</form>
 <tag>
 <AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HSMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s3w8">
@@ -658,7 +658,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s3w9">
@@ -797,7 +797,7 @@
 <form>MNS</form>
 <tag>
 <AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s3w26">
@@ -816,7 +816,7 @@
 <form>HSMS</form>
 <tag>
 <AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HSMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s3w28">
@@ -941,7 +941,7 @@
 <form>ČMSS</form>
 <tag>
 <AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s4w15">
@@ -1106,7 +1106,7 @@
 <form>ČMSS</form>
 <tag>
 <AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-60-p2s5w12">

@@ -93,7 +93,7 @@
 <form>NASA</form>
 <tag>
 <AM lemma="NASA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NASA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NASA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-010-p1s1w11">

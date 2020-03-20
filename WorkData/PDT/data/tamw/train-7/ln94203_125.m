@@ -916,7 +916,7 @@
 <form>U</form>
 <tag>
 <AM lemma="U-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-125-p3s4w12">
@@ -2207,7 +2207,7 @@
 <form>LeRK</form>
 <tag>
 <AM lemma="Lerk_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="LeRK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LeRK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-125-p4s6w7">

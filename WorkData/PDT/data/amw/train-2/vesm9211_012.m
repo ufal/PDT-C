@@ -3234,7 +3234,7 @@
 <form>RNA</form>
 <tag>
 <AM lemma="RNA_:B_;L_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p10s1w43">
@@ -3701,7 +3701,7 @@
 <form>RNA</form>
 <tag>
 <AM lemma="RNA_:B_;L_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p10s2w37">
@@ -18558,7 +18558,7 @@
 <form>PCR</form>
 <tag>
 <AM lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PCR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p28s2w27">
@@ -19970,7 +19970,7 @@
 <form>PCR</form>
 <tag>
 <AM lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PCR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p29s2w8">

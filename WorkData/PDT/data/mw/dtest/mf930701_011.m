@@ -271,7 +271,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-011-p2s1w23">

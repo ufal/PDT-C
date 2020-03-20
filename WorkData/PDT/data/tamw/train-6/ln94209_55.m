@@ -165,7 +165,7 @@
 <form>ČAV</form>
 <tag>
 <AM lemma="ČAV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČAV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -3230,7 +3230,7 @@
 <form>ČsOPK</form>
 <tag>
 <AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČsOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-55-p7s1w11">
@@ -6030,7 +6030,7 @@
 <form>ČsOPK</form>
 <tag>
 <AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČsOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-55-p11s1w15">
@@ -6381,7 +6381,7 @@
 <form>ČsOPK</form>
 <tag>
 <AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČsOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-55-p11s3w8">
@@ -6986,7 +6986,7 @@
 <form>ČsOPK</form>
 <tag>
 <AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČsOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-55-p12s1w55">

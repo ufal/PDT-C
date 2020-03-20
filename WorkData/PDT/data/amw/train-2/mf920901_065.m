@@ -294,7 +294,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-065-p2s3w2">

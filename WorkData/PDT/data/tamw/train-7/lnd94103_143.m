@@ -255,7 +255,7 @@
 <form>ČMKOS</form>
 <tag>
 <AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMKOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-143-p1s3w18">
@@ -581,7 +581,7 @@
 <form>ČMKOS</form>
 <tag>
 <AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMKOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-143-p1s6w17">
@@ -1559,7 +1559,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-143-p1s14w15">

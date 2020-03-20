@@ -186,8 +186,8 @@
 <tag>
 <AM lemma="Fed_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Fed_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FED-88_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="Fed-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FED-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Fed-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p2s1Bw11">
@@ -590,8 +590,8 @@
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="FED_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FED-88_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="Fed-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FED-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Fed-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p3s1w6">
@@ -1217,8 +1217,8 @@
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="FED_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FED-88_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="Fed-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FED-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Fed-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p4s2w3">
@@ -1310,7 +1310,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p4s2w14">
@@ -1537,7 +1537,7 @@
 <form>FED</form>
 <tag>
 <AM lemma="Fed_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p4s3w8">

@@ -8293,7 +8293,7 @@
 <form>ABB</form>
 <tag>
 <AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-089-p15s1w18">

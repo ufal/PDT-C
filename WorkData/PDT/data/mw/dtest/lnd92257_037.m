@@ -167,7 +167,7 @@
 <form>FMZV</form>
 <tag>
 <AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-037-p1s2w4">
@@ -635,7 +635,7 @@
 <form>FMZV</form>
 <tag>
 <AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-037-p1s4w3">

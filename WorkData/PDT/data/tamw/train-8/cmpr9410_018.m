@@ -4025,7 +4025,7 @@
 <form>IH</form>
 <tag>
 <AM lemma="IH_:B_;K_^(Interhotel)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p13s4w17">
@@ -4257,7 +4257,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p15s1w13">

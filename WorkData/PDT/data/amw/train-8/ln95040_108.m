@@ -31,7 +31,7 @@
 <form>HTT</form>
 <tag>
 <AM lemma="HTT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="HTT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HTT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-108-p2s1w2">
@@ -500,7 +500,7 @@
 <form>AG</form>
 <tag>
 <AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-108-p4s1w4">
@@ -713,7 +713,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-108-p4s2w16">

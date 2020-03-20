@@ -145,7 +145,7 @@
 <AM lemma="LeRK-2_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="LeRK_:B_;K" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Lerk_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="LeRK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LeRK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-123-p2s4w10">
@@ -661,7 +661,7 @@
 <form>LeRK</form>
 <tag>
 <AM lemma="Lerk_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="LeRK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LeRK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-123-p3s9w11">

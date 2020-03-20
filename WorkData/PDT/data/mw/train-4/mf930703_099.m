@@ -1416,7 +1416,7 @@
 <form>STES</form>
 <tag>
 <AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p4s1w16">
@@ -1574,7 +1574,7 @@
 <AM lemma="CET-2_:B_,t_^(central_european_time)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CET_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Cet-1_:B_;G_,t_^(Cetus,_souhvězdí_Velryba)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="CET-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p4s1w35">
@@ -2109,7 +2109,7 @@
 <form>STES</form>
 <tag>
 <AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p4s3w19">
@@ -2367,7 +2367,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p6s1w3">
@@ -2402,7 +2402,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p6s1w7">

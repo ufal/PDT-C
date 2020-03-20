@@ -2668,7 +2668,7 @@
 <form>uefa</form>
 <tag>
 <AM lemma="uefa">X@-------------</AM>
-<AM lemma="uefa-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="uefa-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UEFA-1_:B_;K_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -4703,7 +4703,7 @@
 <AM lemma="podnik_:B">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)">RR--X---------8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_07-SCzechM-p0717-s1-w5">

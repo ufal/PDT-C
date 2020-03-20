@@ -880,7 +880,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
-<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-017-p2s6w24">
@@ -1348,7 +1348,7 @@
 <form>ČSTV</form>
 <tag>
 <AM lemma="ČSTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-017-p2s10w5">
@@ -3088,7 +3088,7 @@
 <form>ČSTV</form>
 <tag>
 <AM lemma="ČSTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-017-p2s21w8">

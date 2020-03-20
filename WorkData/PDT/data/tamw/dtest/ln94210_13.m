@@ -23,7 +23,7 @@
 <AM lemma="CSIC_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSIC_:B_;K_^(Středisko_pro_vědecký_výzkum)" src="auto" recommended="1">NNNSX-----A---8</AM>
 <AM lemma="CSIC-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="CSIC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-13-p1s1w2">
@@ -102,7 +102,7 @@
 <AM lemma="CSIC_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSIC_:B_;K_^(Středisko_pro_vědecký_výzkum)" src="auto" recommended="1">NNNSX-----A---8</AM>
 <AM lemma="CSIC-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="CSIC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-13-p2s1w8">
@@ -397,7 +397,7 @@
 <AM lemma="CSIC_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSIC_:B_;K_^(Středisko_pro_vědecký_výzkum)" src="auto" recommended="1">NNNSX-----A---8</AM>
 <AM lemma="CSIC-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="CSIC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-13-p3s1w2">

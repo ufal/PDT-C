@@ -370,7 +370,7 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

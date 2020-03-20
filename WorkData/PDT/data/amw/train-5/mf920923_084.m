@@ -488,7 +488,7 @@
 <form>OHS</form>
 <tag>
 <AM lemma="OHS-1_:B_^(okresní_hygienická_stanice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OHS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OHS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-084-p2s4w22">

@@ -1464,7 +1464,7 @@
 <form>MB</form>
 <tag>
 <AM lemma="MB_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-046-p7s1w3">
@@ -1961,7 +1961,7 @@
 <form>MB</form>
 <tag>
 <AM lemma="MB_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-046-p8s1w4">

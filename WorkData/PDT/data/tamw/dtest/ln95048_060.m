@@ -143,7 +143,7 @@
 <AM lemma="francouzský_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="francouzština_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="frank_:B_;b" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fr-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Fr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-060-p2s2w7">

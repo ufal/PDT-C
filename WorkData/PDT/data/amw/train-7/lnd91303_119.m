@@ -243,7 +243,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-119-p3s2w2">
@@ -723,7 +723,7 @@
 <form>PEN</form>
 <tag>
 <AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PEN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-119-p4s2w31">
@@ -1546,7 +1546,7 @@
 <form>PEN</form>
 <tag>
 <AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PEN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-119-p6s1w4">
@@ -4512,7 +4512,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-119-p9s2w2">

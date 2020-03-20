@@ -575,7 +575,7 @@
 <form>MPO</form>
 <tag>
 <AM lemma="MPO-1_:B_^(ministerstvo_průmyslu_a_obchodu)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-121-p4s1w2">

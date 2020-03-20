@@ -417,7 +417,7 @@
 <form>HUF</form>
 <tag>
 <AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s2w22">
@@ -453,7 +453,7 @@
 <form>ATS</form>
 <tag>
 <AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ATS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s2w26">
@@ -735,7 +735,7 @@
 <form>HUF</form>
 <tag>
 <AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s4w15">
@@ -816,7 +816,7 @@
 <form>HUF</form>
 <tag>
 <AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s5w9">
@@ -929,7 +929,7 @@
 <AM lemma="Ava_;G_;R" src="auto">NNFP2-----A----</AM>
 <AM lemma="AV-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AV-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s6w13">
@@ -940,7 +940,7 @@
 <form>Rt</form>
 <tag>
 <AM lemma="Rt_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Rt-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Rt-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s6w14">
@@ -1062,7 +1062,7 @@
 <form>HUF</form>
 <tag>
 <AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s6w28">

@@ -1486,7 +1486,7 @@
 <AM lemma="PLA-1_:B_,t_^(programmable_logic_array)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Pla_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="PLA-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PLA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-042-p5s2w11">
@@ -1961,7 +1961,7 @@
 <form>AP</form>
 <tag>
 <AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-042-p6s2w4">

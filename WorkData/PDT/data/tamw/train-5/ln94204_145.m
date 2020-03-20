@@ -179,7 +179,7 @@
 <form>MTV</form>
 <tag>
 <AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p2s1Dw6">
@@ -291,7 +291,7 @@
 <AM lemma="EB-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p2s1Dw19">
@@ -473,7 +473,7 @@
 <form>SA</form>
 <tag>
 <AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p2s3w4">
@@ -753,7 +753,7 @@
 <form>MTV</form>
 <tag>
 <AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p3s2w9">
@@ -994,7 +994,7 @@
 <AM lemma="EB-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p4s2w7">
@@ -1188,7 +1188,7 @@
 <AM lemma="EB-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p4s3w16">
@@ -1964,7 +1964,7 @@
 <form>TVP</form>
 <tag>
 <AM lemma="TVP-1_:B_^(tabulka_válečných_počtů)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p7s1w25">
@@ -2809,7 +2809,7 @@
 <AM lemma="EB-2_:B_;K_,t" src="orig">NNMXX-----A---8</AM>
 <AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p10s1w9">
@@ -3189,7 +3189,7 @@
 <AM lemma="EB-2_:B_;K_,t" src="orig">NNMXX-----A---8</AM>
 <AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p11s1w5">
@@ -3380,7 +3380,7 @@
 <form>RTL</form>
 <tag>
 <AM lemma="RTL-1_:B_;K_;y_^(TV_stanice_Lucembursko)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="RTL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RTL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p12s1Bw5">
@@ -3621,7 +3621,7 @@
 <AM lemma="EB-2_:B_;K_,t" src="orig">NNMXX-----A---8</AM>
 <AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p12s1Bw34">

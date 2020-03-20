@@ -227,7 +227,7 @@
 <tag>
 <AM lemma="TMCR_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TMCR_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TMCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TMCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s1w20">
@@ -557,7 +557,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-3`500" src="orig">C}-------------</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s3w18">
@@ -825,7 +825,7 @@
 <tag>
 <AM lemma="TMCR_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TMCR_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TMCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TMCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s5w4">
@@ -896,7 +896,7 @@
 <AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s5w12">
@@ -992,7 +992,7 @@
 <form>SA</form>
 <tag>
 <AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s6w10">
@@ -1022,7 +1022,7 @@
 <form>SA</form>
 <tag>
 <AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s6w13">
@@ -1069,7 +1069,7 @@
 <tag>
 <AM lemma="SpA_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Spa_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="SpA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SpA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s6w18">

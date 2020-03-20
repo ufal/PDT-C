@@ -486,7 +486,7 @@
 <form>IMF</form>
 <tag>
 <AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p2s2w14">
@@ -1024,7 +1024,7 @@
 <form>IMF</form>
 <tag>
 <AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p4s1w2">
@@ -1187,7 +1187,7 @@
 <form>IMF</form>
 <tag>
 <AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p4s1w22">
@@ -1331,7 +1331,7 @@
 <form>IMF</form>
 <tag>
 <AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p4s2w2">
@@ -1470,7 +1470,7 @@
 <form>IMF</form>
 <tag>
 <AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p4s2w20">
@@ -1683,7 +1683,7 @@
 <form>IMF</form>
 <tag>
 <AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p4s3w27">
@@ -1704,7 +1704,7 @@
 <form>IMF</form>
 <tag>
 <AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p5s1w2">
@@ -2719,7 +2719,7 @@
 <form>IMF</form>
 <tag>
 <AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p6s7w6">
@@ -3437,7 +3437,7 @@
 <tag>
 <AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="GATT_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GATT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p7s1w31">
@@ -3528,7 +3528,7 @@
 <form>IMF</form>
 <tag>
 <AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p7s1w42">

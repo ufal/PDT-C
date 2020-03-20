@@ -232,8 +232,8 @@
 <form>MTI</form>
 <tag>
 <AM lemma="MTI-2_:B_;K_,t_^(Magyar_Távirati_Iroda,_tisk._agentura)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MTI-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MTI-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="MTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-076-p2s3w5">

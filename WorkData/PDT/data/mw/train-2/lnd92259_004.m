@@ -381,7 +381,7 @@
 <AM lemma="FOS_:B_;K_^(Federální_odborový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="fosa_;L_^(živočich,_cibetkovitá_šelma)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="FOS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p3s3w20">
@@ -393,7 +393,7 @@
 <tag>
 <AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
 <AM lemma="PHGN_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PHGN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PHGN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p3s3w21">
@@ -704,7 +704,7 @@
 <AM lemma="FOS_:B_;K_^(Federální_odborový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="fosa_;L_^(živočich,_cibetkovitá_šelma)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="FOS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p4s1w37">
@@ -716,7 +716,7 @@
 <tag>
 <AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
 <AM lemma="PHGN_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PHGN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PHGN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p4s1w38">
@@ -1448,7 +1448,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p6s1w22">
@@ -1467,7 +1467,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p6s1w24">
@@ -1486,7 +1486,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p6s1w26">
@@ -3124,7 +3124,7 @@
 <AM lemma="FOS_:B_;K_^(Federální_odborový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="fosa_;L_^(živočich,_cibetkovitá_šelma)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="FOS_:B" src="manual">NNIXX-----A---8</AM>
-<AM lemma="FOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p7s5w22">

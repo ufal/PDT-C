@@ -5514,7 +5514,7 @@
 <form>CSKA</form>
 <tag>
 <AM lemma="CSKA-1_:B_;K_;w_,t_^(sov._sport._klub)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CSKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-088-p10s2w13">

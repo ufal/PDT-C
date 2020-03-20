@@ -649,7 +649,7 @@
 <form>8R5151SS</form>
 <tag>
 <AM lemma="8R5151SS">X@-------------</AM>
-<AM lemma="8R5151SS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="8R5151SS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_06-SCzechM-p0558-s1-w19">
@@ -668,7 +668,7 @@
 <AM lemma="dia" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Zeus_;S">NNMS2-----A----</AM>
 <AM lemma="Zeus_;S">NNMS4-----A----</AM>
-<AM lemma="DIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_06-SCzechM-p0558-s1-w21">
@@ -1025,7 +1025,7 @@
 <AM lemma="Ems_;G">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)">NNIS4-----A----</AM>
-<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_06-SCzechM-p0560-s1-w18">

@@ -55,7 +55,7 @@
 <form>SK</form>
 <tag>
 <AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-028-p1s2w3">
@@ -262,7 +262,7 @@
 <form>SK</form>
 <tag>
 <AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-028-p2s1Bw8">
@@ -394,7 +394,7 @@
 <form>SK</form>
 <tag>
 <AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-028-p2s1Bw23">
@@ -562,7 +562,7 @@
 <form>SK</form>
 <tag>
 <AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-028-p2s3w3">
@@ -1054,7 +1054,7 @@
 <form>SK</form>
 <tag>
 <AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-028-p2s5w39">

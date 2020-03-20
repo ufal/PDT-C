@@ -95,7 +95,7 @@
 <form>SDSS</form>
 <tag>
 <AM lemma="SDSS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SDSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-048-p2s1w8">
@@ -311,7 +311,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-048-p2s2w13">
@@ -2119,7 +2119,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-048-p5s2w10">

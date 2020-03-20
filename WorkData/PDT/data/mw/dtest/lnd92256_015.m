@@ -207,7 +207,7 @@
 <form>JDC</form>
 <tag>
 <AM lemma="JDC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JDC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JDC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-015-p3s2w14">
@@ -266,7 +266,7 @@
 <form>DUHA</form>
 <tag>
 <AM lemma="duha" src="orig">NNFS1-----A----</AM>
-<AM lemma="DUHA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DUHA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-015-p3s2w21">
@@ -763,7 +763,7 @@
 <form>JDC</form>
 <tag>
 <AM lemma="JDC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JDC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JDC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-015-p3s5w9">

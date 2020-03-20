@@ -1310,7 +1310,7 @@
 <tag>
 <AM lemma="UMi_:B_;m_,t_^(Ursa_Minor)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UMi_:B_;G_,t_^(Ursa_Minor,Malý_medvěd)" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="UMi-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UMi-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p4s3w35">

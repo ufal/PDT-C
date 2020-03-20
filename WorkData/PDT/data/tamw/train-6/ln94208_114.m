@@ -153,7 +153,7 @@
 <form>JOKO</form>
 <tag>
 <AM lemma="Joko_;K" src="orig" selected="1">NNNS1-----A----</AM>
-<AM lemma="JOKO-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="JOKO-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-114-p2s1Bw14">

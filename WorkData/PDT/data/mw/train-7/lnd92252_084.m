@@ -511,7 +511,7 @@
 <tag>
 <AM lemma="HB_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Hb_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-084-p3s4w8">
@@ -692,7 +692,7 @@
 <form>ČSOV</form>
 <tag>
 <AM lemma="ČSOV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-084-p4s1w15">
@@ -1701,8 +1701,8 @@
 <tag>
 <AM lemma="HB_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Hb_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HB-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="HB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HB-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="HB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-084-p4s8w10">
@@ -1900,7 +1900,7 @@
 <tag>
 <AM lemma="HB_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Hb_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-084-p4s10w6">

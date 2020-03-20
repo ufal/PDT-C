@@ -524,7 +524,7 @@
 <AM lemma="ÚSP_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚSP_:B_;K_^(Ústav_státu_a_práva)" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="ÚSP-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ÚSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-105-p2s3w15">
@@ -1564,7 +1564,7 @@
 <AM lemma="ÚSP_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚSP_:B_;K_^(Ústav_státu_a_práva)" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="ÚSP-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ÚSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-105-p2s7w18">

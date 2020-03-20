@@ -261,7 +261,7 @@
 <AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Mira_;G_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Mir-77" src="manual">F%-------------</AM>
-<AM lemma="Mir-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Mir-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-105-p2s6w2">

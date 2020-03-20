@@ -406,7 +406,7 @@
 <form>JETRO</form>
 <tag>
 <AM lemma="JETRO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JETRO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JETRO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-006-p2s2w21">
@@ -677,7 +677,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-006-p4s1w11">
@@ -1272,7 +1272,7 @@
 <form>JETRO</form>
 <tag>
 <AM lemma="JETRO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JETRO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JETRO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-006-p6s1w5">

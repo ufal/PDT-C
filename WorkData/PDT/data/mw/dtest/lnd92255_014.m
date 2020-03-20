@@ -865,7 +865,7 @@
 <form>s</form>
 <tag>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="s-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="s-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-014-p3s6w5">
@@ -884,7 +884,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="p-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="p-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-014-p3s6w7">

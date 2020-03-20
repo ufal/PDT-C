@@ -606,7 +606,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-12-p3s3w8">
@@ -1853,7 +1853,7 @@
 <AM lemma="Comex" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Comex" src="auto">NNIS4-----A----</AM>
 <AM lemma="COMEX_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="COMEX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="COMEX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-12-p5s5w6">

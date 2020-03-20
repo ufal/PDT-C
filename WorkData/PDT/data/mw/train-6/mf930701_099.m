@@ -1775,7 +1775,7 @@
 <AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual">NNXXX-----A---8</AM>
-<AM lemma="NKÚ-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="NKÚ-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1992,7 +1992,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-099-p2s12w18">

@@ -986,7 +986,7 @@
 <form>SFRJ</form>
 <tag>
 <AM lemma="SFRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SFRJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SFRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-147-p4s2w21">
@@ -1135,7 +1135,7 @@
 <form>AP</form>
 <tag>
 <AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-147-p5s1w7">

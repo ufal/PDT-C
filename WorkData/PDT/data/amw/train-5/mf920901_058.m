@@ -299,7 +299,7 @@
 <tag>
 <AM lemma="PM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Pm_:B_^(promethium)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-058-p3s1w4">
@@ -435,7 +435,7 @@
 <form>SKP</form>
 <tag>
 <AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-058-p3s2w4">
@@ -618,7 +618,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-058-p3s4w2">
@@ -829,7 +829,7 @@
 <form>SKP</form>
 <tag>
 <AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-058-p3s8w2">
@@ -940,7 +940,7 @@
 <form>NH</form>
 <tag>
 <AM lemma="NH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-058-p4s1w6">

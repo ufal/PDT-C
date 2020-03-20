@@ -185,7 +185,7 @@
 <form>UTE</form>
 <tag>
 <AM lemma="UTE_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="UTE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UTE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-23-p2s1Bw12">
@@ -979,7 +979,7 @@
 <form>UTE</form>
 <tag>
 <AM lemma="UTE_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="UTE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UTE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-23-p4s2w26">
@@ -1997,7 +1997,7 @@
 <form>UTE</form>
 <tag>
 <AM lemma="UTE_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="UTE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UTE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-23-p6s1w21">

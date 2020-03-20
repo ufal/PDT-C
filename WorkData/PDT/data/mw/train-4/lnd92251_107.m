@@ -3208,8 +3208,8 @@
 <AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Mira_;G_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mir-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Mir-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mir-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Mir-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-107-p11s6w2">

@@ -1062,7 +1062,7 @@
 <form>GSR</form>
 <tag>
 <AM lemma="GSR_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-100-p2s5w18">
@@ -1949,7 +1949,7 @@
 <form>GSR</form>
 <tag>
 <AM lemma="GSR_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-100-p2s9w7">

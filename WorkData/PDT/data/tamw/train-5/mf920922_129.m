@@ -1814,7 +1814,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-129-p5s1w20">
@@ -2202,7 +2202,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-129-p5s4w4">
@@ -2410,7 +2410,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-129-p5s5w16">
@@ -2658,7 +2658,7 @@
 <form>ERM</form>
 <tag>
 <AM lemma="ERM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ERM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ERM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-129-p6s1w30">
@@ -2757,7 +2757,7 @@
 <form>EMS</form>
 <tag>
 <AM lemma="Ems_;G" src="orig">NNIS4-----A----</AM>
-<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-129-p6s1w42">

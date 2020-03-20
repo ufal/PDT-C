@@ -220,7 +220,7 @@
 <form>EFTA</form>
 <tag>
 <AM lemma="EFTA-1_:B_;K_,t_^(European_Free_Trade_Association)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-31-p2s1Bw18">

@@ -207,7 +207,7 @@
 <form>SLD</form>
 <tag>
 <AM lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SLD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p2s1w21">
@@ -236,7 +236,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p2s2w2">
@@ -491,7 +491,7 @@
 <form>PSDS</form>
 <tag>
 <AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p2s4w13">
@@ -648,7 +648,7 @@
 <form>PSDS</form>
 <tag>
 <AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p3s1w9">
@@ -797,7 +797,7 @@
 <AM lemma="ÚV_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p3s1w27">
@@ -808,7 +808,7 @@
 <form>PSDS</form>
 <tag>
 <AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p3s1w28">
@@ -933,7 +933,7 @@
 <form>PSDS</form>
 <tag>
 <AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p3s2w12">
@@ -1146,7 +1146,7 @@
 <form>PSDS</form>
 <tag>
 <AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p4s1w9">
@@ -1647,7 +1647,7 @@
 <form>SLD</form>
 <tag>
 <AM lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SLD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p5s1w17">

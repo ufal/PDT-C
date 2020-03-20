@@ -463,7 +463,7 @@
 <AM lemma="SVD-3_:B_^(Soustava_vodních_děl)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SVD-1_:B_,t_^(secondary_volume_descriptor)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SVD-2_:B_,t_^(simultaneous_voice_and_data)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p3s2w14">
@@ -702,7 +702,7 @@
 <AM lemma="SVD-3_:B_^(Soustava_vodních_děl)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SVD-1_:B_,t_^(secondary_volume_descriptor)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SVD-2_:B_,t_^(simultaneous_voice_and_data)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p4s1w8">
@@ -909,7 +909,7 @@
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p4s2w14">
@@ -1312,7 +1312,7 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p4s4w4">
@@ -1408,7 +1408,7 @@
 <AM lemma="SVD-3_:B_^(Soustava_vodních_děl)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SVD-1_:B_,t_^(secondary_volume_descriptor)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="SVD-2_:B_,t_^(simultaneous_voice_and_data)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p5s1w3">
@@ -1891,7 +1891,7 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p5s5w8">
@@ -2046,7 +2046,7 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p5s5w27">
@@ -2371,7 +2371,7 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p5s6w27">
@@ -2448,7 +2448,7 @@
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p5s6w36">
@@ -2905,7 +2905,7 @@
 <AM lemma="SVD-3_:B_^(Soustava_vodních_děl)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SVD-1_:B_,t_^(secondary_volume_descriptor)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SVD-2_:B_,t_^(simultaneous_voice_and_data)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p6s2w20">
@@ -3572,7 +3572,7 @@
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p7s2w18">
@@ -3610,7 +3610,7 @@
 <AM lemma="VD-2_:B_^(vodní_dílo)VD-1_:B_;K_^(výrobní_družstvo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p7s2w22">
@@ -5382,7 +5382,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p9s2w12">
@@ -5465,7 +5465,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p9s2w22">
@@ -5580,7 +5580,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p9s2w36">
@@ -5777,7 +5777,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p9s3w18">
@@ -5971,7 +5971,7 @@
 <AM lemma="SVD-3_:B_^(Soustava_vodních_děl)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SVD-1_:B_,t_^(secondary_volume_descriptor)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SVD-2_:B_,t_^(simultaneous_voice_and_data)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p10s1w14">
@@ -6126,7 +6126,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p10s1w33">
@@ -6665,7 +6665,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p10s3w13">
@@ -6902,7 +6902,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p10s4w26">
@@ -7001,7 +7001,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p10s4w38">
@@ -7374,7 +7374,7 @@
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p11s2w33">
@@ -7428,7 +7428,7 @@
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p11s3w2">
@@ -7722,7 +7722,7 @@
 <form>s</form>
 <tag>
 <AM lemma="státní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="s-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="s-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p11s5w12">
@@ -7741,7 +7741,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="p-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="p-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p11s5w14">
@@ -7862,7 +7862,7 @@
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p11s6w14">
@@ -8418,7 +8418,7 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p12s2w17">
@@ -9324,7 +9324,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p13s4w4">
@@ -9367,7 +9367,7 @@
 <form>SZOPK</form>
 <tag>
 <AM lemma="SZOPK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SZOPK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SZOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p13s4w9">
@@ -9434,7 +9434,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p13s4w17">
@@ -10658,7 +10658,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p14s3w39">
@@ -10948,7 +10948,7 @@
 <AM lemma="SVD-3_:B_^(Soustava_vodních_děl)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SVD-1_:B_,t_^(secondary_volume_descriptor)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SVD-2_:B_,t_^(simultaneous_voice_and_data)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p15s1w33">
@@ -12234,7 +12234,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p17s1w15">

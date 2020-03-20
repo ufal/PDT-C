@@ -1289,7 +1289,7 @@
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP-2_:B" src="manual">AAXXX----1A---8</AM>
 <AM lemma="EP-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-042-p2s6w7">
@@ -2507,7 +2507,7 @@
 <form>MTV</form>
 <tag>
 <AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-042-p3s3w20">

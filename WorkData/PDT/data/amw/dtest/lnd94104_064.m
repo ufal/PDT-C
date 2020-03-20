@@ -1953,7 +1953,7 @@
 <form>JSP</form>
 <tag>
 <AM lemma="JSP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-064-p1s10w17">
@@ -2216,7 +2216,7 @@
 <form>JSP</form>
 <tag>
 <AM lemma="JSP_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-064-p1s12w9">
@@ -2530,7 +2530,7 @@
 <form>JSP</form>
 <tag>
 <AM lemma="JSP_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-064-p1s14w3">
@@ -2727,7 +2727,7 @@
 <form>JSP</form>
 <tag>
 <AM lemma="JSP_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-064-p1s15w10">

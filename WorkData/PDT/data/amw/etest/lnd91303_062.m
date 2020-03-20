@@ -1627,7 +1627,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p4s6w7">
@@ -1856,7 +1856,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p4s7w26">
@@ -7990,7 +7990,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p7s4w2">
@@ -9106,7 +9106,7 @@
 <form>SZP</form>
 <tag>
 <AM lemma="SZP_:B_^(střední_zdrav._personál)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p8s5w12">
@@ -9245,7 +9245,7 @@
 <form>SZP</form>
 <tag>
 <AM lemma="SZP_:B_^(střední_zdrav._personál)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p8s5w29">
@@ -9370,7 +9370,7 @@
 <form>SZP</form>
 <tag>
 <AM lemma="SZP_:B_^(střední_zdrav._personál)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p8s6w8">
@@ -13082,7 +13082,7 @@
 <form>KÚNZ</form>
 <tag>
 <AM lemma="KÚNZ_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="KÚNZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KÚNZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p12s4w4">
@@ -13109,7 +13109,7 @@
 <form>OÚNZ</form>
 <tag>
 <AM lemma="OÚNZ_:B_;K_^(Okresní_ústav_národního_zdraví)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OÚNZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OÚNZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p12s4w7">
@@ -14305,7 +14305,7 @@
 <form>MZ</form>
 <tag>
 <AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p12s9w10">
@@ -15927,7 +15927,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p14s1w12">

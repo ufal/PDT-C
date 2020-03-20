@@ -47,7 +47,7 @@
 <form>BERD</form>
 <tag>
 <AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p2s1w2">
@@ -244,7 +244,7 @@
 <form>SBČS</form>
 <tag>
 <AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SBČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s2w21">
@@ -359,7 +359,7 @@
 <form>BERD</form>
 <tag>
 <AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s2w35">
@@ -455,7 +455,7 @@
 <AM lemma="TK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Tk_:B_;K" src="auto">NNISX-----A---8</AM>
 <AM lemma="tknout" src="auto">VpYS----R-AAI-6</AM>
-<AM lemma="TK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s3w8">
@@ -477,7 +477,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s3w10">
@@ -720,7 +720,7 @@
 <form>BERD</form>
 <tag>
 <AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s3w40">
@@ -975,7 +975,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s5w5">

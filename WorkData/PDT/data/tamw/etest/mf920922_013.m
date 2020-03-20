@@ -201,7 +201,7 @@
 <form>TWR</form>
 <tag>
 <AM lemma="TWR-1_:B_,t_^(aerodrome_control_tower)" src="orig">NNFXX-----A----</AM>
-<AM lemma="TWR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TWR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-013-p2s2w9">
@@ -406,7 +406,7 @@
 <form>XJ</form>
 <tag>
 <AM lemma="XJ" src="orig">NNXXX-----A---8</AM>
-<AM lemma="XJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="XJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-013-p2s3w12">
@@ -531,7 +531,7 @@
 <form>TWR</form>
 <tag>
 <AM lemma="TWR-1_:B_,t_^(aerodrome_control_tower)" src="orig">NNFXX-----A----</AM>
-<AM lemma="TWR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TWR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-013-p2s4w6">
@@ -672,7 +672,7 @@
 <form>TWR</form>
 <tag>
 <AM lemma="TWR-1_:B_,t_^(aerodrome_control_tower)" src="orig">NNFXX-----A----</AM>
-<AM lemma="TWR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TWR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-013-p2s5w2">

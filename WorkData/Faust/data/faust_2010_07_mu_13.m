@@ -2678,7 +2678,7 @@
 <form>MLPS</form>
 <tag>
 <AM lemma="MLPS">X@-------------</AM>
-<AM lemma="MLPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MLPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_13-SCzechM-p1354-s1-w17">
@@ -3339,7 +3339,7 @@
 <AM lemma="televize_:B" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="TV-1`teravolt_:B">NNIXX-----A---8</AM>
 <AM lemma="televizní_:B">AAXXX----1A---8</AM>
-<AM lemma="TV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_13-SCzechM-p1369-s1-w4">

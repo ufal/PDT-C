@@ -279,7 +279,7 @@
 <form>NBC</form>
 <tag>
 <AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-78-p2s2w12">
@@ -484,7 +484,7 @@
 <form>NBC</form>
 <tag>
 <AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-78-p2s3w6">

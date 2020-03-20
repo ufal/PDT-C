@@ -95,7 +95,7 @@
 <form>Dun</form>
 <tag>
 <AM lemma="duna" src="orig">NNFP2-----A----</AM>
-<AM lemma="Dun-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Dun-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p2s2w2">
@@ -414,7 +414,7 @@
 <form>DAC</form>
 <tag>
 <AM lemma="DAC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DAC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DAC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p3s2w2">
@@ -687,7 +687,7 @@
 <form>ŽK</form>
 <tag>
 <AM lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ŽK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ŽK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p4s3w2">
@@ -1094,7 +1094,7 @@
 <form>Dun</form>
 <tag>
 <AM lemma="duna" src="orig">NNFP2-----A----</AM>
-<AM lemma="Dun-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Dun-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p6s1w2">
@@ -1951,7 +1951,7 @@
 <form>ŽK</form>
 <tag>
 <AM lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ŽK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ŽK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p9s6w2">
@@ -2305,7 +2305,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p10s2w7">
@@ -2340,7 +2340,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p10s2w11">
@@ -4292,7 +4292,7 @@
 <form>ŽK</form>
 <tag>
 <AM lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ŽK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ŽK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p15s9w2">
@@ -6271,7 +6271,7 @@
 <form>ŽK</form>
 <tag>
 <AM lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ŽK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ŽK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p20s5w2">
@@ -6356,7 +6356,7 @@
 <form>ČK</form>
 <tag>
 <AM lemma="ČK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p20s6w2">
@@ -7433,7 +7433,7 @@
 <form>ŽK</form>
 <tag>
 <AM lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ŽK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ŽK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p26s8w2">

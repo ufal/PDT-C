@@ -512,7 +512,7 @@
 <form>FIDE</form>
 <tag>
 <AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-077-p2s3w17">
@@ -624,7 +624,7 @@
 <form>FIDE</form>
 <tag>
 <AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-077-p2s4w12">

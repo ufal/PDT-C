@@ -1477,7 +1477,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-100-p5s1w12">
@@ -1496,7 +1496,7 @@
 <form>Y</form>
 <tag>
 <AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Y-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Y-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-100-p5s1w14">

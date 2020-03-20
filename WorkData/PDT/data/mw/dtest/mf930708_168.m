@@ -525,7 +525,7 @@
 <tag>
 <AM lemma="SPO-2_:B_;K_,t_^(Srbské_hnutí_obnovy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPO-1_:B_;K_^(Sbor_požární_ochrany)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-168-p3s1w20">

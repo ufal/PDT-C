@@ -324,7 +324,7 @@
 <form>NCCC</form>
 <tag>
 <AM lemma="NCCC_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="NCCC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NCCC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-009-p1s4w16">
@@ -464,7 +464,7 @@
 <form>NCCC</form>
 <tag>
 <AM lemma="NCCC_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="NCCC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NCCC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-009-p1s5w16">
@@ -628,7 +628,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-009-p1s6w14">
@@ -907,7 +907,7 @@
 <form>SAOP</form>
 <tag>
 <AM lemma="SAOP-1_:B_;K_^(Sdružení_pro_aktivní_odpočinek_postižených)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SAOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SAOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-009-p1s7w30">
@@ -1393,7 +1393,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-009-p1s10w3">
@@ -2303,7 +2303,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-009-p1s15w17">
@@ -2718,7 +2718,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-009-p1s18w5">

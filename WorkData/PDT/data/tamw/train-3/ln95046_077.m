@@ -1017,7 +1017,7 @@
 <form>ČTA</form>
 <tag>
 <AM lemma="ČTA_:B_;K_^(Čs./Česká_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-077-p2s6w10">

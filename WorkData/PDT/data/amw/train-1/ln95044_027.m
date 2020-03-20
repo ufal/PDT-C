@@ -435,7 +435,7 @@
 <form>ISU</form>
 <tag>
 <AM lemma="ISU_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ISU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ISU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-027-p2s2w25">

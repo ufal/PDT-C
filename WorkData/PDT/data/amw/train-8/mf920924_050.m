@@ -354,7 +354,7 @@
 <form>SSASO</form>
 <tag>
 <AM lemma="SSASO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SSASO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSASO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-050-p2s2w6">
@@ -795,7 +795,7 @@
 <form>SSASO</form>
 <tag>
 <AM lemma="SSASO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SSASO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSASO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-050-p2s5w17">
@@ -2731,7 +2731,7 @@
 <form>SSASO</form>
 <tag>
 <AM lemma="SSASO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SSASO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSASO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-050-p2s16Bw5">
@@ -3836,7 +3836,7 @@
 <form>SSASO</form>
 <tag>
 <AM lemma="SSASO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SSASO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSASO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-050-p2s24Aw6">

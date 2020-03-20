@@ -2638,7 +2638,7 @@
 <form>AUTOKEG</form>
 <tag>
 <AM lemma="AUTOKEG_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AUTOKEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AUTOKEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-023-p12s4w14">

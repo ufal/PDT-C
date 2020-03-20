@@ -311,7 +311,7 @@
 <form>ČTV</form>
 <tag>
 <AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-025-p2s2w14">
@@ -394,7 +394,7 @@
 <form>VKV</form>
 <tag>
 <AM lemma="vkv_:B_^(velmi_krátké_vlny)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VKV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VKV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-025-p2s2w24">

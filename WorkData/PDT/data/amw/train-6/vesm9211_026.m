@@ -2153,7 +2153,7 @@
 <form>Pharm</form>
 <tag>
 <AM lemma="Pharm_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Pharm-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Pharm-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-026-p4s3w13">

@@ -37,7 +37,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-125-p1s1w4">
@@ -72,7 +72,7 @@
 <form>Á</form>
 <tag>
 <AM lemma="Á-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Á-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Á-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-125-p1s1w8">
@@ -346,7 +346,7 @@
 <form>IEWSS</form>
 <tag>
 <AM lemma="IEWSS_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="IEWSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IEWSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-125-p1s3w28">

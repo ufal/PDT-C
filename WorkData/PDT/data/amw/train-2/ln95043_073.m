@@ -283,7 +283,7 @@
 <form>NPŠ</form>
 <tag>
 <AM lemma="NPŠ_:B_^(Národní_Park_Šumava)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NPŠ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NPŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-073-p2s1Cw12">
@@ -586,7 +586,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-073-p2s2w21">
@@ -929,7 +929,7 @@
 <form>NPŠ</form>
 <tag>
 <AM lemma="NPŠ_:B_^(Národní_Park_Šumava)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NPŠ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NPŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-073-p4s1w10">
@@ -1810,7 +1810,7 @@
 <form>NPŠ</form>
 <tag>
 <AM lemma="NPŠ_:B_^(Národní_Park_Šumava)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NPŠ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NPŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-073-p4s5w10">

@@ -698,7 +698,7 @@
 <AM lemma="UNESCO_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="UNESCO-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="UNESCO-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

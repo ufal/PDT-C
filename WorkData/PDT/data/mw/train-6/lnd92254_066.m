@@ -3324,7 +3324,7 @@
 <form>UDBA</form>
 <tag>
 <AM lemma="UDBA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UDBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UDBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p8s2w6">
@@ -3406,7 +3406,7 @@
 <AM lemma="kosa" src="auto">NNFP2-----A----</AM>
 <AM lemma="kosit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kosit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="KOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p8s2w15">

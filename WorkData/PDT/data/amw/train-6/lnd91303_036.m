@@ -534,7 +534,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-036-p2s3w23">
@@ -562,7 +562,7 @@
 <form>ATS</form>
 <tag>
 <AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ATS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-036-p2s3w26">
@@ -850,7 +850,7 @@
 <tag>
 <AM lemma="MHD_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MHD_:B" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="MHD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MHD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-036-p2s5w21">
@@ -1073,7 +1073,7 @@
 <form>VAMOS</form>
 <tag>
 <AM lemma="VAMOS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VAMOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VAMOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-036-p2s7w9">

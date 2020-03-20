@@ -289,7 +289,7 @@
 <form>UEPS</form>
 <tag>
 <AM lemma="UEPS_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-084-p4s1w17">
@@ -2046,7 +2046,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-084-p5s4w15">
@@ -2105,7 +2105,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-084-p5s4w22">

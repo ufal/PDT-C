@@ -2128,7 +2128,7 @@
 <form>EFT</form>
 <tag>
 <AM lemma="EFT">X@-------------</AM>
-<AM lemma="EFT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EFT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_05-SCzechM-p0481-s1-w2">
@@ -4459,7 +4459,7 @@
 <AM lemma="NJ-1_:B_^(německý_jazyk)" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="NJ-1_:B_,x_^(německý_jazyk)">NNIXX-----A---8</AM>
 <AM lemma="NJ-1_:B_,x_^(německý_jazyk)">NNIXX-----A---8</AM>
-<AM lemma="NJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_05-SCzechM-p0502-s1-w21">

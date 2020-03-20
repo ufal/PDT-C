@@ -1220,7 +1220,7 @@
 <form>CIAF</form>
 <tag>
 <AM lemma="CIAF">X@-------------</AM>
-<AM lemma="CIAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_09-SCzechM-p0895-s1-w6">
@@ -1258,7 +1258,7 @@
 <form>HKD</form>
 <tag>
 <AM lemma="HKD-1_:B_^(hongkongský_dolar)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="HKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_09-SCzechM-p0895-s1-w11">
@@ -1486,7 +1486,7 @@
 <form>HKD</form>
 <tag>
 <AM lemma="HKD-1_:B_^(hongkongský_dolar)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="HKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_09-SCzechM-p0895-s1-w34">
@@ -3878,7 +3878,7 @@
 <AM lemma="IP-1_:B_^(ilimerizovaná_půda)">NNFXX-----A---8</AM>
 <AM lemma="IP-3_:B_,t_^(instruction_pointer)">NNIXX-----A---8</AM>
 <AM lemma="IP-4_:B_,t_^(internet_protokol)">NNIXX-----A---8</AM>
-<AM lemma="IP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -6410,7 +6410,7 @@
 <form>Fre3s3x</form>
 <tag>
 <AM lemma="Fre3s3x">X@-------------</AM>
-<AM lemma="Fre3s3x-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Fre3s3x-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_09-SCzechM-p0967-s1-w13">
@@ -6470,7 +6470,7 @@
 <form>NeVVs</form>
 <tag>
 <AM lemma="NeVVs">X@-------------</AM>
-<AM lemma="NeVVs-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NeVVs-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_09-SCzechM-p0967-s1-w20">
@@ -6480,7 +6480,7 @@
 <form>1e</form>
 <tag>
 <AM lemma="1e">X@-------------</AM>
-<AM lemma="1e-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="1e-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_09-SCzechM-p0967-s1-w21">
@@ -6505,7 +6505,7 @@
 <tag>
 <AM lemma="er_^(název_hlásky_r)" recommended="1">NNNXX-----A----</AM>
 <AM lemma="er_^(er-forma)">A2--------A----</AM>
-<AM lemma="er-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="er-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_09-SCzechM-p0967-s1-w24">

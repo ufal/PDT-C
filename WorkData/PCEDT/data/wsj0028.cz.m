@@ -136,7 +136,7 @@
 <LM>w#w-wsj0028-001-p1s0W10</LM>
 </w.rf>
 <form>PLC</form>
-<tag lemma="PLC-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="PLC-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0028-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>

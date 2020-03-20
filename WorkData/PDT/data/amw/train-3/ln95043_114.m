@@ -1365,7 +1365,7 @@
 <form>UNS</form>
 <tag>
 <AM lemma="UNS_:B_;K_^(Ukrajinské_národní_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="UNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-114-p8s1w8">

@@ -733,7 +733,7 @@
 <tag>
 <AM lemma="ÚKDŽ_:B_;K_^(Ústřední_kult._dům_železničářů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚKDŽ_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ÚKDŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚKDŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p3s4w10">

@@ -2660,7 +2660,7 @@
 <form>UZI</form>
 <tag>
 <AM lemma="UZI_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UZI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UZI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-064-p5s8Bw6">
@@ -4575,7 +4575,7 @@
 <form>UZI</form>
 <tag>
 <AM lemma="UZI_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UZI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UZI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-064-p7s1w23">
@@ -7699,7 +7699,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-064-p8s8w5">

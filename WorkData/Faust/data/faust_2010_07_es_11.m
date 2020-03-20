@@ -3398,7 +3398,7 @@
 <form>UAE</form>
 <tag>
 <AM lemma="UAE">X@-------------</AM>
-<AM lemma="UAE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1149-s1-w5">
@@ -3603,7 +3603,7 @@
 <form>WIU</form>
 <tag>
 <AM lemma="WIU">X@-------------</AM>
-<AM lemma="WIU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WIU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1151-s1-w10">
@@ -3620,7 +3620,7 @@
 <form>WIJ</form>
 <tag>
 <AM lemma="WIJ">X@-------------</AM>
-<AM lemma="WIJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WIJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1151-s1-w12">
@@ -3637,7 +3637,7 @@
 <form>WTO</form>
 <tag>
 <AM lemma="WTO_:B_;K_^(Světová_obchodní_organizace)" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="WTO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WTO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1151-s1-w14">
@@ -3661,7 +3661,7 @@
 <form>WIU</form>
 <tag>
 <AM lemma="WIU">X@-------------</AM>
-<AM lemma="WIU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WIU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1151-s1-w17">

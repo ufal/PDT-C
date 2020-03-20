@@ -276,7 +276,7 @@
 <tag>
 <AM lemma="CEV_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ceva_;K" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="CEV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CEV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p2s1Cw18">
@@ -771,7 +771,7 @@
 <form>USK</form>
 <tag>
 <AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p3s1w44">
@@ -1101,7 +1101,7 @@
 <form>USK</form>
 <tag>
 <AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p3s3w21">

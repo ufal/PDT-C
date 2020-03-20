@@ -329,7 +329,7 @@
 <tag>
 <AM lemma="VIA-99_:B_;K" src="orig">NNXXX-----A----</AM>
 <AM lemma="via" src="auto" recommended="1">RR--1----------</AM>
-<AM lemma="VIA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-002-p2s2w10">
@@ -2220,7 +2220,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-002-p7s1w7">

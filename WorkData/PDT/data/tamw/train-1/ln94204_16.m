@@ -21,7 +21,7 @@
 <form>ABB</form>
 <tag>
 <AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p1s1w2">
@@ -859,7 +859,7 @@
 <form>ABB</form>
 <tag>
 <AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p4s1w23">
@@ -954,7 +954,7 @@
 <form>ABB</form>
 <tag>
 <AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p4s3w4">
@@ -1195,7 +1195,7 @@
 <form>ABB</form>
 <tag>
 <AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p4s4w20">
@@ -1280,7 +1280,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p5s1w9">
@@ -1817,7 +1817,7 @@
 <form>ABB</form>
 <tag>
 <AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p7s1w8">

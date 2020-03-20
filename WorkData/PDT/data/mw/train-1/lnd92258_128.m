@@ -381,7 +381,7 @@
 <AM lemma="Oda-1_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="od-1" src="auto">RR--2----------</AM>
 <AM lemma="od-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="Od-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Od-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p4s2w2">
@@ -561,7 +561,7 @@
 <form>VKP</form>
 <tag>
 <AM lemma="VKP-1_:B_^(významný_krajinný_prvek)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p7s2w2">
@@ -981,7 +981,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p15s1w4">
@@ -1411,7 +1411,7 @@
 <form>KPS</form>
 <tag>
 <AM lemma="KPS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p19s2w2">
@@ -1682,7 +1682,7 @@
 <form>UK</form>
 <tag>
 <AM lemma="UK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p24s2w2">
@@ -1745,7 +1745,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p25s2w2">

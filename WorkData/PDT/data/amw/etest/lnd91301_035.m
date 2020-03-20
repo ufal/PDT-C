@@ -292,7 +292,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p4s1w22">
@@ -405,7 +405,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p5s1w3">
@@ -876,7 +876,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p6s1w3">
@@ -1738,7 +1738,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw11">
@@ -1949,7 +1949,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw37">
@@ -1968,7 +1968,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw39">
@@ -2003,7 +2003,7 @@
 <form>HSD</form>
 <tag>
 <AM lemma="HSD_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw43">
@@ -2022,7 +2022,7 @@
 <form>SMS</form>
 <tag>
 <AM lemma="SMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw45">

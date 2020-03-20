@@ -225,7 +225,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s2w18">
@@ -420,7 +420,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s3w10">
@@ -503,7 +503,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s3w20">
@@ -514,7 +514,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s3w21">
@@ -551,7 +551,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s4w2">
@@ -871,7 +871,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s6w2">
@@ -1124,7 +1124,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s7w17">
@@ -1370,7 +1370,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s8w22">

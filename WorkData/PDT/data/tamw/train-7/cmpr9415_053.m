@@ -1332,7 +1332,7 @@
 <form>SPT</form>
 <tag>
 <AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-053-p7s3w13">

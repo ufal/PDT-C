@@ -1587,7 +1587,7 @@
 <form>à</form>
 <tag>
 <AM lemma="à_,t" src="orig">RR--X----------</AM>
-<AM lemma="à-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="à-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="à-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

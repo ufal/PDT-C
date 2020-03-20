@@ -246,7 +246,7 @@
 <form>FVT</form>
 <tag>
 <AM lemma="FVT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="FVT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FVT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-135-p2s1Bw14">

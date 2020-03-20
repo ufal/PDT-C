@@ -183,7 +183,7 @@
 <form>ČVS</form>
 <tag>
 <AM lemma="ČVS-2_:B_;K_^(Český_volejbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s1w18">
@@ -202,7 +202,7 @@
 <form>SVS</form>
 <tag>
 <AM lemma="SVS-1_:B_;K_^(Svaz_vysokoškolského_studentstva)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s1w20">
@@ -411,7 +411,7 @@
 <form>ČVS</form>
 <tag>
 <AM lemma="ČVS-2_:B_;K_^(Český_volejbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s2w3">
@@ -1374,7 +1374,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s9w23">
@@ -1385,7 +1385,7 @@
 <form>MCHZ</form>
 <tag>
 <AM lemma="MCHZ-1_:B_;K_^(Moravské_chemické_závody)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="MCHZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MCHZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s9w24">
@@ -1428,7 +1428,7 @@
 <form>PSK</form>
 <tag>
 <AM lemma="PSK-1_:B_^(policejní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PSK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s9w29">
@@ -1758,7 +1758,7 @@
 <form>KPS</form>
 <tag>
 <AM lemma="KPS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="KPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s11w11">
@@ -1785,7 +1785,7 @@
 <form>PSK</form>
 <tag>
 <AM lemma="PSK-1_:B_^(policejní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PSK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s11w14">
@@ -1823,7 +1823,7 @@
 <form>UP</form>
 <tag>
 <AM lemma="UP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s11w18">

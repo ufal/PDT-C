@@ -424,7 +424,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-037-p2s3w15">
@@ -750,7 +750,7 @@
 <tag>
 <AM lemma="VÚM-1_:B_;K_^(Výzkumný_ústav_metalurgický)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="VÚM-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="VÚM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VÚM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-037-p2s6w16">
@@ -900,7 +900,7 @@
 <tag>
 <AM lemma="VÚM-1_:B_;K_^(Výzkumný_ústav_metalurgický)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="VÚM-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="VÚM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VÚM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-037-p2s7w12">

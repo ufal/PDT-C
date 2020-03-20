@@ -1054,7 +1054,7 @@
 <tag>
 <AM lemma="ŽP-2_:B_^(životní_prostředí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ŽP-1_:B_;K_^(Živnostenská_pojištovna)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ŽP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-125-p2s5w10">
@@ -4477,7 +4477,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-125-p6s3w8">

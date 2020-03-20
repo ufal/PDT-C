@@ -434,7 +434,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-078-p1s5w15">
@@ -931,7 +931,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-078-p1s9w5">
@@ -1328,7 +1328,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-078-p1s13w5">
@@ -1498,7 +1498,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-078-p1s14w5">
@@ -1968,7 +1968,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-078-p1s15w23">

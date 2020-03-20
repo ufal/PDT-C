@@ -892,7 +892,7 @@
 <form>FED</form>
 <tag>
 <AM lemma="Fed_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s4w11">
@@ -1620,7 +1620,7 @@
 <form>FED</form>
 <tag>
 <AM lemma="Fed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s8w22">
@@ -2469,7 +2469,7 @@
 <form>dolaru</form>
 <tag>
 <AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
-<AM lemma="dolaru-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="dolaru-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

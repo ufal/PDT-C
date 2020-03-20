@@ -541,7 +541,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._MS-DOS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p5s1w16">
@@ -1202,7 +1202,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._MS-DOS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p7s2w21">

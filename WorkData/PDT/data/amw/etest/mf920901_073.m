@@ -122,7 +122,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p2s1w12">
@@ -141,7 +141,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p2s1w14">
@@ -219,7 +219,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p2s1w23">
@@ -248,7 +248,7 @@
 <form>LSU</form>
 <tag>
 <AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p2s2w3">
@@ -480,7 +480,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p2s3w5">
@@ -728,7 +728,7 @@
 <form>KSU</form>
 <tag>
 <AM lemma="KSU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p3s1w10">
@@ -899,7 +899,7 @@
 <form>KSU</form>
 <tag>
 <AM lemma="KSU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p3s2w11">
@@ -1115,7 +1115,7 @@
 <form>KSU</form>
 <tag>
 <AM lemma="KSU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p3s3w6">
@@ -1381,7 +1381,7 @@
 <form>KSU</form>
 <tag>
 <AM lemma="KSU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p3s5w3">
@@ -1504,7 +1504,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p4s1w7">
@@ -1685,7 +1685,7 @@
 <tag>
 <AM lemma="HSDSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HSDSMS_:B_;K" src="manual">NNXXX-----A---8</AM>
-<AM lemma="HSDSMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HSDSMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p4s2w15">
@@ -1840,7 +1840,7 @@
 <form>HSDSMS</form>
 <tag>
 <AM lemma="HSDSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSDSMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HSDSMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p4s2w34">
@@ -2093,7 +2093,7 @@
 <form>KDS</form>
 <tag>
 <AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p4s4w5">
@@ -2452,7 +2452,7 @@
 <form>ODU</form>
 <tag>
 <AM lemma="ODU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ODU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p6s1w21">
@@ -2489,7 +2489,7 @@
 <form>ODU</form>
 <tag>
 <AM lemma="ODU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ODU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p6s2w2">
@@ -2606,7 +2606,7 @@
 <form>ODU</form>
 <tag>
 <AM lemma="ODU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ODU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p6s3w3">
@@ -2729,7 +2729,7 @@
 <form>ODU</form>
 <tag>
 <AM lemma="ODU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ODU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p6s3w18">
@@ -2806,7 +2806,7 @@
 <form>ODU</form>
 <tag>
 <AM lemma="ODU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ODU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-073-p6s4w9">

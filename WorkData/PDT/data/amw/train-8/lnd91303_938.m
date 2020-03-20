@@ -715,7 +715,7 @@
 <form>DM</form>
 <tag>
 <AM lemma="DM-9_:B_,t_^(Deutsche_Mark)" src="orig">NNFXX-----A----</AM>
-<AM lemma="DM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-938-p3s5w19">
@@ -760,7 +760,7 @@
 <form>FMV</form>
 <tag>
 <AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-938-p3s6w5">

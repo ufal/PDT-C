@@ -423,7 +423,7 @@
 <tag>
 <AM lemma="U-4_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="United-1_:B_;G_,t_^(United,_spojený)" src="manual">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-009-p3s3w18">
@@ -443,7 +443,7 @@
 <tag>
 <AM lemma="S-4_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="States_:B_;G_,t_^(United_States_ve_zkr._apod.)" src="manual">NNIPX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-009-p3s3w20">
@@ -7703,7 +7703,7 @@
 <form>ČSAV</form>
 <tag>
 <AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-009-p19s1w22">

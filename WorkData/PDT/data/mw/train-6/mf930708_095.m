@@ -307,7 +307,7 @@
 <tag>
 <AM lemma="PRUDOM_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PRUDOM_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PRUDOM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PRUDOM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s1w32">
@@ -538,7 +538,7 @@
 <tag>
 <AM lemma="PRUDOM_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PRUDOM_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PRUDOM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PRUDOM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s2w29">

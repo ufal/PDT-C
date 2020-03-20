@@ -867,7 +867,7 @@
 <form>Sk</form>
 <tag>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-111-p2s6w13">
@@ -910,7 +910,7 @@
 <form>Sk</form>
 <tag>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-111-p2s6w18">
@@ -953,7 +953,7 @@
 <form>Sk</form>
 <tag>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-111-p2s6w23">
@@ -1951,7 +1951,7 @@
 <form>LD</form>
 <tag>
 <AM lemma="LD-2_:B_;K_^(Lidová_demokracie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-111-p4s2w15">

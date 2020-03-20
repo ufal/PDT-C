@@ -254,7 +254,7 @@
 <AM lemma="GB-1_:B_^(gigabyte)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="gigabyte_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Gb-2_:B_^(jednotka_magnetického_napětí_gilbert)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="GB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p2s1w24">
@@ -274,7 +274,7 @@
 <tag>
 <AM lemma="MG_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mg_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="MG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p2s1w26">
@@ -482,7 +482,7 @@
 <AM lemma="GB-1_:B_^(gigabyte)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="gigabyte_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Gb-2_:B_^(jednotka_magnetického_napětí_gilbert)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p3s2w2">
@@ -502,7 +502,7 @@
 <tag>
 <AM lemma="MG_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mg_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="MG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p3s2w4">

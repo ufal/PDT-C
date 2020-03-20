@@ -1749,7 +1749,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-48-p4s5w18">
@@ -2799,7 +2799,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-48-p5s8w27">
@@ -2982,7 +2982,7 @@
 <form>ZvŠ</form>
 <tag>
 <AM lemma="ZvŠ-1_:B_^(zvláštní_škola)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ZvŠ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZvŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-48-p6s3w2">

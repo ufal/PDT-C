@@ -2348,7 +2348,7 @@
 <form>HMS</form>
 <tag>
 <AM lemma="HMS-1_:B_^(halové_mistrovství_světa)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-049-p3s9w37">
@@ -3315,7 +3315,7 @@
 <form>ČSR</form>
 <tag>
 <AM lemma="ČSR-1_:B_;G_^(Česká_socialistická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-049-p4s4w35">
@@ -3665,7 +3665,7 @@
 <form>HMS</form>
 <tag>
 <AM lemma="HMS-1_:B_^(halové_mistrovství_světa)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-049-p5s1w21">
@@ -4128,7 +4128,7 @@
 <form>HMS</form>
 <tag>
 <AM lemma="HMS-1_:B_^(halové_mistrovství_světa)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-049-p5s3w11">

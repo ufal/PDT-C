@@ -379,7 +379,7 @@
 <form>SČMBD</form>
 <tag>
 <AM lemma="SČMBD-1_:B_;K_^(Svaz_českých_a_moravských_byt._družstev)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SČMBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SČMBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-093-p2s3Aw7">

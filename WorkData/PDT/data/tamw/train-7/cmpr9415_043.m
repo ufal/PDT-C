@@ -2297,7 +2297,7 @@
 <form>UV</form>
 <tag>
 <AM lemma="UV-3_:B_,t_^(ultraviolet)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="UV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-043-p8s5w12">
@@ -2364,7 +2364,7 @@
 <form>UV</form>
 <tag>
 <AM lemma="UV-3_:B_,t_^(ultraviolet)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="UV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-043-p8s5w20">
@@ -3152,7 +3152,7 @@
 <AM lemma="SDI-98_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SDI-1_:B_,t_^(Strategic_Defense_Initiative)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SDI-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SDI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-043-p10s2w8">
@@ -3165,7 +3165,7 @@
 <AM lemma="SMC-98_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SMC-1_:B_^(státní_maloobchodní_cena)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SMC-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-043-p10s2w9">
@@ -3186,7 +3186,7 @@
 <AM lemma="AX-98_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Axa_;K" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="AX_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-043-p10s2w11">
@@ -3524,7 +3524,7 @@
 <AM lemma="Naso_;G" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="Naso_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Naso_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="NASA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="NASA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="NASA_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

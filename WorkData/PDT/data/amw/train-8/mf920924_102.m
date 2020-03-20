@@ -352,7 +352,7 @@
 <form>Kr</form>
 <tag>
 <AM lemma="Králové_:B_;G" src="orig">NNFS2-----A---8</AM>
-<AM lemma="Kr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Kr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-102-p3s1w3">

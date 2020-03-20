@@ -376,7 +376,7 @@
 <form>KD</form>
 <tag>
 <AM lemma="KD_:B_^(kulturní_dům)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="KD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-068-p1s3w10">

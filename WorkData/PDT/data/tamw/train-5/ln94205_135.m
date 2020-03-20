@@ -659,7 +659,7 @@
 <form>MPSV</form>
 <tag>
 <AM lemma="MPSV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MPSV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-135-p2s3w16">
@@ -955,7 +955,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-135-p3s1w2">
@@ -2376,7 +2376,7 @@
 <form>MPSV</form>
 <tag>
 <AM lemma="MPSV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MPSV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-135-p5s1w10">

@@ -336,7 +336,7 @@
 <form>LČR</form>
 <tag>
 <AM lemma="LČR-1_:B_;K_,t_^(Lesy_České_republiky)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="LČR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LČR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-021-p3s5w6">
@@ -355,7 +355,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-021-p3s5w8">
@@ -741,7 +741,7 @@
 <form>LČR</form>
 <tag>
 <AM lemma="LČR-1_:B_;K_,t_^(Lesy_České_republiky)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="LČR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LČR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-021-p3s7w4">
@@ -994,7 +994,7 @@
 <form>LČR</form>
 <tag>
 <AM lemma="LČR-1_:B_;K_,t_^(Lesy_České_republiky)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="LČR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LČR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-021-p3s9w11">

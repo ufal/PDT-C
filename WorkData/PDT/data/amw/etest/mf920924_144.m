@@ -1734,7 +1734,7 @@
 <AM lemma="VS_:B_;K_^(Valné_shromáždění)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="VS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="versus_:B_,t" src="auto">RR--1---------8</AM>
-<AM lemma="VS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-144-p2s10w32">

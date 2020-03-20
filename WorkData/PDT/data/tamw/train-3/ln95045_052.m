@@ -129,7 +129,7 @@
 <form>SRo</form>
 <tag>
 <AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SRo-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p2s1Bw7">
@@ -502,7 +502,7 @@
 <form>SRo</form>
 <tag>
 <AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SRo-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p2s2w20">
@@ -804,7 +804,7 @@
 <AM lemma="ten" src="auto">PDNP1----------</AM>
 <AM lemma="ten" src="auto">PDNP4----------</AM>
 <AM lemma="TA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p3s1w24">
@@ -1134,7 +1134,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p3s3w16">
@@ -1295,7 +1295,7 @@
 <form>SRo</form>
 <tag>
 <AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SRo-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p4s1w12">
@@ -1758,7 +1758,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p4s3w11">
@@ -2008,7 +2008,7 @@
 <form>SRo</form>
 <tag>
 <AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SRo-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p5s1w17">

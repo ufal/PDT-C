@@ -169,7 +169,7 @@
 <form>IG</form>
 <tag>
 <AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-151-p2s1Bw13">
@@ -921,7 +921,7 @@
 <tag>
 <AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-77" src="manual">F%-------------</AM>
-<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-151-p2s7w3">

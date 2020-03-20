@@ -769,7 +769,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-024-p3s1w26">
@@ -836,7 +836,7 @@
 <form>PMEZ</form>
 <tag>
 <AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-024-p3s1w34">
@@ -2149,7 +2149,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-024-p5s2w13">

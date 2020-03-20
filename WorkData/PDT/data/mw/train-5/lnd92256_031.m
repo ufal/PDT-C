@@ -802,7 +802,7 @@
 <form>MZ</form>
 <tag>
 <AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-031-p3s4w37">

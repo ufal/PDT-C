@@ -1822,7 +1822,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-037-p6s2w26">
@@ -2014,7 +2014,7 @@
 <AM lemma="SSS-1_:B_;K_^(Strana_svobody_a_spravedlnosti)" src="auto" recommended="1">NNFSX-----A---8</AM>
 <AM lemma="SSS-2_:B_;K_^(Sdružení_sportovních_svazů)" src="auto">NNNSX-----A---8</AM>
 <AM lemma="sss" src="auto">II-------------</AM>
-<AM lemma="SSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-037-p6s3w21">
@@ -2173,7 +2173,7 @@
 <AM lemma="BaH_:B_;G_^(Bosna_a_Hercegovina)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Bah_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="bah" src="auto" recommended="1">II-------------</AM>
-<AM lemma="BaH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BaH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-037-p7s1w6">
@@ -2308,7 +2308,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-037-p7s1w22">
@@ -2966,7 +2966,7 @@
 <form>UNPROFOR</form>
 <tag>
 <AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNPROFOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-037-p8s2w16">
@@ -3001,7 +3001,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-037-p8s2w20">

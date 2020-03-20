@@ -58,7 +58,7 @@
 <tag>
 <AM lemma="VSS_;K_^(Východoslov._strojárne)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VSS_:B_;K_^(Východoslov._strojárne)" src="auto" recommended="1">NNFPX-----A---8</AM>
-<AM lemma="VSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-118-p2s2w2">
@@ -181,7 +181,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-118-p2s2w17">
@@ -347,7 +347,7 @@
 <tag>
 <AM lemma="VSS_;K_^(Východoslov._strojárne)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VSS_:B_;K_^(Východoslov._strojárne)" src="auto" recommended="1">NNFPX-----A---8</AM>
-<AM lemma="VSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-118-p3s1w17">
@@ -778,7 +778,7 @@
 <form>ČSFA</form>
 <tag>
 <AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-118-p5s1w4">

@@ -145,7 +145,7 @@
 <form>WBC</form>
 <tag>
 <AM lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="WBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-110-p3s1w7">
@@ -473,7 +473,7 @@
 <AM lemma="IBF-1_:B_;K_,t_^(International_Badminton_Federation)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="IBF-2_:B_;K_,t_^(International_Bowling_Federation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IBF-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IBF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-110-p4s1w12">
@@ -750,7 +750,7 @@
 <AM lemma="WBO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="WBO_:B_;K_,t_^(Western_Buddhists_Order)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="WBO_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="WBO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WBO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-110-p5s1w21">

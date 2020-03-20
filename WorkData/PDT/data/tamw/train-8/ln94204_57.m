@@ -111,7 +111,7 @@
 <form>jap</form>
 <tag>
 <AM lemma="jap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jap-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jap-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-57-p2s1Aw4">

@@ -322,7 +322,7 @@
 <AM lemma="c-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="C-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p4s1w2">
@@ -353,7 +353,7 @@
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="B-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p4s1w4">
@@ -388,7 +388,7 @@
 <AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ručení_:B" src="auto">NNNS7-----A---8</AM>
 <AM lemma="R-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p4s1w6">
@@ -754,7 +754,7 @@
 <form>ISPO</form>
 <tag>
 <AM lemma="ISPO_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ISPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ISPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p6s1w2">
@@ -933,7 +933,7 @@
 <form>IHM</form>
 <tag>
 <AM lemma="IHM_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="IHM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IHM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p7s1w2">
@@ -2083,7 +2083,7 @@
 <form>ISPO</form>
 <tag>
 <AM lemma="ISPO_:B_;m_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="ISPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ISPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p14s1w2">
@@ -2480,7 +2480,7 @@
 <form>IMEGA</form>
 <tag>
 <AM lemma="IMEGA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IMEGA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IMEGA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p16s1w2">

@@ -1364,7 +1364,7 @@
 <AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="N-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="N-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>

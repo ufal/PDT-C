@@ -511,7 +511,7 @@
 <form>BJ</form>
 <tag>
 <AM lemma="BJ_:B_^(Benin)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-081-p3s4w5">
@@ -3815,7 +3815,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-081-p6s6w13">

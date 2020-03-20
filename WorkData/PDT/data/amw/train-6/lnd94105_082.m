@@ -149,7 +149,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-082-p1s11w18">
@@ -298,7 +298,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-082-p1s12w15">
@@ -570,7 +570,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-082-p1s14w19">
@@ -695,7 +695,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-082-p1s15w8">
@@ -852,7 +852,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-082-p1s16w6">
@@ -1059,7 +1059,7 @@
 <tag>
 <AM lemma="BB_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="BB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-082-p1s17w11">

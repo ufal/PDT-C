@@ -675,7 +675,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-012-p3s1w2">
@@ -694,7 +694,7 @@
 <form>Ch</form>
 <tag>
 <AM lemma="Ch-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ch-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ch-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-012-p3s1w4">

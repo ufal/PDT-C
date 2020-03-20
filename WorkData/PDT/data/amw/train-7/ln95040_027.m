@@ -976,7 +976,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-027-p2s4w30">
@@ -1229,7 +1229,7 @@
 <form>STES</form>
 <tag>
 <AM lemma="STES_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-027-p2s5w16">
@@ -1783,7 +1783,7 @@
 <form>STES</form>
 <tag>
 <AM lemma="STES_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-027-p2s7w6">
@@ -2262,7 +2262,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-027-p3s1w10">

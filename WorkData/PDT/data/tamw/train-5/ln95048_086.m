@@ -204,7 +204,7 @@
 <form>FIDE</form>
 <tag>
 <AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p2s1w15">
@@ -675,7 +675,7 @@
 <form>FIDE</form>
 <tag>
 <AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p3s1w6">
@@ -825,7 +825,7 @@
 <form>FIDE</form>
 <tag>
 <AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p3s2w8">
@@ -870,7 +870,7 @@
 <AM lemma="PCA-2_:B_;K_,t_^(šachová_organizace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PCA-1_:B_,t_^(personal_communication_assistent)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PCA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p3s2w13">
@@ -1052,7 +1052,7 @@
 <AM lemma="PCA-2_:B_;K_,t_^(šachová_organizace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PCA-1_:B_,t_^(personal_communication_assistent)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PCA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p3s2w33">
@@ -1538,7 +1538,7 @@
 <form>FIDE</form>
 <tag>
 <AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p4s1w4">
@@ -1559,7 +1559,7 @@
 <AM lemma="PCA-2_:B_;K_,t_^(šachová_organizace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PCA-1_:B_,t_^(personal_communication_assistent)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PCA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p4s1w6">
@@ -1634,7 +1634,7 @@
 <form>FIDE</form>
 <tag>
 <AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p4s1w15">
@@ -1980,7 +1980,7 @@
 <form>FIDE</form>
 <tag>
 <AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p4s3w22">

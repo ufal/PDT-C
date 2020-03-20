@@ -1761,7 +1761,7 @@
 <AM lemma="HOST_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="host" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="HOST_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-135-p4s1w18">
@@ -2037,7 +2037,7 @@
 <AM lemma="HOST_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="host" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="HOST_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-135-p4s3w8">

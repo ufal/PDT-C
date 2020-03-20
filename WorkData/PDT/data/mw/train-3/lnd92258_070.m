@@ -493,7 +493,7 @@
 <form>PTI</form>
 <tag>
 <AM lemma="PTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PTI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-070-p2s4w7">

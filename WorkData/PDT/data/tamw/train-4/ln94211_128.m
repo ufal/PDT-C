@@ -153,7 +153,7 @@
 <form>NBS</form>
 <tag>
 <AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-128-p2s1Bw11">
@@ -303,7 +303,7 @@
 <form>NBS</form>
 <tag>
 <AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-128-p2s1Bw29">
@@ -580,7 +580,7 @@
 <form>NBS</form>
 <tag>
 <AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-128-p3s1w31">
@@ -893,7 +893,7 @@
 <form>NBS</form>
 <tag>
 <AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-128-p5s1w3">
@@ -1591,7 +1591,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-128-p6s2w15">

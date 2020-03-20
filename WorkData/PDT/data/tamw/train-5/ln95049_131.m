@@ -2190,7 +2190,7 @@
 <form>ABS</form>
 <tag>
 <AM lemma="ABS-2_:B_;g_^(umělá_hmota)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ABS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p3s3w4">

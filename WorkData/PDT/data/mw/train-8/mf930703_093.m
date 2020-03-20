@@ -635,7 +635,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p2s5w2">
@@ -6378,7 +6378,7 @@
 <AM lemma="Mn-1_:B_;H_^(manganum,_mangan)" src="auto">NNIXX-----A----</AM>
 <AM lemma="mn-3_:B_^(malé_napětí)" src="auto">NNNXX-----A----</AM>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
-<AM lemma="MN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p29s1w12">
@@ -6592,7 +6592,7 @@
 <AM lemma="Mn-1_:B_;H_^(manganum,_mangan)" src="auto">NNIXX-----A----</AM>
 <AM lemma="mn-3_:B_^(malé_napětí)" src="auto">NNNXX-----A----</AM>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
-<AM lemma="MN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p30s2w3">

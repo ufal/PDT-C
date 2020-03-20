@@ -865,7 +865,7 @@
 <tag>
 <AM lemma="TÚ_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tú" src="auto" recommended="1">II-------------</AM>
-<AM lemma="TÚ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -53,7 +53,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p1s1w6">
@@ -270,7 +270,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p3s2w19">
@@ -315,7 +315,7 @@
 <form>FHL</form>
 <tag>
 <AM lemma="FHL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FHL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p3s3w5">
@@ -366,7 +366,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p3s3w11">
@@ -499,7 +499,7 @@
 <form>HC</form>
 <tag>
 <AM lemma="HC-1_:B_^(hockey_club)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p4s1w9">

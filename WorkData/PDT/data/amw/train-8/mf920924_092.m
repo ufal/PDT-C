@@ -349,7 +349,7 @@
 <form>ČSFH</form>
 <tag>
 <AM lemma="ČSFH-1_:B_;K_^(Česko-Slovenská_federace_házené)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-092-p2s3w13">

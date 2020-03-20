@@ -1313,7 +1313,7 @@
 <form>HOST</form>
 <tag>
 <AM lemma="host" src="orig">NNMS1-----A----</AM>
-<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-065-p1s7w14">

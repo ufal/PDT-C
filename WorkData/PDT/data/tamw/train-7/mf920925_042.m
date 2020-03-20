@@ -1312,7 +1312,7 @@
 <form>DM</form>
 <tag>
 <AM lemma="DM-9_:B_,t_^(Deutsche_Mark)" src="orig">NNFXX-----A----</AM>
-<AM lemma="DM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-042-p4s1w28">

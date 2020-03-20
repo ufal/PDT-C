@@ -1646,7 +1646,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p6s1w12">
@@ -1757,7 +1757,7 @@
 <AM lemma="MSDOS_:B_;R" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MSDOS_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="MSDOS_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="MSDOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSDOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p6s2w9">

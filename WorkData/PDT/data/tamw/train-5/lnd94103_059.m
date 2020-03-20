@@ -434,7 +434,7 @@
 <form>ARENA</form>
 <tag>
 <AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ARENA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ARENA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s2w17">
@@ -575,7 +575,7 @@
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s2w34">
@@ -819,7 +819,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SSSR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1054,7 +1054,7 @@
 <form>ARENA</form>
 <tag>
 <AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ARENA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ARENA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s6w6">
@@ -1083,7 +1083,7 @@
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s6w9">
@@ -1389,7 +1389,7 @@
 <form>ARENA</form>
 <tag>
 <AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ARENA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ARENA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s8w20">
@@ -1445,7 +1445,7 @@
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s8w26">
@@ -1787,7 +1787,7 @@
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s11Aw13">
@@ -2180,7 +2180,7 @@
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s13w2">
@@ -3239,7 +3239,7 @@
 <form>ARENA</form>
 <tag>
 <AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ARENA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ARENA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s20w26">

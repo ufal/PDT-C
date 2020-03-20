@@ -232,7 +232,7 @@
 <form>SFK</form>
 <tag>
 <AM lemma="SFK_:B_;K_^(Státní_fond_kultury)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SFK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-78-p2s1Cw18">
@@ -611,7 +611,7 @@
 <form>SFK</form>
 <tag>
 <AM lemma="SFK_:B_;K_^(Státní_fond_kultury)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SFK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-78-p2s3w7">

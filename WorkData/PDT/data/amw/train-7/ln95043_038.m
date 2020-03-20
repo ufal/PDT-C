@@ -1044,7 +1044,7 @@
 <form>SPT</form>
 <tag>
 <AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p3s3w23">
@@ -1361,7 +1361,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p3s5w19">
@@ -2199,7 +2199,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p5s3w13">
@@ -2241,7 +2241,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p5s3w15">
@@ -2808,7 +2808,7 @@
 <tag>
 <AM lemma="EB-2_:B_;K_^(EB_Brokers)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="EB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p6s1w5">
@@ -3016,7 +3016,7 @@
 <form>COOP</form>
 <tag>
 <AM lemma="COOP_:B_;K_^(banka)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="COOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="COOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p7s1w5">
@@ -3126,7 +3126,7 @@
 <tag>
 <AM lemma="BH-2_:B_;K_^(BH_Securities)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="BH_:B_^(Bahrajn)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="BH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p8s1w5">
@@ -3558,7 +3558,7 @@
 <AM lemma="IC-4_:B_;K_,t_^(Internationale_Communiste)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IC-5_:B_,t_^(instruction_counter)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IC-6_:B_,t_^(integrated_circuit)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p9s1w5">
@@ -3891,7 +3891,7 @@
 <tag>
 <AM lemma="FT_:B_;K_^(Atlantic_FT)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FT_:B_;K_^(Financial_Times)" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="FT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p10s1w6">

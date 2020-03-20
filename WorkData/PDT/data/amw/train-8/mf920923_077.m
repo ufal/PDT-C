@@ -53,7 +53,7 @@
 <form>SPOT</form>
 <tag>
 <AM lemma="spot" src="orig">NNIS1-----A----</AM>
-<AM lemma="SPOT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPOT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -160,7 +160,7 @@
 <form>SPOT</form>
 <tag>
 <AM lemma="spot" src="orig">NNIS1-----A----</AM>
-<AM lemma="SPOT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPOT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-077-p2s2w8">
@@ -429,7 +429,7 @@
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
-<AM lemma="CO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-077-p2s3w8">
@@ -724,7 +724,7 @@
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
-<AM lemma="CO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-077-p2s5w9">
@@ -833,7 +833,7 @@
 <form>SPOT</form>
 <tag>
 <AM lemma="spot" src="orig">NNIS1-----A----</AM>
-<AM lemma="SPOT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPOT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-077-p2s6w7">

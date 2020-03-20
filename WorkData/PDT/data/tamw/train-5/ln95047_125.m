@@ -103,7 +103,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-125-p2s1Aw8">
@@ -456,7 +456,7 @@
 <form>XL</form>
 <tag>
 <AM lemma="XL-3`40" src="orig">C}-------------</AM>
-<AM lemma="XL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-125-p3s1w8">
@@ -808,7 +808,7 @@
 <form>XL</form>
 <tag>
 <AM lemma="XL-3`40" src="orig">C}-------------</AM>
-<AM lemma="XL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-125-p3s4w6">

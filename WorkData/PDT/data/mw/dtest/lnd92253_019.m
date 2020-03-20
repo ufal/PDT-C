@@ -953,7 +953,7 @@
 <form>Co</form>
 <tag>
 <AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Co-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Co-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

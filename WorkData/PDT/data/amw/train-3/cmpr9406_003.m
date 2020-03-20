@@ -912,7 +912,7 @@
 <form>KPB</form>
 <tag>
 <AM lemma="KPB-1_:B_;K_^(Kreditní_a_průmyslová_banka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-003-p9s1w16">

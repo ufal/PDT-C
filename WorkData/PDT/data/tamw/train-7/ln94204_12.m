@@ -965,7 +965,7 @@
 <form>NH</form>
 <tag>
 <AM lemma="NH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-12-p4s1w38">

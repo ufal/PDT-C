@@ -134,7 +134,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-032-p4s1w2">
@@ -153,7 +153,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-032-p4s1w4">
@@ -238,7 +238,7 @@
 <form>SNTL</form>
 <tag>
 <AM lemma="SNTL-1_:B_;K_^(Státní_nakladatelství_technické_literatury)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNTL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNTL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-032-p4s2Aw2">
@@ -1431,7 +1431,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-032-p5s6w10">
@@ -9426,7 +9426,7 @@
 <form>SNTL</form>
 <tag>
 <AM lemma="SNTL-1_:B_;K_^(Státní_nakladatelství_technické_literatury)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNTL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNTL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-032-p10s1w59">
@@ -11123,7 +11123,7 @@
 <form>NASA</form>
 <tag>
 <AM lemma="NASA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NASA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NASA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-032-p11s3w4">

@@ -35,7 +35,7 @@
 <AM lemma="ECO_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Eco_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eco_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="ECO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p2s1w3">
@@ -142,7 +142,7 @@
 <AM lemma="ECO_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Eco_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Eco_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="ECO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p3s1w12">
@@ -321,7 +321,7 @@
 <form>ABF</form>
 <tag>
 <AM lemma="ABF_:B_;K" src="auto">NNFSX-----A---8</AM>
-<AM lemma="ABF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p3s1w34">
@@ -747,7 +747,7 @@
 <AM lemma="ECO_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Eco_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Eco_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="ECO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p4s3w6">

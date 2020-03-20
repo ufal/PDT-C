@@ -523,7 +523,7 @@
 <form>SVP</form>
 <tag>
 <AM lemma="SVP-2_:B_^(státní_vyrovnávací_příspěvek)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-42-p3s1w13">
@@ -915,7 +915,7 @@
 <form>SVP</form>
 <tag>
 <AM lemma="SVP-2_:B_^(státní_vyrovnávací_příspěvek)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-42-p3s3w10">

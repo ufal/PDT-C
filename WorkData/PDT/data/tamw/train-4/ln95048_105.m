@@ -195,7 +195,7 @@
 <form>FAP</form>
 <tag>
 <AM lemma="FAP-1_:B_,t_^(first-aid-post)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s1Bw16">
@@ -360,7 +360,7 @@
 <form>FAP</form>
 <tag>
 <AM lemma="FAP-1_:B_,t_^(first-aid-post)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s2w12">
@@ -437,7 +437,7 @@
 <form>FAP</form>
 <tag>
 <AM lemma="FAP-1_:B_,t_^(first-aid-post)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s3w2">
@@ -495,7 +495,7 @@
 <form>NSDAP</form>
 <tag>
 <AM lemma="NSDAP-1_:B_;K_,t_^(Nationalsoz._Deutsche_Arbeiterpartei)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NSDAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NSDAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s3w8">
@@ -616,7 +616,7 @@
 <form>FAP</form>
 <tag>
 <AM lemma="FAP-1_:B_,t_^(first-aid-post)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s4w5">
@@ -699,7 +699,7 @@
 <form>FAP</form>
 <tag>
 <AM lemma="FAP-1_:B_,t_^(first-aid-post)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s4w15">
@@ -983,7 +983,7 @@
 <AM lemma="NL-2_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NL_:B_^(Nizozemí)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="NL_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="NL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s6w14">

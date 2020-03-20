@@ -653,7 +653,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-152-p3s2w7">
@@ -1112,7 +1112,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-152-p4s1w2">
@@ -1523,7 +1523,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-152-p4s2w27">
@@ -1822,7 +1822,7 @@
 <form>SBČS</form>
 <tag>
 <AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SBČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-152-p5s1w25">

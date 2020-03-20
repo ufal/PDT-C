@@ -4781,8 +4781,8 @@
 <form>SMS</form>
 <tag>
 <AM lemma="SMS_:B_;K" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SMS-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SMS-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SMS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SMS-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="SMS_^(short_message_service)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -5604,7 +5604,7 @@
 <AM lemma="LAN_:B_^(počítačová_síť)" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
-<AM lemma="LAN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1286-s1-w34">

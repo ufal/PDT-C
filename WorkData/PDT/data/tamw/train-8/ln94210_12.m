@@ -411,7 +411,7 @@
 <form>ARK</form>
 <tag>
 <AM lemma="ARK-1_:B_;K_^(Asociace_realitních_kanceláří)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ARK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ARK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-12-p2s3w15">
@@ -422,7 +422,7 @@
 <form>ČMS</form>
 <tag>
 <AM lemma="ČMS-1_:B_;K_^(Českosl._meteorologická_společnost)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-12-p2s3w16">

@@ -37,7 +37,7 @@
 <form>ČF</form>
 <tag>
 <AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-045-p1s1w4">
@@ -306,7 +306,7 @@
 <form>ČF</form>
 <tag>
 <AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-045-p2s2w8">
@@ -509,7 +509,7 @@
 <form>ČF</form>
 <tag>
 <AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-045-p2s3w22">
@@ -756,7 +756,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-045-p2s5w10">

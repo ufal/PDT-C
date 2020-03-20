@@ -5372,7 +5372,7 @@
 <form>ÚV</form>
 <tag>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-060-p11s1w3">
@@ -5383,7 +5383,7 @@
 <form>NF</form>
 <tag>
 <AM lemma="NF-1_:B_;K_^(Národní_fronta)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-060-p11s1w4">
@@ -5434,7 +5434,7 @@
 <form>ČSR</form>
 <tag>
 <AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-060-p11s1w10">
@@ -5454,7 +5454,7 @@
 <tag>
 <AM lemma="RP_:B_;R_^(Rudé_právo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="RP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="RP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-060-p11s1w12">
@@ -6233,7 +6233,7 @@
 <tag>
 <AM lemma="RP_:B_;R_^(Rudé_právo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="RP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="RP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-060-p13s1w13">

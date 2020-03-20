@@ -848,7 +848,7 @@
 <form>ITC</form>
 <tag>
 <AM lemma="ITC-4_:B_;K_,t_^(International_Typeface_Corporation)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ITC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ITC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-030-p6s1w8">
@@ -1269,7 +1269,7 @@
 <form>ITC</form>
 <tag>
 <AM lemma="ITC-4_:B_;K_,t_^(International_Typeface_Corporation)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ITC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ITC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-030-p7s1w4">

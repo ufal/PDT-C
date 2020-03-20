@@ -630,7 +630,7 @@
 <form>VUT</form>
 <tag>
 <AM lemma="VUT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VUT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VUT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-030-p2s5w12">

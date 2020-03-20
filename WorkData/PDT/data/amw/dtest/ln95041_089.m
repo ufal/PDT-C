@@ -127,7 +127,7 @@
 <form>OCLC</form>
 <tag>
 <AM lemma="OCLC_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="OCLC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OCLC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-089-p2s1w14">
@@ -332,7 +332,7 @@
 <form>OCLC</form>
 <tag>
 <AM lemma="OCLC_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="OCLC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OCLC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-089-p2s2w14">

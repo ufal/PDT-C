@@ -5838,7 +5838,7 @@
 <AM lemma="ČS-2_:B_;K_^(Český_spisovatel)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ČS-3_:B_;K_^(Československý_spisovatel)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="československý_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s6w12">

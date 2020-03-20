@@ -21,7 +21,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-012-p1s1w2">
@@ -250,7 +250,7 @@
 <form>FSO</form>
 <tag>
 <AM lemma="FSO_:B_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="FSO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FSO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-012-p2s2w13">
@@ -269,7 +269,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-012-p2s2w15">

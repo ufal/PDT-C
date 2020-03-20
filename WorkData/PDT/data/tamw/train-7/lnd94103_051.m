@@ -414,7 +414,7 @@
 <form>UNAMIR</form>
 <tag>
 <AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNAMIR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNAMIR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-051-p1s4w12">
@@ -702,7 +702,7 @@
 <form>UNAMIR</form>
 <tag>
 <AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNAMIR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNAMIR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-051-p1s6w3">

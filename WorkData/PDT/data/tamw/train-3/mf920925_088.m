@@ -914,7 +914,7 @@
 <AM lemma="BIMBO_;R" src="orig">NNNS1-----A----</AM>
 <AM lemma="Bimbo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bimbo_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="BIMBO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BIMBO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-088-p2s8w20">

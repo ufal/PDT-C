@@ -220,7 +220,7 @@
 <AM lemma="Pribor_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pribor_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="PRIBOR_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PRIBOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PRIBOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-072-p1s3w19">
@@ -561,7 +561,7 @@
 <AM lemma="Pribor_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pribor_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="PRIBOR_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PRIBOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PRIBOR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-072-p1s6w4">

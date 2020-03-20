@@ -178,7 +178,7 @@
 <form>CS</form>
 <tag>
 <AM lemma="CS-1_:B_;G_^(mez._zkr._Československa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

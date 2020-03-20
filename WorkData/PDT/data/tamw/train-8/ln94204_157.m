@@ -156,7 +156,7 @@
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="dr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p2s1Bw4">
@@ -321,7 +321,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p2s1Cw19">
@@ -406,7 +406,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p3s1w9">
@@ -451,7 +451,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p3s1w13">
@@ -510,7 +510,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p3s1w20">
@@ -920,7 +920,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p4s1w24">
@@ -1021,7 +1021,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p4s2w12">
@@ -1600,7 +1600,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p5s4w4">
@@ -2459,7 +2459,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p7s1w25">
@@ -3065,7 +3065,7 @@
 <AM lemma="SGP-3_:B_;K_,t_^(rakouská_firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SGP-1_:B_;K_,t_^(zvuková_karta_Sound_Galaxy_NX_Pro_16)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SGP-2_:B_;R_,t_^(Soukup_Graphic_Preprocessor)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SGP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SGP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p8s5w15">
@@ -3243,7 +3243,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p9s1w2">
@@ -3703,7 +3703,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p10s2w3">
@@ -3972,7 +3972,7 @@
 <form>JLV</form>
 <tag>
 <AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JLV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p10s3w21">

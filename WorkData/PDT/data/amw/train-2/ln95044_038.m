@@ -256,7 +256,7 @@
 <tag>
 <AM lemma="PF_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PF_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw25">
@@ -267,7 +267,7 @@
 <form>ZČU</form>
 <tag>
 <AM lemma="ZČU-1_:B_;K_^(Západočeská_univerzita)" src="orig">NNFXX-----A----</AM>
-<AM lemma="ZČU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZČU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw26">

@@ -29,7 +29,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p1s1w3">
@@ -106,7 +106,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p2s1w5">
@@ -335,7 +335,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p2s2w14">
@@ -524,7 +524,7 @@
 <form>CEFIC</form>
 <tag>
 <AM lemma="CEFIC_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFIC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CEFIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p2s3w12">
@@ -585,7 +585,7 @@
 <form>CEFIC</form>
 <tag>
 <AM lemma="CEFIC_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFIC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CEFIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p3s1w6">
@@ -851,7 +851,7 @@
 <form>CEFIC</form>
 <tag>
 <AM lemma="CEFIC_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CEFIC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CEFIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p4s1w2">
@@ -894,7 +894,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p4s1w7">
@@ -1241,7 +1241,7 @@
 <form>CEFIC</form>
 <tag>
 <AM lemma="CEFIC_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CEFIC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CEFIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p5s1w2">
@@ -1444,7 +1444,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p5s1w27">
@@ -1545,7 +1545,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p6s1w4">
@@ -1800,7 +1800,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p6s3w2">

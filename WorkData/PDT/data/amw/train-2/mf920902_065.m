@@ -322,7 +322,7 @@
 <tag>
 <AM lemma="CK_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="CK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-065-p2s3w7">
@@ -353,7 +353,7 @@
 <AM lemma="Oda-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="od-1" src="auto">RR--2----------</AM>
 <AM lemma="od-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="OD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-065-p2s3w10">

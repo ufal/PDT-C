@@ -155,7 +155,7 @@
 <AM lemma="ABT_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Abt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="ABT_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ABT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-15-p2s1Bw11">
@@ -230,7 +230,7 @@
 <form>AG</form>
 <tag>
 <AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-15-p2s1Bw20">

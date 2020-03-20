@@ -519,7 +519,7 @@
 <form>UV</form>
 <tag>
 <AM lemma="UV-3_:B_,t_^(ultraviolet)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="UV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-029-p3s4w25">

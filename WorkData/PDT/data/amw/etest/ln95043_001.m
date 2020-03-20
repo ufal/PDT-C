@@ -1854,7 +1854,7 @@
 <form>UV</form>
 <tag>
 <AM lemma="UV-3_:B_,t_^(ultraviolet)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="UV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-001-p3s3w12">
@@ -2536,7 +2536,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-001-p4s5w16">

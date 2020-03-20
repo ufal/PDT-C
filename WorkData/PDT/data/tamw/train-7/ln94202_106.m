@@ -317,7 +317,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p2s2w16">
@@ -368,7 +368,7 @@
 <form>IFK</form>
 <tag>
 <AM lemma="IFK_:B_;K_;w_^(švédký_sport._klub)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IFK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p2s2w22">
@@ -493,7 +493,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p3s1w14">
@@ -926,7 +926,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p4s1Aw2">
@@ -995,7 +995,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p4s1Bw2">
@@ -1477,7 +1477,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p5s1w11">
@@ -1605,7 +1605,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p5s2w2">
@@ -1814,7 +1814,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p5s3w4">
@@ -2009,7 +2009,7 @@
 <form>IFK</form>
 <tag>
 <AM lemma="IFK_:B_;K_;w_^(švédký_sport._klub)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IFK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p5s4w15">
@@ -2118,7 +2118,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p6s1w6">
@@ -2307,7 +2307,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p6s2w7">
@@ -2565,7 +2565,7 @@
 <form>PMEZ</form>
 <tag>
 <AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p6s3w12">
@@ -2698,7 +2698,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p6s4w6">
@@ -2781,7 +2781,7 @@
 <form>PMEZ</form>
 <tag>
 <AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p6s4w16">
@@ -2808,7 +2808,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p6s4w19">
@@ -2867,7 +2867,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p6s4w26">
@@ -2952,7 +2952,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p7s1w10">
@@ -3145,7 +3145,7 @@
 <form>FF</form>
 <tag>
 <AM lemma="FF_:B_;K_;u_^(Fil._fakulta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p7s1w33">
@@ -3164,7 +3164,7 @@
 <form>IFK</form>
 <tag>
 <AM lemma="IFK_:B_;K_;w_^(švédký_sport._klub)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IFK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p7s1w35">
@@ -3217,7 +3217,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p7s2w5">
@@ -3284,7 +3284,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p7s2w13">
@@ -3364,7 +3364,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p7s3w3">
@@ -3763,7 +3763,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p7s6w7">
@@ -3918,7 +3918,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p7s6w26">
@@ -4007,7 +4007,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p7s7w8">
@@ -4592,7 +4592,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p8s3w8">
@@ -4815,7 +4815,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p8s5w7">
@@ -4876,7 +4876,7 @@
 <form>IFK</form>
 <tag>
 <AM lemma="IFK_:B_;K_;w_^(švédký_sport._klub)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IFK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p8s6w6">
@@ -4903,7 +4903,7 @@
 <form>IFK</form>
 <tag>
 <AM lemma="IFK_:B_;K_;w_^(švédký_sport._klub)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IFK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p8s6w9">
@@ -5052,7 +5052,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p8s7w6">
@@ -5653,7 +5653,7 @@
 <form>AIK</form>
 <tag>
 <AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p9s3w13">
@@ -6189,7 +6189,7 @@
 <form>FC</form>
 <tag>
 <AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p10s1Bw3">
@@ -6705,7 +6705,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p10s3w17">
@@ -7136,7 +7136,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p11s2w27">
@@ -7197,7 +7197,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p11s3w7">
@@ -7331,7 +7331,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p11s3w23">
@@ -7753,7 +7753,7 @@
 <AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p12s3w9">
@@ -7973,7 +7973,7 @@
 <AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p12s3w34">
@@ -8330,7 +8330,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p12s5w18">
@@ -8626,7 +8626,7 @@
 <AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p12s7w8">
@@ -8825,7 +8825,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p12s9w4">
@@ -10833,7 +10833,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p14s7w10">
@@ -10958,7 +10958,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p14s8w10">
@@ -11415,7 +11415,7 @@
 <AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p15s3w12">
@@ -12082,7 +12082,7 @@
 <AM lemma="okresní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="omezený_:B" src="auto">AANS7----1A---8</AM>
 <AM lemma="olympique_:B_,t" src="manual">NNXXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p15s6w33">
@@ -12211,7 +12211,7 @@
 <AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p15s7Aw10">
@@ -12832,7 +12832,7 @@
 <AM lemma="c-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="city_;B_,t" src="manual">NNXXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p15s7Aw83">
@@ -13037,7 +13037,7 @@
 <AM lemma="c-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="city_:B_,t" src="manual">NNXXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p15s8w9">
@@ -13630,7 +13630,7 @@
 <form>PVP</form>
 <tag>
 <AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p16s3w2">

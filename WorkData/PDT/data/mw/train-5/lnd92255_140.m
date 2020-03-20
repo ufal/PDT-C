@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="FVŽP_:B_;K_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FVŽP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FVŽP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FVŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p1s1w2">
@@ -128,7 +128,7 @@
 <tag>
 <AM lemma="FVŽP_:B_;K_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FVŽP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FVŽP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FVŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p3s2w8">
@@ -301,7 +301,7 @@
 <form>MŽP</form>
 <tag>
 <AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MŽP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p3s3w17">
@@ -376,7 +376,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p3s3w26">
@@ -428,7 +428,7 @@
 <tag>
 <AM lemma="FVŽP_:B_;K_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FVŽP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FVŽP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FVŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p3s3w32">
@@ -487,7 +487,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p3s3w39">
@@ -540,7 +540,7 @@
 <form>MŽP</form>
 <tag>
 <AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MŽP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p3s4w4">
@@ -842,7 +842,7 @@
 <tag>
 <AM lemma="FVŽP_:B_;K_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FVŽP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FVŽP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FVŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p3s5w9">

@@ -57,7 +57,7 @@
 <form>SPT</form>
 <tag>
 <AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p1s1w6">
@@ -141,7 +141,7 @@
 <tag>
 <AM lemma="PTT_:B_,t_^(telekomunikace)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PPT_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PTT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw7">
@@ -279,7 +279,7 @@
 <form>SPT</form>
 <tag>
 <AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw22">
@@ -341,7 +341,7 @@
 <tag>
 <AM lemma="PPT_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PPT_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p2s2w6">
@@ -619,7 +619,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p3s2w10">
@@ -654,7 +654,7 @@
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto">PDXXX---------8</AM>
 <AM lemma="T-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p3s2w12">
@@ -860,7 +860,7 @@
 <tag>
 <AM lemma="PTT_:B_,t_^(telekomunikace)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PTT_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PTT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p5s1w2">

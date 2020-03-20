@@ -2276,7 +2276,7 @@
 <AM lemma="EUR_:B_^(certifikát)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="euro-2_:B_;b_^(evr._měna)" src="auto">Xx-------------</AM>
 <AM lemma="euro-2_;b_^(evr._měna)" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="EUR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EUR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-013-p9s3w17">
@@ -2305,7 +2305,7 @@
 <AM lemma="EUR_:B_^(certifikát)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="euro-2_:B_;b_^(evr._měna)" src="auto">Xx-------------</AM>
 <AM lemma="euro-2_;b_^(evr._měna)" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="EUR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EUR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-013-p9s3w20">
@@ -2367,7 +2367,7 @@
 <tag>
 <AM lemma="ATA_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ata_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="ATA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ATA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-013-p10s1w6">

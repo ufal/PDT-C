@@ -209,7 +209,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-029-p2s1Bw19">
@@ -1110,7 +1110,7 @@
 <AM lemma="ČKA_:B_;K_^(Česká_klusácká_asociace)" src="orig">NNFXX-----A----</AM>
 <AM lemma="ČKA-1_:B_;K_^(Český_klub_automobilistů)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKA-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-029-p3s6w5">
@@ -1631,7 +1631,7 @@
 <AM lemma="ČKA_:B_;K_^(Česká_klusácká_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKA-1_:B_;K_^(Český_klub_automobilistů)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKA-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-029-p3s8w21">
@@ -1774,7 +1774,7 @@
 <AM lemma="koncernový_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="K-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-029-p3s8w35">

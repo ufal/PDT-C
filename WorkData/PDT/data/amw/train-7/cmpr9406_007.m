@@ -125,7 +125,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-007-p4s1w7">
@@ -381,7 +381,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-007-p4s3w2">
@@ -606,7 +606,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-007-p4s4w9">
@@ -830,7 +830,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-007-p5s1w12">
@@ -1064,7 +1064,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-007-p6s1w5">
@@ -1343,7 +1343,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-007-p6s3w3">
@@ -1421,7 +1421,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-007-p6s4w4">
@@ -1546,7 +1546,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-007-p6s5w7">
@@ -1616,7 +1616,7 @@
 <form>BA</form>
 <tag>
 <AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-007-p6s5w15">

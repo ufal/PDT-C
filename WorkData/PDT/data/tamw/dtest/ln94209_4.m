@@ -3059,7 +3059,7 @@
 <form>ma</form>
 <tag>
 <AM lemma="ma-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ma-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ma-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

@@ -339,7 +339,7 @@
 <tag>
 <AM lemma="LP-1_:B_,t_^(deska,_nesamostatně,_př._vydali_LP_desku_XY)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="LP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="LP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s2w11">
@@ -2954,7 +2954,7 @@
 <AM lemma="Art-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Arto_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Arto_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="ARTA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ARTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s25w8">
@@ -4644,7 +4644,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s36w28">

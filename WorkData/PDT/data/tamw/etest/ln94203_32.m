@@ -297,7 +297,7 @@
 <form>Š</form>
 <tag>
 <AM lemma="Š-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Š-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Š-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-32-p2s1Cw15">
@@ -1003,7 +1003,7 @@
 <form>Š</form>
 <tag>
 <AM lemma="Š-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Š-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Š-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-32-p3s2w12">
@@ -1409,7 +1409,7 @@
 <form>Š</form>
 <tag>
 <AM lemma="Š-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Š-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Š-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-32-p4s1w5">

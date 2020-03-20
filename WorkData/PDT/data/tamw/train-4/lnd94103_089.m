@@ -3114,7 +3114,7 @@
 <form>HBO</form>
 <tag>
 <AM lemma="HBO_:B_;K_^(film._kanál)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="HBO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HBO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-089-p1s19w25">

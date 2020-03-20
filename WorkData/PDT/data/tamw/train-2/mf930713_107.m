@@ -460,7 +460,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s2w7">
@@ -599,7 +599,7 @@
 <form>SFŽ</form>
 <tag>
 <AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s2w24">
@@ -634,7 +634,7 @@
 <form>KR</form>
 <tag>
 <AM lemma="Kr_:B_;H_^(krypton)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="KR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s2w28">
@@ -645,7 +645,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s2w29">
@@ -793,7 +793,7 @@
 <tag>
 <AM lemma="VV_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="VV_:B_;K_^(výkonný_výbor)" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="VV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s4w5">
@@ -804,7 +804,7 @@
 <form>SFŽ</form>
 <tag>
 <AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s4w6">
@@ -911,7 +911,7 @@
 <form>SFŽ</form>
 <tag>
 <AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s4w19">
@@ -954,7 +954,7 @@
 <form>SFŽ</form>
 <tag>
 <AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s4w24">
@@ -1045,7 +1045,7 @@
 <form>SFŽ</form>
 <tag>
 <AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s4w35">
@@ -1082,7 +1082,7 @@
 <form>SFŽ</form>
 <tag>
 <AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-107-p2s5w4">

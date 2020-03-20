@@ -18158,7 +18158,7 @@
 <form>OF</form>
 <tag>
 <AM lemma="OF_:B_;K_;p_^(Občanské_fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-128-p16s3w8">
@@ -18177,7 +18177,7 @@
 <form>VPN</form>
 <tag>
 <AM lemma="VPN_:B_;K_;p" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VPN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VPN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-128-p16s3w10">
@@ -18422,7 +18422,7 @@
 <form>OF</form>
 <tag>
 <AM lemma="OF_:B_;K_;p_^(Občanské_fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-128-p16s4w24">
@@ -18441,7 +18441,7 @@
 <form>VPN</form>
 <tag>
 <AM lemma="VPN_:B_;K_;p" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VPN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VPN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-128-p16s4w26">

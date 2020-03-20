@@ -1283,7 +1283,7 @@
 <AM lemma="PS-2_:B_;K_^(poštovní_schránka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ps-2`pikosekunda_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PS-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-110-p1s9w2">
@@ -1498,7 +1498,7 @@
 <AM lemma="PS-2_:B_;K_^(poštovní_schránka)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ps-2`pikosekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="PS-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-110-p1s10w4">
@@ -1523,7 +1523,7 @@
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="la-3_,t" src="auto">RF-------------</AM>
-<AM lemma="LA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-110-p1s10w6">
@@ -1756,7 +1756,7 @@
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="la-3_,t" src="auto">RF-------------</AM>
-<AM lemma="LA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-110-p1s12w10">

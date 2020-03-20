@@ -370,7 +370,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-062-p3s4w11">
@@ -2061,7 +2061,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Kčs-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-062-p4s9w25">
@@ -2220,7 +2220,7 @@
 <form>SNV</form>
 <tag>
 <AM lemma="SNV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-062-p4s11w6">

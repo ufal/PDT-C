@@ -242,7 +242,7 @@
 <form>SPT</form>
 <tag>
 <AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-15-p2s1Bw20">
@@ -285,7 +285,7 @@
 <form>AG</form>
 <tag>
 <AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-15-p2s1Bw25">
@@ -362,7 +362,7 @@
 <form>DON</form>
 <tag>
 <AM lemma="don" src="orig">NNMS1-----A----</AM>
-<AM lemma="DON-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DON-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-15-p2s2w8">
@@ -479,7 +479,7 @@
 <form>DON</form>
 <tag>
 <AM lemma="don" src="orig">NNMS1-----A----</AM>
-<AM lemma="DON-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DON-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-15-p2s3w8">
@@ -716,7 +716,7 @@
 <form>HOST</form>
 <tag>
 <AM lemma="host" src="orig">NNMS1-----A----</AM>
-<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-15-p3s1w20">
@@ -775,7 +775,7 @@
 <form>RSU</form>
 <tag>
 <AM lemma="RSU_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="RSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-15-p3s1w27">

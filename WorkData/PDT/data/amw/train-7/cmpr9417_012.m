@@ -1721,7 +1721,7 @@
 <form>ČNB</form>
 <tag>
 <AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-012-p6s4w37">

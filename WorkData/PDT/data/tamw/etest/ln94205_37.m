@@ -45,7 +45,7 @@
 <form>ND</form>
 <tag>
 <AM lemma="ND_:B_;K_^(Nár._divadlo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ND-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ND-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-37-p1s1w5">

@@ -336,7 +336,7 @@
 <form>OFT</form>
 <tag>
 <AM lemma="OFT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OFT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OFT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-014-p2s2w11">

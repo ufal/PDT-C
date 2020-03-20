@@ -3017,7 +3017,7 @@
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="AD_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p4s9w5">

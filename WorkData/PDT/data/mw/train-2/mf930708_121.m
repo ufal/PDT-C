@@ -1059,7 +1059,7 @@
 <AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-121-p4s2w2">
@@ -1320,7 +1320,7 @@
 <form>SKP</form>
 <tag>
 <AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-121-p4s3w32">
@@ -1931,7 +1931,7 @@
 <tag>
 <AM lemma="FK_:B_;K_^(Fotbalový_klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-121-p5s1w10">

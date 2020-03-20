@@ -220,7 +220,7 @@
 <form>MPO</form>
 <tag>
 <AM lemma="MPO-1_:B_^(ministerstvo_průmyslu_a_obchodu)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s3w12">
@@ -377,7 +377,7 @@
 <form>MPO</form>
 <tag>
 <AM lemma="MPO-1_:B_^(ministerstvo_průmyslu_a_obchodu)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s4w5">
@@ -889,7 +889,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s7w4">
@@ -956,7 +956,7 @@
 <form>MPO</form>
 <tag>
 <AM lemma="MPO-1_:B_^(ministerstvo_průmyslu_a_obchodu)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s7w12">
@@ -1246,7 +1246,7 @@
 <form>CEETEX</form>
 <tag>
 <AM lemma="CEETEX_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEETEX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEETEX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s9w19">
@@ -2044,7 +2044,7 @@
 <tag>
 <AM lemma="RM_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s14w19">

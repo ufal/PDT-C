@@ -21,7 +21,7 @@
 <form>Al</form>
 <tag>
 <AM lemma="Al-3_;Y_^(Al_Gore_apod._jm.)" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Al-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Al-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Al-77" src="manual">F%-------------</AM>
 </tag>
 </m>

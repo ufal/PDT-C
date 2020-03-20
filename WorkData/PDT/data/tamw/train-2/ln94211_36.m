@@ -1272,7 +1272,7 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-2_:B_;b_,t_^(Cash_Deposit)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-36-p4s2w11">

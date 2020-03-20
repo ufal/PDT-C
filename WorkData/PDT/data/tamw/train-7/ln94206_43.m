@@ -404,7 +404,7 @@
 <form>SOH</form>
 <tag>
 <AM lemma="Soho_;G" src="orig">NNNP2-----A----</AM>
-<AM lemma="SOH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s2w9">
@@ -524,7 +524,7 @@
 <AM lemma="Reo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="REO_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="REO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="REO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s2w22">
@@ -544,7 +544,7 @@
 <tag>
 <AM lemma="RWE_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="RWE_:B_;K_,t" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="RWE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RWE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s2w24">

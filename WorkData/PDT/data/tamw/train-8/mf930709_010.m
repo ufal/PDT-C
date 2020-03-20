@@ -1736,7 +1736,7 @@
 <form>IVVM</form>
 <tag>
 <AM lemma="IVVM_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IVVM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IVVM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-010-p1s13w15">

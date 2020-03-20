@@ -61,7 +61,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p1s1w7">
@@ -140,7 +140,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p2s1Bw3">
@@ -449,7 +449,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p2s2w17">
@@ -684,7 +684,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p3s1w21">
@@ -1211,7 +1211,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p6s1w4">
@@ -1464,7 +1464,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_:B_;K_,t_^(United_States_Agency_for_Inter._Devel." src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USAID-88_;K_,t_^(United_States_Agency_for_Inter._Devel." src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p7s1w6">
@@ -1725,7 +1725,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p8s1w4">

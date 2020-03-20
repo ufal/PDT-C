@@ -768,7 +768,7 @@
 <AM lemma="OZ-4_:B_^(orientační_závod)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="oz-1_:B_,t_^(jednotka_hmotnosti_&quot;unce&quot;)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OZ-5_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="OZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-083-p3s6w15">
@@ -3261,7 +3261,7 @@
 <form>DM</form>
 <tag>
 <AM lemma="DM-7_:B_;U_,t_^(diabetes_mellitus)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-083-p5s1w27">
@@ -4084,7 +4084,7 @@
 <AM lemma="OZ-4_:B_^(orientační_závod)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="oz-1_:B_,t_^(jednotka_hmotnosti_&quot;unce&quot;)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OZ-5_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="OZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-083-p5s5w9">

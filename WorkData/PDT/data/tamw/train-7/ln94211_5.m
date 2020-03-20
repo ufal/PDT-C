@@ -3441,7 +3441,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p6s3w30">
@@ -3550,7 +3550,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p6s4w13">
@@ -3561,7 +3561,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p6s4w14">
@@ -3669,7 +3669,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s1w2">
@@ -3784,7 +3784,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s1w16">
@@ -3795,7 +3795,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s1w17">
@@ -4032,7 +4032,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s3w2">
@@ -4043,7 +4043,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s3w3">
@@ -4142,7 +4142,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s3w15">
@@ -4161,7 +4161,7 @@
 <form>XT</form>
 <tag>
 <AM lemma="XT_:B_;R" src="orig">NNNXX-----A---8</AM>
-<AM lemma="XT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s3w17">
@@ -4204,7 +4204,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s3w22">
@@ -4227,7 +4227,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s3w24">
@@ -4272,7 +4272,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s4w2">
@@ -4283,7 +4283,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s4w3">
@@ -4306,7 +4306,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s4w5">
@@ -4592,7 +4592,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p8s1w15">
@@ -4659,7 +4659,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p8s1w23">
@@ -4871,7 +4871,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p8s4w5">
@@ -5100,7 +5100,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p8s5w16">
@@ -5111,7 +5111,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p8s5w17">
@@ -5170,7 +5170,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p8s5w24">
@@ -5503,7 +5503,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p9s2w15">
@@ -5564,7 +5564,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s1w4">
@@ -5896,7 +5896,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s2w17">
@@ -5975,7 +5975,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s2w26">
@@ -6040,7 +6040,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s3w2">

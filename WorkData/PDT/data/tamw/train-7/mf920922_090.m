@@ -213,7 +213,7 @@
 <form>WIP</form>
 <tag>
 <AM lemma="WIP-1_:B_;K_,t_^(Wirtschaftspartai)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WIP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WIP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-090-p1s1Bw18">
@@ -962,7 +962,7 @@
 <AM lemma="mountain_:B_,t" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mountain_:B_,t_,x" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="MT_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-090-p1s4w25">

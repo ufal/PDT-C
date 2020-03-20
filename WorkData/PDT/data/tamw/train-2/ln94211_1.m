@@ -138,7 +138,7 @@
 <form>GIS</form>
 <tag>
 <AM lemma="GIS-1_:B_^(geografický_informační_systém)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="GIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p2s1w13">
@@ -367,7 +367,7 @@
 <form>GIS</form>
 <tag>
 <AM lemma="GIS-1_:B_^(geografický_informační_systém)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="GIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p2s2w12">
@@ -839,7 +839,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p3s4w16">
@@ -858,7 +858,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p3s4w18">
@@ -1773,7 +1773,7 @@
 <form>PCD</form>
 <tag>
 <AM lemma="PCD_:B_;R" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PCD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p4s2w21">
@@ -3044,7 +3044,7 @@
 <form>SWS</form>
 <tag>
 <AM lemma="SWS_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SWS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SWS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p6s1w2">
@@ -3139,7 +3139,7 @@
 <form>ROM</form>
 <tag>
 <AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ROM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ROM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p6s1w12">
@@ -3368,7 +3368,7 @@
 <AM lemma="PX_:B_;R" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PX_:B_^(index)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="px_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p6s3w7">
@@ -3395,7 +3395,7 @@
 <form>CH</form>
 <tag>
 <AM lemma="ch-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="CH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p6s3w10">

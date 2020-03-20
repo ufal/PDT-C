@@ -1328,7 +1328,7 @@
 <form>ETS</form>
 <tag>
 <AM lemma="ETS-1_:B_;K_,t_^(Educational_Testing_Service)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ETS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ETS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-002-p7s1w5">

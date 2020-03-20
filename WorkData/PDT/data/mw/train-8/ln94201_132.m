@@ -1613,7 +1613,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-132-p3s5w5">
@@ -3277,7 +3277,7 @@
 <form>GB</form>
 <tag>
 <AM lemma="gigabyte_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-132-p5s5w10">

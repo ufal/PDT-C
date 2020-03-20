@@ -1841,7 +1841,7 @@
 <form>ALR</form>
 <tag>
 <AM lemma="ALR-2_:B_;K_,t_^(Advanced_Logic_Research)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ALR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ALR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-027-p4s8w8">
@@ -3173,7 +3173,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-027-p8s1Aw10">
@@ -3210,7 +3210,7 @@
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-027-p8s1Aw12">
@@ -3229,7 +3229,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-027-p8s1Aw14">
@@ -4715,7 +4715,7 @@
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="PC-1_:B_;c_,t_^(personal_computer)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="parsek_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-027-p9s3w3">

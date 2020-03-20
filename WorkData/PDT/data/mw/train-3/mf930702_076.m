@@ -63,7 +63,7 @@
 <form>SKP</form>
 <tag>
 <AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-076-p1s2w4">
@@ -262,7 +262,7 @@
 <form>SKP</form>
 <tag>
 <AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-076-p1s4w10">

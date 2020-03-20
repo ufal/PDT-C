@@ -1888,7 +1888,7 @@
 <AM lemma="CS-2_:B_,t_^(Computer_Science)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="cesium_:B_;H" src="auto">NNNXX-----A---8</AM>
 <AM lemma="cirrostratus_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s12w3">
@@ -2165,7 +2165,7 @@
 <form>BESO</form>
 <tag>
 <AM lemma="Beso_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="BESO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BESO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s14w8">

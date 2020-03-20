@@ -4206,7 +4206,7 @@
 <form>MSF</form>
 <tag>
 <AM lemma="MSF_:B_;K_^(Manažerský_svazový_fond)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MSF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

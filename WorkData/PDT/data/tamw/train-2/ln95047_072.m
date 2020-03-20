@@ -207,7 +207,7 @@
 <form>NPT</form>
 <tag>
 <AM lemma="NPT-1_:B_;R_,t_^(Nonproliferation_Treaty)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-072-p2s1w24">
@@ -420,7 +420,7 @@
 <form>NPT</form>
 <tag>
 <AM lemma="NPT-1_:B_;R_,t_^(Nonproliferation_Treaty)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-072-p2s2w13">
@@ -960,7 +960,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-072-p4s1w6">
@@ -1075,7 +1075,7 @@
 <form>KSÚ</form>
 <tag>
 <AM lemma="KSÚ_:B_;K_,t_^(slovenská_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSÚ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-072-p4s1w20">
@@ -1206,7 +1206,7 @@
 <form>KDH</form>
 <tag>
 <AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-072-p4s1w37">
@@ -3030,7 +3030,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-072-p8s3w13">

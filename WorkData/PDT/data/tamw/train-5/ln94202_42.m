@@ -481,7 +481,7 @@
 <AM lemma="OP-2_:B_;K_^(občanská_platforma)" src="auto" recommended="1">NNFSX-----A---8</AM>
 <AM lemma="op" src="auto">NNMS1-----A----</AM>
 <AM lemma="OP_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="OP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-42-p1s3w8">

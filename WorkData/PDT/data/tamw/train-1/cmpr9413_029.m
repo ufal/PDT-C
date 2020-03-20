@@ -4340,7 +4340,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
-<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-029-p12s1w17">

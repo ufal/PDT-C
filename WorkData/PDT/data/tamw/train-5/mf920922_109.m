@@ -592,7 +592,7 @@
 <tag>
 <AM lemma="TVŠ_;R" src="orig">NNIXX-----A---8</AM>
 <AM lemma="TVŠ_:B_;R_^(Televizní_vysílání_pro_školy)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="TVŠ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TVŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -893,7 +893,7 @@
 <form>ČTV</form>
 <tag>
 <AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -948,7 +948,7 @@
 <form>BVV</form>
 <tag>
 <AM lemma="BVV_:B_;K" src="orig">NNIPX-----A---8</AM>
-<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1193,7 +1193,7 @@
 <form>ČTV</form>
 <tag>
 <AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1242,7 +1242,7 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="BBC_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1626,7 +1626,7 @@
 <AM lemma="MCM`1900" src="orig">C}-------------</AM>
 <AM lemma="MCM-2_:B_,t_^(multichip_module)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

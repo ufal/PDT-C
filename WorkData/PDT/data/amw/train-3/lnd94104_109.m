@@ -67,7 +67,7 @@
 <form>IIHF</form>
 <tag>
 <AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IIHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s2Aw2">
@@ -401,7 +401,7 @@
 <form>IIHF</form>
 <tag>
 <AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IIHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s2Dw23">
@@ -526,7 +526,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="orig">C}-------------</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s3w6">
@@ -953,7 +953,7 @@
 <form>NOV</form>
 <tag>
 <AM lemma="Nova_;K_^(televize)" src="orig">NNFP2-----A----</AM>
-<AM lemma="NOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s4w50">
@@ -1577,7 +1577,7 @@
 <form>IIHF</form>
 <tag>
 <AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IIHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s8w5">
@@ -2561,7 +2561,7 @@
 <form>IIHF</form>
 <tag>
 <AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IIHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s11Bw5">
@@ -2952,7 +2952,7 @@
 <form>IIHF</form>
 <tag>
 <AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IIHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s13Bw7">

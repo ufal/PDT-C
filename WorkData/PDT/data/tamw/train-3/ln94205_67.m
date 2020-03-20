@@ -202,7 +202,7 @@
 <tag>
 <AM lemma="FTV_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FTV_:B_;K_^(Fashion_TV)" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="FTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-67-p2s1Bw15">
@@ -662,7 +662,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-67-p2s5w18">
@@ -1229,7 +1229,7 @@
 <tag>
 <AM lemma="FTV_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FTV_:B_;K_^(Fashion_TV)" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="FTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-67-p3s3w3">
@@ -1636,7 +1636,7 @@
 <AM lemma="koncernový_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="K-8_:B" src="manual">NNNXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-67-p3s6w26">

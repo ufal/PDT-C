@@ -314,7 +314,7 @@
 <form>AÚV</form>
 <tag>
 <AM lemma="AÚV_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-23-p2s7w13">
@@ -465,7 +465,7 @@
 <form>AÚV</form>
 <tag>
 <AM lemma="AÚV_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-23-p2s8w12">
@@ -549,7 +549,7 @@
 <form>BCPP</form>
 <tag>
 <AM lemma="BCPP-1_:B_;K_;b_^(Burza_cenných_papírů_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BCPP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BCPP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-23-p2s9w3">
@@ -568,7 +568,7 @@
 <form>AÚV</form>
 <tag>
 <AM lemma="AÚV_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-23-p2s9w5">

@@ -201,7 +201,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-093-p6s1w3">
@@ -392,7 +392,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-093-p12s1w3">
@@ -691,7 +691,7 @@
 <form>ČST</form>
 <tag>
 <AM lemma="ČST-1_:B_;K_^(Československá_televize)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČST-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1809,7 +1809,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1920,7 +1920,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="oko" src="orig">NNNP2-----A----</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1950,7 +1950,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2083,7 +2083,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2170,7 +2170,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2270,7 +2270,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2491,7 +2491,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2523,7 +2523,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="oko" src="orig">NNNP2-----A----</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2696,7 +2696,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2794,7 +2794,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

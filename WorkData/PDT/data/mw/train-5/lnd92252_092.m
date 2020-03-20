@@ -325,7 +325,7 @@
 <form>USK</form>
 <tag>
 <AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p3s3w14">
@@ -741,7 +741,7 @@
 <form>KPS</form>
 <tag>
 <AM lemma="KPS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="KPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w41">
@@ -1236,7 +1236,7 @@
 <form>USK</form>
 <tag>
 <AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w102">
@@ -1527,7 +1527,7 @@
 <form>KPS</form>
 <tag>
 <AM lemma="KPS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="KPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w138">
@@ -1753,7 +1753,7 @@
 <form>USK</form>
 <tag>
 <AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p6s1w4">
@@ -1935,7 +1935,7 @@
 <form>VSS</form>
 <tag>
 <AM lemma="VSS_:B_;K_^(Východoslov._strojárne)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="VSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p9s1w4">
@@ -2067,7 +2067,7 @@
 <form>KPS</form>
 <tag>
 <AM lemma="KPS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="KPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p11s1w4">
@@ -2444,7 +2444,7 @@
 <tag>
 <AM lemma="AGB_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGB-1_:B_;K_;b_^(Agrobanka)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="AGB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AGB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p17s1w5">

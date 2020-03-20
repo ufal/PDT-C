@@ -3787,7 +3787,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-039-p6s3w30">
@@ -4867,7 +4867,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-039-p8s1w4">
@@ -4886,7 +4886,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-039-p8s1w6">
@@ -5108,7 +5108,7 @@
 <AM lemma="trans" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trans" src="auto">NNIS4-----A----</AM>
 <AM lemma="trans-3_:B_,t" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Trans-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Trans-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-039-p8s5w2">
@@ -5132,7 +5132,7 @@
 <AM lemma="Linn_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Linn_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="linn_:B_,t" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Linn-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Linn-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-039-p8s6w2">
@@ -5169,7 +5169,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-039-p9s1w4">
@@ -5212,7 +5212,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-039-p9s1w9">

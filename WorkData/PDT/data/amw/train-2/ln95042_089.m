@@ -325,7 +325,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-089-p2s3w12">
@@ -404,7 +404,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-089-p2s3w21">
@@ -1579,7 +1579,7 @@
 <AM lemma="spást" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="spást" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="SPAS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SPAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-089-p6s3w2">
@@ -1791,7 +1791,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-089-p7s1w8">
@@ -1826,7 +1826,7 @@
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto">PDXXX---------8</AM>
 <AM lemma="T-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-089-p7s1w10">
@@ -1951,7 +1951,7 @@
 <AM lemma="MCI-3_:B_^(telefonní_společnost)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MCI-2_:B_,t_^(media_control_interface)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="MCI-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-089-p7s1w25">
@@ -2000,7 +2000,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-089-p7s2w3">
@@ -2035,7 +2035,7 @@
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto">PDXXX---------8</AM>
 <AM lemma="T-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-089-p7s2w5">

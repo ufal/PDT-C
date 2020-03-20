@@ -1054,7 +1054,7 @@
 <AM lemma="ECK_:B_;K_^(Energetické_centrum_v_Kladně)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Eck_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="ECK_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ECK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p4s1w17">
@@ -1171,7 +1171,7 @@
 <AM lemma="ECK_:B_;K_^(Energetické_centrum_v_Kladně)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Eck_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="ECK_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ECK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p4s1w31">

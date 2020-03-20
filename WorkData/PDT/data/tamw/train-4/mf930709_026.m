@@ -31,7 +31,7 @@
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="IPF_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-026-p1s1w3">
@@ -412,7 +412,7 @@
 <form>AISIF</form>
 <tag>
 <AM lemma="AISIF_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AISIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AISIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-026-p2s2w16">

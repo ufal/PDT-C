@@ -112,7 +112,7 @@
 <AM lemma="IFS-3_:B_;K_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-4_:B_,t_^(installable_file_system)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IFS-5_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-058-p4s1Bw6">
@@ -655,7 +655,7 @@
 <AM lemma="IFS-3_:B_;K_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-4_:B_,t_^(installable_file_system)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IFS-5_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-058-p4s4Bw3">

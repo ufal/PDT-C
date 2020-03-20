@@ -1283,7 +1283,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="WC-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="WC_:B_^(záchod)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

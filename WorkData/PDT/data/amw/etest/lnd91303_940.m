@@ -313,7 +313,7 @@
 <form>PNS</form>
 <tag>
 <AM lemma="PNS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-940-p3s2Bw11">
@@ -699,7 +699,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-940-p3s4w11">
@@ -1069,7 +1069,7 @@
 <form>PNS</form>
 <tag>
 <AM lemma="PNS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-940-p3s7w5">

@@ -441,7 +441,7 @@
 <form>HC</form>
 <tag>
 <AM lemma="HC-1_:B_^(hockey_club)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-129-p2s1Cw31">
@@ -1623,7 +1623,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-129-p4s2w18">
@@ -2819,7 +2819,7 @@
 <form>HC</form>
 <tag>
 <AM lemma="HC-1_:B_^(hockey_club)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-129-p4s10w9">

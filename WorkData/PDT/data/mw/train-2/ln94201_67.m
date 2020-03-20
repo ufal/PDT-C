@@ -300,7 +300,7 @@
 <form>ANSA</form>
 <tag>
 <AM lemma="ANSA-1_:B_;K_,t_^(Agenzia_Nazionale_Stampa_Associata)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ANSA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ANSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-67-p2s2w10">

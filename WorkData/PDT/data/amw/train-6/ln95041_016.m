@@ -182,7 +182,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p2s1Bw12">
@@ -766,7 +766,7 @@
 <form>KUSAM</form>
 <tag>
 <AM lemma="KUSAM_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="KUSAM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KUSAM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p3s1w45">
@@ -1113,7 +1113,7 @@
 <form>NKÚ</form>
 <tag>
 <AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NKÚ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NKÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p4s1w36">
@@ -1592,7 +1592,7 @@
 <form>KUSAM</form>
 <tag>
 <AM lemma="KUSAM_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="KUSAM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KUSAM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p4s4w18">
@@ -1691,7 +1691,7 @@
 <form>KUSAM</form>
 <tag>
 <AM lemma="KUSAM_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="KUSAM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KUSAM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p4s4w30">
@@ -2632,7 +2632,7 @@
 <AM lemma="Oda-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="od-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="od-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="OD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p5s4w16">
@@ -2773,7 +2773,7 @@
 <form>SPN</form>
 <tag>
 <AM lemma="SPN_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SPN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p6s1w4">

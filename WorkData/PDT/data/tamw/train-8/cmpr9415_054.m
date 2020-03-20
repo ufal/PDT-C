@@ -93,7 +93,7 @@
 <form>CHF</form>
 <tag>
 <AM lemma="CHF_:B_;b_^(Švýc._frank,_mez._zkr.)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CHF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-054-p2s1w11">

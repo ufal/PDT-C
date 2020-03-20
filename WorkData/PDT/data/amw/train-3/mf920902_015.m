@@ -1154,7 +1154,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-015-p3s6w17">
@@ -1165,7 +1165,7 @@
 <form>BSS</form>
 <tag>
 <AM lemma="BSS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-015-p3s6w18">
@@ -1208,7 +1208,7 @@
 <form>VTJ</form>
 <tag>
 <AM lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VTJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VTJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-015-p3s6w23">

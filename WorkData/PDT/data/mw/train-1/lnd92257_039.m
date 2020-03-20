@@ -2639,7 +2639,7 @@
 <form>DPG</form>
 <tag>
 <AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DPG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p6s1w35">
@@ -3048,7 +3048,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p6s2w47">
@@ -3117,7 +3117,7 @@
 <form>DPG</form>
 <tag>
 <AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DPG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p6s3w3">
@@ -4101,7 +4101,7 @@
 <form>DPG</form>
 <tag>
 <AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DPG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p7s2w6">
@@ -5341,7 +5341,7 @@
 <form>DPG</form>
 <tag>
 <AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DPG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p8s5w12">
@@ -7199,7 +7199,7 @@
 <form>DGP</form>
 <tag>
 <AM lemma="DPG-2_:B_,t_^(Defence_Policy_Guidance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DGP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DGP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s2w8">
@@ -7696,7 +7696,7 @@
 <form>DGP</form>
 <tag>
 <AM lemma="DPG-2_:B_,t_^(Defence_Policy_Guidance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DGP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DGP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s4w4">
@@ -9083,7 +9083,7 @@
 <form>DPG</form>
 <tag>
 <AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DPG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p12s1w3">
@@ -10262,7 +10262,7 @@
 <form>DPG</form>
 <tag>
 <AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DPG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p13s3w2">

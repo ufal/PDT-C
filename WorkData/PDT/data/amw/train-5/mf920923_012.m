@@ -121,7 +121,7 @@
 <form>MICE</form>
 <tag>
 <AM lemma="MICE_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MICE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MICE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-012-p1s1Cw9">
@@ -367,7 +367,7 @@
 <form>MICE</form>
 <tag>
 <AM lemma="MICE_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MICE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MICE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-012-p1s2w4">
@@ -599,7 +599,7 @@
 <form>MICE</form>
 <tag>
 <AM lemma="MICE_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MICE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MICE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-012-p1s3w6">

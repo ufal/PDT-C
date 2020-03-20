@@ -49,7 +49,7 @@
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 <AM lemma="JE_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="JE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-063-p1s1w5">
@@ -195,7 +195,7 @@
 <form>BERD</form>
 <tag>
 <AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-063-p2s1Bw15">
@@ -557,7 +557,7 @@
 <form>BERD</form>
 <tag>
 <AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-063-p2s3w9">

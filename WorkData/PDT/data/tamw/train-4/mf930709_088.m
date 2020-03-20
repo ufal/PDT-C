@@ -161,7 +161,7 @@
 <AM lemma="překážka_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="před-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="příklad_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="př-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="př-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-088-p1s1w18">

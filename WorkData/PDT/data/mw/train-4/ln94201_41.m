@@ -2558,7 +2558,7 @@
 <form>EPA</form>
 <tag>
 <AM lemma="EPA-1_:B_;K_,t_^(Environmental_Protection_Agency)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EPA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-41-p5s2w13">

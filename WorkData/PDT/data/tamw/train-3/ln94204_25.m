@@ -510,7 +510,7 @@
 <form>Sk</form>
 <tag>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-25-p3s1w23">
@@ -1170,7 +1170,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-25-p4s2w30">

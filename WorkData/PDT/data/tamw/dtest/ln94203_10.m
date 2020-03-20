@@ -609,7 +609,7 @@
 <AM lemma="Lipo_;R" src="auto">NNNS2-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS1-----A---8</AM>
-<AM lemma="Lipa-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lipa-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Lipa_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1657,7 +1657,7 @@
 <AM lemma="Lipo_;R" src="auto">NNNS2-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS1-----A---8</AM>
-<AM lemma="Lipa-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lipa-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Lipa_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2025,7 +2025,7 @@
 <form>SWF</form>
 <tag>
 <AM lemma="SWF_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SWF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SWF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p5s3w22">
@@ -2120,7 +2120,7 @@
 <AM lemma="Lipa_:B_;K_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS2-----A----</AM>
 <AM lemma="Lipo_;R" src="auto" recommended="1">NNNP7-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS2-----A---8</AM>
-<AM lemma="Lipy-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lipy-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Lipa_;K" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
@@ -3282,7 +3282,7 @@
 <AM lemma="Lipo_;R" src="auto">NNNP5-----A----</AM>
 <AM lemma="Lipo_;R" src="auto">NNNS2-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS1-----A---8</AM>
-<AM lemma="Lipa-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lipa-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Lipa_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

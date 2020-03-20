@@ -447,7 +447,7 @@
 <form>HUF</form>
 <tag>
 <AM lemma="HUF_:B_;b_^(maď._forint)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-127-p3s1w10">
@@ -482,7 +482,7 @@
 <form>ATS</form>
 <tag>
 <AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ATS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-127-p3s1w14">
@@ -1475,7 +1475,7 @@
 <form>HUF</form>
 <tag>
 <AM lemma="HUF_:B_;b_^(maď._forint)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-127-p5s1w20">

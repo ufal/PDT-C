@@ -148,7 +148,7 @@
 <form>SDP</form>
 <tag>
 <AM lemma="SDP-1_:B_;K_,t_^(Social_Democratic_Party)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-75-p2s1Bw10">
@@ -557,7 +557,7 @@
 <form>SPD</form>
 <tag>
 <AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-75-p2s4w6">
@@ -755,7 +755,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-75-p2s4w30">

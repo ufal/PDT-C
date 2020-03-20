@@ -29,7 +29,7 @@
 <form>LUNSZ</form>
 <tag>
 <AM lemma="LUNSZ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LUNSZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LUNSZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-078-p1s1w3">
@@ -215,7 +215,7 @@
 <form>LUNSZ</form>
 <tag>
 <AM lemma="LUNSZ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LUNSZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LUNSZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw15">
@@ -284,7 +284,7 @@
 <AM lemma="ÚV_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw23">

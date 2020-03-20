@@ -536,8 +536,8 @@
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="Rema_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="REM_:B-88" src="manual">NNXXX-----A---8</AM>
-<AM lemma="REM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="REM-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="REM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p2s5w18">
@@ -1585,8 +1585,8 @@
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto">NNISX-----A---8</AM>
 <AM lemma="Rema_;K" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="REM_:B-88" src="manual">NNXXX-----A---8</AM>
-<AM lemma="REM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="REM-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="REM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p3s2w17">
@@ -1868,8 +1868,8 @@
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="Rema_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="REM_:B-88" src="manual">NNXXX-----A---8</AM>
-<AM lemma="REM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="REM-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="REM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p4s1w33">
@@ -2285,7 +2285,7 @@
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto">NNISX-----A---8</AM>
 <AM lemma="Rema_;K" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="REM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="REM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p4s3w20">

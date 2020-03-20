@@ -179,7 +179,7 @@
 <AM lemma="RPF-2_:B_;K_,t_^(Rwandan_Patriotic_Front)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="RPF-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="RPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-80-p2s1Bw11">
@@ -338,7 +338,7 @@
 <AM lemma="RPF-2_:B_;K_,t_^(Rwandan_Patriotic_Front)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="RPF-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="RPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-80-p2s2w3">

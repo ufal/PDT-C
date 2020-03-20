@@ -53,7 +53,7 @@
 <form>SSM</form>
 <tag>
 <AM lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SSM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p1s1w6">
@@ -316,7 +316,7 @@
 <form>AGM</form>
 <tag>
 <AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p2s1Bw28">
@@ -619,7 +619,7 @@
 <form>AGM</form>
 <tag>
 <AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p3s1w29">
@@ -819,7 +819,7 @@
 <form>AGM</form>
 <tag>
 <AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p3s2w24">
@@ -978,7 +978,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p4s1w5">
@@ -1096,7 +1096,7 @@
 <form>AGM</form>
 <tag>
 <AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p4s1w19">
@@ -1589,7 +1589,7 @@
 <form>AGM</form>
 <tag>
 <AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p4s3w28">
@@ -1626,7 +1626,7 @@
 <form>AGM</form>
 <tag>
 <AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p5s1w4">
@@ -1763,7 +1763,7 @@
 <form>AGM</form>
 <tag>
 <AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p5s2w2">
@@ -1900,7 +1900,7 @@
 <form>AGM</form>
 <tag>
 <AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p5s3w2">
@@ -2028,7 +2028,7 @@
 <form>AGM</form>
 <tag>
 <AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p5s4w7">

@@ -28,7 +28,7 @@
 <AM lemma="hypo" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="HYPO-77" src="manual">F%-------------</AM>
 <AM lemma="Hypo-77" src="manual">F%-------------</AM>
-<AM lemma="HYPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HYPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-040-p1s1w2">
@@ -187,7 +187,7 @@
 <AM lemma="hypo" src="auto">A2--------A----</AM>
 <AM lemma="HYPO-77" src="manual">F%-------------</AM>
 <AM lemma="Hypo-77" src="manual">F%-------------</AM>
-<AM lemma="HYPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HYPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-040-p2s1Bw13">
@@ -894,7 +894,7 @@
 <AM lemma="hypo" src="auto">A2--------A----</AM>
 <AM lemma="HYPO-77" src="manual">F%-------------</AM>
 <AM lemma="Hypo-77" src="manual">F%-------------</AM>
-<AM lemma="HYPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HYPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-040-p4s1w2">

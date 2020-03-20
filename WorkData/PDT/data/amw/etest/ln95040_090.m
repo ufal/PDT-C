@@ -464,7 +464,7 @@
 <form>KCNA</form>
 <tag>
 <AM lemma="KCNA-1_:B_;K_,t_^(Korean_Central_News_Agency)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KCNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KCNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-090-p2s2w10">

@@ -29,7 +29,7 @@
 <form>PLTČ</form>
 <tag>
 <AM lemma="polotučný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="PLTČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PLTČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-025-p1s1w3">
@@ -4135,7 +4135,7 @@
 <form>MOX</form>
 <tag>
 <AM lemma="MOX_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MOX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-025-p51s1w6">
@@ -4469,7 +4469,7 @@
 <form>Tab</form>
 <tag>
 <AM lemma="tabulka_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tab-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tab-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-025-p57s1w2">
@@ -4570,7 +4570,7 @@
 <form>VVER</form>
 <tag>
 <AM lemma="VVER-1_:B_^(tlakovodní_jaderný_reaktor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VVER-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VVER-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-025-p58s1w7">
@@ -4751,7 +4751,7 @@
 <form>VVER</form>
 <tag>
 <AM lemma="VVER-1_:B_^(tlakovodní_jaderný_reaktor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VVER-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VVER-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-025-p58s2w14">
@@ -4778,7 +4778,7 @@
 <form>VVER</form>
 <tag>
 <AM lemma="VVER-1_:B_^(tlakovodní_jaderný_reaktor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VVER-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VVER-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-025-p58s2w17">

@@ -948,7 +948,7 @@
 <form>ANES</form>
 <tag>
 <AM lemma="ANES_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ANES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ANES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p8s1w8">
@@ -1212,7 +1212,7 @@
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
 <AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Ga-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ga-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p10s1w29">
@@ -1232,7 +1232,7 @@
 <tag>
 <AM lemma="Partenkirchen_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
-<AM lemma="Pa-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Pa-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p10s1w31">
@@ -1382,7 +1382,7 @@
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
 <AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Ga-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ga-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p10s3w18">
@@ -1402,7 +1402,7 @@
 <tag>
 <AM lemma="Partenkirchen_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
-<AM lemma="Pa-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Pa-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p10s3w20">

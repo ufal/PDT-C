@@ -3299,7 +3299,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-085-p6s2w7">
@@ -3358,7 +3358,7 @@
 <form>OF</form>
 <tag>
 <AM lemma="OF_:B_;K_;p_^(Občanské_fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-085-p6s2w14">
@@ -3831,7 +3831,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-085-p6s7w3">

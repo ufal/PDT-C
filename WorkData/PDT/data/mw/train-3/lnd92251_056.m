@@ -115,7 +115,7 @@
 <form>OS</form>
 <tag>
 <AM lemma="OS_:B_;R_^(operační_systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-056-p3s2w7">

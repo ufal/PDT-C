@@ -312,7 +312,7 @@
 <form>AISA</form>
 <tag>
 <AM lemma="AISA_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="AISA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-109-p2s2w7">
@@ -1030,7 +1030,7 @@
 <form>AISA</form>
 <tag>
 <AM lemma="AISA_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="AISA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-109-p2s7w5">

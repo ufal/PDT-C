@@ -1598,7 +1598,7 @@
 <form>ÚV</form>
 <tag>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-032-p3s2w24">
@@ -1609,7 +1609,7 @@
 <form>KSSS</form>
 <tag>
 <AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-032-p3s2w25">

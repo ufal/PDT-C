@@ -787,7 +787,7 @@
 <form>PZT</form>
 <tag>
 <AM lemma="PZT_:B_,t_^(Photo-Zenit-Teleskop)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PZT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PZT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-030-p5s3w4">
@@ -870,7 +870,7 @@
 <form>PZT</form>
 <tag>
 <AM lemma="PZT_:B_,t_^(Photo-Zenit-Teleskop)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PZT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PZT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-030-p5s3w14">
@@ -1371,7 +1371,7 @@
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>
-<AM lemma="MILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MILO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-030-p7s1w9">
@@ -2009,7 +2009,7 @@
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>
-<AM lemma="MILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MILO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-030-p7s6w8">

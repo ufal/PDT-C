@@ -71,7 +71,7 @@
 <AM lemma="MI_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
 <AM lemma="MI_;R^(vrtulník)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Mi-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mi-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-011-p1s1w8">

@@ -240,7 +240,7 @@
 <tag>
 <AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ATP-1_:B_;K_^(Prof._sv._asociace_tenisových_hráčů)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="ATP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ATP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-156-p2s1Bw16">

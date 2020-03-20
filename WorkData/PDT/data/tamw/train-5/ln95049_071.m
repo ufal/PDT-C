@@ -997,7 +997,7 @@
 <form>PDS</form>
 <tag>
 <AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-071-p4s1w8">
@@ -2677,7 +2677,7 @@
 <form>URNG</form>
 <tag>
 <AM lemma="URNG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="URNG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="URNG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-071-p7s2w15">
@@ -4059,7 +4059,7 @@
 <form>NTV</form>
 <tag>
 <AM lemma="NTV_:B_;K_^(tv)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-071-p10s3w16">

@@ -454,7 +454,7 @@
 <AM lemma="Ing-2_:B_^(inženýrka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Inga_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="ING_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ING-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ING-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p2s2w13">
@@ -951,7 +951,7 @@
 <tag>
 <AM lemma="B-4_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="B-77" src="manual">F%-------------</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w15">
@@ -970,7 +970,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w17">
@@ -1002,7 +1002,7 @@
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="g-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="G-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w19">

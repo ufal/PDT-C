@@ -528,7 +528,7 @@
 <form>OAJ</form>
 <tag>
 <AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OAJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OAJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-142-p3s1w18">
@@ -653,7 +653,7 @@
 <form>OAJ</form>
 <tag>
 <AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OAJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OAJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-142-p3s2w4">

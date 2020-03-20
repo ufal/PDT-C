@@ -848,7 +848,7 @@
 <form>CIG</form>
 <tag>
 <AM lemma="CIG-2_:B_;K_,t_^(Commercial_International_Group)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p7s1w2">
@@ -1131,7 +1131,7 @@
 <form>CIG</form>
 <tag>
 <AM lemma="CIG-2_:B_;K_,t_^(Commercial_International_Group)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p7s3w11">
@@ -1470,7 +1470,7 @@
 <form>CIG</form>
 <tag>
 <AM lemma="CIG-2_:B_;K_,t_^(Commercial_International_Group)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p8s2w10">
@@ -1976,7 +1976,7 @@
 <form>CIG</form>
 <tag>
 <AM lemma="CIG-2_:B_;K_,t_^(Commercial_International_Group)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p10s1w7">
@@ -2221,7 +2221,7 @@
 <form>CIG</form>
 <tag>
 <AM lemma="CIG-2_:B_;K_,t_^(Commercial_International_Group)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p10s2w9">
@@ -2444,7 +2444,7 @@
 <form>CIG</form>
 <tag>
 <AM lemma="CIG-2_:B_;K_,t_^(Commercial_International_Group)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p11s2w12">
@@ -3105,7 +3105,7 @@
 <form>CIG</form>
 <tag>
 <AM lemma="CIG-2_:B_;K_,t_^(Commercial_International_Group)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p13s1w2">
@@ -3449,7 +3449,7 @@
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="koncernový_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p13s3w18">
@@ -3532,7 +3532,7 @@
 <form>CIG</form>
 <tag>
 <AM lemma="CIG-2_:B_;K_,t_^(Commercial_International_Group)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p14s1w8">
@@ -4411,7 +4411,7 @@
 <form>CIG</form>
 <tag>
 <AM lemma="CIG-2_:B_;K_,t_^(Commercial_International_Group)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p18s3w2">

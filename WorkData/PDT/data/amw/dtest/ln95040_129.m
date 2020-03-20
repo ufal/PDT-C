@@ -122,7 +122,7 @@
 <tag>
 <AM lemma="PZU-1_:B_;K_,t_^(Polskie_Stronnictvo_Ludowe)" src="orig">NNFXX-----A----</AM>
 <AM lemma="PSL-1_:B_;K_,t_^(Polskie_Stronnictvo_Ludowe)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="PSL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s1Bw7">
@@ -181,7 +181,7 @@
 <form>SLD</form>
 <tag>
 <AM lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SLD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s1Bw14">
@@ -536,7 +536,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s2w22">
@@ -669,7 +669,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s3w7">
@@ -797,7 +797,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s4w10">
@@ -833,7 +833,7 @@
 <tag>
 <AM lemma="PZU-1_:B_;K_,t_^(Polskie_Stronnictvo_Ludowe)" src="orig">NNFXX-----A----</AM>
 <AM lemma="PSL-1_:B_;K_,t_^(Polskie_Stronnictvo_Ludowe)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="PSL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s4w14">

@@ -96,8 +96,8 @@
 <tag>
 <AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="BMW-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BMW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p1s2w7">
@@ -838,8 +838,8 @@
 <tag>
 <AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="BMW-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BMW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p3s1w44">
@@ -2805,7 +2805,7 @@
 <tag>
 <AM lemma="hifi" src="orig">AAXXX----1A----</AM>
 <AM lemma="hifi_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="hifi-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="hifi-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p8s2w8">
@@ -4500,8 +4500,8 @@
 <tag>
 <AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="BMW-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BMW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p12s1w15">
@@ -5097,8 +5097,8 @@
 <tag>
 <AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="BMW-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BMW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p14s1w24">
@@ -5210,8 +5210,8 @@
 <tag>
 <AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="BMW-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BMW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p14s3w5">

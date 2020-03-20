@@ -3678,7 +3678,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-015-p2s18w9">
@@ -3771,7 +3771,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-015-p2s19w2">
@@ -4075,7 +4075,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-015-p2s21w14">
@@ -4126,7 +4126,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-015-p2s21w20">
@@ -4781,7 +4781,7 @@
 <form>air</form>
 <tag>
 <AM lemma="air_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="air-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="air-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4825,7 +4825,7 @@
 <form>Trading</form>
 <tag>
 <AM lemma="Trading_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Trading-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Trading-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Trading-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

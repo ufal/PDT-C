@@ -97,7 +97,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s1Bw4">
@@ -116,7 +116,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s1Bw6">
@@ -135,7 +135,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s1Bw8">
@@ -154,7 +154,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s1Bw10">
@@ -456,7 +456,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s2Aw23">
@@ -475,7 +475,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s2Aw25">
@@ -494,7 +494,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s2Aw27">
@@ -513,7 +513,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s2Aw29">
@@ -606,7 +606,7 @@
 <form>TOS</form>
 <tag>
 <AM lemma="TOS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s2Bw11">

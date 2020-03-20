@@ -1642,7 +1642,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RVHP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p6s3w25">
@@ -5655,7 +5655,7 @@
 <AM lemma="GMP_:B_,t_^(certifikát_správné_výrobní_praxe)" src="orig">NNXXX-----A----</AM>
 <AM lemma="GMP-1_:B_,t_^(gouverneur_militaire_de_Paris)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="guanosinmonofosfát_:B_;H" src="auto">NNIXX-----A---8</AM>
-<AM lemma="GMP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GMP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p13s7w20">

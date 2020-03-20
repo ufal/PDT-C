@@ -1972,7 +1972,7 @@
 <form>BFLM</form>
 <tag>
 <AM lemma="BFLM_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BFLM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BFLM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-033-p4s4w27">
@@ -1991,7 +1991,7 @@
 <form>PSVZ</form>
 <tag>
 <AM lemma="PSVZ_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PSVZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSVZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-033-p4s4w29">
@@ -2294,7 +2294,7 @@
 <form>BFLM</form>
 <tag>
 <AM lemma="BFLM_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BFLM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BFLM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-033-p5s1w4">
@@ -2313,7 +2313,7 @@
 <form>PSVZ</form>
 <tag>
 <AM lemma="PSVZ_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PSVZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSVZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-033-p5s1w6">

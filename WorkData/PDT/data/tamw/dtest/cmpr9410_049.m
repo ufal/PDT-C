@@ -5019,7 +5019,7 @@
 <form>SO</form>
 <tag>
 <AM lemma="SO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-049-p21s1w3">
@@ -6891,7 +6891,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-049-p25s8w10">
@@ -7085,7 +7085,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-049-p26s1w8">
@@ -11445,7 +11445,7 @@
 <AM lemma="MST-1_:B_;K_;j_^(Mezinárodní_soudní_tribunál)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mst-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="MST-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MST-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-049-p39s1w8">
@@ -17674,7 +17674,7 @@
 <form>DEM</form>
 <tag>
 <AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-049-p52s10w15">
@@ -18436,7 +18436,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -18517,7 +18517,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -21524,7 +21524,7 @@
 <form>SBD</form>
 <tag>
 <AM lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SBD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-049-p79s2w2">

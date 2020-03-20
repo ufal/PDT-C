@@ -1010,7 +1010,7 @@
 <form>BVV</form>
 <tag>
 <AM lemma="BVV_:B_;K" src="orig">NNIPX-----A---8</AM>
-<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s3w7">

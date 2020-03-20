@@ -1580,7 +1580,7 @@
 <form>ASEA</form>
 <tag>
 <AM lemma="ASEA-1_:B_;K_,t_^(Allmänna_svenska_elektriska_aktiebolaget)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ASEA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ASEA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-041-p5s3w17">
@@ -1599,7 +1599,7 @@
 <form>OTIS</form>
 <tag>
 <AM lemma="Otis_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="OTIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OTIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-041-p5s3w19">

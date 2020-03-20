@@ -103,7 +103,7 @@
 <form>CESTAT</form>
 <tag>
 <AM lemma="CESTAT_:B_;K_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CESTAT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CESTAT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-4-p2s1Aw6">
@@ -122,7 +122,7 @@
 <form>EUROSTAT</form>
 <tag>
 <AM lemma="Eurostat_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="EUROSTAT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EUROSTAT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

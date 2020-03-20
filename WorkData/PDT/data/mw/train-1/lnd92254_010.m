@@ -341,7 +341,7 @@
 <AM lemma="NCC-2_:B_;K_^(švédská_firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="NCC_:B_;K_,t_^(Rada_pro_ochranu_přírody)" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="NCC-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="NCC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NCC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-010-p3s3w10">
@@ -2107,7 +2107,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-010-p5s4w3">

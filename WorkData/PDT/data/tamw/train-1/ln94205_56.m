@@ -493,7 +493,7 @@
 <AM lemma="ČSBS-1_:B_;K_^(Český_svaz_bojovníků_za_svobodu)" src="orig">NNIXX-----A----</AM>
 <AM lemma="ČSBS-1_:B_;K_^(Český_svaz_bojovníkůža_svobodu)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ČSBS-2_:B_;K_^(Českosl._botanická_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČSBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-56-p2s2w12">
@@ -1445,7 +1445,7 @@
 <AM lemma="ČSBS-1_:B_;K_^(Český_svaz_bojovníků_za_svobodu)" src="orig">NNIXX-----A----</AM>
 <AM lemma="ČSBS-1_:B_;K_^(Český_svaz_bojovníkůža_svobodu)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ČSBS-2_:B_;K_^(Českosl._botanická_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČSBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-56-p5s1w3">

@@ -164,7 +164,7 @@
 <form>ber</form>
 <tag>
 <AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ber-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

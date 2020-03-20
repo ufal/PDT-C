@@ -280,7 +280,7 @@
 <form>AB</form>
 <tag>
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p2s1Bw22">
@@ -310,7 +310,7 @@
 <form>AB</form>
 <tag>
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p2s1Bw25">
@@ -868,7 +868,7 @@
 <form>AB</form>
 <tag>
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p4s1w3">
@@ -1168,7 +1168,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p4s2w14">
@@ -1352,7 +1352,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p4s3w16">

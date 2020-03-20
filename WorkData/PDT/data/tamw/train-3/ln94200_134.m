@@ -696,7 +696,7 @@
 <tag>
 <AM lemma="ETC-2_:B_;K_,t_^(European_Translation_Centre)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ETC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ETC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ETC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-134-p2s4w34">
@@ -716,7 +716,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-134-p2s4w36">

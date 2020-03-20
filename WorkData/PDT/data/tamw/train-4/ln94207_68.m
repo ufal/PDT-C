@@ -285,7 +285,7 @@
 <tag>
 <AM lemma="SNG_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNG_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SNG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-68-p2s1Bw19">
@@ -573,7 +573,7 @@
 <tag>
 <AM lemma="SNG_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNG_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SNG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-68-p3s1w27">

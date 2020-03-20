@@ -1600,7 +1600,7 @@
 <form>EGAP</form>
 <tag>
 <AM lemma="EGAP_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="EGAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EGAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-007-p1s15w11">
@@ -1701,7 +1701,7 @@
 <form>EGAP</form>
 <tag>
 <AM lemma="EGAP_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="EGAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EGAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-007-p1s16w5">

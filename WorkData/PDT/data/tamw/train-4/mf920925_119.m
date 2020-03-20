@@ -670,7 +670,7 @@
 <form>EHP</form>
 <tag>
 <AM lemma="EHP-1_:B_^(Evropský_hospodářský_prostor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EHP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-119-p3s2w24">
@@ -1043,7 +1043,7 @@
 <form>EHP</form>
 <tag>
 <AM lemma="EHP-1_:B_^(Evropský_hospodářský_prostor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EHP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-119-p4s3w13">
@@ -1142,7 +1142,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-119-p4s3w25">
@@ -1289,7 +1289,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-119-p4s3w43">
@@ -1422,7 +1422,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-119-p5s1w5">
@@ -1650,7 +1650,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-119-p5s2w18">
@@ -3124,7 +3124,7 @@
 <form>EHP</form>
 <tag>
 <AM lemma="EHP-1_:B_^(Evropský_hospodářský_prostor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EHP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-119-p9s2w8">
@@ -5315,7 +5315,7 @@
 <tag>
 <AM lemma="ECU_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-119-p12s2w27">

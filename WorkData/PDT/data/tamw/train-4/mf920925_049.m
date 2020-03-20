@@ -508,7 +508,7 @@
 <AM lemma="EuroCity_:B_,t_^(železniční_systém)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="elektrocentrála_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-049-p2s4w9">

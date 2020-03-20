@@ -549,7 +549,7 @@
 <form>ÚHA</form>
 <tag>
 <AM lemma="ÚHA-1_:B_;K_^(Útvar_hlavního_architekta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚHA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚHA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-059-p3s4w9">
@@ -1122,7 +1122,7 @@
 <form>ÚHA</form>
 <tag>
 <AM lemma="ÚHA-1_:B_;K_^(Útvar_hlavního_architekta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚHA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚHA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-059-p3s8w8">
@@ -1972,7 +1972,7 @@
 <form>ÚHA</form>
 <tag>
 <AM lemma="ÚHA-1_:B_;K_^(Útvar_hlavního_architekta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚHA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚHA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-059-p5s2w2">
@@ -2860,7 +2860,7 @@
 <form>ÚHA</form>
 <tag>
 <AM lemma="ÚHA-1_:B_;K_^(Útvar_hlavního_architekta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚHA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚHA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-059-p5s5w25">
@@ -3668,7 +3668,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-059-p7s1w4">
@@ -3747,7 +3747,7 @@
 <AM lemma="optimum" src="orig">NNNP2-----A----</AM>
 <AM lemma="OPTIM_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="OPTIM_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="OPTIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPTIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-059-p8s1w4">
@@ -3769,7 +3769,7 @@
 <AM lemma="eko" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="EKO_;B" src="manual">NNXXX-----A----</AM>
 <AM lemma="EKO_;B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EKO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EKO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

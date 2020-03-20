@@ -371,7 +371,7 @@
 <form>LBD</form>
 <tag>
 <AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="LBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p2s3w2">
@@ -608,7 +608,7 @@
 <form>LBD</form>
 <tag>
 <AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="LBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p2s4w6">
@@ -1007,7 +1007,7 @@
 <form>SBD</form>
 <tag>
 <AM lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p2s6w4">
@@ -1350,7 +1350,7 @@
 <form>SBD</form>
 <tag>
 <AM lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p3s1w10">
@@ -1393,7 +1393,7 @@
 <form>SBD</form>
 <tag>
 <AM lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p3s1w15">
@@ -1412,7 +1412,7 @@
 <form>LBD</form>
 <tag>
 <AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="LBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p3s1w17">
@@ -1539,7 +1539,7 @@
 <form>LBD</form>
 <tag>
 <AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="LBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p4s1w5">
@@ -1874,7 +1874,7 @@
 <form>LBD</form>
 <tag>
 <AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="LBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p4s3w12">
@@ -1963,7 +1963,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Kčs-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p4s4w7">
@@ -2436,7 +2436,7 @@
 <form>LBD</form>
 <tag>
 <AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="LBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p5s3w14">
@@ -3026,7 +3026,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p7s1w4">

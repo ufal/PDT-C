@@ -1815,7 +1815,7 @@
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Inc-77" src="manual">F%-------------</AM>
-<AM lemma="Inc-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Inc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w6">

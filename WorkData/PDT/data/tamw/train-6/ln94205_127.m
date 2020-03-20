@@ -2822,7 +2822,7 @@
 <AM lemma="ESV-2_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ESV-1_:B_,t_^(Earth_satellite_vehicle)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ESV-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ESV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ESV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-127-p4s5w18">

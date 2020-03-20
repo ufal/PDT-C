@@ -2095,7 +2095,7 @@
 <form>ČMUS</form>
 <tag>
 <AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČMUS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-085-p5s1w5">

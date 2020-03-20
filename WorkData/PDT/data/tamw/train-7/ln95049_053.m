@@ -1561,7 +1561,7 @@
 <form>HMS</form>
 <tag>
 <AM lemma="HMS-1_:B_^(halové_mistrovství_světa)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-053-p4s1w10">

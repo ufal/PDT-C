@@ -461,7 +461,7 @@
 <form>FC</form>
 <tag>
 <AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-084-p2s3w21">
@@ -869,7 +869,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-084-p3s2w16">
@@ -1273,7 +1273,7 @@
 <AM lemma="SV_:B_;K_^(sport._klub)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="svazek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="SV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-084-p3s5w5">
@@ -2378,7 +2378,7 @@
 <form>FC</form>
 <tag>
 <AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-084-p7s1w13">
@@ -2447,7 +2447,7 @@
 <AM lemma="LeRK_;K" src="orig">NNISX-----A----</AM>
 <AM lemma="LeRK_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Lerk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="LeRK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LeRK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-084-p7s1w21">

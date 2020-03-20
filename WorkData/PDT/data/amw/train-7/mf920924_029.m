@@ -891,7 +891,7 @@
 <form>EMS</form>
 <tag>
 <AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-029-p2s5w25">
@@ -974,7 +974,7 @@
 <form>EMS</form>
 <tag>
 <AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-029-p2s5w35">
@@ -2694,7 +2694,7 @@
 <form>ERM</form>
 <tag>
 <AM lemma="ERM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ERM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ERM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-029-p2s15w13">
@@ -2923,7 +2923,7 @@
 <form>EMS</form>
 <tag>
 <AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-029-p2s16w11">

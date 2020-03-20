@@ -105,7 +105,7 @@
 <form>ICF</form>
 <tag>
 <AM lemma="ICF-3_:B_;K_,t_^(International_Canoe_Federation)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ICF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ICF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-092-p2s2w8">

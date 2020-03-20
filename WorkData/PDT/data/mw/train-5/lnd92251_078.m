@@ -1146,7 +1146,7 @@
 <form>ZDF</form>
 <tag>
 <AM lemma="ZDF_:B_;K_^(něm._televizní_stanice)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZDF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZDF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-078-p5s1w25">
@@ -1168,7 +1168,7 @@
 <AM lemma="TF-1_:B_^(teologická_fakulta)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="TF-2_:B_^(technická_fakulta)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="TF-3_:B_^(tepová_frekvence)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-078-p5s1w27">
@@ -1664,7 +1664,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-078-p6s1w14">
@@ -2269,7 +2269,7 @@
 <AM lemma="IP-2_:B_^(inspekční_prohlídka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="IP-3_:B_,t_^(instruction_pointer)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IP-4_:B_,t_^(internet_protokol)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-078-p7s2w15">
@@ -2701,7 +2701,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-078-p8s2w28">
@@ -3152,7 +3152,7 @@
 <form>ČST</form>
 <tag>
 <AM lemma="ČST-1_:B_;K_^(Československá_televize)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČST-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-078-p9s2w12">
@@ -3808,7 +3808,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-078-p10s5w11">
@@ -4015,7 +4015,7 @@
 <AM lemma="IP-2_:B_^(inspekční_prohlídka)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IP-3_:B_,t_^(instruction_pointer)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="IP-4_:B_,t_^(internet_protokol)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-078-p10s9w4">

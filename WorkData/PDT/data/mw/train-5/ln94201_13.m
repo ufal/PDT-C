@@ -427,7 +427,7 @@
 <form>TANAS</form>
 <tag>
 <AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TANAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TANAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-13-p2s3w15">
@@ -562,7 +562,7 @@
 <form>TANAS</form>
 <tag>
 <AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TANAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TANAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-13-p2s5w8">
@@ -739,7 +739,7 @@
 <form>TANAS</form>
 <tag>
 <AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TANAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TANAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-13-p2s6w8">

@@ -361,7 +361,7 @@
 <form>SD</form>
 <tag>
 <AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
-<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-115-p2s2w9">
@@ -380,7 +380,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-115-p2s2w11">
@@ -660,7 +660,7 @@
 <form>SD</form>
 <tag>
 <AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
-<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-115-p2s3w6">

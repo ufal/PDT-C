@@ -407,7 +407,7 @@
 <form>VW</form>
 <tag>
 <AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VW-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-016-p2s1w8">

@@ -135,7 +135,7 @@
 <form>UPIC</form>
 <tag>
 <AM lemma="UPIC_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UPIC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UPIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-127-p1s1Bw3">

@@ -142,7 +142,7 @@
 <AM lemma="EP-2_:B_;K_^(Evropský_parlament)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-84-p2s1Bw8">
@@ -359,7 +359,7 @@
 <AM lemma="EP-2_:B_;K_^(Evropský_parlament)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-84-p2s1Bw33">
@@ -724,7 +724,7 @@
 <AM lemma="EP-2_:B_;K_^(Evropský_parlament)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-84-p2s3w21">

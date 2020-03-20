@@ -358,7 +358,7 @@
 <form>AFP</form>
 <tag>
 <AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-029-p3s3w6">
@@ -823,7 +823,7 @@
 <form>AFP</form>
 <tag>
 <AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-029-p4s4w12">
@@ -1966,7 +1966,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-029-p7s2w10">

@@ -411,7 +411,7 @@
 <form>ABC</form>
 <tag>
 <AM lemma="ABC-2_:B_;K_^(divadlo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-031-p1s3w18">

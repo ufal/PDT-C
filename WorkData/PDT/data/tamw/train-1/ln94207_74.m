@@ -1264,7 +1264,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p3s4w21">
@@ -1373,7 +1373,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s1w10">
@@ -1400,7 +1400,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s1w13">
@@ -1469,7 +1469,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s2w7">
@@ -1618,7 +1618,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s3w2">
@@ -1823,7 +1823,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s4w17">
@@ -1906,7 +1906,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s4w27">
@@ -1957,7 +1957,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s4w33">
@@ -2130,7 +2130,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s5w15">
@@ -2378,7 +2378,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s6w4">

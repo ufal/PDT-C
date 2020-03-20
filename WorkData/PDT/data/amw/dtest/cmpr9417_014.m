@@ -2354,7 +2354,7 @@
 <AM lemma="HRD_:B_;K_,t_^(Hoge_Raad_voor_Diamant)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hrd" src="auto" recommended="1">ACYS------A----</AM>
 <AM lemma="HRD_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="HRD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HRD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-014-p12s3w15">
@@ -2375,7 +2375,7 @@
 <AM lemma="GIA_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GIA_:B_,t" src="manual">NNXXX-----A---8</AM>
 <AM lemma="GIA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="GIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-014-p12s3w17">
@@ -2395,7 +2395,7 @@
 <tag>
 <AM lemma="IGI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IGI_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IGI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IGI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-014-p12s3w19">

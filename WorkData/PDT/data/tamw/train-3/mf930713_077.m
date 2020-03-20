@@ -473,7 +473,7 @@
 <form>NHK</form>
 <tag>
 <AM lemma="NHK-1_:B_;K_,t_^(Nippon_Hoso_Kyokai)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="NHK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-077-p3s1w5">

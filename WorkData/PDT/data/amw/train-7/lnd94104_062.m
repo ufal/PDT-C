@@ -861,7 +861,7 @@
 <tag>
 <AM lemma="FPR-2_:B_;K_,t_^(Rwandská_vlastenecká_fronta)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FPR-1_:B_,t_^(floating_point_register)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="FPR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s5w16">
@@ -1102,7 +1102,7 @@
 <form>UNHCR</form>
 <tag>
 <AM lemma="UNHCR_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UNHCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNHCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s6w21">
@@ -1209,7 +1209,7 @@
 <form>UNHCR</form>
 <tag>
 <AM lemma="UNHCR_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UNHCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNHCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s6w34">
@@ -1536,7 +1536,7 @@
 <form>UNAMIR</form>
 <tag>
 <AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNAMIR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNAMIR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s8w19">
@@ -2888,7 +2888,7 @@
 <form>UNAMIR</form>
 <tag>
 <AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNAMIR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNAMIR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s15w10">

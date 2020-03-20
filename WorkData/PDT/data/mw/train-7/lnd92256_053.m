@@ -81,7 +81,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-053-p1s1w9">
@@ -1893,7 +1893,7 @@
 <form>VP</form>
 <tag>
 <AM lemma="VP-1_:B_^(viceprezident)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="VP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-053-p5s4w22">
@@ -2373,7 +2373,7 @@
 <form>ABC</form>
 <tag>
 <AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-053-p7s1w7">

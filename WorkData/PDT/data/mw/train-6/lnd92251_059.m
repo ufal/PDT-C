@@ -1990,7 +1990,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-059-p7s2w27">
@@ -2258,7 +2258,7 @@
 <AM lemma="SSS-2_:B_;K_^(Sdružení_sportovních_svazů)" src="auto">NNNSX-----A---8</AM>
 <AM lemma="sss" src="auto">II-------------</AM>
 <AM lemma="SSS-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-059-p7s3w30">
@@ -2426,7 +2426,7 @@
 <form>MVČK</form>
 <tag>
 <AM lemma="MVČK_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MVČK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MVČK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-059-p8s1w7">

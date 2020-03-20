@@ -279,7 +279,7 @@
 <form>ABC</form>
 <tag>
 <AM lemma="ABC-3_:B_^(základy_něčeho)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-131-p2s2w9">
@@ -1074,7 +1074,7 @@
 <AM lemma="CMC-2_:B_,t_^(common_messaging_calls)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CMC-3_:B_,t_^(communication_mode_control)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-131-p3s1w23">
@@ -1937,7 +1937,7 @@
 <form>EMI</form>
 <tag>
 <AM lemma="EMI_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EMI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-131-p5s2w7">

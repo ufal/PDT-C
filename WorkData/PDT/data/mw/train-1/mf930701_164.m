@@ -306,7 +306,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p3s1w24">
@@ -407,7 +407,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p3s2w11">
@@ -482,7 +482,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p3s2w20">
@@ -967,7 +967,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p4s3w8">
@@ -1197,7 +1197,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p5s1w19">
@@ -1594,7 +1594,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p6s2w5">
@@ -1839,7 +1839,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p7s1w7">
@@ -1967,7 +1967,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p7s2w5">

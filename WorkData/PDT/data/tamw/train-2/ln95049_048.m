@@ -117,7 +117,7 @@
 <form>WBC</form>
 <tag>
 <AM lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-048-p1s1w14">

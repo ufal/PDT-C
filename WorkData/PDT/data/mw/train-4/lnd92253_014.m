@@ -300,7 +300,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-014-p3s3w3">
@@ -424,7 +424,7 @@
 <form>DIK</form>
 <tag>
 <AM lemma="dik" src="orig">NNMS1-----A----</AM>
-<AM lemma="DIK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-014-p3s3w18">

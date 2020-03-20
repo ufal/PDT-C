@@ -1939,7 +1939,7 @@
 <tag>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
 <AM lemma="x-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
-<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="x-88" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_04-SCzechM-p0335-s1-w11-sw2">
@@ -2269,7 +2269,7 @@
 <form>UNSCR</form>
 <tag>
 <AM lemma="UNSCR">X@-------------</AM>
-<AM lemma="UNSCR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNSCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_04-SCzechM-p0349-s1-w7">

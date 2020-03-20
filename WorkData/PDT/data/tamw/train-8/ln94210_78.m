@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="Al-3_;Y_^(Al_Gore_apod._jm.)" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Al-77" src="manual">F%-------------</AM>
-<AM lemma="Al-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Al-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-78-p1s1w2">
@@ -560,7 +560,7 @@
 <form>WHO</form>
 <tag>
 <AM lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WHO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="WHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-78-p2s4w8">

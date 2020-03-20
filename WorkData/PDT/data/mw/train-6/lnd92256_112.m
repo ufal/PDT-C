@@ -21,7 +21,7 @@
 <form>ASEAN</form>
 <tag>
 <AM lemma="ASEAN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ASEAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ASEAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p1s1w2">
@@ -40,7 +40,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -169,7 +169,7 @@
 <form>ASEAN</form>
 <tag>
 <AM lemma="ASEAN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ASEAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ASEAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p3s2w11">
@@ -568,7 +568,7 @@
 <form>ASEAN</form>
 <tag>
 <AM lemma="ASEAN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ASEAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ASEAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p3s4w3">
@@ -659,7 +659,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p3s4w14">
@@ -816,7 +816,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p3s5w3">
@@ -851,7 +851,7 @@
 <form>ASEAN</form>
 <tag>
 <AM lemma="ASEAN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ASEAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ASEAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p3s5w7">

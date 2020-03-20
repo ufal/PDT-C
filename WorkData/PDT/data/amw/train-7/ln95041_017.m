@@ -1164,7 +1164,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="WC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-017-p2s9w18">

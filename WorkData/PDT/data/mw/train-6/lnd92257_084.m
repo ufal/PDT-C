@@ -40,7 +40,7 @@
 <form>SŠ</form>
 <tag>
 <AM lemma="SŠ-1_:B_^(střední_škola)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SŠ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -178,7 +178,7 @@
 <AM lemma="AMAVET_:B_;K_^(Asociace_pro_mládež,_vědu_a_techniku)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AMAVET-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AMAVET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-084-p3s2w9">
@@ -345,7 +345,7 @@
 <tag>
 <AM lemma="ESI_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="jestli_,h_,x" src="auto" recommended="1">J,------------7</AM>
-<AM lemma="ESI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ESI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-084-p3s2w29">
@@ -843,7 +843,7 @@
 <AM lemma="AMAVET_:B_;K_^(Asociace_pro_mládež,_vědu_a_techniku)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AMAVET-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AMAVET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-084-p3s4w16">

@@ -39,7 +39,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p2s1w3">
@@ -481,7 +481,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p4s1w2">
@@ -2024,7 +2024,7 @@
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ZOO_:B" src="auto">NNFXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="ZOO-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ZOO-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ZOO_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

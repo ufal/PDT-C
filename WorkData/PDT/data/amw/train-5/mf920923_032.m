@@ -382,7 +382,7 @@
 <AM lemma="CS-2_:B_,t_^(Computer_Science)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="cesium_:B_;H" src="auto">NNNXX-----A---8</AM>
 <AM lemma="cirrostratus_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="CS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s3w18">
@@ -586,7 +586,7 @@
 <tag>
 <AM lemma="AMG-98_;R" src="orig">NNNXX-----A----</AM>
 <AM lemma="AMG-1_:B_;K_,t_^(Allied_Military_Government)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="AMG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AMG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s4w7">
@@ -609,7 +609,7 @@
 <AM lemma="Sl_:B" src="auto">Xx-------------</AM>
 <AM lemma="slečna_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="sloupec_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s4w9">

@@ -45,7 +45,7 @@
 <form>SPT</form>
 <tag>
 <AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p1s1w5">
@@ -140,7 +140,7 @@
 <form>SPT</form>
 <tag>
 <AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p2s1Bw9">
@@ -329,7 +329,7 @@
 <form>STET</form>
 <tag>
 <AM lemma="Stet_;K_^(koncern)" src="orig">NNIS1-----A----</AM>
-<AM lemma="STET-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p3s1w8">
@@ -447,7 +447,7 @@
 <form>TELFAR</form>
 <tag>
 <AM lemma="TELFAR_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TELFAR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TELFAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p3s2w8">
@@ -575,7 +575,7 @@
 <form>PTT</form>
 <tag>
 <AM lemma="PTT_:B_,t_^(telekomunikace)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PTT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PTT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p3s2w20">
@@ -638,7 +638,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p3s2w26">
@@ -657,7 +657,7 @@
 <form>T</form>
 <tag>
 <AM lemma="t-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p3s2w28">
@@ -768,7 +768,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p4s1w3">
@@ -803,7 +803,7 @@
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto">PDXXX---------8</AM>
 <AM lemma="T-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p4s1w5">

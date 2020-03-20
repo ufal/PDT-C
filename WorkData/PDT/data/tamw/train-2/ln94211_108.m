@@ -943,7 +943,7 @@
 <form>WUK</form>
 <tag>
 <AM lemma="WUK_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="WUK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WUK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-108-p3s2w11">

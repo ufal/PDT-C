@@ -3444,7 +3444,7 @@
 <form>P</form>
 <tag>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="orig">RR--X---------8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p15s1w2">
@@ -3463,7 +3463,7 @@
 <form>S</form>
 <tag>
 <AM lemma="scriptum_:B_,t_^(př._P.S.)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p15s1w4">
@@ -5350,7 +5350,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p17s7w29">
@@ -6415,7 +6415,7 @@
 <form>GŘ</form>
 <tag>
 <AM lemma="GŘ_:B_;K_;b_^(Generální_ředitelství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="GŘ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s8w10">
@@ -6434,7 +6434,7 @@
 <form>VHMP</form>
 <tag>
 <AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VHMP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VHMP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s8w12">
@@ -6583,7 +6583,7 @@
 <form>GŘ</form>
 <tag>
 <AM lemma="GŘ_:B_;K_;b_^(Generální_ředitelství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="GŘ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s9w5">
@@ -6602,7 +6602,7 @@
 <form>VHMP</form>
 <tag>
 <AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VHMP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VHMP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s9w7">
@@ -6814,7 +6814,7 @@
 <form>GŘ</form>
 <tag>
 <AM lemma="GŘ_:B_;K_;b_^(Generální_ředitelství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="GŘ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s10w19">
@@ -6833,7 +6833,7 @@
 <form>VHMP</form>
 <tag>
 <AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VHMP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VHMP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s10w21">
@@ -7284,7 +7284,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p21s1w2">
@@ -7930,7 +7930,7 @@
 <form>VHMP</form>
 <tag>
 <AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VHMP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VHMP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p23s1w5">
@@ -9166,7 +9166,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p24s6w8">
@@ -14211,7 +14211,7 @@
 <form>TEMPO</form>
 <tag>
 <AM lemma="tempo" src="orig">NNNS1-----A----</AM>
-<AM lemma="TEMPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TEMPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p30s2w26">
@@ -14557,7 +14557,7 @@
 <tag>
 <AM lemma="Ost_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="ostatní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="OST-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p30s5w9">

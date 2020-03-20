@@ -159,7 +159,7 @@
 <AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="scilicet_:B_,t_^(totiž,_to_je,_to_znamená)" src="auto">Db------------8</AM>
 <AM lemma="SC-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-041-p1s2w9">
@@ -692,7 +692,7 @@
 <AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="scilicet_:B_,t_^(totiž,_to_je,_to_znamená)" src="auto">Db------------8</AM>
 <AM lemma="SC-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-041-p1s4w10">

@@ -6346,7 +6346,7 @@
 <tag>
 <AM lemma="FAO_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FAO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FAO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-021-p9s1w18">

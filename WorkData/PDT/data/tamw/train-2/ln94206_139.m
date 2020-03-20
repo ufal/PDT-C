@@ -21,7 +21,7 @@
 <form>RDP</form>
 <tag>
 <AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-139-p1s1w2">
@@ -370,7 +370,7 @@
 <form>RDP</form>
 <tag>
 <AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-139-p2s1Bw27">
@@ -490,7 +490,7 @@
 <form>RDP</form>
 <tag>
 <AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-139-p2s2w7">
@@ -501,7 +501,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-139-p2s2w8">
@@ -677,7 +677,7 @@
 <form>RDP</form>
 <tag>
 <AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-139-p2s5w2">
@@ -1116,7 +1116,7 @@
 <form>RDP</form>
 <tag>
 <AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-139-p2s7w7">
@@ -1603,7 +1603,7 @@
 <form>RDP</form>
 <tag>
 <AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-139-p3s2w34">

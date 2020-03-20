@@ -889,7 +889,7 @@
 <form>ČEB</form>
 <tag>
 <AM lemma="ČEB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČEB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p3s4w14">
@@ -1030,7 +1030,7 @@
 <form>ČEB</form>
 <tag>
 <AM lemma="ČEB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČEB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p3s5w7">
@@ -1108,7 +1108,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p3s5w16">
@@ -1135,7 +1135,7 @@
 <form>PHARE</form>
 <tag>
 <AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="PHARE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PHARE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p3s5w19">
@@ -1316,7 +1316,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p4s1w7">
@@ -1392,7 +1392,7 @@
 <form>PHARE</form>
 <tag>
 <AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="PHARE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PHARE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p4s1w16">
@@ -1430,7 +1430,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p4s1w20">
@@ -1600,7 +1600,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p4s4w4">
@@ -1627,7 +1627,7 @@
 <form>PHARE</form>
 <tag>
 <AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="PHARE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PHARE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p4s4w7">

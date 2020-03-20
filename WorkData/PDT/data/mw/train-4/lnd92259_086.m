@@ -151,7 +151,7 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-086-p1s1w16">
@@ -2506,7 +2506,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-086-p4s11w13">
@@ -3986,7 +3986,7 @@
 <form>KPS</form>
 <tag>
 <AM lemma="KPS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-086-p5s9w30">
@@ -4209,7 +4209,7 @@
 <form>KPS</form>
 <tag>
 <AM lemma="KPS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-086-p5s11w6">

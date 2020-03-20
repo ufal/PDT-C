@@ -25,7 +25,7 @@
 <AM lemma="Zea" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS3-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS6-----A----</AM>
-<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZEU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-042-p1s1w2">
@@ -144,7 +144,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-042-p1s3w7">
@@ -309,7 +309,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-042-p1s4w7">

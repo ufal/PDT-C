@@ -420,8 +420,8 @@
 <form>těl</form>
 <tag>
 <AM lemma="tělo" src="orig">NNNP2-----A----</AM>
-<AM lemma="těl-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="těl-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="těl-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="těl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p2s3w24">
@@ -1115,8 +1115,8 @@
 <AM lemma="sokolovna_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sok" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="sokolovna" src="manual">NNFXX-----A---8</AM>
-<AM lemma="sok-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="sok-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sok-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="sok-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p3s2w12">
@@ -1141,8 +1141,8 @@
 <AM lemma="ŽĎAS-1_:B_;K_^(Žďárské_strojírny)" src="auto">NNIS4-----A---8</AM>
 <AM lemma="Žďas_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Žďas_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="ŽĎAS-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ŽĎAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ŽĎAS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ŽĎAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p3s3w2">
@@ -1211,8 +1211,8 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p3s3w7">
@@ -1411,8 +1411,8 @@
 <form>sok</form>
 <tag>
 <AM lemma="sok" src="orig">NNMS1-----A----</AM>
-<AM lemma="sok-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="sok-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sok-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="sok-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s2w17">
@@ -1655,8 +1655,8 @@
 <AM lemma="LD-1_:B_;K_^(Linka_důvěry)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="LD-2_:B_;K_^(Lidová_demokracie)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="LD-3_:B_;K_^(Liberale_Demokraten)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="LD-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="LD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s4w24">
@@ -2216,8 +2216,8 @@
 <tag>
 <AM lemma="sokolovna_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sok" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sok-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="sok-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sok-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="sok-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s6w43">
@@ -2238,8 +2238,8 @@
 <form>ŽĎAS</form>
 <tag>
 <AM lemma="ŽĎAS-1_:B_;K_^(Žďárské_strojírny)" src="orig">NNIS1-----A---8</AM>
-<AM lemma="ŽĎAS-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ŽĎAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ŽĎAS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ŽĎAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s7w2">
@@ -2308,8 +2308,8 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s7w7">
@@ -2846,8 +2846,8 @@
 <AM lemma="klub" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="klub" src="auto">NNIS4-----A----</AM>
 <AM lemma="klubovna" src="manual">NNFXX-----A---8</AM>
-<AM lemma="klub-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="klub-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="klub-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="klub-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s8w62">
@@ -2868,8 +2868,8 @@
 <form>TOM</form>
 <tag>
 <AM lemma="Tom_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="TOM-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TOM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TOM-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="TOM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s9w2">
@@ -3206,8 +3206,8 @@
 <form>sokol</form>
 <tag>
 <AM lemma="sokol-1_;L_^(pták)" src="auto">NNMS1-----A----</AM>
-<AM lemma="sokol-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="sokol-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="sokol-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="sokol-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="sokol-2_;K_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -3290,8 +3290,8 @@
 <AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="N-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s10w7">

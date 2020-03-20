@@ -225,7 +225,7 @@
 <form>CKP</form>
 <tag>
 <AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-105-p2s1Bw19">
@@ -416,7 +416,7 @@
 <form>CKP</form>
 <tag>
 <AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-105-p3s1w4">

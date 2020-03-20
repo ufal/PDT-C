@@ -112,7 +112,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p3s1w3">
@@ -527,7 +527,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p5s1w2">
@@ -948,7 +948,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p8s1w6">
@@ -1085,7 +1085,7 @@
 <AM lemma="DD-1_:B_,t_^(Doctor_of_Divinity)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="DD-2_:B_,t_^(delayed_delivery)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DD-3_:B_,t_^(double_density)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="DD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p8s1w22">
@@ -1575,7 +1575,7 @@
 <form>PAXu</form>
 <tag>
 <AM lemma="PAX_:B_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="PAX-88_:B" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="PAX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p10s1w23">
@@ -1743,7 +1743,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p12s1w3">
@@ -2068,7 +2068,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p13s1w36">
@@ -2170,7 +2170,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p14s1w2">
@@ -3239,7 +3239,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p21s1w3">
@@ -3751,7 +3751,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p23s1w2">
@@ -4281,7 +4281,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p26s1w15">
@@ -4300,7 +4300,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p26s1w17">
@@ -4964,7 +4964,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p30s1w3">
@@ -5321,7 +5321,7 @@
 <form>ORF</form>
 <tag>
 <AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p32s1w2">

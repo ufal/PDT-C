@@ -189,7 +189,7 @@
 <form>SPMP</form>
 <tag>
 <AM lemma="SPMP-1_:B_;K_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SPMP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPMP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-017-p2s2w14">
@@ -974,7 +974,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-017-p2s7w17">
@@ -985,7 +985,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-017-p2s7w18">

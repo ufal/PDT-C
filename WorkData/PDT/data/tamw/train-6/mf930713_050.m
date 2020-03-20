@@ -241,7 +241,7 @@
 <form>HSDMS</form>
 <tag>
 <AM lemma="HSDMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HSDMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HSDMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-050-p2s1Bw13">
@@ -744,7 +744,7 @@
 <form>HSDMS</form>
 <tag>
 <AM lemma="HSDMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HSDMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HSDMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-050-p2s5w6">

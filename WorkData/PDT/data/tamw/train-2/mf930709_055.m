@@ -308,7 +308,7 @@
 <form>MCA</form>
 <tag>
 <AM lemma="MCA-2_:B_,t_^(microchannel_architekture)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-055-p1s2w11">
@@ -351,7 +351,7 @@
 <form>BMG</form>
 <tag>
 <AM lemma="BMG_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BMG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-055-p1s2w16">

@@ -3679,7 +3679,7 @@
 <tag>
 <AM lemma="FBI_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FBI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-072-p1s23w10">

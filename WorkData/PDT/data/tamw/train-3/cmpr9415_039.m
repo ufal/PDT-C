@@ -528,7 +528,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-039-p8s1w21">
@@ -940,7 +940,7 @@
 <form>ČMC</form>
 <tag>
 <AM lemma="ČMC_:B_;K_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-039-p9s3w9">
@@ -1279,7 +1279,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w23">
@@ -1756,7 +1756,7 @@
 <form>CMC</form>
 <tag>
 <AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-039-p10s4w4">

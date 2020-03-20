@@ -1273,7 +1273,7 @@
 <form>ČSFA</form>
 <tag>
 <AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-058-p2s5w10">
@@ -2222,7 +2222,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-058-p2s7w14">
@@ -2241,7 +2241,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-058-p2s7w16">
@@ -2324,7 +2324,7 @@
 <form>Ö</form>
 <tag>
 <AM lemma="Ö-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ö-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ö-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-058-p2s7w26">

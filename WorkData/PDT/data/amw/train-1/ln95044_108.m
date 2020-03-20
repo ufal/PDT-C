@@ -318,7 +318,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s1w2">
@@ -671,7 +671,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s4w6">
@@ -940,7 +940,7 @@
 <AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČKR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s5w20">
@@ -1043,7 +1043,7 @@
 <AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČKR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s6w11">
@@ -1266,7 +1266,7 @@
 <AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČKR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s7w4">
@@ -1353,7 +1353,7 @@
 <AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČKR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p4s1w2">

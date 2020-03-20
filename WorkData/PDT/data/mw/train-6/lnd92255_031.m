@@ -259,7 +259,7 @@
 <form>ČSTK</form>
 <tag>
 <AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-031-p1s2w6">
@@ -334,7 +334,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-031-p1s2w15">
@@ -998,7 +998,7 @@
 <AM lemma="Rio_;G" src="auto">NNNS2-----A----</AM>
 <AM lemma="ria_,t_^(záliv_podobný_fjordu)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="ria-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RIA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-031-p4s1w10">
@@ -1291,7 +1291,7 @@
 <form>UNITA</form>
 <tag>
 <AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-031-p5s1w17">
@@ -1505,7 +1505,7 @@
 <tag>
 <AM lemma="TSF-2_:B_;K_,t_^(port._rádio)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TSF-1_:B_,t_^(télégrephie_sans_fil)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="TSF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TSF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-031-p5s2w7">

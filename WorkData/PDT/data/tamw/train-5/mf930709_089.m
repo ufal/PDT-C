@@ -751,7 +751,7 @@
 <form>NBA</form>
 <tag>
 <AM lemma="NBA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-089-p5s1w4">
@@ -1264,7 +1264,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-089-p7s1w7">
@@ -1307,7 +1307,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-089-p7s1w12">

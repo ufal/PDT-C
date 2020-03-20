@@ -299,7 +299,7 @@
 <form>Rara</form>
 <tag>
 <AM lemma="Rara_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Rara-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Rara-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-104-p2s3w8">
@@ -360,7 +360,7 @@
 <form>Rara</form>
 <tag>
 <AM lemma="Rara_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Rara-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Rara-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-104-p2s4w2">

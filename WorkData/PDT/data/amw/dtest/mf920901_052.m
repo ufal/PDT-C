@@ -196,7 +196,7 @@
 <form>AS</form>
 <tag>
 <AM lemma="AS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p2s1w8">
@@ -462,7 +462,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p3s1w4">
@@ -821,7 +821,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p4s1w3">
@@ -942,7 +942,7 @@
 <form>AS</form>
 <tag>
 <AM lemma="AS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p4s1w17">
@@ -993,7 +993,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p4s1w24">
@@ -1445,7 +1445,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p5s2w18">
@@ -1678,7 +1678,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p7s1w5">
@@ -1912,7 +1912,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p7s3w2">

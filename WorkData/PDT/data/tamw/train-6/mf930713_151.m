@@ -2107,7 +2107,7 @@
 <form>SALT</form>
 <tag>
 <AM lemma="salto" src="orig">NNNP2-----A----</AM>
-<AM lemma="SALT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SALT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-151-p2s15w7">
@@ -2168,7 +2168,7 @@
 <form>SALT</form>
 <tag>
 <AM lemma="salto" src="orig">NNNP2-----A----</AM>
-<AM lemma="SALT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SALT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-151-p2s16w6">

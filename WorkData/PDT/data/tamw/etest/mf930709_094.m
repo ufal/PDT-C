@@ -609,7 +609,7 @@
 <AM lemma="Fino_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Fino_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="FINA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FINA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FINA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-094-p2s3w11">

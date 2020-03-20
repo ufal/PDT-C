@@ -162,7 +162,7 @@
 <tag>
 <AM lemma="DNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-114-p2s2w8">
@@ -319,7 +319,7 @@
 <form>RTL</form>
 <tag>
 <AM lemma="RTL-1_:B_;K_;y_^(TV_stanice_Lucembursko)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="RTL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RTL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-114-p2s3w6">
@@ -469,7 +469,7 @@
 <tag>
 <AM lemma="DNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-114-p2s4w5">
@@ -571,7 +571,7 @@
 <form>SA</form>
 <tag>
 <AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-114-p2s4w17">
@@ -623,7 +623,7 @@
 <tag>
 <AM lemma="DNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-114-p2s4w23">

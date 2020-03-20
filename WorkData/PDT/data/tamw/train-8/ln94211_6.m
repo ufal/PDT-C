@@ -127,7 +127,7 @@
 <AM lemma="OK-3_;K_^(televizní_program_OK3)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Oka_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="oko" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-6-p2s1Bw7">
@@ -536,7 +536,7 @@
 <AM lemma="OK-3_;K_^(televizní_program_OK3)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Oka_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="oko" src="auto">NNNP2-----A----</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-6-p3s1w14">
@@ -885,7 +885,7 @@
 <AM lemma="OK-3_;K_^(televizní_program_OK3)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Oka_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="oko" src="auto">NNNP2-----A----</AM>
-<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-6-p3s4w2">

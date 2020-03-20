@@ -77,7 +77,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-136-p1s1w9">
@@ -96,7 +96,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -159,7 +159,7 @@
 <form>BND</form>
 <tag>
 <AM lemma="Bundesnachrichttendienst_:B_;K_,t_^(spolk._zprav._služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BND-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BND-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-136-p2s2w6">
@@ -385,7 +385,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-136-p2s4w12">
@@ -601,7 +601,7 @@
 <form>BND</form>
 <tag>
 <AM lemma="Bundesnachrichttendienst_:B_;K_,t_^(spolk._zprav._služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BND-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BND-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-136-p3s1w21">

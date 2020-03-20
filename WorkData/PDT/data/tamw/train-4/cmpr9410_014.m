@@ -130,7 +130,7 @@
 <form>EJA</form>
 <tag>
 <AM lemma="EJA_:B_;K_,t_^(Europäische_Journalismus_Akademie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EJA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EJA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p3s1w12">
@@ -807,7 +807,7 @@
 <form>a</form>
 <tag>
 <AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="a-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="a-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w25">
@@ -829,7 +829,7 @@
 <AM lemma="d-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="d-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="d-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w27">

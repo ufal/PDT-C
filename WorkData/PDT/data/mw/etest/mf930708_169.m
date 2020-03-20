@@ -463,7 +463,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p3s1w5">
@@ -506,7 +506,7 @@
 <form>M</form>
 <tag>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p3s1w10">
@@ -749,7 +749,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p3s1w40">
@@ -792,7 +792,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p3s1w45">
@@ -1091,7 +1091,7 @@
 <AM lemma="Česmad_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Česmad_:B_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Česmad_:B_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="ČESMAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČESMAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p4s1w5">
@@ -1110,7 +1110,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p4s1w7">
@@ -1351,7 +1351,7 @@
 <form>ČESMAD</form>
 <tag>
 <AM lemma="Česmad_:B_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="ČESMAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČESMAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p5s2w2">

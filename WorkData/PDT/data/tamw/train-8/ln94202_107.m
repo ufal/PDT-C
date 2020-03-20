@@ -1481,7 +1481,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-107-p3s6w6">
@@ -2058,7 +2058,7 @@
 <form>PSV</form>
 <tag>
 <AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-107-p4s3w5">
@@ -2255,7 +2255,7 @@
 <form>PSV</form>
 <tag>
 <AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-107-p4s4w5">
@@ -2762,7 +2762,7 @@
 <form>PSV</form>
 <tag>
 <AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-107-p4s7w4">
@@ -2993,7 +2993,7 @@
 <form>PSV</form>
 <tag>
 <AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-107-p4s9w11">
@@ -3505,7 +3505,7 @@
 <form>PSV</form>
 <tag>
 <AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-107-p5s6w3">

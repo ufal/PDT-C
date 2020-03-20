@@ -3580,7 +3580,7 @@
 <AM lemma="ch-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="ch-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="Ch-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="CH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-010-p6s2w27">

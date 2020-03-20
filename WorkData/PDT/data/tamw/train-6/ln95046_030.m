@@ -195,7 +195,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p2s1Cw8">
@@ -493,7 +493,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací)" src="manual">NNXXX-----A----</AM>
 <AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -733,7 +733,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s1w32">
@@ -1105,7 +1105,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s3w4">
@@ -1240,7 +1240,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
 <AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
 <AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací)" src="manual" selected="1">NNXXX-----A----</AM>
@@ -2382,7 +2382,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p4s1w4">
@@ -2968,7 +2968,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p4s4w15">
@@ -3573,7 +3573,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
 <AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
 <AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací)" src="manual" selected="1">NNXXX-----A----</AM>
@@ -4479,7 +4479,7 @@
 <form>ČMFS</form>
 <tag>
 <AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p6s6w29">

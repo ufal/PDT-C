@@ -978,7 +978,7 @@
 <form>DPMO</form>
 <tag>
 <AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-005-p1s7w17">

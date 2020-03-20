@@ -532,7 +532,7 @@
 <form>EZLN</form>
 <tag>
 <AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EZLN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EZLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-082-p2s3w12">
@@ -833,7 +833,7 @@
 <form>EZLN</form>
 <tag>
 <AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EZLN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EZLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-082-p2s4w33">

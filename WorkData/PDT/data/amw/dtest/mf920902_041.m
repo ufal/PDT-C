@@ -573,7 +573,7 @@
 <form>RAK</form>
 <tag>
 <AM lemma="rak" src="orig">NNMS1-----A----</AM>
-<AM lemma="RAK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-041-p10s1w15">

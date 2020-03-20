@@ -8640,7 +8640,7 @@
 <form>DNA</form>
 <tag>
 <AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p11s2w17">
@@ -14249,7 +14249,7 @@
 <AM lemma="IQ_:B_;H" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p17s2w11">
@@ -14310,7 +14310,7 @@
 <AM lemma="IQ_:B_;H" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IQ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p17s2w18">

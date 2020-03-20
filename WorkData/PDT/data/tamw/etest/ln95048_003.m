@@ -635,7 +635,7 @@
 <form>ČZ</form>
 <tag>
 <AM lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
-<AM lemma="ČZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-003-p3s2w7">

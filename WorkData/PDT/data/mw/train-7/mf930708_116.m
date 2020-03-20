@@ -288,7 +288,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="MS-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

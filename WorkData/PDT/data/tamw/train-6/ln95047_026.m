@@ -1454,7 +1454,7 @@
 <form>MSJ</form>
 <tag>
 <AM lemma="MSJ-1_:B_^(mistrovství_světa_juniorů)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MSJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-026-p3s7w11">
@@ -1699,7 +1699,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-026-p3s8w28">

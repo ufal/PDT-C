@@ -37,7 +37,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s1w4">
@@ -66,7 +66,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s2w3">
@@ -141,7 +141,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s2w12">
@@ -475,7 +475,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s3w21">
@@ -566,7 +566,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s5w2">
@@ -684,7 +684,7 @@
 <form>SNS</form>
 <tag>
 <AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s5w16">
@@ -1753,7 +1753,7 @@
 <form>SDL</form>
 <tag>
 <AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s11w21">

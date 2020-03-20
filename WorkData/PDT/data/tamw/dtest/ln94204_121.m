@@ -317,7 +317,7 @@
 <form>MOV</form>
 <tag>
 <AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p3s1w5">
@@ -432,7 +432,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p3s1w19">
@@ -793,7 +793,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p3s2w29">
@@ -838,7 +838,7 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="BBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p3s3w5">
@@ -2020,7 +2020,7 @@
 <form>MOV</form>
 <tag>
 <AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s4w20">

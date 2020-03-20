@@ -138,7 +138,7 @@
 <tag>
 <AM lemma="RS_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="RS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-22-p2s1Bw6">

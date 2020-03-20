@@ -4796,7 +4796,7 @@
 <form>kl</form>
 <tag>
 <AM lemma="klapka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kl-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-024-p17s1w33">

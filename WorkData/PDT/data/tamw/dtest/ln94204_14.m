@@ -150,7 +150,7 @@
 <form>BP</form>
 <tag>
 <AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="BP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-14-p2s1w8">
@@ -772,7 +772,7 @@
 <form>BP</form>
 <tag>
 <AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="BP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-14-p4s1w10">
@@ -1495,7 +1495,7 @@
 <form>BP</form>
 <tag>
 <AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="BP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-14-p7s1w2">

@@ -142,7 +142,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s1w7">
@@ -161,7 +161,7 @@
 <form>X</form>
 <tag>
 <AM lemma="X-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="X-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="X-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s1w9">
@@ -3017,7 +3017,7 @@
 <form>AISA</form>
 <tag>
 <AM lemma="AISA_:B_;K_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AISA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s27w5">

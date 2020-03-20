@@ -1365,7 +1365,7 @@
 <AM lemma="časit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="časopis_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČAS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-033-p4s2w7">
@@ -1922,7 +1922,7 @@
 <form>IAAF</form>
 <tag>
 <AM lemma="IAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IAAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IAAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-033-p5s1w13">
@@ -2693,7 +2693,7 @@
 <AM lemma="časit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="časopis_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČAS_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="ČAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-033-p5s4w6">
@@ -2960,7 +2960,7 @@
 <form>ČAS</form>
 <tag>
 <AM lemma="časopis_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-033-p5s5w16">

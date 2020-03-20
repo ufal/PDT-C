@@ -172,7 +172,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-011-p3s1w8">
@@ -209,7 +209,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-011-p3s2w4">
@@ -1646,7 +1646,7 @@
 <form>ABC</form>
 <tag>
 <AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-011-p5s4w41">
@@ -1723,7 +1723,7 @@
 <form>NBC</form>
 <tag>
 <AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-011-p5s5w3">
@@ -2181,7 +2181,7 @@
 <form>NBC</form>
 <tag>
 <AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-011-p6s2w2">
@@ -4646,7 +4646,7 @@
 <AM lemma="století_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="stupeň_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="St-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="St-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="St-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6567,7 +6567,7 @@
 <form>NBC</form>
 <tag>
 <AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-011-p10s2w12">

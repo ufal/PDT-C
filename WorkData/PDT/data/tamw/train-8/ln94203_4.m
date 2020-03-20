@@ -534,7 +534,7 @@
 <form>TGV</form>
 <tag>
 <AM lemma="TGV-1_:B_;R_^(Train_á_Grande_Vitesse)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p2s1Cw32">
@@ -746,7 +746,7 @@
 <AM lemma="cerium" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="cerium" src="auto">NNIS4-----A----</AM>
 <AM lemma="dcera" src="auto">NNFP2-----A---6</AM>
-<AM lemma="CER-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CER-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p3s1w6">
@@ -1662,7 +1662,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p4s3w9">
@@ -2190,7 +2190,7 @@
 <form>TGV</form>
 <tag>
 <AM lemma="TGV-1_:B_;R_^(Train_á_Grande_Vitesse)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p5s5w5">
@@ -4199,7 +4199,7 @@
 <form>UIC</form>
 <tag>
 <AM lemma="UIC-1_:B_;K_,t_^(Union_Internat._de_Chemins_de_Fer)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UIC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p10s1w4">
@@ -5909,7 +5909,7 @@
 <form>TGV</form>
 <tag>
 <AM lemma="TGV-1_:B_;R_^(Train_á_Grande_Vitesse)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p13s2w10">
@@ -6178,7 +6178,7 @@
 <AM lemma="AVE_:B_;K" src="auto">NNNSX-----A---8</AM>
 <AM lemma="ave-1_,t_^(klekání)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="ave-2_,t_^(buď_zdráv)" src="auto">TT-------------</AM>
-<AM lemma="AVE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AVE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p14s1w18">
@@ -6747,7 +6747,7 @@
 <form>AVŽD</form>
 <tag>
 <AM lemma="AVŽD_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AVŽD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AVŽD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p15s1w25">
@@ -6878,7 +6878,7 @@
 <form>VRAMŽ</form>
 <tag>
 <AM lemma="VRAMŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VRAMŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VRAMŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p15s1w41">

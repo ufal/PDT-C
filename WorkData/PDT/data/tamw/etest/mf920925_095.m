@@ -585,7 +585,7 @@
 <form>FMV</form>
 <tag>
 <AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-095-p18s1w3">
@@ -1015,7 +1015,7 @@
 <form>ČTV</form>
 <tag>
 <AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1433,7 +1433,7 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-095-p63s1w3">
@@ -1568,7 +1568,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1736,7 +1736,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2020,7 +2020,7 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;K_;b_;y_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CNN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2058,7 +2058,7 @@
 <form>MCM</form>
 <tag>
 <AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MCM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -21,7 +21,7 @@
 <form>DU</form>
 <tag>
 <AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-055-p1s1w2">
@@ -100,7 +100,7 @@
 <form>DU</form>
 <tag>
 <AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-055-p2s1Bw5">
@@ -297,7 +297,7 @@
 <form>DU</form>
 <tag>
 <AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-055-p2s2w5">
@@ -476,7 +476,7 @@
 <form>DU</form>
 <tag>
 <AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-055-p2s2w27">
@@ -569,7 +569,7 @@
 <form>DU</form>
 <tag>
 <AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-055-p2s3w2">
@@ -668,7 +668,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-055-p2s3w14">

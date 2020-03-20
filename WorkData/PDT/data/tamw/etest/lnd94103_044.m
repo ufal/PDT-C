@@ -201,7 +201,7 @@
 <form>CDA</form>
 <tag>
 <AM lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CDA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s3w18">
@@ -268,7 +268,7 @@
 <form>PvdA</form>
 <tag>
 <AM lemma="PvdA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PvdA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PvdA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s3w26">
@@ -367,7 +367,7 @@
 <form>VVD</form>
 <tag>
 <AM lemma="VVD-1_:B_;K_,t_^(Volkspartij_voor_Vrijheid_en_Demokratie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s3w38">
@@ -448,7 +448,7 @@
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="D-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s3w46">
@@ -751,7 +751,7 @@
 <form>CDA</form>
 <tag>
 <AM lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CDA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s5w5">
@@ -770,7 +770,7 @@
 <form>PvdA</form>
 <tag>
 <AM lemma="PvdA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PvdA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PvdA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s5w7">
@@ -1087,7 +1087,7 @@
 <form>PvdA</form>
 <tag>
 <AM lemma="PvdA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PvdA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PvdA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s6w10">
@@ -1106,7 +1106,7 @@
 <form>VVD</form>
 <tag>
 <AM lemma="VVD-1_:B_;K_,t_^(Volkspartij_voor_Vrijheid_en_Demokratie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s6w12">
@@ -1139,7 +1139,7 @@
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="D-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s6w14">

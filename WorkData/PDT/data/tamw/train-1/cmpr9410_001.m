@@ -1663,7 +1663,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GATT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p10s2w12">
@@ -1949,7 +1949,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GATT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p11s1w4">
@@ -2696,7 +2696,7 @@
 <form>ÚNMS</form>
 <tag>
 <AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p14s1w18">
@@ -3053,7 +3053,7 @@
 <form>ÚNMZ</form>
 <tag>
 <AM lemma="ÚNMZ-1_:B_;K_^(Úřad_pro_tech._normal.,_metrol._a_st._zk.)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚNMZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w15">
@@ -3083,7 +3083,7 @@
 <form>ÚNMS</form>
 <tag>
 <AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w18">
@@ -3284,7 +3284,7 @@
 <form>ÚNMS</form>
 <tag>
 <AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w42">
@@ -3439,7 +3439,7 @@
 <form>ÚNMS</form>
 <tag>
 <AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p16s1w9">
@@ -3567,7 +3567,7 @@
 <form>SPPI</form>
 <tag>
 <AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p16s2w10">
@@ -3927,7 +3927,7 @@
 <form>SPPI</form>
 <tag>
 <AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p17s1w27">
@@ -4090,7 +4090,7 @@
 <form>ÚNMS</form>
 <tag>
 <AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p18s1w19">
@@ -5003,7 +5003,7 @@
 <form>SPPI</form>
 <tag>
 <AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p21s1w28">
@@ -5099,7 +5099,7 @@
 <form>SPPI</form>
 <tag>
 <AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p22s1w11">

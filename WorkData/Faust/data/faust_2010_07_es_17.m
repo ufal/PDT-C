@@ -194,7 +194,7 @@
 <form>X1i</form>
 <tag>
 <AM lemma="X1i">X@-------------</AM>
-<AM lemma="X1i-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="X1i-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w2">
@@ -211,7 +211,7 @@
 <form>X1j</form>
 <tag>
 <AM lemma="X1j">X@-------------</AM>
-<AM lemma="X1j-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="X1j-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w4">
@@ -1599,7 +1599,7 @@
 <form>PT</form>
 <tag>
 <AM lemma="Pt_:B_^(platina)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="PT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1769-s1-w12-sw1">
@@ -1665,7 +1665,7 @@
 <form>SFSV</form>
 <tag>
 <AM lemma="SFSV">X@-------------</AM>
-<AM lemma="SFSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1769-s1-w21">
@@ -1675,10 +1675,10 @@
 <form>T</form>
 <tag>
 <AM lemma="T-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="T-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="T-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="t-1_^(t-mobile)" src="auto">A2--------A----</AM>
 <AM lemma="t-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="t-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="t-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="tuna" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -4505,7 +4505,7 @@
 <AM lemma="h-8_:B_^(ost._zkratka)">XX------------8</AM>
 <AM lemma="hodina_:B">NNFXX-----A---8</AM>
 <AM lemma="hodina_:B_,x">NNFXX-----A---9</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1803-s1-w14">
@@ -4533,7 +4533,7 @@
 <AM lemma="W-9_:B_;S">NNMXX-----A---8</AM>
 <AM lemma="W-9_:B_;S">NNXXX-----A---8</AM>
 <AM lemma="w-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1803-s1-w16">
@@ -4570,7 +4570,7 @@
 <form>DC</form>
 <tag>
 <AM lemma="DC_:B" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1803-s1-w19">
@@ -4694,7 +4694,7 @@
 <form>DC</form>
 <tag>
 <AM lemma="DC_:B" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1803-s1-w30">

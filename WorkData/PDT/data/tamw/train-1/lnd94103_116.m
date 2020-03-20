@@ -724,7 +724,7 @@
 <AM lemma="VC_:B_;m_^(Velká_cena)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="VC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="VC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-116-p1s3w10">
@@ -1474,7 +1474,7 @@
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="f-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="F-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-116-p1s7w4">
@@ -2889,7 +2889,7 @@
 <AM lemma="VC_:B_;m_^(Velká_cena)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="VC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="VC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-116-p1s13Bw14">
@@ -5453,7 +5453,7 @@
 <AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Fio_;K" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-116-p1s27w8">

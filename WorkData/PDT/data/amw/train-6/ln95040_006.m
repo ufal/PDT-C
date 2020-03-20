@@ -113,7 +113,7 @@
 <form>H</form>
 <tag>
 <AM lemma="h-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="H-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="H-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="H-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -133,7 +133,7 @@
 <form>C</form>
 <tag>
 <AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="C-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -153,7 +153,7 @@
 <form>M</form>
 <tag>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="M-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -222,7 +222,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-006-p2s1Bw15">
@@ -257,7 +257,7 @@
 <form>Bayerische</form>
 <tag>
 <AM lemma="Bayerische_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bayerische-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Bayerische-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-006-p2s1Bw19">
@@ -268,7 +268,7 @@
 <form>Hypotheken</form>
 <tag>
 <AM lemma="Hypotheken_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Hypotheken-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Hypotheken-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-006-p2s1Bw20">
@@ -287,7 +287,7 @@
 <form>und</form>
 <tag>
 <AM lemma="und_,t" src="orig">J^-------------</AM>
-<AM lemma="und-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="und-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-006-p2s1Bw22">
@@ -298,7 +298,7 @@
 <form>Wechselbank</form>
 <tag>
 <AM lemma="Wechselbank_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wechselbank-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Wechselbank-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-006-p2s1Bw23">
@@ -1115,7 +1115,7 @@
 <tag>
 <AM lemma="CZ_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CZ-1_:B_^(ISO_2p._zkratka_pro_Českou_rep.)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="CZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-006-p2s5w8">

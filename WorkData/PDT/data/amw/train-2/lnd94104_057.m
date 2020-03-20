@@ -45,7 +45,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-057-p1s1w5">
@@ -156,7 +156,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-057-p1s3w10">
@@ -279,7 +279,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-057-p1s3w25">

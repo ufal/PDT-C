@@ -135,7 +135,7 @@
 <form>ČSOB</form>
 <tag>
 <AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-038-p4s1w2">
@@ -185,7 +185,7 @@
 <form>VÚB</form>
 <tag>
 <AM lemma="VÚB-1_:B_;K_^(Všeobecná_úvěrová_banka,_Slovensko)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VÚB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VÚB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-038-p5s1w2">

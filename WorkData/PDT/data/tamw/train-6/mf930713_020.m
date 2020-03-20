@@ -1704,7 +1704,7 @@
 <AM lemma="LT-5_:B_,t_^(low_tension)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Leutnant_:B_,t_^(poručík)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="LT-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s14w16">

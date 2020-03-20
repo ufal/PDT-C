@@ -467,7 +467,7 @@
 <AM lemma="sto-2`100" src="auto">NNNP5-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNS2-----A----</AM>
 <AM lemma="STA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="STA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-16-p2s3w14">
@@ -770,7 +770,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-16-p3s1Aw11">
@@ -815,7 +815,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-16-p3s1Bw5">

@@ -254,7 +254,7 @@
 <tag>
 <AM lemma="BSkyB_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="BSkyB_:B_,t_^(British_Sky_Broadcasting)" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="BSkyB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BSkyB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-060-p1s1w31">
@@ -486,7 +486,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-060-p2s1w11">
@@ -577,7 +577,7 @@
 <form>PMEZ</form>
 <tag>
 <AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-060-p2s1w22">

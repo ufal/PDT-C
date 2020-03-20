@@ -2648,7 +2648,7 @@
 <form>STS</form>
 <tag>
 <AM lemma="STS-1_:B_;K_;b_^(Strojní_a_traktorová_stanice)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-144-p6s1w4">
@@ -3206,7 +3206,7 @@
 <form>ZD</form>
 <tag>
 <AM lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ZD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-144-p7s2w4">

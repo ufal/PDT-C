@@ -15095,7 +15095,7 @@
 <AM lemma="Grada_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="grad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="grad" src="auto">NNIS4-----A----</AM>
-<AM lemma="GRAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GRAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-083-p2s3Gw10">
@@ -16551,7 +16551,7 @@
 <tag>
 <AM lemma="Su_:B_;R_^(letadlo)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="být_,n" src="auto" recommended="1">VB-S---1P-AA--7</AM>
-<AM lemma="Su-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Su-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-083-p4s2Bw13">

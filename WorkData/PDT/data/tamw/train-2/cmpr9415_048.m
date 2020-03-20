@@ -3275,7 +3275,7 @@
 <form>THP</form>
 <tag>
 <AM lemma="THP-1_:B_^(technickohospodářský_pracovník)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="THP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="THP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-048-p11s4w9">
@@ -4640,7 +4640,7 @@
 <form>THP</form>
 <tag>
 <AM lemma="THP-1_:B_^(technickohospodářský_pracovník)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="THP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="THP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-048-p16s1w7">

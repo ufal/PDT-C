@@ -94,8 +94,8 @@
 <form>UNITA</form>
 <tag>
 <AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -478,8 +478,8 @@
 <tag>
 <AM lemma="TSF-2_:B_;K_,t_^(port._rádio)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TSF-1_:B_,t_^(télégrephie_sans_fil)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="TSF-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TSF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TSF-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="TSF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s1w8">
@@ -509,8 +509,8 @@
 <tag>
 <AM lemma="TSF-2_:B_;K_,t_^(port._rádio)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TSF-1_:B_,t_^(télégrephie_sans_fil)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="TSF-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TSF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TSF-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="TSF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s2w3">
@@ -717,8 +717,8 @@
 <form>SABC</form>
 <tag>
 <AM lemma="SABC_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SABC-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SABC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SABC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s4w5">
@@ -940,8 +940,8 @@
 <form>UNITA</form>
 <tag>
 <AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s4w32">
@@ -994,8 +994,8 @@
 <form>UNITA</form>
 <tag>
 <AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s5w5">
@@ -1144,8 +1144,8 @@
 <form>UNITA</form>
 <tag>
 <AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s6w14">
@@ -1204,8 +1204,8 @@
 <form>UNITA</form>
 <tag>
 <AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s6w21">
@@ -1286,8 +1286,8 @@
 <form>UNITA</form>
 <tag>
 <AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s7w6">
@@ -2028,8 +2028,8 @@
 <form>SEČ</form>
 <tag>
 <AM lemma="SEČ-1_:B_^(středoevropský_čas)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SEČ-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SEČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SEČ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SEČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p5s3w20">
@@ -2523,8 +2523,8 @@
 <form>ČSTK</form>
 <tag>
 <AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSTK-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p6s3w2">
@@ -2575,8 +2575,8 @@
 <form>FMZV</form>
 <tag>
 <AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMZV-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMZV-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p6s3w8">
@@ -2613,8 +2613,8 @@
 <form>FMZV</form>
 <tag>
 <AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMZV-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMZV-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p6s4w4">

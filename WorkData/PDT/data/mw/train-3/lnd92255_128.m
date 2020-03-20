@@ -547,7 +547,7 @@
 <form>ČFL</form>
 <tag>
 <AM lemma="ČFL-1_:B_;K_^(Česká_fotbalová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČFL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČFL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-128-p4s1w4">
@@ -3861,7 +3861,7 @@
 <form>MSFL</form>
 <tag>
 <AM lemma="MSFL_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MSFL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MSFL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-128-p5s11w17">
@@ -3872,7 +3872,7 @@
 <form>VP</form>
 <tag>
 <AM lemma="VP-1_:B_^(viceprezident)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="VP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-128-p5s11w18">
@@ -5363,7 +5363,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-128-p6s7w7">

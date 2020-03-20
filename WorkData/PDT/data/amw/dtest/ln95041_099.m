@@ -5715,7 +5715,7 @@
 <tag>
 <AM lemma="GAAP_:B_^(Generaly_Accepted_Accounting_Principles)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="GAAP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="GAAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GAAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-099-p11s1w28">
@@ -5800,7 +5800,7 @@
 <tag>
 <AM lemma="IAS_:B_^(International_Acounting_Standards)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IAS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-099-p11s1w36">

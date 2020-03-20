@@ -31,7 +31,7 @@
 <form>DPI</form>
 <tag>
 <AM lemma="DPI-1_:B_,t_^(dots_per_inch)" src="orig">NNNXX-----A----</AM>
-<AM lemma="DPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p2s1w2">
@@ -698,7 +698,7 @@
 <form>dpi</form>
 <tag>
 <AM lemma="dpi_:B_,t_^(dot_per_inch)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="dpi-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dpi-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p2s3w6">
@@ -1669,7 +1669,7 @@
 <form>PCI</form>
 <tag>
 <AM lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s1w2">
@@ -2217,7 +2217,7 @@
 <form>ISA</form>
 <tag>
 <AM lemma="Isa_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="ISA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s5w4">
@@ -2236,7 +2236,7 @@
 <form>EISA</form>
 <tag>
 <AM lemma="EISA-1_:B_,t_^(Extended_Industry_Standard_Archiecture)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EISA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s5w6">
@@ -2255,7 +2255,7 @@
 <form>MCA</form>
 <tag>
 <AM lemma="MCA-2_:B_,t_^(microchannel_architekture)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s5w8">
@@ -2442,7 +2442,7 @@
 <form>PCI</form>
 <tag>
 <AM lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s5w31">
@@ -2828,7 +2828,7 @@
 <form>ISA</form>
 <tag>
 <AM lemma="Isa_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="ISA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s7w14">
@@ -2889,7 +2889,7 @@
 <form>PCI</form>
 <tag>
 <AM lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s8w7">

@@ -190,7 +190,7 @@
 <form>STV</form>
 <tag>
 <AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-118-p3s1Bw13">
@@ -342,7 +342,7 @@
 <form>STV</form>
 <tag>
 <AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-118-p3s2w18">
@@ -1073,7 +1073,7 @@
 <form>STV</form>
 <tag>
 <AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-118-p3s6w24">

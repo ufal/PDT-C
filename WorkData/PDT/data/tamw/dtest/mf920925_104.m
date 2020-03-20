@@ -968,7 +968,7 @@
 <AM lemma="SID_:B_;K_,t_^(tajná_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Sido_;G" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="SID_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SID-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-104-p3s2w28">

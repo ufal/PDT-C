@@ -1893,7 +1893,7 @@
 <form>MTV</form>
 <tag>
 <AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-93-p3s5w16">
@@ -1986,7 +1986,7 @@
 <form>čtk</form>
 <tag>
 <AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="čtk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="čtk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-93-p3s6w3">
@@ -2005,7 +2005,7 @@
 <form>jaf</form>
 <tag>
 <AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jaf-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-93-p3s6w5">

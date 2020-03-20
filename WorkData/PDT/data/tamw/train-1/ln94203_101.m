@@ -170,7 +170,7 @@
 <form>NLN</form>
 <tag>
 <AM lemma="NLN-2_:B_;R_^(Nedělní_Lidové_Noviny)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="NLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-101-p2s1w15">
@@ -1740,7 +1740,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="WC-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="WC" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -2045,7 +2045,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="WC-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="WC" src="manual">NNXXX-----A----</AM>
 <AM lemma="WC" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
@@ -3636,7 +3636,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-101-p8s1w2">
@@ -3655,7 +3655,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-101-p8s1w4">

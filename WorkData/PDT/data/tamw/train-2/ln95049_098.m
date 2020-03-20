@@ -790,7 +790,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-098-p3s2w7">
@@ -1268,7 +1268,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-098-p3s7w5">

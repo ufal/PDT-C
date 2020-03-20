@@ -1827,7 +1827,7 @@
 <AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-108-p1s9w11">
@@ -1906,7 +1906,7 @@
 <AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-108-p1s10w3">
@@ -2389,7 +2389,7 @@
 <AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-108-p1s13w7">
@@ -2825,7 +2825,7 @@
 <AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-108-p1s15w13">

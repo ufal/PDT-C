@@ -594,7 +594,7 @@
 <tag>
 <AM lemma="ČTS_:B_;K_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČTS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČTS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-099-p2s3w20">

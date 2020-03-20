@@ -1114,7 +1114,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-002-p12s1w9">
@@ -1133,7 +1133,7 @@
 <form>PVT</form>
 <tag>
 <AM lemma="PVT-1_:B_;K_^(Podnik_výpočetní_techniky)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PVT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-002-p12s1w11">
@@ -3825,7 +3825,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-002-p19s1w24">

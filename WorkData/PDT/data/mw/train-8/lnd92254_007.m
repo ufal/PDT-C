@@ -29,7 +29,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-007-p1s1w3">
@@ -66,7 +66,7 @@
 <form>FNS</form>
 <tag>
 <AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

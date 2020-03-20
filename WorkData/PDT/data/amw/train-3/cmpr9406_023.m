@@ -79,7 +79,7 @@
 <form>OKI</form>
 <tag>
 <AM lemma="OKI_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OKI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OKI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p2s1w6">
@@ -101,7 +101,7 @@
 <AM lemma="OF_:B_;K_;p_^(Občanské_fórum)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="auto">RR--X----------</AM>
 <AM lemma="OF-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="OF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p2s1w8">
@@ -157,7 +157,7 @@
 <AM lemma="LED_:B_;c_,t_^(light_emitting_diode)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="led" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="led" src="auto">NNIS4-----A----</AM>
-<AM lemma="LED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p3s1w5">
@@ -290,7 +290,7 @@
 <form>ECM</form>
 <tag>
 <AM lemma="ECM-3_:B_,t_^(Error_Correction_Mode,_mód_u_faxů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ECM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p5s1w5">

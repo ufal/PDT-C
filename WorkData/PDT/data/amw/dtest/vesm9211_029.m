@@ -1350,7 +1350,7 @@
 <form>př</form>
 <tag>
 <AM lemma="před-1_:B" src="orig">RR--7---------8</AM>
-<AM lemma="př-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="př-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="před-1" src="manual" selected="1">RR--7---------8</AM>
 </tag>
 </m>

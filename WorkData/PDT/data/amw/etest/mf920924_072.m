@@ -127,7 +127,7 @@
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
 <AM lemma="MI_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Mi_;R_^(vrtulník)" src="manual">NNIXX-----A----</AM>
-<AM lemma="MI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-072-p2s2w5">

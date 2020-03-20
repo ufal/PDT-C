@@ -637,7 +637,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-011-p5s1w5">
@@ -1282,7 +1282,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-011-p5s5w11">
@@ -1374,7 +1374,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-011-p5s5w22">
@@ -1444,7 +1444,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-011-p6s1w8">
@@ -1783,7 +1783,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-011-p6s4w15">
@@ -2523,7 +2523,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2609,7 +2609,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2706,7 +2706,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2790,7 +2790,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2867,7 +2867,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2896,7 +2896,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-011-p13s1w4">

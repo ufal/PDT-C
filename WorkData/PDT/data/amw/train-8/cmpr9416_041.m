@@ -3296,7 +3296,7 @@
 <AM lemma="ET_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Eta-2_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="et_,t_^(latinsky_spojka_a)" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ET-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-041-p12s2w13">
@@ -3557,7 +3557,7 @@
 <AM lemma="ET_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Eta-2_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="et_,t_^(latinsky_spojka_a)" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ET-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-041-p13s2w2">

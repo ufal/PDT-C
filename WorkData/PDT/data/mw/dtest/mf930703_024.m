@@ -203,7 +203,7 @@
 <AM lemma="CCC-2_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CCC-1_:B_;K_,t_^(Central_Control_Commission)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="chlorcholinchlorid_:B_;H" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CCC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CCC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-024-p3s1w15">
@@ -236,7 +236,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-024-p3s1w18">

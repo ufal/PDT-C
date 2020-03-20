@@ -928,7 +928,7 @@
 <AM lemma="GL-2_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GL-1_:B_^(glejová_půda)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="GL-2_;B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="GL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-120-p4s3w4">

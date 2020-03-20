@@ -395,7 +395,7 @@
 <form>RPF</form>
 <tag>
 <AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-059-p1s4w15">
@@ -486,7 +486,7 @@
 <form>RPF</form>
 <tag>
 <AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-059-p1s4w26">
@@ -588,7 +588,7 @@
 <tag>
 <AM lemma="RPF-2_:B_;K_,t_^(Rwandan_Patriotic_Front)" src="orig">NNNXX-----A----</AM>
 <AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="RPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-059-p1s5w2">
@@ -1267,7 +1267,7 @@
 <form>MVČK</form>
 <tag>
 <AM lemma="MVČK_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MVČK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MVČK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-059-p1s8w5">

@@ -651,7 +651,7 @@
 <AM lemma="DBV-2_:B_;K_,t_^(DBV_Cycles)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="DBV-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DBV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-026-p8s1w3">
@@ -1058,7 +1058,7 @@
 <AM lemma="DBV-2_:B_;K_,t_^(DBV_Cycles)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="DBV-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DBV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-026-p9s1w4">

@@ -132,7 +132,7 @@
 <tag>
 <AM lemma="Olomouc_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ola_;G_;Y_^(i_Joškar-Ola)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Ol-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ol-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-110-p2s3w4">
@@ -310,7 +310,7 @@
 <AM lemma="jih" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jih" src="auto">NNIS4-----A----</AM>
 <AM lemma="jihnout" src="auto">VpYS----R-AAI-6</AM>
-<AM lemma="Jih-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Jih-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-110-p2s4Bw4">
@@ -591,7 +591,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-110-p3s3w4">
@@ -863,7 +863,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-110-p3s4Bw4">
@@ -1088,7 +1088,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-110-p4s3w4">
@@ -1423,7 +1423,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-110-p4s4Bw6">
@@ -1967,7 +1967,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-110-p5s3w4">
@@ -2191,7 +2191,7 @@
 <tag>
 <AM lemma="Plzeň_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="plurál_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Pl-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Pl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-110-p5s4Bw4">

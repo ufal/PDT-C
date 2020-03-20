@@ -54,7 +54,7 @@
 <tag>
 <AM lemma="Envibrno_;m" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="ENVIBRNO-77" src="manual">F%-------------</AM>
-<AM lemma="ENVIBRNO-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ENVIBRNO-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p1s1w5">
@@ -763,7 +763,7 @@
 <tag>
 <AM lemma="IFABO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="IFABO_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IFABO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IFABO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p4s1w23">
@@ -1485,7 +1485,7 @@
 <AM lemma="BVV_:B_;K" src="auto">NNIPX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto">NNIXX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p5s1w25">
@@ -1908,7 +1908,7 @@
 <form>ENVIBRNO</form>
 <tag>
 <AM lemma="Envibrno_;m" src="orig" selected="1">NNNS1-----A----</AM>
-<AM lemma="ENVIBRNO-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ENVIBRNO-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p6s1w11">

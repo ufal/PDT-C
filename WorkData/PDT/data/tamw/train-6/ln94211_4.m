@@ -50,7 +50,7 @@
 <form>ROM</form>
 <tag>
 <AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ROM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ROM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-4-p2s1w4">
@@ -343,7 +343,7 @@
 <form>ROM</form>
 <tag>
 <AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ROM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ROM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-4-p2s3w8">

@@ -341,7 +341,7 @@
 <AM lemma="ECU_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ECU_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-65-p2s2w10">
@@ -441,7 +441,7 @@
 <AM lemma="ECU_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ECU_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-65-p2s2w21">
@@ -776,7 +776,7 @@
 <AM lemma="ECU_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ECU_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-65-p2s4w16">
@@ -1360,7 +1360,7 @@
 <AM lemma="ECU_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ECU_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-65-p3s4w22">
@@ -2575,7 +2575,7 @@
 <AM lemma="ECU_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ECU_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-65-p5s4w8">
@@ -3769,7 +3769,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-65-p7s1w28">

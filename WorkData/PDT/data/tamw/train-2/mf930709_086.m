@@ -755,7 +755,7 @@
 <AM lemma="Olympique_:B_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Ola_;G_;Y_^(i_Joškar-Ola)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="olympique_:B_,t" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Ol-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ol-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-086-p2s2Bw11">

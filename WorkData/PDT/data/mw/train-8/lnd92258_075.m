@@ -2489,7 +2489,7 @@
 <form>ZVL</form>
 <tag>
 <AM lemma="ZVL_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ZVL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZVL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p5s3w49">
@@ -2508,7 +2508,7 @@
 <form>ZKL</form>
 <tag>
 <AM lemma="ZKL-1_:B_;K_^(Závody_kuličkových_ložisek)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ZKL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZKL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p5s3w51">
@@ -6157,7 +6157,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s7w5">
@@ -6536,7 +6536,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s8w17">
@@ -6830,7 +6830,7 @@
 <AM lemma="SAME_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Sam_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="same_,t" src="auto" recommended="1">XX-------------</AM>
-<AM lemma="SAME-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SAME-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s11w15">
@@ -7081,7 +7081,7 @@
 <form>UŘ</form>
 <tag>
 <AM lemma="UŘ_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UŘ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s11w46">
@@ -7366,7 +7366,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
-<AM lemma="JAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s12w12">
@@ -7872,7 +7872,7 @@
 <form>ISO</form>
 <tag>
 <AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ISO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ISO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s15w16">

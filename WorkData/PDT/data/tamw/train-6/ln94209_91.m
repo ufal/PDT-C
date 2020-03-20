@@ -82,7 +82,7 @@
 <form>Open</form>
 <tag>
 <AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Open-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Open-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -398,7 +398,7 @@
 <form>Open</form>
 <tag>
 <AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Open-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Open-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3226,7 +3226,7 @@
 <form>BVV</form>
 <tag>
 <AM lemma="BVV_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-91-p4s13w13">

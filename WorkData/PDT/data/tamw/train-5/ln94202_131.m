@@ -590,7 +590,7 @@
 <form>ADR</form>
 <tag>
 <AM lemma="ADR-1_:B_;K_,t_^(Mezin._úmluva_o_přepravě_nebezp._zboží)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ADR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ADR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-131-p3s1w30">

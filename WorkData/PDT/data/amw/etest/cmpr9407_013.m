@@ -1064,7 +1064,7 @@
 <tag>
 <AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="DPH-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="DPH-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

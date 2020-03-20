@@ -1001,7 +1001,7 @@
 <form>WTS</form>
 <tag>
 <AM lemma="WTS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="WTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="WTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-051-p1s7w13">

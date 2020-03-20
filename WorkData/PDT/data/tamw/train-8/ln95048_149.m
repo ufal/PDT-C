@@ -21,7 +21,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-149-p1s1w2">
@@ -279,7 +279,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-149-p2s1Bw26">
@@ -798,7 +798,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-149-p2s3w27">
@@ -1088,7 +1088,7 @@
 <form>FDP</form>
 <tag>
 <AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-149-p2s5w12">

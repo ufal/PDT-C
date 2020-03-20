@@ -317,7 +317,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p4s2w7">
@@ -720,7 +720,7 @@
 <AM lemma="sérum" src="auto">NNNP2-----A----</AM>
 <AM lemma="SER_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SER-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SER-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SER-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p4s4w15">
@@ -1208,7 +1208,7 @@
 <AM lemma="sérum" src="auto">NNNP2-----A----</AM>
 <AM lemma="SER_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SER-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SER-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SER-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p6s2w13">
@@ -1496,7 +1496,7 @@
 <AM lemma="srát" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="sérum" src="auto">NNNP2-----A----</AM>
 <AM lemma="SER-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SER-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SER-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p6s3w5">
@@ -1562,7 +1562,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p7s1w2">
@@ -1581,7 +1581,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-9_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p7s1w4">
@@ -2001,7 +2001,7 @@
 <form>CS</form>
 <tag>
 <AM lemma="CS-1_:B_;G_^(mez._zkr._Československa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s3w22">
@@ -2176,7 +2176,7 @@
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="br-1_:B_,t_^(brand,_obchodní_značka,_známka,_jakost,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="BR-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="BR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s4w19">
@@ -2220,7 +2220,7 @@
 <tag>
 <AM lemma="DK_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s4w24">
@@ -2265,7 +2265,7 @@
 <AM lemma="MEX_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="mexický-8_:B" src="auto" recommended="1">Xx-------------</AM>
 <AM lemma="MEX_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MEX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MEX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s4w29">
@@ -2316,7 +2316,7 @@
 <AM lemma="PL-6_:B_;K_,t_^(tisková_agentura_Prensa_Latina)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="plurál_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PL-7_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s4w34">
@@ -2409,7 +2409,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s5w8">
@@ -2428,7 +2428,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s5w10">

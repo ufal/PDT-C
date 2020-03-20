@@ -149,7 +149,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
-<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-029-p2s1w10">
@@ -753,7 +753,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
-<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-029-p2s4w23">
@@ -1364,7 +1364,7 @@
 <form>RM</form>
 <tag>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-029-p2s9w17">
@@ -1450,7 +1450,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
-<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-029-p2s9w27">
@@ -1877,7 +1877,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
-<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-029-p2s12w2">
@@ -2107,7 +2107,7 @@
 <AM lemma="IB_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
-<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-029-p2s14w5">

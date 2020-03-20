@@ -145,7 +145,7 @@
 <form>MDP</form>
 <tag>
 <AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-110-p2s1Bw8">
@@ -883,7 +883,7 @@
 <form>MDP</form>
 <tag>
 <AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-110-p4s3w26">
@@ -1704,7 +1704,7 @@
 <form>MDP</form>
 <tag>
 <AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-110-p7s1w5">
@@ -2674,7 +2674,7 @@
 <form>MDP</form>
 <tag>
 <AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-110-p8s6w12">
@@ -3611,7 +3611,7 @@
 <form>MDP</form>
 <tag>
 <AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-110-p11s1w2">
@@ -4152,7 +4152,7 @@
 <form>MDP</form>
 <tag>
 <AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-110-p13s1w4">

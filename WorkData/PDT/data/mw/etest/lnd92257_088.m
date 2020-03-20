@@ -69,7 +69,7 @@
 <form>JDC</form>
 <tag>
 <AM lemma="JDC_:B_;K_,t_^(židovská_org._Joint_Distribution_Committee)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="JDC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JDC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-088-p1s1w8">

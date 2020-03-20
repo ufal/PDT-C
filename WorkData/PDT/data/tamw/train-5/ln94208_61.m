@@ -3715,7 +3715,7 @@
 <form>CPT</form>
 <tag>
 <AM lemma="CPT-2_:B_;H_^(cytidintrifosfát)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-61-p6s8w8">
@@ -5110,7 +5110,7 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="BBC_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

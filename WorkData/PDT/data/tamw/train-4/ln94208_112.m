@@ -55,7 +55,7 @@
 <form>mmz</form>
 <tag>
 <AM lemma="mmz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mmz-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="mmz-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="mmz-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -235,7 +235,7 @@
 <form>MZ</form>
 <tag>
 <AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-112-p2s1Bw17">
@@ -545,7 +545,7 @@
 <tag>
 <AM lemma="trenér_:B" src="orig">NNMXX-----A---8</AM>
 <AM lemma="trestní_:B_^(řád,_odpovědnost)" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="tr-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-112-p2s2w15">

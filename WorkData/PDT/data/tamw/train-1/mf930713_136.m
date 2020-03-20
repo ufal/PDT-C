@@ -497,7 +497,7 @@
 <form>ČČK</form>
 <tag>
 <AM lemma="ČČK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČČK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČČK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-136-p2s4w8">
@@ -755,7 +755,7 @@
 <form>ČČK</form>
 <tag>
 <AM lemma="ČČK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČČK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČČK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-136-p2s5w16">

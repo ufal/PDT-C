@@ -750,7 +750,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-170-p4s1w6">
@@ -1913,7 +1913,7 @@
 <tag>
 <AM lemma="start" src="orig">NNIS1-----A----</AM>
 <AM lemma="START_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="START-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="START-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-170-p8s1w15">

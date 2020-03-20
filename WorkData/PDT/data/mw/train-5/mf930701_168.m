@@ -127,7 +127,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-168-p2s1w10">
@@ -250,7 +250,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-168-p2s1w25">
@@ -921,7 +921,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-168-p3s4w18">
@@ -1814,7 +1814,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-168-p4s4w17">
@@ -1915,7 +1915,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-168-p4s5w9">
@@ -2248,7 +2248,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-168-p5s1w7">
@@ -2711,7 +2711,7 @@
 <form>RE</form>
 <tag>
 <AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-168-p5s3w10">

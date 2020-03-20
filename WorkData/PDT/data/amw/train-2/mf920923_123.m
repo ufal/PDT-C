@@ -23,7 +23,7 @@
 <AM lemma="VS_:B_;K_^(Valné_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="VS_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="versus_:B_,t" src="auto" recommended="1">RR--1---------8</AM>
-<AM lemma="VS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-123-p1s1Aw2">

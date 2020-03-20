@@ -45,7 +45,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-119-p1s1w5">
@@ -64,7 +64,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-119-p1s1w7">
@@ -83,7 +83,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-119-p1s1w9">
@@ -300,7 +300,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-119-p2s2w3">
@@ -319,7 +319,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-119-p2s2w5">
@@ -338,7 +338,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-119-p2s2w7">
@@ -603,8 +603,8 @@
 <AM lemma="Uh_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Uh_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="uherský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="Uh-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Uh-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Uh-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Uh-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-119-p2s2w39">

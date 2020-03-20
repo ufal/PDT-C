@@ -933,7 +933,7 @@
 <AM lemma="CCS_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CCS_:B_^(karta)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="CCS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="CCS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CCS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-074-p1s4w28">

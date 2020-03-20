@@ -861,7 +861,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-040-p4s1w7">
@@ -1388,7 +1388,7 @@
 <form>AN</form>
 <tag>
 <AM lemma="AN_:B_;R_^(Antonov,_typ_letadla)" src="orig">NNIXX-----A----</AM>
-<AM lemma="AN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-040-p4s3w23">

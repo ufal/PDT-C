@@ -1295,7 +1295,7 @@
 <AM lemma="Uh_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Uh_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="uherský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="Uh-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Uh-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-82-p2s9w15">

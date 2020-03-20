@@ -948,7 +948,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p2s5w34">
@@ -1353,7 +1353,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p3s1w15">
@@ -1534,7 +1534,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p3s2w10">
@@ -1630,7 +1630,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p3s4w3">
@@ -3062,7 +3062,7 @@
 <form>ÚSMD</form>
 <tag>
 <AM lemma="ÚSMD-1_:B_;K_^(Ústav_silniční_a_městské_dopravy)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚSMD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚSMD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p5s3w12">
@@ -3107,7 +3107,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p5s4w5">
@@ -3436,7 +3436,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p5s7w3">
@@ -3783,7 +3783,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p6s3w3">
@@ -4219,7 +4219,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p7s1w3">
@@ -4363,7 +4363,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p7s2w13">
@@ -5091,7 +5091,7 @@
 <form>STK</form>
 <tag>
 <AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-098-p9s1w4">

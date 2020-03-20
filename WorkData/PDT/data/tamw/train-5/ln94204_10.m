@@ -21,7 +21,7 @@
 <form>SIF</form>
 <tag>
 <AM lemma="SIF_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-10-p1s1w2">
@@ -1289,7 +1289,7 @@
 <form>SIF</form>
 <tag>
 <AM lemma="SIF_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-10-p5s2w15">
@@ -1556,7 +1556,7 @@
 <form>SIF</form>
 <tag>
 <AM lemma="SIF_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-10-p5s3w25">
@@ -2211,7 +2211,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -3384,7 +3384,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -3531,7 +3531,7 @@
 <form>AOS</form>
 <tag>
 <AM lemma="AOS-1_:B_^(automatizovaný_obchodní_systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-10-p8s1w23">
@@ -3655,7 +3655,7 @@
 <form>AOS</form>
 <tag>
 <AM lemma="AOS-1_:B_^(automatizovaný_obchodní_systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-10-p8s4w8">

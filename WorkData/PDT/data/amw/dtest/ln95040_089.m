@@ -1493,7 +1493,7 @@
 <form>PFP</form>
 <tag>
 <AM lemma="PFP-1_:B_,t_^(prefetch_processor)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-089-p6s1w10">

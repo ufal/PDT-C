@@ -515,7 +515,7 @@
 <AM lemma="Lukko_;K" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Lukko_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Lukko_;K" src="auto">NNNS5-----A----</AM>
-<AM lemma="Lukko-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lukko-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Lukko-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4855,7 +4855,7 @@
 <form>IIHF</form>
 <tag>
 <AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IIHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-130-p5s2w14">

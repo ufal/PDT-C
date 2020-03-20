@@ -190,7 +190,7 @@
 <form>FRYMA</form>
 <tag>
 <AM lemma="FRYMA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FRYMA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FRYMA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -2992,7 +2992,7 @@
 <form>BT</form>
 <tag>
 <AM lemma="BT-3_:B_^(baryton)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-055-p5s2w14">

@@ -766,7 +766,7 @@
 <form>PX</form>
 <tag>
 <AM lemma="PX_:B_^(index)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-165-p2s5w3">
@@ -1819,7 +1819,7 @@
 <form>PX</form>
 <tag>
 <AM lemma="PX_:B_^(index)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-165-p3s5w10">
@@ -2571,7 +2571,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-165-p4s2w5">
@@ -2992,7 +2992,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-165-p5s1w21">
@@ -3030,7 +3030,7 @@
 <form>IF</form>
 <tag>
 <AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-165-p5s1w25">
@@ -3061,7 +3061,7 @@
 <AM lemma="in-1_,t_^(angl._v)" src="auto">RR--X----------</AM>
 <AM lemma="in-2_,h_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="IN_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-165-p5s1w28">
@@ -3287,7 +3287,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-165-p6s2w9">

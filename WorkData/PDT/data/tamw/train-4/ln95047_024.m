@@ -860,7 +860,7 @@
 <AM lemma="Lask_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Lask_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="LASK_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LASK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LASK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-024-p3s2w30">
@@ -1394,7 +1394,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-024-p4s3w6">
@@ -1905,7 +1905,7 @@
 <tag>
 <AM lemma="VTJ_:B_;K_^(vojenská_tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="VTJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VTJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-024-p6s1w13">

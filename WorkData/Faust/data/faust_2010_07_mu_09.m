@@ -1272,7 +1272,7 @@
 <form>CIAF</form>
 <tag>
 <AM lemma="CIAF">X@-------------</AM>
-<AM lemma="CIAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_09-SCzechM-p0895-s1-w6">
@@ -1310,7 +1310,7 @@
 <form>HKD</form>
 <tag>
 <AM lemma="HKD-1_:B_^(hongkongský_dolar)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="HKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_09-SCzechM-p0895-s1-w11">
@@ -1576,7 +1576,7 @@
 <form>HKD</form>
 <tag>
 <AM lemma="HKD-1_:B_^(hongkongský_dolar)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="HKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_09-SCzechM-p0895-s1-w36">
@@ -2087,7 +2087,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="m-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -3375,7 +3375,7 @@
 </w.rf>
 <form>Na</form>
 <tag>
-<AM lemma="Na-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="Na-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
@@ -4356,7 +4356,7 @@
 <AM lemma="IP-1_:B_^(ilimerizovaná_půda)">NNFXX-----A---8</AM>
 <AM lemma="IP-3_:B_,t_^(instruction_pointer)">NNIXX-----A---8</AM>
 <AM lemma="IP-4_:B_,t_^(internet_protokol)">NNIXX-----A---8</AM>
-<AM lemma="IP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_09-SCzechM-p0933-s1-w4">
@@ -4907,7 +4907,7 @@
 <AM lemma="obchodní_:B_^(jen_obch._společnost)">AAFXX----1A---8</AM>
 <AM lemma="okresní_:B">AAXXX----1A---8</AM>
 <AM lemma="omezený_:B">AANS7----1A---8</AM>
-<AM lemma="o-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="o-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -5532,7 +5532,7 @@
 <form>ok</form>
 <tag>
 <AM lemma="oko" recommended="1">NNNP2-----A----</AM>
-<AM lemma="ok-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ok-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_09-SCzechM-p0947-s1-w11">

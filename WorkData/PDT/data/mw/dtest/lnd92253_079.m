@@ -88,7 +88,7 @@
 <tag>
 <AM lemma="versus_:B" src="orig">RR--1----------</AM>
 <AM lemma="versus_:B_,t_,x" src="auto" recommended="1">RR--1---------8</AM>
-<AM lemma="vers-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="vers-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-079-p2s1w4">
@@ -399,7 +399,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-079-p2s3w8">
@@ -790,7 +790,7 @@
 <AM lemma="Hradec-2_:B_;G" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="hr-1" src="auto">Db-------------</AM>
 <AM lemma="hr-2" src="auto">II-------------</AM>
-<AM lemma="Hr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Hr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-079-p2s5w10">
@@ -1248,7 +1248,7 @@
 <AM lemma="Hradec-2_:B_;G" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="hr-1" src="auto">Db-------------</AM>
 <AM lemma="hr-2" src="auto">II-------------</AM>
-<AM lemma="Hr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Hr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-079-p2s8w33">
@@ -1283,7 +1283,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-079-p2s9w4">

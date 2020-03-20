@@ -3467,7 +3467,7 @@
 <form>PSSZ</form>
 <tag>
 <AM lemma="PSSZ_:B_;K_^(Pražská_správa_sociálního_zabezpečení)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSSZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSSZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-078-p1s21w10">

@@ -1281,7 +1281,7 @@
 <form>UPI</form>
 <tag>
 <AM lemma="UPI-1_:B_;K_,t_^(United_Press_International)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UPI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-159-p5s3w18">

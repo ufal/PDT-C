@@ -539,7 +539,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-019-p1s6w2">
@@ -850,7 +850,7 @@
 <form>DVTV</form>
 <tag>
 <AM lemma="DVTV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DVTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DVTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-019-p1s8w14">

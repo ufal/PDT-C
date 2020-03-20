@@ -317,7 +317,7 @@
 <form>STV</form>
 <tag>
 <AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-046-p1s2w5">

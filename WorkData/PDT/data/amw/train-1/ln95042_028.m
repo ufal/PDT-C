@@ -2271,7 +2271,7 @@
 <tag>
 <AM lemma="AHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AHL_:B_;K_^(Hockey_League)" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="AHL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-028-p2s9w19">

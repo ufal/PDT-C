@@ -233,7 +233,7 @@
 <form>SDA</form>
 <tag>
 <AM lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SDA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-044-p1s3w21">
@@ -468,7 +468,7 @@
 <form>SDA</form>
 <tag>
 <AM lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SDA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-044-p1s5w3">
@@ -716,7 +716,7 @@
 <form>SDA</form>
 <tag>
 <AM lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SDA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-044-p1s6w24">

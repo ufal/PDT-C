@@ -212,7 +212,7 @@
 <form>INVEX</form>
 <tag>
 <AM lemma="Invex_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="INVEX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="INVEX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p3s1w9">
@@ -761,8 +761,8 @@
 <form>VAAZ</form>
 <tag>
 <AM lemma="VAAZ_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="VAAZ-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="VAAZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VAAZ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="VAAZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p4s1w15">
@@ -1015,7 +1015,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p4s2w13">
@@ -1406,7 +1406,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p4s4w15">
@@ -2799,7 +2799,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s2w9">
@@ -4152,7 +4152,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s6w35">
@@ -4333,7 +4333,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s7w20">

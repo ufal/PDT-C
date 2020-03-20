@@ -127,7 +127,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-029-p2s2w11">
@@ -597,7 +597,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-029-p2s6w6">
@@ -2111,7 +2111,7 @@
 <form>ASCII</form>
 <tag>
 <AM lemma="ASCII-1_:B_;K_^(Am._Std._Code_for_Inf._Interchange)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ASCII-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ASCII-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-029-p7s2w12">
@@ -3514,7 +3514,7 @@
 <form>DD</form>
 <tag>
 <AM lemma="DD-3_:B_,t_^(double_density)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-029-p14s1w13">
@@ -3533,7 +3533,7 @@
 <form>HD</form>
 <tag>
 <AM lemma="HD-2_:B_,t_^(high_density)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="HD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-029-p14s1w15">
@@ -3794,7 +3794,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-029-p14s2w7">

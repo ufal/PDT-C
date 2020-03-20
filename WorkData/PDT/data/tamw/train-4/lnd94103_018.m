@@ -701,7 +701,7 @@
 <form>SAVS</form>
 <tag>
 <AM lemma="SAVS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SAVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SAVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-018-p1s6w19">

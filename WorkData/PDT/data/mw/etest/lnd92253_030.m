@@ -185,7 +185,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p3s1w15">
@@ -790,7 +790,7 @@
 <form>SNKPV</form>
 <tag>
 <AM lemma="SNKPV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNKPV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNKPV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p4s2w19">
@@ -1360,7 +1360,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p4s6w14">
@@ -1379,7 +1379,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p4s6w16">
@@ -1398,7 +1398,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p4s6w18">
@@ -1745,7 +1745,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p5s3w3">
@@ -2186,7 +2186,7 @@
 <form>SNKPV</form>
 <tag>
 <AM lemma="SNKPV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNKPV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SNKPV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p5s6w9">
@@ -3121,7 +3121,7 @@
 <form>ČSAV</form>
 <tag>
 <AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p6s2w27">

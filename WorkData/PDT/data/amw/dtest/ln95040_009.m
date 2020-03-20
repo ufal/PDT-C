@@ -3847,7 +3847,7 @@
 <form>ČN</form>
 <tag>
 <AM lemma="ČN_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-009-p9s1w8">
@@ -4015,7 +4015,7 @@
 <AM lemma="pr" src="auto">II-------------</AM>
 <AM lemma="právo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="pr-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="pr-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-009-p9s2w8">
@@ -4026,7 +4026,7 @@
 <form>EN</form>
 <tag>
 <AM lemma="Ena_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="EN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-009-p9s2w9">
@@ -4295,7 +4295,7 @@
 <form>ČN</form>
 <tag>
 <AM lemma="ČN_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-009-p9s3w12">

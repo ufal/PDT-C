@@ -1690,7 +1690,7 @@
 <form>Sk</form>
 <tag>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p6s1w13">

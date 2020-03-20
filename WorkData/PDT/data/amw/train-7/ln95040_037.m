@@ -315,7 +315,7 @@
 <form>AEG</form>
 <tag>
 <AM lemma="AEG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-037-p2s1w33">
@@ -743,7 +743,7 @@
 <form>AEG</form>
 <tag>
 <AM lemma="AEG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-037-p2s4w3">
@@ -1186,7 +1186,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;K_^(České_dráhy)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="ČD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-037-p2s6Bw6">

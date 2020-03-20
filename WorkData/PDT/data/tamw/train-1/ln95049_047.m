@@ -483,7 +483,7 @@
 <form>HIV</form>
 <tag>
 <AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="HIV-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

@@ -37,7 +37,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-152-p1s1w4">
@@ -872,7 +872,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-152-p3s2w15">

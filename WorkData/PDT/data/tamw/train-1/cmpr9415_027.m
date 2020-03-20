@@ -1943,7 +1943,7 @@
 <form>JIPO</form>
 <tag>
 <AM lemma="JIPO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="JIPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JIPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p8s2w13">
@@ -2079,7 +2079,7 @@
 <form>JIPO</form>
 <tag>
 <AM lemma="JIPO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="JIPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JIPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p8s3w9">

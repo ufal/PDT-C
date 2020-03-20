@@ -869,7 +869,7 @@
 <form>KF</form>
 <tag>
 <AM lemma="KF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-87-p3s2w13">

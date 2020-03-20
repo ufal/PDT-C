@@ -147,8 +147,8 @@
 <AM lemma="LP-1_:B_,t_^(deska,_samostatně,_př._vydali_LP_XY)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="LP-77" src="manual">F%-------------</AM>
-<AM lemma="LP-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="LP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p2s1w15">

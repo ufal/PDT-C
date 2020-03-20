@@ -209,7 +209,7 @@
 <form>YSE</form>
 <tag>
 <AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="YSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="YSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-045-p18s1w5">

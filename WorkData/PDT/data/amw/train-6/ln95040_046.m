@@ -1068,7 +1068,7 @@
 <form>KV</form>
 <tag>
 <AM lemma="KV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-046-p3s6w10">

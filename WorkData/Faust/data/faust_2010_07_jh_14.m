@@ -1033,7 +1033,7 @@
 <form>Ctrl</form>
 <tag>
 <AM lemma="control_:B_;c_,t" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Ctrl-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ctrl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_14-SCzechM-p1407-s1-w5">
@@ -4049,7 +4049,7 @@
 <form>CNY</form>
 <tag>
 <AM lemma="CNY-1_:B_,t_^(čínský_jüan,_měna)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="CNY-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CNY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_14-SCzechM-p1473-s1-w12">
@@ -4201,7 +4201,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)">AAXXX----1A---8</AM>
 <AM lemma="á_,t">RF------------1</AM>
-<AM lemma="a-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="a-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_14-SCzechM-p1474-s1-w6">

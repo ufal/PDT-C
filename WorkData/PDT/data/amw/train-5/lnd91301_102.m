@@ -1799,7 +1799,7 @@
 <form>LUV</form>
 <tag>
 <AM lemma="LUV_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="LUV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LUV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-102-p8s1w13">
@@ -1810,7 +1810,7 @@
 <form>Št</form>
 <tag>
 <AM lemma="Štýrský_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Št-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Št-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-102-p8s1w14">
@@ -1877,7 +1877,7 @@
 <form>DSV</form>
 <tag>
 <AM lemma="DSV_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="DSV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-102-p8s1w22">

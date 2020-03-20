@@ -348,7 +348,7 @@
 <tag>
 <AM lemma="Olympique_:B_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Ola_;G_;Y_^(i_Joškar-Ola)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Ol-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ol-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p2s2w20">
@@ -558,7 +558,7 @@
 <form>LKS</form>
 <tag>
 <AM lemma="LKS_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="LKS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LKS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p3s1w12">
@@ -1963,7 +1963,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p7s1w6">
@@ -1998,7 +1998,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p7s1w10">

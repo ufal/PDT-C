@@ -5775,7 +5775,7 @@
 <form>CBS</form>
 <tag>
 <AM lemma="CBS_:B_;K_,t_^(am._televizní_společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p9s2w20">
@@ -8898,7 +8898,7 @@
 <form>NBC</form>
 <tag>
 <AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p14s1w13">

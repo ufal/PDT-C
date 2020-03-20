@@ -534,7 +534,7 @@
 <tag>
 <AM lemma="IOC-1_:B_;K_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IOC-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IOC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IOC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s2w10">
@@ -716,7 +716,7 @@
 <tag>
 <AM lemma="IOC-1_:B_;K_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IOC-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IOC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IOC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s3w8">
@@ -816,7 +816,7 @@
 <tag>
 <AM lemma="IOC-1_:B_;K_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IOC-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IOC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IOC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s3w21">

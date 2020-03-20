@@ -465,7 +465,7 @@
 <tag>
 <AM lemma="PNP_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-105-p1s1Ew40">
@@ -1214,7 +1214,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-105-p1s5w10">
@@ -1233,7 +1233,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-105-p1s5w12">
@@ -1284,7 +1284,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-105-p1s5w18">
@@ -1303,7 +1303,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-105-p1s5w20">
@@ -1403,7 +1403,7 @@
 <tag>
 <AM lemma="PNP-4_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="PNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-105-p1s5w32">
@@ -2184,7 +2184,7 @@
 <tag>
 <AM lemma="PNP-4_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="PNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-105-p1s9w25">
@@ -2480,7 +2480,7 @@
 <tag>
 <AM lemma="PNP_:B_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="PNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PNP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-105-p1s10Bw11">

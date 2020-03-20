@@ -1416,7 +1416,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-63-p5s1w2">
@@ -1880,7 +1880,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-63-p5s4w15">
@@ -3311,7 +3311,7 @@
 <form>ŽB</form>
 <tag>
 <AM lemma="ŽB_:B_;K_^(Živnostenská_banka)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ŽB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ŽB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-63-p7s3w33">
@@ -3330,7 +3330,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-63-p7s3w35">
@@ -3397,7 +3397,7 @@
 <form>ŽB</form>
 <tag>
 <AM lemma="ŽB_:B_;K_^(Živnostenská_banka)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ŽB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ŽB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-63-p7s3w43">
@@ -3613,7 +3613,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-63-p7s5w6">
@@ -3632,7 +3632,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-63-p7s5w8">
@@ -3686,7 +3686,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-63-p7s5w14">

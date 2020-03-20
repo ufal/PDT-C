@@ -527,7 +527,7 @@
 <form>LF</form>
 <tag>
 <AM lemma="LF-1_:B_^(lékařská_fakulta)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-025-p2s2w34">
@@ -696,7 +696,7 @@
 <form>MZd</form>
 <tag>
 <AM lemma="MZd_:B_;K_;U_;p_^(min._zdravotnictví)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MZd-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MZd-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-025-p2s2w54">

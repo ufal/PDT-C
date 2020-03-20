@@ -1226,7 +1226,7 @@
 <form>KPVČ</form>
 <tag>
 <AM lemma="KPVČ-1_:B_;K_^(Konfederace_politických_vězňů_v_Čechách)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KPVČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KPVČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-052-p4s3w13">

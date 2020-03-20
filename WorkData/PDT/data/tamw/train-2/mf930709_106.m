@@ -333,7 +333,7 @@
 <form>AN</form>
 <tag>
 <AM lemma="AN_:B_;R_^(Antonov,_typ_letadla)" src="auto">NNIXX-----A----</AM>
-<AM lemma="AN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-106-p2s1Bw25">
@@ -368,7 +368,7 @@
 <form>AN</form>
 <tag>
 <AM lemma="AN_:B_;R_^(Antonov,_typ_letadla)" src="auto">NNIXX-----A----</AM>
-<AM lemma="AN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-106-p2s1Bw29">
@@ -403,7 +403,7 @@
 <form>AN</form>
 <tag>
 <AM lemma="AN_:B_;R_^(Antonov,_typ_letadla)" src="auto">NNIXX-----A----</AM>
-<AM lemma="AN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-106-p2s1Bw33">

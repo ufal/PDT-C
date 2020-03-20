@@ -2298,7 +2298,7 @@
 <form>EFT</form>
 <tag>
 <AM lemma="EFT">X@-------------</AM>
-<AM lemma="EFT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EFT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0481-s1-w2">
@@ -6699,7 +6699,7 @@
 <form>BMX</form>
 <tag>
 <AM lemma="BMX">X@-------------</AM>
-<AM lemma="BMX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0538-s1-w40">

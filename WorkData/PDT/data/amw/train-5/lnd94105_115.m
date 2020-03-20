@@ -584,7 +584,7 @@
 <tag>
 <AM lemma="RH_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="rhodium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-115-p1s6w8">

@@ -327,7 +327,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-110-p2s2w6">
@@ -1475,7 +1475,7 @@
 <tag>
 <AM lemma="IAAF_:B_;w_;K_^(Mez._atletická_federace)" src="orig">NNFXX-----A----</AM>
 <AM lemma="IAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IAAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IAAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-110-p2s10w6">

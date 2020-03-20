@@ -396,7 +396,7 @@
 <AM lemma="PBS-2_:B_;K_,t_^(Public_Broadcast_Service)" src="auto">NNISX-----A---8</AM>
 <AM lemma="PBS-3_:B_;K_,t_^(Prague_British_School)" src="auto">NNFSX-----A---8</AM>
 <AM lemma="PBS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="PBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p6s1w3">
@@ -639,7 +639,7 @@
 <form>IFAB</form>
 <tag>
 <AM lemma="IFAB_:B_;m" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IFAB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IFAB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p7s1w2">
@@ -1688,7 +1688,7 @@
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="d-5_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="d-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="d-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p12s1w7">
@@ -1711,7 +1711,7 @@
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="d-85_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="d-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="d-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p12s1w9">
@@ -2831,7 +2831,7 @@
 <form>BMT</form>
 <tag>
 <AM lemma="BMT_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="BMT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p17s1w2">
@@ -3365,7 +3365,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p19s1w9">
@@ -3384,7 +3384,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p19s1w11">
@@ -4188,7 +4188,7 @@
 <form>BG</form>
 <tag>
 <AM lemma="BG_:B_^(Bulharsko)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p23s1w12">

@@ -201,7 +201,7 @@
 <form>EAA</form>
 <tag>
 <AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EAA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p3s1w13">
@@ -399,7 +399,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p3s2w23">
@@ -460,7 +460,7 @@
 <form>EAA</form>
 <tag>
 <AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EAA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p3s3w3">
@@ -1331,7 +1331,7 @@
 <form>EAA</form>
 <tag>
 <AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EAA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p4s3w8">
@@ -1359,7 +1359,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p4s3w11">
@@ -2609,7 +2609,7 @@
 <form>EAA</form>
 <tag>
 <AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EAA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p5s1w7">
@@ -2880,7 +2880,7 @@
 <form>EAA</form>
 <tag>
 <AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EAA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p5s3w20">
@@ -3210,7 +3210,7 @@
 <form>ČSAU</form>
 <tag>
 <AM lemma="ČSAU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSAU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSAU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p5s5w18">
@@ -3343,7 +3343,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p5s6w14">

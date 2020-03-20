@@ -1150,7 +1150,7 @@
 <form>GIT</form>
 <tag>
 <AM lemma="Gita_;Y" recommended="1">NNFP2-----A----</AM>
-<AM lemma="GIT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GIT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_19-SCzechM-p2012-s1-w9">
@@ -2265,7 +2265,7 @@
 <AM lemma="režie_:B">NNFXX-----A---8</AM>
 <AM lemma="rok_:B">NNIXX-----A---8</AM>
 <AM lemma="ručení_:B">NNNS7-----A---8</AM>
-<AM lemma="R-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="R-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="R-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -2873,7 +2873,7 @@
 <AM lemma="LAN_:B_^(počítačová_síť)" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
-<AM lemma="LAN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_19-SCzechM-p2026-s1-w16">
@@ -2920,7 +2920,7 @@
 <AM lemma="LAN_:B_^(počítačová_síť)" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
-<AM lemma="LAN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_19-SCzechM-p2026-s1-w20">
@@ -5150,7 +5150,7 @@
 <AM lemma="ct-3_:B_,t_^(county)">NNFXX-----A---8</AM>
 <AM lemma="ct-3_:B_,t_^(county)">NNNXX-----A---8</AM>
 <AM lemma="ct-4_:B_,t_^(current,_proud)">NNIXX-----A---8</AM>
-<AM lemma="CT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_19-SCzechM-p2049-s1-w26">
@@ -5295,7 +5295,7 @@
 <AM lemma="terabyte_:B_,t">NNIXX-----A---8</AM>
 <AM lemma="terabit_:B_,t">NNIXX-----A---8</AM>
 <AM lemma="terbium_:B_;H">NNIXX-----A---8</AM>
-<AM lemma="TB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_19-SCzechM-p2049-s1-w35">
@@ -6966,7 +6966,7 @@
 <form>xxxxxx</form>
 <tag>
 <AM lemma="xxxxxx">X@-------------</AM>
-<AM lemma="xxxxxx-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="xxxxxx-88" src="manual" selected="1">BNXXX-----A----</AM>
 <AM lemma="xxxxxx-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -7193,7 +7193,7 @@
 <form>http</form>
 <tag>
 <AM lemma="HTTP-1_:B_,t_,x_^(Hypertext_transfer_protocol)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="http-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="http-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="http-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -7290,7 +7290,7 @@
 <form>html</form>
 <tag>
 <AM lemma="HTML_:B_;c_,t_,x_^(HyperText_Markup_language)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="html-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="html-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

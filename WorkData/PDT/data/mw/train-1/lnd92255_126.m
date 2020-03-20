@@ -88,7 +88,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p1s1w10">
@@ -611,7 +611,7 @@
 <tag>
 <AM lemma="ČSTS_:B_;K_^(Čs._tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČSTS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČSTS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p3s3w21">
@@ -708,7 +708,7 @@
 <tag>
 <AM lemma="ČSTS_:B_;K_^(Čs._tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČSTS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČSTS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p3s4w4">
@@ -929,7 +929,7 @@
 <form>TGT</form>
 <tag>
 <AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p3s5w16">
@@ -1120,7 +1120,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p3s5w39">
@@ -1159,7 +1159,7 @@
 <tag>
 <AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TGT-77" src="manual">F%-------------</AM>
-<AM lemma="TGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p3s5w43">
@@ -1243,7 +1243,7 @@
 <tag>
 <AM lemma="ČSTS_:B_;K_^(Čs._tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČSTS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČSTS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p3s5w53">
@@ -2190,7 +2190,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p7s3w14">
@@ -2681,7 +2681,7 @@
 <form>TGT</form>
 <tag>
 <AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p10s1w9">
@@ -2777,7 +2777,7 @@
 <tag>
 <AM lemma="ČSTS_:B_;K_^(Čs._tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČSTS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČSTS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p10s1w20">
@@ -3062,7 +3062,7 @@
 <form>TGT</form>
 <tag>
 <AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p10s2w7">

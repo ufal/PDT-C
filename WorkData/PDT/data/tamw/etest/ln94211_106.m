@@ -352,7 +352,7 @@
 <form>BMG</form>
 <tag>
 <AM lemma="BMG_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BMG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BMG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-106-p2s2w9">
@@ -2214,7 +2214,7 @@
 <AM lemma="ZZ_:B_;K_^(zdravotnické_zařízení)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="zz" src="auto">II-------------</AM>
 <AM lemma="ZZ_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ZZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-106-p3s10w17">
@@ -2284,7 +2284,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-106-p3s11w6">
@@ -2303,7 +2303,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-106-p3s11w8">
@@ -2322,7 +2322,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-106-p3s11w10">
@@ -2487,7 +2487,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-106-p3s12w7">
@@ -2506,7 +2506,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-106-p3s12w9">

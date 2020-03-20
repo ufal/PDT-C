@@ -2148,7 +2148,7 @@
 <tag>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
 <AM lemma="x-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
-<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="x-88" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_04-SCzechM-p0335-s1-w12-sw2">
@@ -6364,7 +6364,7 @@
 <AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="CD-2_:B_;b_,t_^(Cash_Deposit)">NNIXX-----A---8</AM>
 <AM lemma="kadmium_:B_;H_,t">NNNXX-----A---8</AM>
-<AM lemma="CD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_04-SCzechM-p0406-s1-w5">

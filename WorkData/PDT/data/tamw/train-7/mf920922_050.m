@@ -373,7 +373,7 @@
 <form>WTA</form>
 <tag>
 <AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-050-p2s2w16">
@@ -840,7 +840,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-050-p2s3w40">
@@ -1120,7 +1120,7 @@
 <form>TGT</form>
 <tag>
 <AM lemma="TGT_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-050-p2s4w34">
@@ -2007,7 +2007,7 @@
 <form>TGT</form>
 <tag>
 <AM lemma="TGT_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-050-p2s8Aw10">
@@ -2985,7 +2985,7 @@
 <form>TGT</form>
 <tag>
 <AM lemma="TGT_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-050-p2s13w3">

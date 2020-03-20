@@ -257,7 +257,7 @@
 <form>IKUE</form>
 <tag>
 <AM lemma="IKUE_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IKUE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IKUE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-38-p2s2w6">

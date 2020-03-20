@@ -1161,7 +1161,7 @@
 <AM lemma="bič-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="bič" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bič" src="auto">NNIS4-----A----</AM>
-<AM lemma="bič-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="bič-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-94-p1s6w3">

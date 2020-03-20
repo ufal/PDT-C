@@ -1657,7 +1657,7 @@
 <form>ČHMÚ</form>
 <tag>
 <AM lemma="ČHMÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČHMÚ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČHMÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-098-p1s12Aw3">
@@ -1782,7 +1782,7 @@
 <form>UPIC</form>
 <tag>
 <AM lemma="UPIC_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UPIC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UPIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-098-p1s12Bw3">

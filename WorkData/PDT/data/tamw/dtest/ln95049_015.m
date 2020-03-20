@@ -1256,7 +1256,7 @@
 <AM lemma="ČB_:B_;K_^(Česká_banka)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="černobílý_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ČB-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-015-p3s2w3">

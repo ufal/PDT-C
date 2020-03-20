@@ -2090,7 +2090,7 @@
 <form>ABS</form>
 <tag>
 <AM lemma="ABS-1_:B_;g_^(Antiblokovací_systém_brzd)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="ABS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-158-p6s2w11">

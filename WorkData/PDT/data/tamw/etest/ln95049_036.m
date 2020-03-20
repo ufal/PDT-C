@@ -911,7 +911,7 @@
 <form>US</form>
 <tag>
 <AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="US-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="US-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-036-p3s1w37">
@@ -2298,7 +2298,7 @@
 <form>WTA</form>
 <tag>
 <AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-036-p3s9w9">
@@ -8845,7 +8845,7 @@
 <form>DJ</form>
 <tag>
 <AM lemma="DJ_:B_;u_,t_^(disc_jockey)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="DJ-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="DJ-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="DJ_:B_;u_^(disc_jockey)" src="manual" selected="1">NNMXX-----A---8</AM>
 </tag>
 </m>

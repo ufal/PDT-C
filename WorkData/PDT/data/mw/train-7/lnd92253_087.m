@@ -1810,7 +1810,7 @@
 <form>TGM</form>
 <tag>
 <AM lemma="TGM_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-087-p5s4w17">
@@ -1847,7 +1847,7 @@
 <form>TGM</form>
 <tag>
 <AM lemma="TGM_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-087-p5s5w2">
@@ -1919,7 +1919,7 @@
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-087-p5s6w7">

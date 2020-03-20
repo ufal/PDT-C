@@ -1268,7 +1268,7 @@
 <form>r</form>
 <tag>
 <AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
-<AM lemma="r-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="r-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-44-p3s3w7">
@@ -1287,7 +1287,7 @@
 <form>o</form>
 <tag>
 <AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
-<AM lemma="o-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="o-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-44-p3s3w9">
@@ -1822,7 +1822,7 @@
 <form>r</form>
 <tag>
 <AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
-<AM lemma="r-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="r-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-44-p4s4w9">
@@ -1841,7 +1841,7 @@
 <form>o</form>
 <tag>
 <AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
-<AM lemma="o-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="o-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-44-p4s4w11">

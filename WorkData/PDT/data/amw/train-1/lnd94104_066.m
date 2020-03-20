@@ -749,7 +749,7 @@
 <form>APA</form>
 <tag>
 <AM lemma="APA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="APA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="APA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-066-p1s4w7">

@@ -8386,7 +8386,7 @@
 <AM lemma="Eta-2_;K" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ETA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ETA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-144-p9s12w35">

@@ -3150,7 +3150,7 @@
 <form>NAFTA</form>
 <tag>
 <AM lemma="nafta" src="orig">NNFS1-----A----</AM>
-<AM lemma="NAFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NAFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-039-p1s20w21">

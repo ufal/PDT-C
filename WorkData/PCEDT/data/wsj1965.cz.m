@@ -29,7 +29,7 @@
 <form>NCNB</form>
 <tag>
 <AM lemma="NCNB" src="auto">X@-------------</AM>
-<AM lemma="NCNB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NCNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1965-001-p1s0W3-Ta">

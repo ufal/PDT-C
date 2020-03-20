@@ -37,7 +37,7 @@
 <form>KSSS</form>
 <tag>
 <AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -808,7 +808,7 @@
 <form>KS</form>
 <tag>
 <AM lemma="KS_:B_^(komunistická_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-066-p3s5w16">
@@ -891,7 +891,7 @@
 <form>KSSS</form>
 <tag>
 <AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-066-p3s5w26">

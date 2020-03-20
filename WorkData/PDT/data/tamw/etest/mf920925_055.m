@@ -343,7 +343,7 @@
 <form>U</form>
 <tag>
 <AM lemma="U-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-055-p2s1w40">
@@ -675,7 +675,7 @@
 <form>ČSFA</form>
 <tag>
 <AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-055-p7s1w3">
@@ -694,7 +694,7 @@
 <form>SK</form>
 <tag>
 <AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-055-p7s1w5">

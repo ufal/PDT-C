@@ -211,7 +211,7 @@
 <tag>
 <AM lemma="VC_:B_;m_^(Velká_cena)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="VC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p5s1w3">
@@ -1705,7 +1705,7 @@
 <form>ATP</form>
 <tag>
 <AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ATP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ATP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p8s1w3">
@@ -1961,7 +1961,7 @@
 <form>WTA</form>
 <tag>
 <AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p9s1w3">
@@ -2583,7 +2583,7 @@
 <form>ČNL</form>
 <tag>
 <AM lemma="ČNL_:B_;m_^(Česká_nár._liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p11s1w6">
@@ -3120,7 +3120,7 @@
 <form>HC</form>
 <tag>
 <AM lemma="HC-1_:B_^(hockey_club)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p11s2w64">
@@ -3147,7 +3147,7 @@
 <form>VTJ</form>
 <tag>
 <AM lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VTJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VTJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p11s2w67">

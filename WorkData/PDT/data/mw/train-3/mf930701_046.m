@@ -702,7 +702,7 @@
 <AM lemma="císařský_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="c-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="c-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="c-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s3w5">
@@ -729,7 +729,7 @@
 <form>k</form>
 <tag>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="k-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="k-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s3w8">
@@ -1401,7 +1401,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s5w2">

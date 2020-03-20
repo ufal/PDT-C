@@ -370,7 +370,7 @@
 <tag>
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p2s3w2">
@@ -625,7 +625,7 @@
 <form>CKP</form>
 <tag>
 <AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p2s5w8">
@@ -703,7 +703,7 @@
 <tag>
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p3s1w4">
@@ -1400,7 +1400,7 @@
 <form>CSPF</form>
 <tag>
 <AM lemma="CSPF_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p4s2w4">
@@ -1862,7 +1862,7 @@
 <form>PVT</form>
 <tag>
 <AM lemma="PVT-1_:B_;K_^(Podnik_výpočetní_techniky)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PVT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p4s3w30">

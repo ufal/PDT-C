@@ -1263,7 +1263,7 @@
 <form>CIAF</form>
 <tag>
 <AM lemma="CIAF">X@-------------</AM>
-<AM lemma="CIAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_09-SCzechM-p0895-s1-w7">
@@ -1301,7 +1301,7 @@
 <form>HKD</form>
 <tag>
 <AM lemma="HKD-1_:B_^(hongkongský_dolar)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="HKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_09-SCzechM-p0895-s1-w12">
@@ -1585,7 +1585,7 @@
 <form>HKD</form>
 <tag>
 <AM lemma="HKD-1_:B_^(hongkongský_dolar)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="HKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_09-SCzechM-p0895-s1-w36">
@@ -2110,7 +2110,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="m-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -4215,7 +4215,7 @@
 <AM lemma="IP-1_:B_^(ilimerizovaná_půda)">NNFXX-----A---8</AM>
 <AM lemma="IP-3_:B_,t_^(instruction_pointer)">NNIXX-----A---8</AM>
 <AM lemma="IP-4_:B_,t_^(internet_protokol)">NNIXX-----A---8</AM>
-<AM lemma="IP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_09-SCzechM-p0933-s1-w4">

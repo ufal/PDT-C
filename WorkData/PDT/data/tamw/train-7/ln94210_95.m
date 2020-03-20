@@ -2028,7 +2028,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-95-p4s2w7">
@@ -3020,7 +3020,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-95-p4s6w4">
@@ -3082,7 +3082,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-95-p4s6w11">
@@ -5090,7 +5090,7 @@
 <AM lemma="KDM-2_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDM-1_:B_;K_^(Klub_dětí_a_mládeže)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="KDM_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="KDM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-95-p6s1Bw8">
@@ -5261,7 +5261,7 @@
 <form>SÚRPMO</form>
 <tag>
 <AM lemma="SÚRPMO-1_:B_;K_^(Státní_ústav_pro_rekonstr._památ._měst..)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SÚRPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SÚRPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-95-p6s1Bw29">
@@ -6166,7 +6166,7 @@
 <AM lemma="KDM-2_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDM-1_:B_;K_^(Klub_dětí_a_mládeže)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="KDM_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="KDM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-95-p6s6w11">
@@ -15679,7 +15679,7 @@
 <AM lemma="KDM-2_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDM-1_:B_;K_^(Klub_dětí_a_mládeže)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="KDM_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="KDM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-95-p12s15w40">
@@ -17953,7 +17953,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-95-p14s1Bw21">

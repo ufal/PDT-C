@@ -174,7 +174,7 @@
 <AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="RC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p2s1Bw13">
@@ -280,7 +280,7 @@
 <AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="RC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p2s1Bw25">
@@ -563,7 +563,7 @@
 <AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="RC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p3s1w15">
@@ -614,7 +614,7 @@
 <form>CEFIC</form>
 <tag>
 <AM lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFIC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p3s1w21">
@@ -763,7 +763,7 @@
 <form>ISO</form>
 <tag>
 <AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ISO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ISO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p3s2w6">
@@ -954,7 +954,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p4s1w2">
@@ -1121,7 +1121,7 @@
 <AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="RC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p4s1w22">
@@ -1590,7 +1590,7 @@
 <form>TRINS</form>
 <tag>
 <AM lemma="TRINS_:B_;m" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TRINS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TRINS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p6s1w18">

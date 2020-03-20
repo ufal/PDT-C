@@ -616,7 +616,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1634-s1-w13">
@@ -637,7 +637,7 @@
 <form>EPP</form>
 <tag>
 <AM lemma="EPP">X@-------------</AM>
-<AM lemma="EPP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EPP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1634-s1-w15">
@@ -681,7 +681,7 @@
 <AM lemma="LM-1_:B_;K_^(Lidové_milice)">NNFPX-----A---8</AM>
 <AM lemma="luvizem_:B_^(klasifikace_půd)">NNFXX-----A---8</AM>
 <AM lemma="lumen_:B">NNIXX-----A---8</AM>
-<AM lemma="LM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1634-s1-w18">
@@ -706,7 +706,7 @@
 <form>PM</form>
 <tag>
 <AM lemma="Pm_:B_^(promethium)" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1634-s1-w20">
@@ -3965,7 +3965,7 @@
 <form>EY</form>
 <tag>
 <AM lemma="EY">X@-------------</AM>
-<AM lemma="EY-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1706-s1-w18">
@@ -4035,7 +4035,7 @@
 <form>OSIR</form>
 <tag>
 <AM lemma="OSIR">X@-------------</AM>
-<AM lemma="OSIR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSIR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1709-s1-w2">
@@ -4108,7 +4108,7 @@
 <form>VW</form>
 <tag>
 <AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="VW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1709-s1-w10">
@@ -4118,7 +4118,7 @@
 <form>MkV</form>
 <tag>
 <AM lemma="MkV">X@-------------</AM>
-<AM lemma="MkV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MkV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4381,7 +4381,7 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1722-s1-w17">

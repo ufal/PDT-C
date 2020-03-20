@@ -536,7 +536,7 @@
 <tag>
 <AM lemma="CONMEBOL-1_:B_;K_,t_^(Confederatión_Sudamericana_de_Fútbol)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CONMEBOL-77" src="manual">F%-------------</AM>
-<AM lemma="CONMEBOL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CONMEBOL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-090-p2s5w20">

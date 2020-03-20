@@ -324,7 +324,7 @@
 <tag>
 <AM lemma="DAF-1_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="DAF_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-12-p2s2w22">
@@ -873,7 +873,7 @@
 <tag>
 <AM lemma="DAF-1_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="DAF_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-12-p3s4w3">

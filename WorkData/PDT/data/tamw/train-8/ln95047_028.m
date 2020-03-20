@@ -236,7 +236,7 @@
 <tag>
 <AM lemma="ELH_:B_;m_^(hokejová_extraliga)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ELH_:B_;K_^(Extraliga_ledního_hokeje)" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="ELH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ELH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-028-p2s1Cw10">

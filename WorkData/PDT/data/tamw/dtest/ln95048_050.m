@@ -1218,7 +1218,7 @@
 <form>FAMU</form>
 <tag>
 <AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-050-p5s7w7">
@@ -1684,7 +1684,7 @@
 <form>FAMU</form>
 <tag>
 <AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-050-p7s4w7">
@@ -1753,7 +1753,7 @@
 <form>FAMU</form>
 <tag>
 <AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-050-p7s6w8">
@@ -1838,7 +1838,7 @@
 <form>FAMU</form>
 <tag>
 <AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-050-p7s7w4">
@@ -7219,7 +7219,7 @@
 <form>FAMU</form>
 <tag>
 <AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-050-p26s9w16">

@@ -1258,7 +1258,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-021-p6s2w13">
@@ -1623,7 +1623,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DKK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-021-p6s4w21">

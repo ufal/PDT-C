@@ -1563,7 +1563,7 @@
 <form>DPX</form>
 <tag>
 <AM lemma="DPX_;R" src="orig">NNNXX-----A----</AM>
-<AM lemma="DPX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p5s2w22">
@@ -1622,7 +1622,7 @@
 <form>RISC</form>
 <tag>
 <AM lemma="RISC-1_:B_,t_^(reduced_instruction_set_computing)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RISC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RISC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p5s2w29">
@@ -1705,7 +1705,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p5s2w39">
@@ -1938,7 +1938,7 @@
 <AM lemma="Sl_:B" src="auto">Xx-------------</AM>
 <AM lemma="slečna_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="sloupec_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p5s3w26">
@@ -2553,7 +2553,7 @@
 <form>SNI</form>
 <tag>
 <AM lemma="SNI-1_:B_^(Server_Name_Indication)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SNI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p6s3w19">
@@ -3578,7 +3578,7 @@
 <AM lemma="Th_:B_^(thorium)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="th-1_:B_^(thermie-jednotka_tepla)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="TH_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p7s3w13">
@@ -4314,7 +4314,7 @@
 <AM lemma="AEC-1_:B_;K_,t_^(Atomic_Energy_Commission)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="AEC-2_:B_,t_^(architecture_engineering_construction)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="AEC-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p8s1w27">
@@ -4558,7 +4558,7 @@
 <AM lemma="AEC-1_:B_;K_,t_^(Atomic_Energy_Commission)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="AEC-2_:B_,t_^(architecture_engineering_construction)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="AEC-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p8s2w9">
@@ -5062,7 +5062,7 @@
 <AM lemma="ASC-2_:B_;K_,t_^(Army_Service_Corps)" src="auto" recommended="1">NNIPX-----A---8</AM>
 <AM lemma="ASC-3_:B_;K_,t_^(Authorized_Support_Centre)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ASC-4_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ASC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ASC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p8s5w4">

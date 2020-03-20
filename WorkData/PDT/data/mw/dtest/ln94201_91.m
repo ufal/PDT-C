@@ -401,8 +401,8 @@
 <form>EMRC</form>
 <tag>
 <AM lemma="EMRC_:B_;K_,t_^(European_Market_Research_Centre)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EMRC-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EMRC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMRC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EMRC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-91-p2s1w41">
@@ -487,8 +487,8 @@
 <form>EMRC</form>
 <tag>
 <AM lemma="EMRC_:B_;K_,t_^(European_Market_Research_Centre)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EMRC-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EMRC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMRC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EMRC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-91-p3s1w9">
@@ -723,8 +723,8 @@
 <form>EMRC</form>
 <tag>
 <AM lemma="EMRC_:B_;K_,t_^(European_Market_Research_Centre)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EMRC-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EMRC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMRC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EMRC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-91-p3s2w8">
@@ -1377,8 +1377,8 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFSX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="StB-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-91-p4s5w16">

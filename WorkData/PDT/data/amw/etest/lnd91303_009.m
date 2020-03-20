@@ -2788,7 +2788,7 @@
 <form>KEBS</form>
 <tag>
 <AM lemma="KEBS-1_:B_;K_^(Konference_o_evrop._bezpečnosti_a_spolup.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KEBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KEBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-009-p7s3w15">

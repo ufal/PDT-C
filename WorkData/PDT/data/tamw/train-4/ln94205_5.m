@@ -510,7 +510,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-5-p2s3w12">
@@ -1297,7 +1297,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-5-p3s2w20">
@@ -1956,7 +1956,7 @@
 <AM lemma="SF-4_:B_,t_^(single_frequency)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SF_:B_;K_,t_^(Sinn_Fein)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SF_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-5-p3s6w14">
@@ -1988,7 +1988,7 @@
 <AM lemma="SF-4_:B_,t_^(single_frequency)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SF_:B_;K_,t_^(Sinn_Fein)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SF_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-5-p3s6w17">
@@ -2020,7 +2020,7 @@
 <AM lemma="SF-4_:B_,t_^(single_frequency)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SF_:B_;K_,t_^(Sinn_Fein)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SF_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-5-p3s6w20">
@@ -2039,7 +2039,7 @@
 <form>R</form>
 <tag>
 <AM lemma="r-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-5-p3s6w22">
@@ -2252,7 +2252,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-5-p4s1w24">

@@ -178,7 +178,7 @@
 <form>EASE</form>
 <tag>
 <AM lemma="EASE_:B_;K_,t_^(Europian_Association_Of_Scientific_Editors)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EASE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EASE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-040-p4s1w12">
@@ -4427,7 +4427,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-040-p6s9w12">

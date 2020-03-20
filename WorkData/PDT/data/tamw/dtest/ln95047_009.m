@@ -1054,7 +1054,7 @@
 <AM lemma="Soho_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="SOHO_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOHO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p3s1w7">
@@ -1284,7 +1284,7 @@
 <AM lemma="Soho_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="SOHO_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOHO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p3s2w2">
@@ -1446,7 +1446,7 @@
 <AM lemma="Soho_;G" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="SOHO_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOHO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p3s3w4">
@@ -1874,7 +1874,7 @@
 <AM lemma="Soho_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="SOHO_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOHO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p5s1w5">
@@ -2494,7 +2494,7 @@
 <form>ČSR</form>
 <tag>
 <AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p5s5w7">

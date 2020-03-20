@@ -560,7 +560,7 @@
 <form>přel</form>
 <tag>
 <AM lemma="přít" src="orig">VpYS----R-AAI--</AM>
-<AM lemma="přel-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="přel-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p7s1w11">
@@ -5352,7 +5352,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p10s9w23">
@@ -5371,7 +5371,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p10s9w25">
@@ -8825,7 +8825,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p13s7w20">
@@ -9574,7 +9574,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p17s1w5">
@@ -10699,7 +10699,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p18s1w9">
@@ -11549,7 +11549,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p18s5w5">
@@ -11928,7 +11928,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p19s2w7">
@@ -12749,7 +12749,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p20s2w11">
@@ -13553,7 +13553,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p23s1w5">
@@ -14543,7 +14543,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p25s1w4">
@@ -14764,7 +14764,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p25s2w6">
@@ -17460,7 +17460,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -17497,7 +17497,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p28s1w5">
@@ -17612,8 +17612,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p28s1w19">
@@ -18103,7 +18103,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p29s1w5">
@@ -18465,7 +18465,7 @@
 <form>REM</form>
 <tag>
 <AM lemma="Rema_;K" src="orig">NNFP2-----A----</AM>
-<AM lemma="REM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="REM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p29s4w3">
@@ -18886,7 +18886,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p30s2w6">
@@ -22171,7 +22171,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p35s1w16">
@@ -22252,7 +22252,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p35s1w25">
@@ -22306,7 +22306,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p35s1w31">
@@ -22517,7 +22517,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p35s2w9">
@@ -22657,7 +22657,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p35s2w25">
@@ -22746,7 +22746,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p35s2w35">
@@ -22907,7 +22907,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p35s2w54">
@@ -22996,7 +22996,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p35s2w64">
@@ -24259,7 +24259,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p44s1w20">
@@ -24360,7 +24360,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p44s2w6">
@@ -24541,7 +24541,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p44s3w11">
@@ -25982,7 +25982,7 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p45s5w22">

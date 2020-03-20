@@ -2598,7 +2598,7 @@
 <form>PCB</form>
 <tag>
 <AM lemma="PCB-1_:B_;H_^(polychlorovaný_bifenyl)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PCB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PCB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-86-p5s3w5">
@@ -8514,7 +8514,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-86-p15s8w11">
@@ -10361,7 +10361,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-86-p18s5w28">

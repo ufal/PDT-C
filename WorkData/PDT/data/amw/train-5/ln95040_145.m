@@ -184,7 +184,7 @@
 <form>DRAM</form>
 <tag>
 <AM lemma="DRAM_:B_;c_,t_^(Dyn._Random_access_memory)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DRAM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DRAM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p3s1Bw10">
@@ -277,7 +277,7 @@
 <form>NEC</form>
 <tag>
 <AM lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="NEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p3s2w4">
@@ -1087,7 +1087,7 @@
 <form>NEC</form>
 <tag>
 <AM lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="NEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p5s1w6">
@@ -1098,7 +1098,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p5s1w7">
@@ -1149,7 +1149,7 @@
 <form>DRAM</form>
 <tag>
 <AM lemma="DRAM_:B_;c_,t_^(Dyn._Random_access_memory)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DRAM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DRAM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p5s1w13">
@@ -1492,7 +1492,7 @@
 <form>NEC</form>
 <tag>
 <AM lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="NEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p6s2w3">
@@ -1857,7 +1857,7 @@
 <form>ČTK</form>
 <tag>
 <AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

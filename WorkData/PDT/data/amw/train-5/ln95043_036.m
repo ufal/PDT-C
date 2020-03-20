@@ -442,7 +442,7 @@
 <AM lemma="UNESCO_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="UNESCO-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="UNESCO-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -619,7 +619,7 @@
 <AM lemma="UNESCO_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="UNESCO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-036-p2s3w6">
@@ -1077,7 +1077,7 @@
 <form>MK</form>
 <tag>
 <AM lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-036-p2s5w6">

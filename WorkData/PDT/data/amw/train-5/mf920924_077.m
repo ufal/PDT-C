@@ -943,7 +943,7 @@
 <tag>
 <AM lemma="TIG_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Tiga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="TIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-077-p7s1w21">
@@ -1266,7 +1266,7 @@
 <form>CNC</form>
 <tag>
 <AM lemma="CNC-1_:B_,t_^(computer_numerical_control)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CNC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CNC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-077-p9s1w29">

@@ -779,7 +779,7 @@
 <form>PX</form>
 <tag>
 <AM lemma="PX_:B_^(index)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-10-p3s1w22">
@@ -1457,7 +1457,7 @@
 <form>SETUZA</form>
 <tag>
 <AM lemma="Setuza_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="SETUZA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SETUZA-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-10-p4s1w15">
@@ -2928,7 +2928,7 @@
 <form>AOS</form>
 <tag>
 <AM lemma="AOS-1_:B_^(automatizovaný_obchodní_systém)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-10-p6s5w3">

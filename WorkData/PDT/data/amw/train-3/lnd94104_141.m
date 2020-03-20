@@ -49,7 +49,7 @@
 <AM lemma="Zea" src="auto">NNFS4-----A----</AM>
 <AM lemma="Zeo_;K" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS6-----A----</AM>
-<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZEU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-141-p1s1w5">
@@ -128,7 +128,7 @@
 <form>ZEU</form>
 <tag>
 <AM lemma="Zea" src="orig">NNFS4-----A----</AM>
-<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZEU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-141-p1s3w7">
@@ -182,7 +182,7 @@
 <form>ZEU</form>
 <tag>
 <AM lemma="Zea" src="orig">NNFS4-----A----</AM>
-<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZEU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-141-p1s3w13">
@@ -671,7 +671,7 @@
 <AM lemma="Zea" src="auto">NNFS4-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS3-----A----</AM>
 <AM lemma="Zeo_;K" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZEU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-141-p1s5w20">
@@ -787,7 +787,7 @@
 <AM lemma="Zea" src="auto">NNFS4-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS3-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS6-----A----</AM>
-<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZEU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-141-p1s6w10">

@@ -183,7 +183,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-113-p3s1w5">
@@ -303,7 +303,7 @@
 <form>TGT</form>
 <tag>
 <AM lemma="TGT_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-113-p3s2w5">

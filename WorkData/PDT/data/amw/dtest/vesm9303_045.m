@@ -129,7 +129,7 @@
 <AM lemma="STM-3_:B_^(Skanovací_tunelovací_mikroskop)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="STM-1_:B_;K_^(Soutěž_tvořivosti_mládeže)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="STM-2_:B_^(středisko_talentované_mládeže)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="STM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p2s1w8">
@@ -426,7 +426,7 @@
 <AM lemma="STM-3_:B_^(Skanovací_tunelovací_mikroskop)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="STM-1_:B_;K_^(Soutěž_tvořivosti_mládeže)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="STM-2_:B_^(středisko_talentované_mládeže)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="STM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p2s3w6">
@@ -676,7 +676,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p3s1w8">
@@ -722,7 +722,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p3s1w13">
@@ -780,7 +780,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p3s1w19">
@@ -1246,7 +1246,7 @@
 <AM lemma="STM-3_:B_^(Skanovací_tunelovací_mikroskop)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="STM-1_:B_;K_^(Soutěž_tvořivosti_mládeže)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="STM-2_:B_^(středisko_talentované_mládeže)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="STM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p3s2w8">
@@ -1333,7 +1333,7 @@
 <AM lemma="STM-3_:B_^(Skanovací_tunelovací_mikroskop)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="STM-1_:B_;K_^(Soutěž_tvořivosti_mládeže)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="STM-2_:B_^(středisko_talentované_mládeže)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="STM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="STM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p3s3w10">

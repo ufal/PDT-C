@@ -5688,7 +5688,7 @@
 <form>RB</form>
 <tag>
 <AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-048-p13s3w4">
@@ -5987,7 +5987,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-048-p14s1w14">
@@ -6006,7 +6006,7 @@
 <form>KBSE</form>
 <tag>
 <AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-048-p14s1w16">
@@ -6160,7 +6160,7 @@
 <form>AWACS</form>
 <tag>
 <AM lemma="AWACS-1_:B_;R_,t_^(Airborne_Warning-and_Control_System)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AWACS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AWACS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-048-p15s2w15">

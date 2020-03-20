@@ -151,7 +151,7 @@
 <form>ZOD</form>
 <tag>
 <AM lemma="ZOD_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ZOD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZOD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-073-p1s2Aw8">
@@ -299,7 +299,7 @@
 <form>DAK</form>
 <tag>
 <AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="DAK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-073-p1s2Cw11">
@@ -448,7 +448,7 @@
 <form>DAK</form>
 <tag>
 <AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="DAK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-073-p1s3w14">
@@ -593,7 +593,7 @@
 <form>DAK</form>
 <tag>
 <AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="DAK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-073-p1s3w31">
@@ -1517,7 +1517,7 @@
 <form>DAK</form>
 <tag>
 <AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="DAK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-073-p1s13w5">
@@ -1946,7 +1946,7 @@
 <form>DAK</form>
 <tag>
 <AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="DAK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-073-p1s14w37">

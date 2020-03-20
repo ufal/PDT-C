@@ -191,7 +191,7 @@
 <AM lemma="IRI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IRI_:B_;K_,t_^(Ústav_pro_průmyslovou_rekonstrukci)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Iri_;L_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="IRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IRI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw13">
@@ -282,7 +282,7 @@
 <form>ITL</form>
 <tag>
 <AM lemma="ITL_:B_;b_^(italská_lira)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ITL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw24">
@@ -400,7 +400,7 @@
 <form>ITL</form>
 <tag>
 <AM lemma="ITL_:B_;b_^(italská_lira)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ITL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p2s2w9">
@@ -607,7 +607,7 @@
 <AM lemma="IRI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IRI_:B_;K_,t_^(Ústav_pro_průmyslovou_rekonstrukci)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Iri_;L_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="IRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IRI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p2s3w20">
@@ -744,7 +744,7 @@
 <form>ITL</form>
 <tag>
 <AM lemma="ITL_:B_;b_^(italská_lira)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ITL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p3s1w12">
@@ -856,7 +856,7 @@
 <AM lemma="IRI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IRI_:B_;K_,t_^(Ústav_pro_průmyslovou_rekonstrukci)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Iri_;L_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="IRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IRI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p3s2w5">

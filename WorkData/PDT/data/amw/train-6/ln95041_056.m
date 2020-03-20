@@ -293,7 +293,7 @@
 <form>SACLANT</form>
 <tag>
 <AM lemma="SACLANT_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SACLANT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SACLANT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-056-p2s1Bw28">
@@ -450,7 +450,7 @@
 <form>SACLANT</form>
 <tag>
 <AM lemma="SACLANT_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SACLANT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SACLANT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-056-p2s2w13">
@@ -662,7 +662,7 @@
 <form>SACLANT</form>
 <tag>
 <AM lemma="SACLANT_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SACLANT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SACLANT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-056-p2s3w17">

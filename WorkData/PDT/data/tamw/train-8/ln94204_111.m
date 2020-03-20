@@ -233,7 +233,7 @@
 <form>AC</form>
 <tag>
 <AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-111-p2s1Bw23">
@@ -244,7 +244,7 @@
 <form>ZPS</form>
 <tag>
 <AM lemma="ZPS-1_:B_^(změněná_prac._schopnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-111-p2s1Bw24">

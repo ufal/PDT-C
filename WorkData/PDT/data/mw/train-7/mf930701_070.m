@@ -164,7 +164,7 @@
 <tag>
 <AM lemma="NOSPAS_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="NOSPAS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="NOSPAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NOSPAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s2w10">
@@ -537,7 +537,7 @@
 <form>DPMO</form>
 <tag>
 <AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s3w8">
@@ -735,7 +735,7 @@
 <form>DPMO</form>
 <tag>
 <AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s3w32">
@@ -1116,7 +1116,7 @@
 <tag>
 <AM lemma="SNIP_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SNIP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SNIP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNIP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s6w15">
@@ -1251,7 +1251,7 @@
 <form>DPMO</form>
 <tag>
 <AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s8w6">
@@ -1318,7 +1318,7 @@
 <form>DPMO</form>
 <tag>
 <AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s8w14">
@@ -1589,7 +1589,7 @@
 <tag>
 <AM lemma="SNIP_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SNIP_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SNIP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNIP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s10w16">
@@ -1706,7 +1706,7 @@
 <form>DPMO</form>
 <tag>
 <AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s12w5">
@@ -1994,7 +1994,7 @@
 <form>SNIP</form>
 <tag>
 <AM lemma="SNIP_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SNIP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNIP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s14w11">
@@ -2101,7 +2101,7 @@
 <form>DPMO</form>
 <tag>
 <AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s15w6">
@@ -2275,7 +2275,7 @@
 <form>DPMO</form>
 <tag>
 <AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s16w14">

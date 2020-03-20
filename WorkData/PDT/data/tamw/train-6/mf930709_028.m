@@ -193,7 +193,7 @@
 <form>XCU</form>
 <tag>
 <AM lemma="XCU_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="XCU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="XCU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-028-p20s1w3">
@@ -229,7 +229,7 @@
 <form>Sk</form>
 <tag>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-028-p20s1w7">
@@ -285,7 +285,7 @@
 <form>NBS</form>
 <tag>
 <AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-028-p20s1w13">

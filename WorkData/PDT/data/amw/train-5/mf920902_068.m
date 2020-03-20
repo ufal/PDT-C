@@ -191,7 +191,7 @@
 <form>ČSFA</form>
 <tag>
 <AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-068-p2s1w20">

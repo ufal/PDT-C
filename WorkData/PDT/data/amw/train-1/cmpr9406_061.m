@@ -167,7 +167,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p5s2w3">
@@ -186,7 +186,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p5s2w5">
@@ -205,7 +205,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p5s2w7">
@@ -1610,7 +1610,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p9s1w16">
@@ -2023,7 +2023,7 @@
 <tag>
 <AM lemma="TGM_:B_;G" src="orig">NNMXX-----A---8</AM>
 <AM lemma="TGM_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="TGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p9s1w66">
@@ -2901,7 +2901,7 @@
 <AM lemma="AZ-1_:B_;G_^(Azerbájdžán,_mez._zkr.)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Aza_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="AZ-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p16s2w3">
@@ -3231,7 +3231,7 @@
 <tag>
 <AM lemma="TGM_:B_;G" src="orig">NNMXX-----A---8</AM>
 <AM lemma="TGM_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="TGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p17s1w16">
@@ -3440,7 +3440,7 @@
 <form>ABF</form>
 <tag>
 <AM lemma="ABF_:B_;K" src="auto">NNFSX-----A---8</AM>
-<AM lemma="ABF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ABF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p20s2w3">
@@ -3833,7 +3833,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p21s1w17">

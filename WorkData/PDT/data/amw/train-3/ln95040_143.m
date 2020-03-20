@@ -145,7 +145,7 @@
 <form>STEM</form>
 <tag>
 <AM lemma="sto-2`100" src="orig">NNNS7-----A----</AM>
-<AM lemma="STEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-143-p3s1w8">
@@ -712,7 +712,7 @@
 <form>STEM</form>
 <tag>
 <AM lemma="sto-2`100" src="orig">NNNS7-----A----</AM>
-<AM lemma="STEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

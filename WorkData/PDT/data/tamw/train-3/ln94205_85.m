@@ -933,7 +933,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-85-p4s1w15">
@@ -1417,7 +1417,7 @@
 <form>ITAR</form>
 <tag>
 <AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ITAR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-85-p5s2w3">
@@ -1436,7 +1436,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-85-p5s2w5">
@@ -1848,7 +1848,7 @@
 <form>RB</form>
 <tag>
 <AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-85-p6s2w21">
@@ -1949,7 +1949,7 @@
 <form>RB</form>
 <tag>
 <AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-85-p6s3w12">
@@ -2173,7 +2173,7 @@
 <form>PRI</form>
 <tag>
 <AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PRI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-85-p7s1w22">

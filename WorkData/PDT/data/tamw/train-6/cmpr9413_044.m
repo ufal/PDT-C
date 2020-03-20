@@ -3487,7 +3487,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p14s2w21">
@@ -3506,7 +3506,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p14s2w23">
@@ -7459,7 +7459,7 @@
 <form>AMT</form>
 <tag>
 <AM lemma="AMT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AMT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p28s2w9">
@@ -7491,7 +7491,7 @@
 <AM lemma="AFIS_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AFIPS-1_:B_;K_,t_^(Amer._Feder._of_Inform._Processing_...)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="AFIS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AFIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AFIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p28s2w12">

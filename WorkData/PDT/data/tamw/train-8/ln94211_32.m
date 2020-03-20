@@ -395,7 +395,7 @@
 <form>AISA</form>
 <tag>
 <AM lemma="AISA_:B_;K_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AISA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-32-p2s2w13">

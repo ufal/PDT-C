@@ -517,7 +517,7 @@
 <form>ISTAF</form>
 <tag>
 <AM lemma="ISTAF_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ISTAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ISTAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-113-p2s2w19">

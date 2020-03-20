@@ -4484,7 +4484,7 @@
 <form>ČMaS</form>
 <tag>
 <AM lemma="ČMaS_:B_;K" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČMaS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČMaS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-2-p12s2w7">
@@ -4543,7 +4543,7 @@
 <form>FIABCI</form>
 <tag>
 <AM lemma="FIABCI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="FIABCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIABCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-2-p12s2w14">
@@ -4752,7 +4752,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

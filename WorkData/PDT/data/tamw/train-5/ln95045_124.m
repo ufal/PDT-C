@@ -693,7 +693,7 @@
 <form>IBC</form>
 <tag>
 <AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p2s4w10">
@@ -829,7 +829,7 @@
 <form>IBC</form>
 <tag>
 <AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p2s5w3">
@@ -2447,7 +2447,7 @@
 <form>IBC</form>
 <tag>
 <AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p5s3w4">
@@ -3016,7 +3016,7 @@
 <form>IBC</form>
 <tag>
 <AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p6s3w7">
@@ -4677,7 +4677,7 @@
 <form>IBC</form>
 <tag>
 <AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p9s1w12">

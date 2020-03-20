@@ -61,7 +61,7 @@
 <form>VLIW</form>
 <tag>
 <AM lemma="VLIW_:B_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VLIW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VLIW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -322,7 +322,7 @@
 <form>CISC</form>
 <tag>
 <AM lemma="CISC-3_:B_,t_^(Complex_Instruction_Set_Computer)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CISC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CISC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p1s1Cw10">
@@ -463,7 +463,7 @@
 <form>RISC</form>
 <tag>
 <AM lemma="RISC-1_:B_,t_^(reduced_instruction_set_computing)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RISC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RISC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p1s2w10">
@@ -608,7 +608,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p1s2w27">
@@ -1049,7 +1049,7 @@
 <form>VLIW</form>
 <tag>
 <AM lemma="VLIW_:B_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VLIW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VLIW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p1s5w27">
@@ -1360,7 +1360,7 @@
 <form>VLIW</form>
 <tag>
 <AM lemma="VLIW_:B_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VLIW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VLIW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p1s7w16">
@@ -1512,7 +1512,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p1s8w9">
@@ -1549,7 +1549,7 @@
 <form>VLIW</form>
 <tag>
 <AM lemma="VLIW_:B_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VLIW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VLIW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p2s1w2">
@@ -3642,7 +3642,7 @@
 <form>CISC</form>
 <tag>
 <AM lemma="CISC-3_:B_,t_^(Complex_Instruction_Set_Computer)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CISC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CISC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p4s3w6">
@@ -3889,7 +3889,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p4s3w34">
@@ -4006,7 +4006,7 @@
 <form>CISC</form>
 <tag>
 <AM lemma="CISC-3_:B_,t_^(Complex_Instruction_Set_Computer)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CISC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CISC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p5s1w14">
@@ -4161,7 +4161,7 @@
 <form>RISC</form>
 <tag>
 <AM lemma="RISC-1_:B_,t_^(reduced_instruction_set_computing)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RISC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RISC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p5s1w33">
@@ -5521,7 +5521,7 @@
 <form>VLIW</form>
 <tag>
 <AM lemma="VLIW_:B_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VLIW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VLIW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p8s1w6">
@@ -5873,7 +5873,7 @@
 <form>RISC</form>
 <tag>
 <AM lemma="RISC-1_:B_,t_^(reduced_instruction_set_computing)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RISC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RISC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p8s2w32">
@@ -6160,7 +6160,7 @@
 <form>VLIW</form>
 <tag>
 <AM lemma="VLIW_:B_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VLIW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VLIW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p9s2w7">
@@ -6800,7 +6800,7 @@
 <form>VLIW</form>
 <tag>
 <AM lemma="VLIW_:B_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VLIW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VLIW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p10s2w3">
@@ -7013,7 +7013,7 @@
 <form>VLIW</form>
 <tag>
 <AM lemma="VLIW_:B_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VLIW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VLIW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p11s1w12">
@@ -7448,7 +7448,7 @@
 <form>VLIW</form>
 <tag>
 <AM lemma="VLIW_:B_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VLIW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VLIW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-011-p12s1w11">

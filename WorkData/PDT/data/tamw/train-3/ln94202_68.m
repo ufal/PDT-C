@@ -419,7 +419,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-68-p2s2w14">
@@ -568,7 +568,7 @@
 <form>PNAC</form>
 <tag>
 <AM lemma="PNAC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PNAC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNAC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-68-p3s1w7">
@@ -685,7 +685,7 @@
 <form>PNAC</form>
 <tag>
 <AM lemma="PNAC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PNAC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PNAC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-68-p4s1w8">
@@ -1060,7 +1060,7 @@
 <form>OOP</form>
 <tag>
 <AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-68-p4s2w21">

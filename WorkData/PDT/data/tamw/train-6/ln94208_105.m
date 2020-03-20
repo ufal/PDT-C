@@ -260,7 +260,7 @@
 <form>Open</form>
 <tag>
 <AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Open-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Open-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -338,7 +338,7 @@
 <form>CBS</form>
 <tag>
 <AM lemma="CBS_:B_;K_,t_^(am._televizní_společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-105-p2s2w5">
@@ -525,7 +525,7 @@
 <form>CBS</form>
 <tag>
 <AM lemma="CBS_:B_;K_,t_^(am._televizní_společnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-105-p3s1w5">

@@ -1691,7 +1691,7 @@
 <form>VPN</form>
 <tag>
 <AM lemma="VPN_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VPN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VPN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-063-p6s9w6">
@@ -2122,7 +2122,7 @@
 <form>OF</form>
 <tag>
 <AM lemma="OF_:B_;K_;p_^(Občanské_fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-063-p6s12w7">
@@ -5608,7 +5608,7 @@
 <form>HZDS</form>
 <tag>
 <AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-063-p13s4w16">
@@ -7648,7 +7648,7 @@
 <form>DDR</form>
 <tag>
 <AM lemma="DDR-1_:B_;G_,t_^(Deutsche_Demokratische_Republik)" src="orig">NNFXX-----A----</AM>
-<AM lemma="DDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-063-p16s1w40">

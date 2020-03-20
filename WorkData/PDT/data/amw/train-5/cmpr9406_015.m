@@ -1668,7 +1668,7 @@
 <tag>
 <AM lemma="SPKK-98_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SPKK-1_:B_;K_^(Státní_pedagogická_knihovna_Komenského)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SPKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SPKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-015-p6s8w10">

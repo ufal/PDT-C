@@ -423,7 +423,7 @@
 <form>ČSKSTS</form>
 <tag>
 <AM lemma="ČSKSTS-1_:B_;K_^(Čs._konfederace_sport._a_tělových._svazů)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČSKSTS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSKSTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s2Bw17">

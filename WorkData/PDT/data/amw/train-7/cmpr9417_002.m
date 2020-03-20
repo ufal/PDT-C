@@ -1044,7 +1044,7 @@
 <tag>
 <AM lemma="AVL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AVL_:B_;K_^(Amatérská_volejbalová_liga)" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="AVL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AVL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-002-p8s2w13">
@@ -6285,7 +6285,7 @@
 <tag>
 <AM lemma="AVL_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AVL_:B_;K_^(Amatérská_volejbalová_liga)" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="AVL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AVL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-002-p18s1w3">

@@ -1203,7 +1203,7 @@
 <AM lemma="mha_,n" src="auto">NNFS3-----A----</AM>
 <AM lemma="mha_,n" src="auto">NNFS6-----A----</AM>
 <AM lemma="MZe_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MZe-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MZe-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-28-p4s1w13">
@@ -1675,7 +1675,7 @@
 <AM lemma="mha_,n" src="auto">NNFS3-----A----</AM>
 <AM lemma="mha_,n" src="auto">NNFS6-----A----</AM>
 <AM lemma="MZe_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MZe-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MZe-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-28-p5s1w2">

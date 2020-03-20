@@ -744,7 +744,7 @@
 <form>SVS</form>
 <tag>
 <AM lemma="SVS-2_:B_^(středisko_vrcholového_sportu)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-050-p3s3w12">
@@ -763,7 +763,7 @@
 <form>FMV</form>
 <tag>
 <AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="FMV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-050-p3s3w14">

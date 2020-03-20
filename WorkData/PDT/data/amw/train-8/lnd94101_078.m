@@ -2015,7 +2015,7 @@
 <form>ČF</form>
 <tag>
 <AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-078-p1s16w12">

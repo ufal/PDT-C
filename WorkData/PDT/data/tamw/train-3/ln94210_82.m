@@ -941,7 +941,7 @@
 <tag>
 <AM lemma="MTV-2_:B_;K_;y_^(Maďarská_TV)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p3s1w14">

@@ -2182,7 +2182,7 @@
 <form>EMI</form>
 <tag>
 <AM lemma="EMI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-100-p4s1w5">
@@ -2690,7 +2690,7 @@
 <form>EMI</form>
 <tag>
 <AM lemma="EMI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-100-p4s6w6">

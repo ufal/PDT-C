@@ -602,7 +602,7 @@
 <AM lemma="tis" src="auto">NNIS4-----A----</AM>
 <AM lemma="tisíc-2`1000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="TIS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="TIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-19-p3s1w30">
@@ -1102,7 +1102,7 @@
 <AM lemma="WAP-1_:B_,t_^(wide_area_paging)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="WAP_:B_,t_^(wide_area_paging)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="WAP-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="WAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="WAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-19-p4s2w26">

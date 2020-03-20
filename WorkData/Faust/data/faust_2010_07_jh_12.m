@@ -4608,7 +4608,7 @@
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" recommended="1">AAXXX----1A----</AM>
 <AM lemma="d-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="d-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="d-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_12-SCzechM-p1265-s1-w34">
@@ -5035,7 +5035,7 @@
 <form>SMS</form>
 <tag>
 <AM lemma="SMS_:B_;K" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SMS-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SMS-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="SMS_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -5993,7 +5993,7 @@
 <AM lemma="LAN_:B_^(počítačová_síť)" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
-<AM lemma="LAN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_12-SCzechM-p1286-s1-w42">
@@ -6058,7 +6058,7 @@
 <form>ISP</form>
 <tag>
 <AM lemma="ISP-1_:B_,t_^(internet_service_provider)" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="ISP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ISP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_12-SCzechM-p1286-s1-w49">

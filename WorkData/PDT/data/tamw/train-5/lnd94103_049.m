@@ -488,7 +488,7 @@
 <form>MDF</form>
 <tag>
 <AM lemma="MDF-1_:B_;K_,t_^(Magyar_Demokrata_Fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MDF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-049-p1s3w14">
@@ -713,7 +713,7 @@
 <form>SZDSZ</form>
 <tag>
 <AM lemma="SZDSZ_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SZDSZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SZDSZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-049-p1s3w41">
@@ -958,7 +958,7 @@
 <form>FIDESZ</form>
 <tag>
 <AM lemma="FIDESZ-1_:B_;K_,t_^(Fiatal_Demokraták_Szövetsége)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FIDESZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FIDESZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-049-p1s3w70">
@@ -1011,7 +1011,7 @@
 <form>MDF</form>
 <tag>
 <AM lemma="MDF-1_:B_;K_,t_^(Magyar_Demokrata_Fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MDF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-049-p1s4w3">
@@ -1179,7 +1179,7 @@
 <form>MDF</form>
 <tag>
 <AM lemma="MDF-1_:B_;K_,t_^(Magyar_Demokrata_Fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MDF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-049-p1s5w3">
@@ -1264,7 +1264,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-049-p1s6w2">
@@ -2349,7 +2349,7 @@
 <form>MDF</form>
 <tag>
 <AM lemma="MDF-1_:B_;K_,t_^(Magyar_Demokrata_Fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MDF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-049-p1s11w21">
@@ -5083,7 +5083,7 @@
 <form>MDF</form>
 <tag>
 <AM lemma="MDF-1_:B_;K_,t_^(Magyar_Demokrata_Fórum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MDF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MDF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-049-p1s26w10">

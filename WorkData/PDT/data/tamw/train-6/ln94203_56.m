@@ -947,7 +947,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-56-p3s3w30">
@@ -1424,7 +1424,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-56-p4s1w17">
@@ -1995,7 +1995,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-56-p5s3w13">

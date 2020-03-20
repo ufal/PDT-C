@@ -642,7 +642,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RVHP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p5s2w4">
@@ -1036,7 +1036,7 @@
 <form>Ft</form>
 <tag>
 <AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ft-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p6s2w11">
@@ -1145,7 +1145,7 @@
 <form>Ft</form>
 <tag>
 <AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ft-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p6s2w24">
@@ -1263,7 +1263,7 @@
 <form>Ft</form>
 <tag>
 <AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ft-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p6s3w14">

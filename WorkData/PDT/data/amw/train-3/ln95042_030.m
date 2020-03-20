@@ -66,7 +66,7 @@
 <form>GP</form>
 <tag>
 <AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GP-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="GP-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="GP_:B_;K_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -605,7 +605,7 @@
 <form>GP</form>
 <tag>
 <AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GP-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="GP-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="GP_:B_;K_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -871,7 +871,7 @@
 <form>GP</form>
 <tag>
 <AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GP-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="GP-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="GP_:B_;K_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1307,7 +1307,7 @@
 <form>GP</form>
 <tag>
 <AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GP-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="GP-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="GP_:B_;K_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

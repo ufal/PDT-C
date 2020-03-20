@@ -800,7 +800,7 @@
 <tag>
 <AM lemma="BC_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="BC_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="BC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-079-p3s1w17">
@@ -1293,7 +1293,7 @@
 <tag>
 <AM lemma="BC_:B_;K_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="BC_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="BC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-079-p4s1w12">
@@ -2065,7 +2065,7 @@
 <tag>
 <AM lemma="BC_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="BC_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="BC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-079-p5s1w12">

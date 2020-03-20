@@ -207,7 +207,7 @@
 <form>LÚSES</form>
 <tag>
 <AM lemma="LÚSES" src="orig">NNIXX-----A---8</AM>
-<AM lemma="LÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-007-p1s2w23">
@@ -420,7 +420,7 @@
 <form>ÚSES</form>
 <tag>
 <AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-007-p1s3w26">
@@ -867,7 +867,7 @@
 <form>LÚSES</form>
 <tag>
 <AM lemma="LÚSES" src="orig">NNIXX-----A---8</AM>
-<AM lemma="LÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-007-p1s5w42">
@@ -1617,7 +1617,7 @@
 <form>ÚSES</form>
 <tag>
 <AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-007-p2s2w16">
@@ -2200,7 +2200,7 @@
 <form>ÚSES</form>
 <tag>
 <AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-007-p2s4w48">

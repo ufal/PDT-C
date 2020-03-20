@@ -37,7 +37,7 @@
 <form>SP</form>
 <tag>
 <AM lemma="SP-3_:B_^(Světový_pohár)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

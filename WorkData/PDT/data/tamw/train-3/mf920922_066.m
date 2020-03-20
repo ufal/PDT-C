@@ -57,7 +57,7 @@
 <form>WTA</form>
 <tag>
 <AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p2s2w3">
@@ -290,7 +290,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p2s3w26">
@@ -309,7 +309,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p2s3w28">
@@ -434,7 +434,7 @@
 <form>ATP</form>
 <tag>
 <AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ATP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ATP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p2s13w3">
@@ -1160,7 +1160,7 @@
 <AM lemma="sto-2`100" src="auto">NNNS3-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNS6-----A----</AM>
 <AM lemma="STU_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="STU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p3s2w13">
@@ -1371,7 +1371,7 @@
 <form>LTC</form>
 <tag>
 <AM lemma="LTC-2_:B_^(letecké_taktické_cvičení)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="LTC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LTC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p3s2w39">
@@ -1579,7 +1579,7 @@
 <tag>
 <AM lemma="ITF_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ITF_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ITF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ITF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p4s2w5">
@@ -1737,7 +1737,7 @@
 <tag>
 <AM lemma="ITF_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ITF_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ITF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ITF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p5s2w4">

@@ -2275,7 +2275,7 @@
 <form>ČSR</form>
 <tag>
 <AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČSR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>

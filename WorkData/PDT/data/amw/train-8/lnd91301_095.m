@@ -251,7 +251,7 @@
 <form>St</form>
 <tag>
 <AM lemma="St-6_:B_,t_^(saint,_svatý)" src="orig">AAXXX----1A----</AM>
-<AM lemma="St-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="St-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-095-p3s1w24">
@@ -441,7 +441,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-095-p3s2Aw20">

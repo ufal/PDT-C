@@ -699,7 +699,7 @@
 <form>STES</form>
 <tag>
 <AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-037-p2s5w9">
@@ -782,7 +782,7 @@
 <form>STES</form>
 <tag>
 <AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="STES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-037-p2s5w20">

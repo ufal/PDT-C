@@ -971,7 +971,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-019-p3s6w8">
@@ -990,7 +990,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-019-p3s6w10">
@@ -1382,7 +1382,7 @@
 <tag>
 <AM lemma="MFPN_:B_;m_^(Mezinárodní_festival_pantomimy_neslyšících)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MFPN_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="MFPN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MFPN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-019-p3s9w18">

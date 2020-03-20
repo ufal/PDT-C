@@ -207,7 +207,7 @@
 <form>LeRK</form>
 <tag>
 <AM lemma="Lerk_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="LeRK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LeRK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-157-p2s1w22">
@@ -301,7 +301,7 @@
 <AM lemma="Uh_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Uh_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="uherský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="Uh-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Uh-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-157-p2s1w33">
@@ -418,7 +418,7 @@
 <form>NH</form>
 <tag>
 <AM lemma="NH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-157-p2s5w10">
@@ -1003,7 +1003,7 @@
 <AM lemma="Uh_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Uh_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="uherský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="Uh-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Uh-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-157-p3s1w26">
@@ -1053,7 +1053,7 @@
 <AM lemma="telefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto">PDXXX---------8</AM>
-<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-157-p3s1w30">
@@ -1186,7 +1186,7 @@
 <form>ČFL</form>
 <tag>
 <AM lemma="ČFL-1_:B_;K_^(Česká_fotbalová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČFL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČFL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-157-p3s3w2">
@@ -1287,7 +1287,7 @@
 <form>MSFL</form>
 <tag>
 <AM lemma="MSFL_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MSFL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MSFL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-157-p3s4w2">

@@ -2228,7 +2228,7 @@
 <AM lemma="ARD_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ARD_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Arda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="ARD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ARD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-113-p6s1w34">

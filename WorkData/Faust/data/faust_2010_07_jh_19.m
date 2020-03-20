@@ -1219,7 +1219,7 @@
 <form>GIT</form>
 <tag>
 <AM lemma="Gita_;Y" recommended="1">NNFP2-----A----</AM>
-<AM lemma="GIT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GIT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2012-s1-w8">
@@ -3176,7 +3176,7 @@
 <AM lemma="LAN_:B_^(počítačová_síť)" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
-<AM lemma="LAN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2026-s1-w15">
@@ -3244,7 +3244,7 @@
 <AM lemma="LAN_:B_^(počítačová_síť)" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
-<AM lemma="LAN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2026-s1-w21">
@@ -4120,7 +4120,7 @@
 <AM lemma="po-1">RR--4----------</AM>
 <AM lemma="po-1">RR--6----------</AM>
 <AM lemma="po-2_:B_,x_^(pondělí)">NNNXX-----A---8</AM>
-<AM lemma="PO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w39">
@@ -4225,7 +4225,7 @@
 <AM lemma="PO-1_:B_,t_^(Post-Office)">AAXXX----1A---8</AM>
 <AM lemma="po-1">RR--4----------</AM>
 <AM lemma="po-1">RR--6----------</AM>
-<AM lemma="PO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w47">
@@ -5415,7 +5415,7 @@
 <AM lemma="ct-3_:B_,t_^(county)">NNFXX-----A---8</AM>
 <AM lemma="ct-3_:B_,t_^(county)">NNNXX-----A---8</AM>
 <AM lemma="ct-4_:B_,t_^(current,_proud)">NNIXX-----A---8</AM>
-<AM lemma="CT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2049-s1-w24">
@@ -5567,7 +5567,7 @@
 <AM lemma="terabyte_:B_,t">NNIXX-----A---8</AM>
 <AM lemma="terabit_:B_,t">NNIXX-----A---8</AM>
 <AM lemma="terbium_:B_;H">NNIXX-----A---8</AM>
-<AM lemma="TB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2049-s1-w32">
@@ -7423,7 +7423,7 @@
 <form>smtp</form>
 <tag>
 <AM lemma="smtp">X@-------------</AM>
-<AM lemma="smtp-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="smtp-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w9">
@@ -7500,7 +7500,7 @@
 <form>TS03</form>
 <tag>
 <AM lemma="TS03">X@-------------</AM>
-<AM lemma="TS03-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TS03-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w19">
@@ -7732,7 +7732,7 @@
 <tag>
 <AM lemma="HTTP-1_:B_,t_,x_^(Hypertext_transfer_protocol)" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="http-77" src="manual">F%-------------</AM>
-<AM lemma="http-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="http-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w41">
@@ -7828,7 +7828,7 @@
 <form>html</form>
 <tag>
 <AM lemma="HTML_:B_;c_,t_,x_^(HyperText_Markup_language)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="html-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="html-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -1980,7 +1980,7 @@
 <tag>
 <AM lemma="premiéra_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="premiéra" src="manual">NNFXX-----A---8</AM>
-<AM lemma="prem-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="prem-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s10w17">
@@ -6091,7 +6091,7 @@
 <form>DIF</form>
 <tag>
 <AM lemma="DIF_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DIF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s24w24">
@@ -6399,7 +6399,7 @@
 <form>DJG</form>
 <tag>
 <AM lemma="DJG-1_:B_;K_^(Divadlo_Jiřího_Grossmanna)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="DJG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DJG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s28w3">
@@ -6470,7 +6470,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s30w7">
@@ -6682,7 +6682,7 @@
 <tag>
 <AM lemma="FA_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="firma_:B" src="auto" recommended="1">NNFS1-----A---8</AM>
-<AM lemma="FA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s34w3">

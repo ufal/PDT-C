@@ -45,7 +45,7 @@
 <form>ČOV</form>
 <tag>
 <AM lemma="ČOV_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p1s1w5">
@@ -66,7 +66,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s1w2">
@@ -419,7 +419,7 @@
 <form>ČOV</form>
 <tag>
 <AM lemma="ČOV_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s2w5">
@@ -974,7 +974,7 @@
 <form>ČOV</form>
 <tag>
 <AM lemma="ČOV_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s4w20">
@@ -1314,7 +1314,7 @@
 <form>MOV</form>
 <tag>
 <AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s7w24">
@@ -1998,7 +1998,7 @@
 <form>ČOV</form>
 <tag>
 <AM lemma="ČOV_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s10w3">
@@ -2105,7 +2105,7 @@
 <form>ČOV</form>
 <tag>
 <AM lemma="ČOV_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s10w16">
@@ -2124,7 +2124,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s10w18">
@@ -2508,7 +2508,7 @@
 <form>ČOV</form>
 <tag>
 <AM lemma="ČOV_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s13w14">

@@ -159,7 +159,7 @@
 <form>ISO</form>
 <tag>
 <AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ISO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ISO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-003-p3s1w17">
@@ -1405,7 +1405,7 @@
 <form>ISO</form>
 <tag>
 <AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ISO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ISO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-003-p7s1w8">

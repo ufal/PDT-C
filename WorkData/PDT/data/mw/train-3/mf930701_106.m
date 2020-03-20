@@ -714,7 +714,7 @@
 <form>IMG</form>
 <tag>
 <AM lemma="IMG-1_:B_;K_,t_^(International_Management_Group)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IMG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="IMG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-106-p3s1w20">

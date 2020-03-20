@@ -50,7 +50,7 @@
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-27-p1s1w5">
@@ -128,7 +128,7 @@
 <AM lemma="Aba_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-27-p2s1Bw5">
@@ -329,7 +329,7 @@
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-27-p3s1w4">
@@ -527,7 +527,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-27-p3s2w5">
@@ -550,7 +550,7 @@
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-27-p3s2w7">
@@ -1424,7 +1424,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-27-p4s5w10">
@@ -1571,7 +1571,7 @@
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-27-p5s1w5">
@@ -1662,7 +1662,7 @@
 <form>ČS</form>
 <tag>
 <AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-27-p5s1w16">

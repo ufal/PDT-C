@@ -1002,7 +1002,7 @@
 <AM lemma="OPUS_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="opus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="opus" src="auto">NNIS4-----A----</AM>
-<AM lemma="OPUS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-38-p3s5w8">
@@ -1965,7 +1965,7 @@
 <AM lemma="OPUS_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="opus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="opus" src="auto">NNIS4-----A----</AM>
-<AM lemma="OPUS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 <AM lemma="OPUS-77" src="manual">F%-------------</AM>
 </tag>
 </m>

@@ -156,7 +156,7 @@
 <form>SFTR</form>
 <tag>
 <AM lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-068-p1s3w7">

@@ -64,7 +64,7 @@
 <form>RT</form>
 <tag>
 <AM lemma="RT-2_:B_,t_^(real_time)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-8-p2s1Aw4">
@@ -83,7 +83,7 @@
 <form>dT</form>
 <tag>
 <AM lemma="dT_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="dT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -614,7 +614,7 @@
 <form>RT</form>
 <tag>
 <AM lemma="RT-2_:B_,t_^(real_time)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-8-p2s3w17">

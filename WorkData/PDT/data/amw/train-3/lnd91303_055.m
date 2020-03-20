@@ -81,7 +81,7 @@
 <form>AMU</form>
 <tag>
 <AM lemma="AMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p3s1w4">
@@ -630,7 +630,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p4s2w29">
@@ -665,7 +665,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p4s2w33">
@@ -1029,7 +1029,7 @@
 <AM lemma="ČDG-2_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ČDG-1_:B_;K_^(Český_svaz_dráhového_golfu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČDG-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČDG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČDG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p5s2w17">
@@ -1080,7 +1080,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p5s2w23">
@@ -1115,7 +1115,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p5s2w27">
@@ -1806,7 +1806,7 @@
 <AM lemma="tis" src="auto">NNIS4-----A----</AM>
 <AM lemma="tisíc-2`1000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="TIS_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="TIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p8s1w10">

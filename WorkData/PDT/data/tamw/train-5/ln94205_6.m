@@ -562,7 +562,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p2s3w23">
@@ -715,7 +715,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p2s4w2">
@@ -1667,7 +1667,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p3s6w4">
@@ -1734,7 +1734,7 @@
 <form>CDC</form>
 <tag>
 <AM lemma="CDC-2_:B_;K_,t_^(Civil_Defence_Committee)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CDC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CDC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p3s6w12">
@@ -1753,7 +1753,7 @@
 <form>RCA</form>
 <tag>
 <AM lemma="RCA-1_:B_;K_,t_^(Radio_Corporation_of_America)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p3s6w14">
@@ -1868,7 +1868,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p3s7w2">
@@ -4242,7 +4242,7 @@
 <form>DEC</form>
 <tag>
 <AM lemma="DEC-1_:B_;K_,t_^(Digital_Equipment_Corporation)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s3w10">
@@ -5308,7 +5308,7 @@
 <form>JSEP</form>
 <tag>
 <AM lemma="JSEP-1_:B_;R_;c_^(Jednotný_systém_elektronic._počítačů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="JSEP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JSEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s10w20">
@@ -5327,7 +5327,7 @@
 <form>SMEP</form>
 <tag>
 <AM lemma="SMEP-1_:B_;R_^(Systém_malých_elektronických_počítačů)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SMEP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SMEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s10w22">
@@ -5602,7 +5602,7 @@
 <form>IBM</form>
 <tag>
 <AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s12w7">
@@ -5677,7 +5677,7 @@
 <form>JSEP</form>
 <tag>
 <AM lemma="JSEP-1_:B_;R_;c_^(Jednotný_systém_elektronic._počítačů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="JSEP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JSEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s12w16">
@@ -5731,7 +5731,7 @@
 <form>HP</form>
 <tag>
 <AM lemma="HP-1_:B_;K_,t_^(Hewlett_Packard)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s12w22">
@@ -5806,7 +5806,7 @@
 <form>SMEP</form>
 <tag>
 <AM lemma="SMEP-1_:B_;R_^(Systém_malých_elektronických_počítačů)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SMEP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SMEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s12w31">

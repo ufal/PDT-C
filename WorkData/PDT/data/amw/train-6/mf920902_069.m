@@ -342,7 +342,7 @@
 <form>SSC</form>
 <tag>
 <AM lemma="SSC_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SSC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SSC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-069-p2s3w5">

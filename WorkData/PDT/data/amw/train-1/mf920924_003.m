@@ -1227,7 +1227,7 @@
 <form>MŽ</form>
 <tag>
 <AM lemma="MŽ_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-003-p4s1w3">
@@ -3070,7 +3070,7 @@
 <form>DS</form>
 <tag>
 <AM lemma="DS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="DS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-003-p7s2w2">

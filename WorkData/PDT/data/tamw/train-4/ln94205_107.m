@@ -482,7 +482,7 @@
 <AM lemma="MXM-2_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MXM`1990" src="auto" recommended="1">C}-------------</AM>
 <AM lemma="MXM_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="MXM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MXM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-107-p2s3w13">

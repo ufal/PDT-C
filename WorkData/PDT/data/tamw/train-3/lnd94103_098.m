@@ -637,7 +637,7 @@
 <form>HDK</form>
 <tag>
 <AM lemma="HDK_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HDK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HDK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-098-p1s3w32">
@@ -983,7 +983,7 @@
 <form>HDK</form>
 <tag>
 <AM lemma="HDK_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HDK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HDK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-098-p1s5w14">
@@ -1995,7 +1995,7 @@
 <AM lemma="SOS_:B" src="auto" recommended="1">TT------------8</AM>
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
-<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-098-p1s13Aw26">

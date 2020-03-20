@@ -1333,7 +1333,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p3s2w11">
@@ -1945,7 +1945,7 @@
 <form>PSP</form>
 <tag>
 <AM lemma="PSP-1_:B_;K_^(Pražský_stavební_podnik)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p5s2w2">
@@ -2239,7 +2239,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p5s2w38">
@@ -2490,7 +2490,7 @@
 <form>PSP</form>
 <tag>
 <AM lemma="PSP-1_:B_;K_^(Pražský_stavební_podnik)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p6s1w26">
@@ -2551,7 +2551,7 @@
 <form>PSP</form>
 <tag>
 <AM lemma="PSP-1_:B_;K_^(Pražský_stavební_podnik)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p6s2w6">
@@ -2677,7 +2677,7 @@
 <form>PIAS</form>
 <tag>
 <AM lemma="PIAS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PIAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PIAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p6s2w21">
@@ -2818,7 +2818,7 @@
 <form>RMS</form>
 <tag>
 <AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p6s3w17">

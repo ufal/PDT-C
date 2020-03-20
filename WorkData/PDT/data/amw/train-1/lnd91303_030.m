@@ -841,7 +841,7 @@
 <form>FTVS</form>
 <tag>
 <AM lemma="FTVS-1_:B_^(fakulta_tělesné_výchovy_a_sportu)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FTVS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FTVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-030-p4s5w9">

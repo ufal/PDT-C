@@ -695,7 +695,7 @@
 <form>RB</form>
 <tag>
 <AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p4s1w9">
@@ -1562,7 +1562,7 @@
 <form>HVO</form>
 <tag>
 <AM lemma="HVO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HVO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HVO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p7s1w7">
@@ -1815,7 +1815,7 @@
 <form>HINA</form>
 <tag>
 <AM lemma="HINA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="HINA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="HINA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p7s2w7">

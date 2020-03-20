@@ -278,7 +278,7 @@
 <tag>
 <AM lemma="JSR_:B_;G_^(Jugoslávská_svazová_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JSR_:B_^(Jugoslávská_svazová_republika)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="JSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p3s3w5">
@@ -1622,7 +1622,7 @@
 <AM lemma="BaH_:B_;G_^(Bosna_a_Hercegovina)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Bah_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="bah" src="auto" recommended="1">II-------------</AM>
-<AM lemma="BaH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BaH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p7s1w35">

@@ -919,7 +919,7 @@
 <form>ČSLA</form>
 <tag>
 <AM lemma="ČSLA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSLA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-002-p2s6w3">

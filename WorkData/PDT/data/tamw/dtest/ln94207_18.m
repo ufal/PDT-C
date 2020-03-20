@@ -521,7 +521,7 @@
 <tag>
 <AM lemma="RM_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-18-p3s1w9">
@@ -4073,7 +4073,7 @@
 <form>YSE</form>
 <tag>
 <AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="YSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="YSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-18-p6s6w12">

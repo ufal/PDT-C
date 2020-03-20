@@ -512,7 +512,7 @@
 <form>ČPPU</form>
 <tag>
 <AM lemma="ČPPU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČPPU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČPPU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-146-p3s3w10">
@@ -857,7 +857,7 @@
 <form>ČPPU</form>
 <tag>
 <AM lemma="ČPPU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČPPU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČPPU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-146-p4s3w2">
@@ -2038,7 +2038,7 @@
 <form>ČPPU</form>
 <tag>
 <AM lemma="ČPPU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČPPU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČPPU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-146-p6s4w10">
@@ -2475,7 +2475,7 @@
 <form>FBI</form>
 <tag>
 <AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-146-p6s7w9">

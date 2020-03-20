@@ -636,7 +636,7 @@
 <form>CEFTA</form>
 <tag>
 <AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-144-p2s4w10">

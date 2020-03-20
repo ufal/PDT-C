@@ -2696,7 +2696,7 @@
 <tag>
 <AM lemma="BCCI_:B_,t_^(Bank_of_Credit_and_Commerce_International)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BCCI_:B" src="manual">NNFXX-----A---8</AM>
-<AM lemma="BCCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BCCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-091-p7s2w24">

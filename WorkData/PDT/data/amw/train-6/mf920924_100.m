@@ -21,7 +21,7 @@
 <form>ČNHL</form>
 <tag>
 <AM lemma="ČNHL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČNHL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČNHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

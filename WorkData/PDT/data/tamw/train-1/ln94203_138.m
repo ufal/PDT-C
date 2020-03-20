@@ -185,7 +185,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-138-p2s1Bw16">

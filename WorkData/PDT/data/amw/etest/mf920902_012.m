@@ -584,7 +584,7 @@
 <form>OVaK</form>
 <tag>
 <AM lemma="OVaK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OVaK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OVaK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-012-p1s3w26">

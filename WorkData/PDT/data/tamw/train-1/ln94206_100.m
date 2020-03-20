@@ -409,7 +409,7 @@
 <AM lemma="SOM-1_:B_,t_^(start_of_message)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SOM-2_:B_,t_^(system_object_object)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="SOM-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-100-p2s3w11">
@@ -601,7 +601,7 @@
 <AM lemma="SOM-1_:B_,t_^(start_of_message)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SOM-2_:B_,t_^(system_object_object)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="SOM-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SOM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SOM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-100-p2s4w2">

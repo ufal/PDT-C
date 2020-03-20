@@ -61,7 +61,7 @@
 <form>RB</form>
 <tag>
 <AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-148-p1s1Aw7">
@@ -559,7 +559,7 @@
 <form>G</form>
 <tag>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-148-p1s2w25">
@@ -1055,7 +1055,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-148-p1s6w5">
@@ -1545,7 +1545,7 @@
 <form>G</form>
 <tag>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-148-p1s8w21">
@@ -1712,7 +1712,7 @@
 <form>G</form>
 <tag>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-148-p1s8w37">
@@ -2249,7 +2249,7 @@
 <form>G</form>
 <tag>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-148-p1s13w6">
@@ -2348,7 +2348,7 @@
 <form>G</form>
 <tag>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-148-p1s13w18">
@@ -2607,7 +2607,7 @@
 <form>G</form>
 <tag>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-148-p1s15w17">
@@ -2892,7 +2892,7 @@
 <form>G</form>
 <tag>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-148-p1s17w13">

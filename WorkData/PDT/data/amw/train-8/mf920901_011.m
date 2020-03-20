@@ -2047,7 +2047,7 @@
 <AM lemma="JR_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="jr_:B" src="auto" recommended="1">NNMSX-----A----</AM>
 <AM lemma="JR_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="JR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-011-p4s9w14">

@@ -1270,7 +1270,7 @@
 <form>EPO</form>
 <tag>
 <AM lemma="EPO-2_:B_,t_^(energency_power_off)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-084-p5s4w14">
@@ -1345,7 +1345,7 @@
 <form>EPO</form>
 <tag>
 <AM lemma="EPO-2_:B_,t_^(energency_power_off)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-084-p5s4w23">

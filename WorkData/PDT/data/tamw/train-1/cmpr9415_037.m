@@ -65,7 +65,7 @@
 <form>DBV</form>
 <tag>
 <AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DBV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-037-p4s1w3">
@@ -371,7 +371,7 @@
 <form>DBV</form>
 <tag>
 <AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DBV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-037-p5s1w4">

@@ -745,7 +745,7 @@
 <form>PPTMTM</form>
 <tag>
 <AM lemma="PPTMTM">X@-------------</AM>
-<AM lemma="PPTMTM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PPTMTM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2093-s1-w28">
@@ -2563,7 +2563,7 @@
 <form>Pvt</form>
 <tag>
 <AM lemma="Pvt">X@-------------</AM>
-<AM lemma="Pvt-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pvt-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2133-s1-w15">
@@ -3268,7 +3268,7 @@
 <tag>
 <AM lemma="Nysa_;G" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Nysa_;G">NNFS6-----A----</AM>
-<AM lemma="NYSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NYSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2141-s1-w5">
@@ -3285,7 +3285,7 @@
 <form>EW</form>
 <tag>
 <AM lemma="Ewa_;Y" recommended="1">NNFP2-----A----</AM>
-<AM lemma="EW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2141-s1-w7">
@@ -5056,7 +5056,7 @@
 <form>adj</form>
 <tag>
 <AM lemma="adj">X@-------------</AM>
-<AM lemma="adj-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="adj-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2155-s1-w2">
@@ -5892,7 +5892,7 @@
 <form>GSD</form>
 <tag>
 <AM lemma="GSD">X@-------------</AM>
-<AM lemma="GSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2159-s1-w3">
@@ -6044,7 +6044,7 @@
 <form>FTB</form>
 <tag>
 <AM lemma="FTB">X@-------------</AM>
-<AM lemma="FTB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FTB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2159-s1-w17">
@@ -6149,7 +6149,7 @@
 <form>FTB</form>
 <tag>
 <AM lemma="FTB">X@-------------</AM>
-<AM lemma="FTB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FTB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2159-s1-w27">
@@ -6249,7 +6249,7 @@
 <tag>
 <AM lemma="IPS_:B_;K" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ips_;L_,t">NNMXX-----A----</AM>
-<AM lemma="IPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="IPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2159-s1-w33">
@@ -7258,7 +7258,7 @@
 <tag>
 <AM lemma="DVD-1_:B_;K_;R_^(digital_versatile_disc)" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="DVD-2_:B_;K_;R_^(digital_video_disc)">NNIXX-----A---8</AM>
-<AM lemma="DVD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2170-s1-w3">
@@ -8450,7 +8450,7 @@
 <AM lemma="Ana_;Y">NNFS4-----A----</AM>
 <AM lemma="anus">NNIS3-----A----</AM>
 <AM lemma="anus">NNIS6-----A----</AM>
-<AM lemma="ANU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ANU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2185-s1-w11">

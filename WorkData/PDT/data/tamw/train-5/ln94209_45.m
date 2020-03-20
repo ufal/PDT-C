@@ -239,7 +239,7 @@
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-45-p2s2w9">
@@ -3961,7 +3961,7 @@
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-45-p9s5w13">

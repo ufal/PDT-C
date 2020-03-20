@@ -319,7 +319,7 @@
 <form>SPZ</form>
 <tag>
 <AM lemma="SPZ_:B_^(st._pozn._zn.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SPZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-063-p2s1Bw29">
@@ -795,7 +795,7 @@
 <form>SPZ</form>
 <tag>
 <AM lemma="SPZ_:B_^(st._pozn._zn.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SPZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SPZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-063-p2s4w18">
@@ -1653,7 +1653,7 @@
 <form>BMW</form>
 <tag>
 <AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto">NNNXX-----A----</AM>
-<AM lemma="BMW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-063-p2s9w23">

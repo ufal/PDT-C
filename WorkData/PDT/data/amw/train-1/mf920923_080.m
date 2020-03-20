@@ -23,7 +23,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
-<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p1s1w2">
@@ -86,7 +86,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
-<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p2s1w4">
@@ -249,7 +249,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p2s1w24">
@@ -310,7 +310,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
-<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p2s1w31">
@@ -626,7 +626,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p2s3w8">
@@ -761,7 +761,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
-<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p2s4w14">

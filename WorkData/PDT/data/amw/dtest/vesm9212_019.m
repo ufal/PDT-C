@@ -896,7 +896,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p6s2w11">
@@ -1969,7 +1969,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p10s6w8">
@@ -2210,7 +2210,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p12s2w8">
@@ -2312,7 +2312,7 @@
 <AM lemma="sp_:B_;L_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="speciální_:B_,x" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="sp-77" src="manual">F%-------------</AM>
-<AM lemma="sp-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="sp-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p14s1w5">
@@ -2761,7 +2761,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p16s2w9">
@@ -3124,7 +3124,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p18s3w8">
@@ -3709,7 +3709,7 @@
 <form>aaax</form>
 <tag>
 <AM lemma="aaax" src="orig">Cv-------------</AM>
-<AM lemma="aaax-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="aaax-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p28s1w12">
@@ -3810,7 +3810,7 @@
 <form>aaaax</form>
 <tag>
 <AM lemma="aaaax" src="orig">Cv-------------</AM>
-<AM lemma="aaaax-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="aaaax-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p30s1w8">
@@ -4753,7 +4753,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p45s1w19">
@@ -4899,7 +4899,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p47s1w11">
@@ -5044,7 +5044,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p49s1w11">
@@ -6222,7 +6222,7 @@
 <tag>
 <AM lemma="UB" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="UB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p64s6w9">

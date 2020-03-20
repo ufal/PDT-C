@@ -406,7 +406,7 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_03-SCzechM-p0199-s1-w28">
@@ -2448,7 +2448,7 @@
 <AM lemma="BT_:B_^(Bhútán)">NNXXX-----A---8</AM>
 <AM lemma="bt-1_:B_,t_^(baronet)">NNMXX-----A---8</AM>
 <AM lemma="bt-1_:B_,t_^(baronet)">NNMXX-----A---8</AM>
-<AM lemma="BT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_03-SCzechM-p0233-s1-w11">
@@ -2702,7 +2702,7 @@
 <tag>
 <AM lemma="XY">X@-------------</AM>
 <AM lemma="XY-33_^(označení_pomocí_písmen)" src="manual">NNXXX-----A----</AM>
-<AM lemma="XY-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_03-SCzechM-p0233-s1-w31">

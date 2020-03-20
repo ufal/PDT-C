@@ -1269,7 +1269,7 @@
 <form>GIT</form>
 <tag>
 <AM lemma="Gita_;Y" recommended="1">NNFP2-----A----</AM>
-<AM lemma="GIT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GIT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2012-s1-w8">
@@ -5246,7 +5246,7 @@
 <AM lemma="ct-3_:B_,t_^(county)">NNFXX-----A---8</AM>
 <AM lemma="ct-3_:B_,t_^(county)">NNNXX-----A---8</AM>
 <AM lemma="ct-4_:B_,t_^(current,_proud)">NNIXX-----A---8</AM>
-<AM lemma="CT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2049-s1-w25">
@@ -5437,7 +5437,7 @@
 <AM lemma="terabyte_:B_,t">NNIXX-----A---8</AM>
 <AM lemma="terabit_:B_,t">NNIXX-----A---8</AM>
 <AM lemma="terbium_:B_;H">NNIXX-----A---8</AM>
-<AM lemma="TB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2049-s1-w36">
@@ -6421,7 +6421,7 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2065-s1-w9">
@@ -7274,7 +7274,7 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w6">
@@ -7291,7 +7291,7 @@
 <form>smtp</form>
 <tag>
 <AM lemma="smtp">X@-------------</AM>
-<AM lemma="smtp-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="smtp-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w8">
@@ -7682,7 +7682,7 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w48">

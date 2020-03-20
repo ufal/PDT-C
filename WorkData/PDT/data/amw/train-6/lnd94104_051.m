@@ -387,7 +387,7 @@
 <form>ZEU</form>
 <tag>
 <AM lemma="Zea" src="orig">NNFS4-----A----</AM>
-<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ZEU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-051-p1s4w26">

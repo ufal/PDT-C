@@ -1426,7 +1426,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-080-p4s3w3">

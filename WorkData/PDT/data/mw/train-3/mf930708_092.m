@@ -396,7 +396,7 @@
 <tag>
 <AM lemma="ATR-2_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ATR-1_:B_,t_^(anti-transmit_receive)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ATR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ATR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-092-p2s2w11">
@@ -744,7 +744,7 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-092-p3s1w28">
@@ -789,7 +789,7 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-092-p3s2w3">

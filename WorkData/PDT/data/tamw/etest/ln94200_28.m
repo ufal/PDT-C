@@ -63,7 +63,7 @@
 <form>NDR</form>
 <tag>
 <AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-28-p2s1w6">
@@ -285,7 +285,7 @@
 <form>GSR</form>
 <tag>
 <AM lemma="GSR_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-28-p3s1w14">

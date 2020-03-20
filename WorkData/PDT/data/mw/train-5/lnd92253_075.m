@@ -166,7 +166,7 @@
 <tag>
 <AM lemma="FHL_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FHL_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FHL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-075-p3s2w8">
@@ -978,7 +978,7 @@
 <AM lemma="fluvizem_:B_^(klasifikace_půd)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="fl-1_:B_,a_^(florin)" src="auto">NNIXX-----A----</AM>
 <AM lemma="fl-2_:B_^(fentolitr)" src="auto">Xx-------------</AM>
-<AM lemma="FL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-075-p4s1w7">

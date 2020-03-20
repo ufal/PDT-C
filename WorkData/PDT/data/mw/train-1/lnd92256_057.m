@@ -252,7 +252,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p3s1w19">
@@ -452,7 +452,7 @@
 <form>ČSAV</form>
 <tag>
 <AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p3s2w21">
@@ -910,7 +910,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p4s3w11">
@@ -1119,7 +1119,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p5s3w6">
@@ -1729,7 +1729,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p5s6w8">
@@ -1852,7 +1852,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p5s7w10">
@@ -2007,7 +2007,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p5s8w6">
@@ -2389,7 +2389,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p6s3w5">
@@ -2592,7 +2592,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p6s4w5">
@@ -2749,7 +2749,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p7s1w7">
@@ -2800,7 +2800,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČSFR-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2995,7 +2995,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p7s3w8">
@@ -3078,7 +3078,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p7s4w4">
@@ -3195,7 +3195,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p7s5w6">
@@ -3552,7 +3552,7 @@
 <form>MSD</form>
 <tag>
 <AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p7s7w25">

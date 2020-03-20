@@ -533,7 +533,7 @@
 <AM lemma="ACP-1_:B_;K_,t_^(Agence_Centrale_Parisienne_de_Presse)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ACP-2_:B_;K_,t_^(Agence_Comores_Presse)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ACP-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ACP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ACP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-061-p3s1w15">
@@ -2400,7 +2400,7 @@
 <form>EZLN</form>
 <tag>
 <AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EZLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EZLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-061-p10s1w14">

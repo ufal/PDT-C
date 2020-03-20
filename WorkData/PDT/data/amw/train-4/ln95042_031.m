@@ -135,7 +135,7 @@
 <form>F</form>
 <tag>
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p1s2Aw10">
@@ -841,7 +841,7 @@
 <tag>
 <AM lemma="ÖMV_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ÖMV_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ÖMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p3s1w25">
@@ -1080,7 +1080,7 @@
 <tag>
 <AM lemma="RS_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="RS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="RS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p3s1w48">
@@ -1587,7 +1587,7 @@
 <tag>
 <AM lemma="GT_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="GT_:B_;R_^(gran_turismo)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="GT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p4s1w32">
@@ -2406,7 +2406,7 @@
 <AM lemma="FIA_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p5s1w41">
@@ -2980,7 +2980,7 @@
 <AM lemma="FIA_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p5s3w40">
@@ -3267,7 +3267,7 @@
 <form>BRM</form>
 <tag>
 <AM lemma="BRM_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="BRM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BRM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p5s4w27">
@@ -4095,7 +4095,7 @@
 <AM lemma="F-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="f-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p5s6w27">

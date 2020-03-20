@@ -1823,7 +1823,7 @@
 <form>Ft</form>
 <tag>
 <AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ft-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-141-p3s9w9">
@@ -1886,7 +1886,7 @@
 <form>Ft</form>
 <tag>
 <AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ft-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-141-p3s9w16">
@@ -3303,7 +3303,7 @@
 <form>Ft</form>
 <tag>
 <AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ft-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-141-p5s2w7">
@@ -3379,7 +3379,7 @@
 <form>Ft</form>
 <tag>
 <AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ft-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-141-p5s2w16">
@@ -5735,7 +5735,7 @@
 <form>Ft</form>
 <tag>
 <AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ft-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-141-p8s2w9">
@@ -5936,7 +5936,7 @@
 <form>Ft</form>
 <tag>
 <AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ft-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-141-p8s2w33">

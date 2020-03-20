@@ -72,7 +72,7 @@
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-163-p2s1Aw2">
@@ -240,7 +240,7 @@
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-163-p2s1Cw11">
@@ -366,7 +366,7 @@
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-163-p2s2w4">
@@ -484,7 +484,7 @@
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-163-p3s1w2">
@@ -698,7 +698,7 @@
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-163-p3s2w2">
@@ -992,7 +992,7 @@
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-163-p4s1w2">
@@ -1198,7 +1198,7 @@
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-163-p4s2w5">
@@ -1356,7 +1356,7 @@
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-163-p5s1w9">
@@ -1772,7 +1772,7 @@
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="AIM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-163-p6s1w10">

@@ -284,7 +284,7 @@
 <form>k</form>
 <tag>
 <AM lemma="k-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="k-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="k-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-096-p1s3w15">
@@ -303,7 +303,7 @@
 <form>o</form>
 <tag>
 <AM lemma="o-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="o-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="o-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-096-p1s3w17">

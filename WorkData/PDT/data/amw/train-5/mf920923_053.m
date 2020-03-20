@@ -97,7 +97,7 @@
 <form>SSC</form>
 <tag>
 <AM lemma="SSC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SSC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="SSC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-053-p2s1w6">
@@ -266,7 +266,7 @@
 <form>FIFA</form>
 <tag>
 <AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-053-p2s2w8">

@@ -5582,7 +5582,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-045-p5s1w3">
@@ -5670,7 +5670,7 @@
 <form>čas</form>
 <tag>
 <AM lemma="časopis_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="čas-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="čas-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-045-p6s1w4">
@@ -5689,7 +5689,7 @@
 <form>fyz</form>
 <tag>
 <AM lemma="fyzický_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="fyz-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fyz-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-045-p6s1w6">

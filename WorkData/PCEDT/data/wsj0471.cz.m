@@ -165,7 +165,7 @@
 <tag>
 <AM lemma="u-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="u-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="u-88" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0471-001-p1s0W15-Ta">
@@ -331,7 +331,7 @@
 <LM>w#w-wsj0471-001-p1s0W25</LM>
 </w.rf>
 <form>DPC</form>
-<tag lemma="DPC-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="DPC-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0471-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-wsj0471-001-p1s1W1</LM>
 </w.rf>
 <form>DPC</form>
-<tag lemma="DPC-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="DPC-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0471-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -718,7 +718,7 @@
 <tag>
 <AM lemma="u-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="u-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="u-88" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0471-001-p1s1W16-Ta">
@@ -756,7 +756,7 @@
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -933,7 +933,7 @@
 <LM>w#w-wsj0471-001-p1s2W8</LM>
 </w.rf>
 <form>DPC</form>
-<tag lemma="DPC-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="DPC-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0471-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-wsj0471-001-p1s3W2</LM>
 </w.rf>
 <form>DPC</form>
-<tag lemma="DPC-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="DPC-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0471-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1373,7 +1373,7 @@
 <LM>w#w-wsj0471-001-p1s4W2</LM>
 </w.rf>
 <form>DPC</form>
-<tag lemma="DPC-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="DPC-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0471-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1423,7 +1423,7 @@
 <tag>
 <AM lemma="k-1" src="auto" recommended="1">RR--3----------</AM>
 <AM lemma="k-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="k-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="k-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kůň" src="auto">NNMXX-----A---8</AM>
 </tag>

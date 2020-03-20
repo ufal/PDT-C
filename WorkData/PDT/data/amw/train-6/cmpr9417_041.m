@@ -971,7 +971,7 @@
 <form>NKA</form>
 <tag>
 <AM lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NKA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-041-p4s5w9">
@@ -3043,7 +3043,7 @@
 <form>NKA</form>
 <tag>
 <AM lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NKA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-041-p13s1w4">

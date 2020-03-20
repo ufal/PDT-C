@@ -1703,7 +1703,7 @@
 <form>CMC</form>
 <tag>
 <AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-022-p11s1w4">

@@ -255,7 +255,7 @@
 <form>BJP</form>
 <tag>
 <AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BJP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BJP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s1w27">
@@ -587,7 +587,7 @@
 <form>BJP</form>
 <tag>
 <AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BJP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BJP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s4w7">
@@ -866,7 +866,7 @@
 <form>BJP</form>
 <tag>
 <AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BJP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BJP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s5w25">
@@ -935,7 +935,7 @@
 <form>BJP</form>
 <tag>
 <AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BJP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="BJP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s6w4">

@@ -973,7 +973,7 @@
 <form>SRNA</form>
 <tag>
 <AM lemma="srna" src="orig">NNFS1-----A----</AM>
-<AM lemma="SRNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SRNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-65-p4s3w5">
@@ -1833,7 +1833,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-65-p6s2w7">

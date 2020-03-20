@@ -380,7 +380,7 @@
 <form>MF</form>
 <tag>
 <AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-065-p2s1w33">
@@ -1048,7 +1048,7 @@
 <tag>
 <AM lemma="FKP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FKP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FKP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-065-p2s5Aw29">
@@ -2556,7 +2556,7 @@
 <form>LSD</form>
 <tag>
 <AM lemma="LSD_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LSD-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="LSD-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="LSD_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
