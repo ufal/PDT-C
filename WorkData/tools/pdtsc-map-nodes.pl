@@ -7,7 +7,7 @@ use FindBin;
 
 use open IO => ':encoding(UTF-8)', ':std';
 
-my $orig_dir = "$FindBin::Bin/../../OriginalInputData/PDTSC/data";
+my $orig_dir = "$FindBin::Bin/../../WorkData/PDTSC/data";
 
 {   package Local::Original::Iterator;
     use Moo;
