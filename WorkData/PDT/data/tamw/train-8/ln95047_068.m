@@ -254,7 +254,7 @@
 <AM lemma="Z-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Z-9_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

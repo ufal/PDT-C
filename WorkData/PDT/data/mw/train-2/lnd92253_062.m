@@ -7013,7 +7013,7 @@
 <form>p</form>
 <tag>
 <AM lemma="panna_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="p-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="p-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="p-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>

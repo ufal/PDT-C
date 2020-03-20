@@ -7750,7 +7750,7 @@
 <AM lemma="United-3_:B_;R_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="United-4_:B_;m_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="u-1" src="auto">RR--2----------</AM>
-<AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="U-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
 <AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -7970,7 +7970,7 @@
 <AM lemma="United-3_:B_;R_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="United-4_:B_;m_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="u-1" src="auto">RR--2----------</AM>
-<AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="U-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
 <AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -8623,7 +8623,7 @@
 <AM lemma="United-3_:B_;R_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="United-4_:B_;m_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="u-1" src="auto">RR--2----------</AM>
-<AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="U-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
 <AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -11412,7 +11412,7 @@
 <AM lemma="United-3_:B_;R_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="United-4_:B_;m_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="u-1" src="auto">RR--2----------</AM>
-<AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="U-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
 <AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -12075,7 +12075,7 @@
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="o-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="o-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="obchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
@@ -12208,7 +12208,7 @@
 <AM lemma="United-3_:B_;R_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="United-4_:B_;m_,t_^(United,_spojený)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="u-1" src="auto">RR--2----------</AM>
-<AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="U-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
 <AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -12829,7 +12829,7 @@
 <AM lemma="C-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="city_;B_,t" src="manual">NNXXX-----A---8</AM>
 <AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -13034,7 +13034,7 @@
 <AM lemma="C-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="city_:B_,t" src="manual">NNXXX-----A---8</AM>
 <AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -13266,7 +13266,7 @@
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="v-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>

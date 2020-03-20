@@ -4102,7 +4102,7 @@
 <LM>w#w-vesm9301-006-p7s3w27</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="a-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p7s3w28">
 <src.rf>manual</src.rf>
@@ -7719,7 +7719,7 @@
 <AM lemma="B-9_:B_;S" src="auto">NNFXX-----A---8</AM>
 <AM lemma="B-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="B-1_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
@@ -7764,7 +7764,7 @@
 </w.rf>
 <form>a</form>
 <tag>
-<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -12072,7 +12072,7 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="p-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="P-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -12143,7 +12143,7 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="p-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="P-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -13028,7 +13028,7 @@
 <AM lemma="P-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="P-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="p-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="P-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="p-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>
@@ -18360,7 +18360,7 @@
 <AM lemma="P-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="P-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="p-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="P-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="p-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>

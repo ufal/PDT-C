@@ -2021,7 +2021,7 @@
 <LM>w#w-ln94202-126-p4s3w18</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="B-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94202-126-p4s3w19">
 <src.rf>manual</src.rf>

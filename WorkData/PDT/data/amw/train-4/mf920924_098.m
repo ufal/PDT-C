@@ -165,7 +165,7 @@
 <LM>w#w-mf920924-098-p2s1w17</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="m-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="M-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920924-098-p2s1w18">
 <src.rf>manual</src.rf>

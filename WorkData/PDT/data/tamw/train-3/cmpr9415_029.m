@@ -1684,7 +1684,7 @@
 <form>d</form>
 <tag>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="d-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="d-5_:B" src="manual">NNXXX-----A---8</AM>
@@ -1707,7 +1707,7 @@
 <form>d</form>
 <tag>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="d-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="d-85_:B" src="manual">NNXXX-----A---8</AM>

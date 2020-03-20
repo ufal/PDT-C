@@ -3353,7 +3353,7 @@
 <LM>w#w-ln94202-81-p6s5w19</LM>
 </w.rf>
 <form>z</form>
-<tag lemma="z-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="z-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94202-81-p6s5w20">
 <src.rf>manual</src.rf>

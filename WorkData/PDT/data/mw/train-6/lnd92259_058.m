@@ -544,7 +544,7 @@
 <form>ú</form>
 <tag>
 <AM lemma="účet_:B" src="orig" selected="1">NNIXX-----A---8</AM>
-<AM lemma="ú-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="ú-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="ú-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
 </m>

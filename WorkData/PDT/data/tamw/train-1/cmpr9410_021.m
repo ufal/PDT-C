@@ -2125,7 +2125,7 @@
 <AM lemma="E-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="E-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="e-1" src="auto">II-------------</AM>
-<AM lemma="e-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2481,7 +2481,7 @@
 <AM lemma="E-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="E-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="e-1" src="auto">II-------------</AM>
-<AM lemma="e-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

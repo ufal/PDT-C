@@ -2633,7 +2633,7 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="m-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3555,7 +3555,7 @@
 <AM lemma="M-9_:B_;S" src="auto">NNFXX-----A---8</AM>
 <AM lemma="M-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="M-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -4468,7 +4468,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="o-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="O-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="O-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -4487,7 +4487,7 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -7318,7 +7318,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="o-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="O-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="O-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -7361,7 +7361,7 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -9953,7 +9953,7 @@
 <AM lemma="M-9_:B_;S" src="auto">NNFXX-----A---8</AM>
 <AM lemma="M-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="M-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

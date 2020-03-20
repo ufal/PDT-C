@@ -152,7 +152,7 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="d-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="D-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2446,7 +2446,7 @@
 <LM>w#w-vesm9211-016-p14s1w3</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="a-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p14s1w4">
 <src.rf>manual</src.rf>

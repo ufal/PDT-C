@@ -1376,7 +1376,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-120-p2s15Bw13">
@@ -3393,7 +3393,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-120-p2s36w4">
@@ -3773,7 +3773,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-120-p2s39w3">
@@ -4346,7 +4346,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-120-p2s44w12">
@@ -4569,7 +4569,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-120-p2s46w15">
@@ -6501,7 +6501,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-120-p2s65w29">
@@ -6560,7 +6560,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-120-p2s65w36">
@@ -7842,7 +7842,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-120-p2s76w3">

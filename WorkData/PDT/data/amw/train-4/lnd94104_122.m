@@ -233,7 +233,7 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
 </tag>
 </m>

@@ -2038,7 +2038,7 @@
 </w.rf>
 <form>R</form>
 <tag>
-<AM lemma="r-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="R-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -370,7 +370,7 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -1048,7 +1048,7 @@
 <tag>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="být_:B_^(jen_ve_spojení_t._j.,_to_jest)" src="auto">VB-S---3P-AA--8</AM>
-<AM lemma="j-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="j-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="jako-1_:B" src="auto">J,------------8</AM>
 <AM lemma="jiný" src="manual">AAXXX----1A---8</AM>

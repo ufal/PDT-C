@@ -1507,7 +1507,7 @@
 <AM lemma="C-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

@@ -8456,7 +8456,7 @@
 <form>w</form>
 <tag>
 <AM lemma="w_,t" src="orig">RR--6----------</AM>
-<AM lemma="w-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="w-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="w-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="w_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="w-77" src="manual" selected="1">F%-------------</AM>

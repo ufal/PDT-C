@@ -1133,7 +1133,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
 <AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>

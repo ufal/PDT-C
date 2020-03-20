@@ -302,7 +302,7 @@
 <LM>w#w-mf920922-065-p2s3w24</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="n-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="N-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920922-065-p2s3w25">
 <src.rf>manual</src.rf>

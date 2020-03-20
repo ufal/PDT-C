@@ -2613,7 +2613,7 @@
 <tag>
 <AM lemma="e-4_,t_^(italsky_a)" src="orig">J^-------------</AM>
 <AM lemma="e-1" src="auto">II-------------</AM>
-<AM lemma="e-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="e-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="e-2_,t" src="manual">J^-------------</AM>
 <AM lemma="e-77" src="manual" selected="1">F%-------------</AM>

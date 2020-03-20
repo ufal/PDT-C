@@ -335,7 +335,7 @@
 <form>š</form>
 <tag>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="š-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="š-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="š-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

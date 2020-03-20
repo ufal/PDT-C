@@ -250,7 +250,7 @@
 </w.rf>
 <form>t</form>
 <tag>
-<AM lemma="t-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="t-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="t-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -930,7 +930,7 @@
 <tag>
 <AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="t-2_^(přípona)" src="manual">NNXXX-----A----</AM>
-<AM lemma="t-33_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
+<AM lemma="t-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
 <AM lemma="t-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>

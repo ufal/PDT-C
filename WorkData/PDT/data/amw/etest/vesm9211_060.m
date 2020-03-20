@@ -6681,7 +6681,7 @@
 <AM lemma="Q-9_:B_;S" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Q-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Q-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="q-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Q-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="q-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="Q-1_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Q-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -6714,7 +6714,7 @@
 <AM lemma="E-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="E-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="e-1" src="auto">II-------------</AM>
-<AM lemma="e-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="E-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -6746,7 +6746,7 @@
 <AM lemma="D-9_:B_;S" src="auto">NNFXX-----A---8</AM>
 <AM lemma="D-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="D-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="d-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="D-1_:B" src="manual">NNXXX-----A---8</AM>
@@ -7890,7 +7890,7 @@
 </w.rf>
 <form>x</form>
 <tag>
-<AM lemma="x-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="x-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -8661,7 +8661,7 @@
 </w.rf>
 <form>x</form>
 <tag>
-<AM lemma="x-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="x-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>

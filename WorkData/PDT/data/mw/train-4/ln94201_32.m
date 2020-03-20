@@ -1960,7 +1960,7 @@
 <AM lemma="K-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Kapský_:B_;G_^(jen_K._m.)" src="auto">AANXX----1A---8</AM>
 <AM lemma="k-1" src="auto">RR--3----------</AM>
-<AM lemma="k-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="K-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="k-4`kůň_:B_^(jednotka_výkonu)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="k-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
@@ -1996,7 +1996,7 @@
 <AM lemma="J-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="J-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="být_:B_^(jen_ve_spojení_t._j.,_to_jest)" src="auto">VB-S---3P-AA--8</AM>
-<AM lemma="j-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="J-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="jako-1_:B" src="auto">J,------------8</AM>
 <AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2028,7 +2028,7 @@
 <AM lemma="D-9_:B_;S" src="auto">NNFXX-----A---8</AM>
 <AM lemma="D-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="D-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="d-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>

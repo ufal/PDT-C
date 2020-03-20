@@ -154,7 +154,7 @@
 <AM lemma="I-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="i-1" src="auto">J^-------------</AM>
 <AM lemma="i-2" src="auto">TT-------------</AM>
-<AM lemma="i-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="I-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="i-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="I-1_:B" src="manual">NNXXX-----A---8</AM>
@@ -188,7 +188,7 @@
 <AM lemma="C-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="C-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -360,7 +360,7 @@
 <AM lemma="E-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="E-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="e-1" src="auto">II-------------</AM>
-<AM lemma="e-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="E-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>

@@ -229,7 +229,7 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
 </tag>
 </m>
@@ -635,7 +635,7 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
 </tag>
 </m>
@@ -1292,7 +1292,7 @@
 <LM>w#w-mf920901-085-p3s3w43</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="C-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920901-085-p3s3w44">
 <src.rf>manual</src.rf>

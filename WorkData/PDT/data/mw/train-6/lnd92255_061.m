@@ -3460,7 +3460,7 @@
 </w.rf>
 <form>c</form>
 <tag>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="c-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="c-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

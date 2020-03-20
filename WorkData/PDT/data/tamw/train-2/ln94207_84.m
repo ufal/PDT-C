@@ -3446,7 +3446,7 @@
 <LM>w#w-ln94207-84-p5s12w7</LM>
 </w.rf>
 <form>v</form>
-<tag lemma="v-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="v-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94207-84-p5s12w8">
 <src.rf>manual</src.rf>

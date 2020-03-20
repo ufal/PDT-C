@@ -102,7 +102,7 @@
 </w.rf>
 <form>c</form>
 <tag>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="c-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="c-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -121,7 +121,7 @@
 </w.rf>
 <form>k</form>
 <tag>
-<AM lemma="k-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="k-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="k-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1314,7 +1314,7 @@
 <tag>
 <AM lemma="tak_:B" src="orig">Db------------8</AM>
 <AM lemma="t-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="t-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="t-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="t-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="telefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>

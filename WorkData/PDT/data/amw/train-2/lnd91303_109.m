@@ -89,7 +89,7 @@
 <tag>
 <AM lemma="jiný_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="být_:B_^(jen_ve_spojení_t._j.,_to_jest)" src="auto" recommended="1">VB-S---3P-AA--8</AM>
-<AM lemma="j-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="j-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="jako-1_:B" src="auto">J,------------8</AM>
 <AM lemma="j-88" src="manual" selected="1">BNXXX-----A----</AM>

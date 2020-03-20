@@ -52,7 +52,7 @@
 <form>š</form>
 <tag>
 <AM lemma="š'_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="š-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="š-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
@@ -1006,7 +1006,7 @@
 <form>š</form>
 <tag>
 <AM lemma="š'ův_;S_^(*2)" src="orig">AUNS2M---------</AM>
-<AM lemma="š-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="š-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>

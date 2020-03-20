@@ -780,7 +780,7 @@
 <LM>w#w-ln94204-132-p2s5Aw9</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-3_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="s-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-132-p2s5Aw10">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="k-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="K-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>

@@ -1159,7 +1159,7 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="t-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="T-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
 <AM lemma="T-77" src="manual">F%-------------</AM>
 </tag>

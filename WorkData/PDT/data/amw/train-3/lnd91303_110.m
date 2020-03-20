@@ -134,7 +134,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-110-p4s1w4">

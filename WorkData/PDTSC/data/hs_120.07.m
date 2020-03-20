@@ -4230,7 +4230,7 @@
 <AM lemma="Á-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="Á-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="á-1" src="auto" selected="1">II-------------</AM>
-<AM lemma="á-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Á-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="á-77_,t" src="auto">F%-------------</AM>
 <AM lemma="á-88" src="auto">BNXXX-----A----</AM>
 </tag>

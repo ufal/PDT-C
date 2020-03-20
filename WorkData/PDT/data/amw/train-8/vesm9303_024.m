@@ -10040,7 +10040,7 @@
 </w.rf>
 <form>l</form>
 <tag>
-<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="l-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="l-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

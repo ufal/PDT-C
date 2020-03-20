@@ -1284,7 +1284,7 @@
 <AM lemma="J-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="J-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="být_:B_^(jen_ve_spojení_t._j.,_to_jest)" src="auto">VB-S---3P-AA--8</AM>
-<AM lemma="j-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="J-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="jako-1_:B" src="auto">J,------------8</AM>
 <AM lemma="J-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -1317,7 +1317,7 @@
 <AM lemma="G-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="G-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="g-1`gram_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="g-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="G-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="g-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="G-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>

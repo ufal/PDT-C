@@ -231,7 +231,7 @@
 <tag>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1291,7 +1291,7 @@
 <tag>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1582,7 +1582,7 @@
 <tag>
 <AM lemma="zájmeno_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1742,7 +1742,7 @@
 <tag>
 <AM lemma="zájmeno_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2140,7 +2140,7 @@
 <tag>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2362,7 +2362,7 @@
 <tag>
 <AM lemma="zájmeno_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2450,7 +2450,7 @@
 <tag>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3054,7 +3054,7 @@
 <tag>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3928,7 +3928,7 @@
 <tag>
 <AM lemma="zájmeno_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -4626,7 +4626,7 @@
 <tag>
 <AM lemma="zájmeno_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -5214,7 +5214,7 @@
 <tag>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -5545,7 +5545,7 @@
 <tag>
 <AM lemma="zájmeno_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -5801,7 +5801,7 @@
 <tag>
 <AM lemma="zájmeno_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

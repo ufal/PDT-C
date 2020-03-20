@@ -700,7 +700,7 @@
 <form>c</form>
 <tag>
 <AM lemma="císařský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="c-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="c-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="c-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

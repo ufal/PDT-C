@@ -1653,7 +1653,7 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="L-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Labe_;G" src="manual" selected="1">NNNS7-----A---8</AM>
 </tag>
@@ -4379,7 +4379,7 @@
 </w.rf>
 <form>n</form>
 <tag>
-<AM lemma="n-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="n-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="n-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4398,7 +4398,7 @@
 </w.rf>
 <form>v</form>
 <tag>
-<AM lemma="v-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="v-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

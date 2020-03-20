@@ -1199,7 +1199,7 @@
 <AM lemma="B-9_:B_;S" src="auto">NNFXX-----A---8</AM>
 <AM lemma="B-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="b-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>

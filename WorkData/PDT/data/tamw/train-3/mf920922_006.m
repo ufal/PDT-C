@@ -306,7 +306,7 @@
 <LM>w#w-mf920922-006-p1s1Dw18</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="d-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="D-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s1Dw19">
 <src.rf>manual</src.rf>

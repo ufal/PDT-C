@@ -89,7 +89,7 @@
 <LM>w#w-vesm9211-014-p3s2w3</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="t-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="T-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-014-p4s1">

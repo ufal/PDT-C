@@ -4212,7 +4212,7 @@
 <LM>w#w-lnd92255-095-p7s1w15</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="a-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92255-095-p7s1w16">
 <src.rf>manual</src.rf>

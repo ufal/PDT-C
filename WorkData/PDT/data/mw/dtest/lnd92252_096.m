@@ -169,7 +169,7 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -195,7 +195,7 @@
 <LM>w#w-lnd92252-096-p2s2w16</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="A-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92252-096-p2s2w17">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -271,7 +271,7 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -366,7 +366,7 @@
 <AM lemma="B-9_:B_;S" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="B-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="b-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -566,7 +566,7 @@
 <AM lemma="B-9_:B_;S" src="auto">NNFXX-----A---8</AM>
 <AM lemma="B-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="b-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

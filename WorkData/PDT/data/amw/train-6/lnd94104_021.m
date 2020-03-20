@@ -337,7 +337,7 @@
 <LM>w#w-lnd94104-021-p1s1Aw41</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="č-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="č-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94104-021-p1s1Aw42">
 <src.rf>manual</src.rf>

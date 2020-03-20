@@ -521,7 +521,7 @@
 <LM>w#w-lnd92251-088-p2s5w1</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="L-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s5w2">
 <src.rf>manual</src.rf>
