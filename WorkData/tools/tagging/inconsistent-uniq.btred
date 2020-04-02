@@ -4,9 +4,10 @@ use warnings;
 use strict;
 
 open my $in, '<:encoding(UTF-8)', 'pdt-uniq.txt' or die $!;
-chomp( my @words = <$in> );
+my @words = <$in>;
+s/\s+$//g for @words;
 my $regex = join '|', @words;
-$regex = qr/^(?:$regex)\b/;
+$regex = qr/^(?:$regex)_/;
 
 sub lemma2pos {
     return if $this == $root;
