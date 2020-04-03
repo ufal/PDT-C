@@ -2737,9 +2737,11 @@
 </w.rf>
 <form>Li</form>
 <tag>
-<AM lemma="Li_;S" src="orig" selected="1">NNMSX-----A----</AM>
+<AM lemma="Li_;S" src="orig">NNMSX-----A----</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
+<AM lemma="Li_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Li_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p5s1w29">

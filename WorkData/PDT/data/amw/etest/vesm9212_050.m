@@ -5369,7 +5369,10 @@
 <LM>w#w-vesm9212-050-p14s4w11</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
+</tag>
 </m>
 <m id="m-vesm9212-050-p14s4w12">
 <src.rf>manual</src.rf>
@@ -5393,7 +5396,10 @@
 <LM>w#w-vesm9212-050-p14s4w14</LM>
 </w.rf>
 <form>n</form>
-<tag lemma="můj_:B_^(přivlast.,jen_př._n._l.,_před_naším_letopočtem,_našeho_letopočtu)" src="auto" selected="1">PSZS7-P1------8</tag>
+<tag>
+<AM lemma="můj_:B_^(přivlast.,jen_př._n._l.,_před_naším_letopočtem,_našeho_letopočtu)" src="auto">PSZS7-P1------8</AM>
+<AM lemma="náš_^(přivlast.)" src="manual" selected="1">PSZS7-P1------b</AM>
+</tag>
 </m>
 <m id="m-vesm9212-050-p14s4w15">
 <src.rf>manual</src.rf>
@@ -5409,7 +5415,10 @@
 <LM>w#w-vesm9212-050-p14s4w16</LM>
 </w.rf>
 <form>l</form>
-<tag lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="orig" selected="1">NNIS7-----A---8</tag>
+<tag>
+<AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="orig">NNIS7-----A---8</AM>
+<AM lemma="letopočet" src="manual" selected="1">NNIS7-----A---b</AM>
+</tag>
 </m>
 <m id="m-vesm9212-050-p14s4w17">
 <src.rf>manual</src.rf>

@@ -181,7 +181,8 @@
 <tag>
 <AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
 <AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s1Bw14">
@@ -566,7 +567,9 @@
 <tag>
 <AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
 <AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Reuter_;KReuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Reuter_;KReuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter_;KReuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s2w28">

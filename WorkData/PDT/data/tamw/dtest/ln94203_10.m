@@ -411,7 +411,8 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual">Db-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p2s3w6">
