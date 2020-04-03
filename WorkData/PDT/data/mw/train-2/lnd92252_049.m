@@ -98,7 +98,8 @@
 <tag>
 <AM lemma="rock-1" src="orig">NNIS1-----A----</AM>
 <AM lemma="rock-77" src="manual">F%-------------</AM>
-<AM lemma="rock_^(rock'n'roll)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="manual">NNXXX-----A----</AM>
+<AM lemma="rock-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-049-p3s2w5">
@@ -128,7 +129,8 @@
 <AM lemma="and_:B_,t_^(rock'n'roll)" src="manual">J^------------8</AM>
 <AM lemma="n-77" src="manual">F%-------------</AM>
 <AM lemma="and_:B_,t_^(rock'n'roll)" src="manual">J^------------8</AM>
-<AM lemma="and_:B_,t_^(rock'n'roll)" src="manual" selected="1">J^------------8</AM>
+<AM lemma="and_:B_,t_^(rock'n'roll)" src="manual">J^------------8</AM>
+<AM lemma="n-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-049-p3s2w7">

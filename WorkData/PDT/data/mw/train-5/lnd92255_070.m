@@ -207,7 +207,9 @@
 <form>Hafla</form>
 <tag>
 <AM lemma="hafnout" src="orig">VpQW----R-AAP-1</AM>
-<AM lemma="Hafl_;S_,i_^(^DS**Havel)" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hafl_;S_,i_^(^DS**Havel)" src="manual">NNMS2-----A----</AM>
+<AM lemma="Hafel_;S_,i_^(^DS**Havel)" src="manual">NNMS2-----A----</AM>
+<AM lemma="Hafel_;S_,i_^(^DS**Havel)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-070-p3s1w15">

@@ -1187,7 +1187,10 @@
 <LM>w#w-ln94205-3-p3s3w21</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-3-p3s3w22">
 <src.rf>manual</src.rf>
@@ -1195,7 +1198,10 @@
 <LM>w#w-ln94205-3-p3s3w22</LM>
 </w.rf>
 <form>Neumanna</form>
-<tag lemma="Neumann_;G" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Neumann_;G" src="auto">NNMS2-----A----</AM>
+<AM lemma="Neumann_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-3-p3s3w23">
 <src.rf>manual</src.rf>

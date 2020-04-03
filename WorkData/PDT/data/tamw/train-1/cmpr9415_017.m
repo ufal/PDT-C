@@ -872,7 +872,8 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="§" src="manual" selected="1">Z:-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-017-p6s2w25">

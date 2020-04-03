@@ -3452,7 +3452,8 @@
 <form>super</form>
 <tag>
 <AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="super_,h" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="super_,h" src="manual">AAXXX----1A----</AM>
+<AM lemma="super-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-035-p7s2w13">

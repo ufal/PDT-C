@@ -647,8 +647,9 @@
 </w.rf>
 <form>Bid</form>
 <tag>
-<AM lemma="Bid_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bid_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Bida_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Bid-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s13w4">
@@ -667,7 +668,8 @@
 <form>ž</form>
 <tag>
 <AM lemma="žokej_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="žokej" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="žokej" src="manual">NNMXX-----A---8</AM>
+<AM lemma="ž-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s13w6">

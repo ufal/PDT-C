@@ -975,7 +975,8 @@
 <form>Reed</form>
 <tag>
 <AM lemma="Reed_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reed_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reed_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Reed-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p6s2w19">

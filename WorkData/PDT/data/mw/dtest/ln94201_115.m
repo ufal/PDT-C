@@ -2689,7 +2689,10 @@
 <LM>w#w-ln94201-115-p5s4w35</LM>
 </w.rf>
 <form>etc</form>
-<tag lemma="etc_:B_,t" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="etc_:B_,t" src="orig">Db------------8</AM>
+<AM lemma="etc" src="manual" selected="1">Bb-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-115-p5s4w36">
 <src.rf>manual</src.rf>

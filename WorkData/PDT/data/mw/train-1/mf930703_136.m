@@ -1312,7 +1312,10 @@
 <LM>w#w-mf930703-136-p3s4w14</LM>
 </w.rf>
 <form>Strážném</form>
-<tag lemma="Strážný_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="Strážný_;G" src="orig">AANS6----1A----</AM>
+<AM lemma="Strážný_;G" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-136-p3s4w15">
 <src.rf>manual</src.rf>

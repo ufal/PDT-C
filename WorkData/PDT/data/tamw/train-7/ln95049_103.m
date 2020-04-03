@@ -1692,7 +1692,10 @@
 <LM>w#w-ln95049-103-p5s1w18</LM>
 </w.rf>
 <form>Strážném</form>
-<tag lemma="Strážný_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="Strážný_;G" src="orig">AANS6----1A----</AM>
+<AM lemma="Strážné_;G" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-103-p5s1w19">
 <src.rf>manual</src.rf>

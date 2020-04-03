@@ -1245,7 +1245,8 @@
 <form>Glen</form>
 <tag>
 <AM lemma="Glen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Glen_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="Glen_;Y" src="manual">NNMS4-----A---1</AM>
+<AM lemma="Glen_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-108-p3s4w29">
@@ -1256,7 +1257,8 @@
 <form>Turner</form>
 <tag>
 <AM lemma="Turner_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Turner_;S" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="Turner_;S" src="manual">NNMS4-----A---1</AM>
+<AM lemma="Turner_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-108-p3s4w30">

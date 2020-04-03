@@ -1359,7 +1359,8 @@
 <form>Garry</form>
 <tag>
 <AM lemma="Garry_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Garry_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Garry_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Garry-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-087-p1s14w6">
@@ -1396,8 +1397,9 @@
 </w.rf>
 <form>Baraki</form>
 <tag>
-<AM lemma="Baraki_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Baraki_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Baraki_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Baraki-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-087-p1s14w10">
@@ -1406,7 +1408,10 @@
 <LM>w#w-lnd94103-087-p1s14w10</LM>
 </w.rf>
 <form>Radjan</form>
-<tag lemma="Radjan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Radjan_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Radjan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-087-p1s14w11">
 <src.rf>manual</src.rf>

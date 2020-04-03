@@ -2071,7 +2071,11 @@
 <LM>w#w-lnd92256-081-p5s5w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="režie_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="r-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="r-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-081-p5s5w2">
 <src.rf>manual</src.rf>

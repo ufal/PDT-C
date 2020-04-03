@@ -1191,7 +1191,8 @@
 <form>Neumann</form>
 <tag>
 <AM lemma="Neumann_;G" src="orig">NNMS1-----A----</AM>
-<AM lemma="Neumann_;S_;G" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Neumann_;S_;G" src="manual">NNMS1-----A----</AM>
+<AM lemma="Neumann_;G" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-131-p4s1w4">

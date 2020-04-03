@@ -10010,7 +10010,10 @@
 <LM>w#w-vesm9303-032-p10s5w19</LM>
 </w.rf>
 <form>dat</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNP2-----A----</AM>
+<AM lemma="data_^(údaje,_např._v_databázi)" src="manual" selected="1">NNNP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-032-p10s5w20">
 <src.rf>manual</src.rf>
@@ -10843,7 +10846,10 @@
 <LM>w#w-vesm9303-032-p10s9w15</LM>
 </w.rf>
 <form>datům</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNP3-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNP3-----A----</AM>
+<AM lemma="data_^(údaje,_např._v_databázi)" src="manual" selected="1">NNNP3-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-032-p10s9w16">
 <src.rf>manual</src.rf>

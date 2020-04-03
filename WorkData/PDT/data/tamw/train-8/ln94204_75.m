@@ -519,7 +519,10 @@
 <LM>w#w-ln94204-75-p2s4w1</LM>
 </w.rf>
 <form>Datum</form>
-<tag lemma="datum_,h_,x" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-75-p2s4w2">
 <src.rf>manual</src.rf>

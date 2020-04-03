@@ -6136,7 +6136,10 @@
 <LM>w#w-vesm9303-041-p11s2w6</LM>
 </w.rf>
 <form>data</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS2-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-041-p11s2w7">
 <src.rf>manual</src.rf>
@@ -10583,7 +10586,10 @@
 <LM>w#w-vesm9303-041-p18s3w2</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-041-p18s3w3">
 <src.rf>manual</src.rf>
@@ -11151,7 +11157,10 @@
 <LM>w#w-vesm9303-041-p18s6w22</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS1-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-041-p18s6w23">
 <src.rf>manual</src.rf>
@@ -22177,7 +22186,10 @@
 <LM>w#w-vesm9303-041-p38s1w4</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-041-p38s1w5">
 <src.rf>manual</src.rf>
@@ -22669,7 +22681,10 @@
 <LM>w#w-vesm9303-041-p38s3w5</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-041-p38s3w6">
 <src.rf>manual</src.rf>

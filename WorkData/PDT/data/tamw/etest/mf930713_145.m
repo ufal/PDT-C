@@ -180,7 +180,8 @@
 <form>Reuter</form>
 <tag>
 <AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s1Bw14">
@@ -564,7 +565,8 @@
 <form>Reuter</form>
 <tag>
 <AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reuter_;KReuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s2w28">
@@ -695,7 +697,10 @@
 <LM>w#w-mf930713-145-p2s3w10</LM>
 </w.rf>
 <form>Reutera</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS2-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-145-p2s3w11">
 <src.rf>manual</src.rf>
@@ -752,7 +757,10 @@
 <LM>w#w-mf930713-145-p2s5w3</LM>
 </w.rf>
 <form>Reutera</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS2-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-145-p2s5w4">
 <src.rf>manual</src.rf>

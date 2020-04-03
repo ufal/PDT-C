@@ -1578,7 +1578,10 @@
 <LM>w#w-cmpr9410-042-p8s5w20</LM>
 </w.rf>
 <form>Strážným</form>
-<tag lemma="Strážný_;G" src="orig" selected="1">AANS7----1A----</tag>
+<tag>
+<AM lemma="Strážný_;G" src="orig">AANS7----1A----</AM>
+<AM lemma="Strážný_;G" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-042-p8s5w21">
 <src.rf>manual</src.rf>

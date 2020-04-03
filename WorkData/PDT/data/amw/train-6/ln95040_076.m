@@ -29,7 +29,8 @@
 <form>Sü</form>
 <tag>
 <AM lemma="Sü_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Sü_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sü_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Sü-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-076-p1s1w3">
@@ -40,7 +41,9 @@
 <form>Džang</form>
 <tag>
 <AM lemma="Džang_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Džang_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Džang_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Džang" src="manual">S2--------A----</AM>
+<AM lemma="Džang_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-076-p1s1w4">
@@ -61,7 +64,8 @@
 <AM lemma="Hon_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="hon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hon" src="auto">NNIS4-----A----</AM>
-<AM lemma="hon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="hon_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="hon-2" src="manual" selected="1">SNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-076-p1s1w6">

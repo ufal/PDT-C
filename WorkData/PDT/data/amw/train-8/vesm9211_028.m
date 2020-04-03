@@ -1581,7 +1581,10 @@
 <LM>w#w-vesm9211-028-p8s1w11</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok_:B" src="manual" selected="1">NNIXX-----A---b</AM>
+</tag>
 </m>
 <m id="m-vesm9211-028-p8s1w12">
 <src.rf>manual</src.rf>
@@ -1630,7 +1633,10 @@
 <LM>w#w-vesm9211-028-p8s1w17</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="doktor_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-028-p8s1w18">
 <src.rf>manual</src.rf>

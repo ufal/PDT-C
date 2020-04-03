@@ -1349,7 +1349,10 @@
 <LM>w#w-ln95043-061-p4s4w36</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_,h_,x" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="datum_,h_,x" src="auto">NNIS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-061-p4s4w37">
 <src.rf>manual</src.rf>
@@ -1551,7 +1554,10 @@
 <LM>w#w-ln95043-061-p4s5w3</LM>
 </w.rf>
 <form>data</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS2-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-061-p4s5w4">
 <src.rf>manual</src.rf>

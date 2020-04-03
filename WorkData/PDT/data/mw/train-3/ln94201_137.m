@@ -1115,7 +1115,8 @@
 <form>Super</form>
 <tag>
 <AM lemma="Super-2_,t_^(souč._cizojaz._názvů)" src="orig">AAXXX----1A----</AM>
-<AM lemma="super_,h" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="super_,h" src="manual">AAXXX----1A----</AM>
+<AM lemma="super-2" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-137-p4s1w20">
@@ -1511,7 +1512,8 @@
 <form>Super</form>
 <tag>
 <AM lemma="Super-2_,t_^(souč._cizojaz._názvů)" src="orig">AAXXX----1A----</AM>
-<AM lemma="super_,h" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="super_,h" src="manual">AAXXX----1A----</AM>
+<AM lemma="super-2" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-137-p5s2w16">

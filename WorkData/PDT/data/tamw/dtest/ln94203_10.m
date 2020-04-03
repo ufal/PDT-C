@@ -439,7 +439,10 @@
 <LM>w#w-ln94203-10-p2s3w8</LM>
 </w.rf>
 <form>Turner</form>
-<tag lemma="Turner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Turner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Turner-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-10-p2s3w9">
 <src.rf>manual</src.rf>

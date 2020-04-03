@@ -204,7 +204,11 @@
 <LM>w#w-ln94209-81-p2s1Bw18</LM>
 </w.rf>
 <form>Ťing</form>
-<tag lemma="Ťing_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Ťing_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ťing" src="manual">S2--------A----</AM>
+<AM lemma="Ťing-2_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-81-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -227,7 +231,8 @@
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="i-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="i_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="i_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="i-3" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-81-p2s1Bw21">

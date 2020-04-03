@@ -4274,7 +4274,8 @@
 <form>Neumanna</form>
 <tag>
 <AM lemma="Neumann_;G" src="auto">NNMS2-----A----</AM>
-<AM lemma="Neumann_;G_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Neumann_;G_;S" src="manual">NNMS2-----A----</AM>
+<AM lemma="Neumann_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-123-p7s11w17">
@@ -4455,7 +4456,8 @@
 <form>Neumanna</form>
 <tag>
 <AM lemma="Neumann_;G" src="auto">NNMS2-----A----</AM>
-<AM lemma="Neumann_;G_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Neumann_;G_;S" src="manual">NNMS2-----A----</AM>
+<AM lemma="Neumann_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-123-p7s12w13">
@@ -4800,7 +4802,8 @@
 <form>Neumann</form>
 <tag>
 <AM lemma="Neumann_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neumann_;G_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Neumann_;G_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Neumann_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-123-p7s15w6">
@@ -4903,7 +4906,8 @@
 <form>Neumann</form>
 <tag>
 <AM lemma="Neumann_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neumann_;G_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Neumann_;G_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Neumann_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-123-p8s2w2">

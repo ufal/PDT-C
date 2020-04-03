@@ -51,7 +51,10 @@
 <LM>w#w-mf920925-111-p1s1w5</LM>
 </w.rf>
 <form>mini</form>
-<tag lemma="mini_,h_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="mini_,h_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="mini-1" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-111-p1s1w6">
 <src.rf>manual</src.rf>
@@ -306,7 +309,10 @@
 <LM>w#w-mf920925-111-p2s2w26</LM>
 </w.rf>
 <form>mini</form>
-<tag lemma="mini_,h_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="mini_,h_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="mini-1" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-111-p2s2w27">
 <src.rf>manual</src.rf>

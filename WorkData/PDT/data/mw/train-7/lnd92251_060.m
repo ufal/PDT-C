@@ -4294,7 +4294,10 @@
 <LM>w#w-lnd92251-060-p13s1w21</LM>
 </w.rf>
 <form>Sumner</form>
-<tag lemma="Sumner" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sumner" src="orig">NNMS1-----A----</AM>
+<AM lemma="Summer_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-060-p13s1w22">
 <src.rf>manual</src.rf>

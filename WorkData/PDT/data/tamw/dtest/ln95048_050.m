@@ -2605,7 +2605,10 @@
 <LM>w#w-ln95048-050-p11s6w5</LM>
 </w.rf>
 <form>Scott</form>
-<tag lemma="Scott_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Scott-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-050-p11s6w6">
 <src.rf>manual</src.rf>

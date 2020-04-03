@@ -307,7 +307,8 @@
 <tag>
 <AM lemma="Scott_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Scott_;" src="manual">NNMS1-----A----</AM>
-<AM lemma="Scott_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Scott_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Scott-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-97-p2s1Bw32">

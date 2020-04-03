@@ -642,7 +642,10 @@
 <LM>w#w-lnd91303-045-p3s4Aw7</LM>
 </w.rf>
 <form>Alma</form>
-<tag lemma="Alma_;G_^(Alma-Ata)" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Alma_;G_^(Alma-Ata)" src="auto">NNFSX-----A----</AM>
+<AM lemma="Alma-2_^(Alma-Ata)" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Aw8">
 <src.rf>manual</src.rf>

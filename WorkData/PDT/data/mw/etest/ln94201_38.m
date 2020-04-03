@@ -194,8 +194,9 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p2s1w20">
@@ -750,8 +751,9 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p3s1w6">
@@ -825,8 +827,9 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p3s1w15">
@@ -906,7 +909,8 @@
 <form>Poldi</form>
 <tag>
 <AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p3s2w9">
@@ -1031,8 +1035,9 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Poldi_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p3s2w24">
@@ -1298,8 +1303,10 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p3s4w8">
@@ -1711,8 +1718,9 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p4s2w2">
@@ -2828,8 +2836,9 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p5s5w10">
@@ -3185,7 +3194,10 @@
 <LM>w#w-ln94201-38-p5s7w13</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p5s7w14">
 <src.rf>manual</src.rf>

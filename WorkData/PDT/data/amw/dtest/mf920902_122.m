@@ -5189,7 +5189,8 @@
 <form>datum</form>
 <tag>
 <AM lemma="datum_,h_,x" src="auto">NNIS4-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="datum_^(kalendářní)" src="manual">NNNS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-122-p10s4w10">
@@ -5495,7 +5496,10 @@
 <LM>w#w-mf920902-122-p10s6w4</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS1-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-122-p10s6w5">
 <src.rf>manual</src.rf>
@@ -5980,7 +5984,10 @@
 <LM>w#w-mf920902-122-p11s1w16</LM>
 </w.rf>
 <form>datu</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS6-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-122-p11s1w17">
 <src.rf>manual</src.rf>

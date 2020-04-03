@@ -934,7 +934,8 @@
 <form>datum</form>
 <tag>
 <AM lemma="datum_,h_,x" src="auto">NNIS4-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="datum_^(kalendářní)" src="manual">NNNS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p4s1w22">

@@ -4383,7 +4383,8 @@
 <form>ns</form>
 <tag>
 <AM lemma="ns-2`nanosekunda_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ns_,i" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ns_,i" src="manual">NNXXX-----A----</AM>
+<AM lemma="ns-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s4w14">
@@ -4434,7 +4435,8 @@
 <form>nz</form>
 <tag>
 <AM lemma="nz" src="orig">NNXXX-----A----</AM>
-<AM lemma="nz_,i" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nz_,i" src="manual">NNXXX-----A----</AM>
+<AM lemma="nz" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s4w20">
@@ -4751,7 +4753,8 @@
 <form>kon</form>
 <tag>
 <AM lemma="kona_,n" src="orig">NNFP2-----A----</AM>
-<AM lemma="kon_,i" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kon_,i" src="manual">NNXXX-----A----</AM>
+<AM lemma="kon" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s6w15">

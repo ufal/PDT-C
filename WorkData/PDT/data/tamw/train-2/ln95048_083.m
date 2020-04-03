@@ -1093,7 +1093,10 @@
 <LM>w#w-ln95048-083-p4s4w6</LM>
 </w.rf>
 <form>super</form>
-<tag lemma="super_,h_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="super-1" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-083-p4s4w7">
 <src.rf>manual</src.rf>

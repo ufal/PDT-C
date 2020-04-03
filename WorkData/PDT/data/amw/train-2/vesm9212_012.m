@@ -14151,7 +14151,10 @@
 <LM>w#w-vesm9212-012-p33s1w14</LM>
 </w.rf>
 <form>Gondwana</form>
-<tag lemma="Gondwana_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Gondwana_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Gondwana-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-012-p33s1w15">
 <src.rf>manual</src.rf>

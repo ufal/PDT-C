@@ -1375,7 +1375,8 @@
 <form>Anděl</form>
 <tag>
 <AM lemma="Anděl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anděl_;G_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Anděl_;G_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Anděl-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-65-p3s6w18">
@@ -1566,7 +1567,10 @@
 <LM>w#w-ln94210-65-p3s9w1</LM>
 </w.rf>
 <form>Stanice</form>
-<tag lemma="stanice" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="stanice" src="orig">NNFP1-----A----</AM>
+<AM lemma="stanice" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-65-p3s9w2">
 <src.rf>manual</src.rf>
@@ -1576,12 +1580,12 @@
 <form>Hradčanská</form>
 <tag>
 <AM lemma="Hradčanská_;G" src="orig">AAFS1----1A----</AM>
-<AM lemma="hradčanský" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="hradčanský" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="hradčanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="hradčanský" src="auto">AANP1----1A----</AM>
 <AM lemma="hradčanský" src="auto">AANP4----1A----</AM>
 <AM lemma="hradčanský" src="auto">AANP5----1A----</AM>
-<AM lemma="Hradčanská_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hradčanská_;G" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-65-p3s9w3">
@@ -1601,7 +1605,8 @@
 <tag>
 <AM lemma="Anděl_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Anděl_;G" src="manual">NNMS1-----A----</AM>
-<AM lemma="Anděl_;G_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Anděl_;G_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Anděl-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-65-p3s9w5">

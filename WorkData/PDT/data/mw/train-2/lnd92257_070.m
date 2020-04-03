@@ -3194,7 +3194,10 @@
 <LM>w#w-lnd92257-070-p3s10w51</LM>
 </w.rf>
 <form>Turner</form>
-<tag lemma="Turner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Turner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Turner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-070-p3s10w52">
 <src.rf>manual</src.rf>

@@ -1986,7 +1986,10 @@
 <LM>w#w-mf920923-017-p19s7w12</LM>
 </w.rf>
 <form>DATUM</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920923-017-p20s1">
@@ -5506,7 +5509,10 @@
 <LM>w#w-mf920923-017-p25s2w22</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-017-p25s2w23">
 <src.rf>manual</src.rf>

@@ -3389,7 +3389,10 @@
 <LM>w#w-vesm9303-024-p7s1w27</LM>
 </w.rf>
 <form>data</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNP4-----A----</AM>
+<AM lemma="data_^(údaje,_např._v_databázi)" src="manual" selected="1">NNNP4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-024-p7s1w28">
 <src.rf>manual</src.rf>

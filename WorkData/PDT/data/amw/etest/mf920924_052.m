@@ -1042,7 +1042,10 @@
 <LM>w#w-mf920924-052-p3s6w10</LM>
 </w.rf>
 <form>data</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS2-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-052-p3s6w11">
 <src.rf>manual</src.rf>

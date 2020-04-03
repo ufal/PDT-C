@@ -923,7 +923,10 @@
 <LM>w#w-ln94201-136-p3s5w6</LM>
 </w.rf>
 <form>super</form>
-<tag lemma="super_,h_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="super-3" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-136-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1966,7 +1969,10 @@
 <LM>w#w-ln94201-136-p4s9w2</LM>
 </w.rf>
 <form>super</form>
-<tag lemma="super_,h_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="super-3" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-136-p4s9w3">
 <src.rf>manual</src.rf>

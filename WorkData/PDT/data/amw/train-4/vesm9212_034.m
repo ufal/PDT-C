@@ -35,7 +35,10 @@
 <LM>w#w-vesm9212-034-p1s1w3</LM>
 </w.rf>
 <form>danausy</form>
-<tag lemma="danaus_;L" src="orig" selected="1">NNMP4-----A----</tag>
+<tag>
+<AM lemma="danaus_;L" src="orig">NNMP4-----A----</AM>
+<AM lemma="danaus_;L_^(motýl)" src="manual" selected="1">NNMP4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-vesm9212-034-p2s1">

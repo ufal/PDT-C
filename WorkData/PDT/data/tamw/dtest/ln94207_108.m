@@ -566,7 +566,8 @@
 <tag>
 <AM lemma="Etc_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="etc_:B_,t" src="auto" recommended="1">Db------------8</AM>
-<AM lemma="etc_:B" src="manual" selected="1">Db-------------</AM>
+<AM lemma="etc_:B" src="manual">Db-------------</AM>
+<AM lemma="Etc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-108-p3s1w14">
@@ -635,8 +636,8 @@
 </w.rf>
 <form>Band</form>
 <tag>
-<AM lemma="Band_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Band-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Band_;K_;R" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Band-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-108-p3s1w22">

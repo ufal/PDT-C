@@ -12739,7 +12739,10 @@
 <LM>w#w-ln94202-106-p15s7Aw73</LM>
 </w.rf>
 <form>Scott</form>
-<tag lemma="Scott_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Scott-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-106-p15s7Aw74">
 <src.rf>manual</src.rf>

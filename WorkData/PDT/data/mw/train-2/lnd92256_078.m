@@ -162,7 +162,8 @@
 <form>sinu</form>
 <tag>
 <AM lemma="sinus" src="orig">NNIS2-----A----</AM>
-<AM lemma="sinu-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="sinu-77" src="manual">F%-------------</AM>
+<AM lemma="sin" src="manual" selected="1">SNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s2w13">
@@ -192,7 +193,8 @@
 <form>Wu</form>
 <tag>
 <AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Wu_;S" src="manual">NNFXX-----A----</AM>
+<AM lemma="Wu-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s2w16">
@@ -201,7 +203,10 @@
 <LM>w#w-lnd92256-078-p2s2w16</LM>
 </w.rf>
 <form>Ťing</form>
-<tag lemma="Ťing_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Ťing_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ťing-2_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-078-p2s2w17">
 <src.rf>manual</src.rf>
@@ -526,7 +531,8 @@
 <form>Wu</form>
 <tag>
 <AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Wu_;S" src="manual">NNFXX-----A----</AM>
+<AM lemma="Wu-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s5w4">
@@ -535,7 +541,10 @@
 <LM>w#w-lnd92256-078-p2s5w4</LM>
 </w.rf>
 <form>Ťing</form>
-<tag lemma="Ťing_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Ťing_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ťing-2_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-078-p2s5w5">
 <src.rf>manual</src.rf>
@@ -925,7 +934,8 @@
 <form>Wu</form>
 <tag>
 <AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Wu_;S" src="manual">NNFXX-----A----</AM>
+<AM lemma="Wu-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s8w11">
@@ -1024,7 +1034,8 @@
 <form>sinu</form>
 <tag>
 <AM lemma="sinus" src="orig">NNIS2-----A----</AM>
-<AM lemma="sinu-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="sinu-77" src="manual">F%-------------</AM>
+<AM lemma="sin" src="manual" selected="1">SNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s9w7">

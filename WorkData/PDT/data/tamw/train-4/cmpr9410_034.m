@@ -372,7 +372,10 @@
 <LM>w#w-cmpr9410-034-p2s3w6</LM>
 </w.rf>
 <form>Wacker</form>
-<tag lemma="Wacker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wacker_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wacker-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-034-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1985,7 +1988,10 @@
 <LM>w#w-cmpr9410-034-p5s2w1</LM>
 </w.rf>
 <form>Wacker</form>
-<tag lemma="Wacker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wacker_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wacker-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-034-p5s2w2">
 <src.rf>manual</src.rf>

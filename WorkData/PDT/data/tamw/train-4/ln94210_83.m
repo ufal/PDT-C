@@ -362,7 +362,10 @@
 <LM>w#w-ln94210-83-p2s2w12</LM>
 </w.rf>
 <form>Wu</form>
-<tag lemma="Wu_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Wu_;S" src="orig">NNFXX-----A----</AM>
+<AM lemma="Wu-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-83-p2s2w13">
 <src.rf>manual</src.rf>

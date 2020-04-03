@@ -105,7 +105,8 @@
 <form>Alma</form>
 <tag>
 <AM lemma="Alma_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Alma_;G_^(Alma-Ata)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Alma_;G_^(Alma-Ata)" src="manual">NNFXX-----A----</AM>
+<AM lemma="Alma-2_^(Alma-Ata)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-141-p3s1Aw6">

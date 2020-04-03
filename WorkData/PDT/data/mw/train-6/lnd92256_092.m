@@ -67,7 +67,10 @@
 <LM>w#w-lnd92256-092-p1s1w7</LM>
 </w.rf>
 <form>Scott</form>
-<tag lemma="Scott_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Scott-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-092-p1s1w8">
 <src.rf>manual</src.rf>

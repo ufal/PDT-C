@@ -107,7 +107,8 @@
 <form>sci</form>
 <tag>
 <AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual">A2--------A----</AM>
+<AM lemma="sci" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s1w12">
@@ -128,7 +129,8 @@
 <AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-fi)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual">NNXXX-----A----</AM>
+<AM lemma="fi-2_^(sci-fi;wi-fi)" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s1w14">

@@ -1304,7 +1304,8 @@
 <form>Omega</form>
 <tag>
 <AM lemma="omega" src="orig">NNFS1-----A----</AM>
-<AM lemma="Omega_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Omega_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Omega_;K_;R_^(vozidlo)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p6s1w9">
@@ -1323,7 +1324,8 @@
 <form>Čajka</form>
 <tag>
 <AM lemma="Čajka-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čajka_;K" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Čajka_;K" src="manual">NNMS1-----A----</AM>
+<AM lemma="Čajka-2_;R_^(vozidlo)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p6s1w11">

@@ -103,7 +103,11 @@
 <LM>w#w-ln94200-123-p2s1Bw2</LM>
 </w.rf>
 <form>Siao</form>
-<tag lemma="Siao_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Siao_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Siao_;Y" src="manual">S2--------A----</AM>
+<AM lemma="Siao-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-123-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -119,7 +123,10 @@
 <LM>w#w-ln94200-123-p2s1Bw4</LM>
 </w.rf>
 <form>pching</form>
-<tag lemma="pching_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="pching_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="pching" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-123-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -351,7 +358,9 @@
 <AM lemma="Š-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Š-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="Š_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Š_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Š_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p2s1Bw26">
@@ -389,7 +398,8 @@
 <form>timu</form>
 <tag>
 <AM lemma="tim_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="ti_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="ti_;Y" src="manual">NNMS3-----A----</AM>
+<AM lemma="ti-2" src="manual" selected="1">SNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p2s1Bw30">
@@ -2627,7 +2637,10 @@
 <LM>w#w-ln94200-123-p5s1w17</LM>
 </w.rf>
 <form>Ťiang</form>
-<tag lemma="Ťiang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ťiang_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ťiang-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-123-p5s1w18">
 <src.rf>manual</src.rf>
@@ -2656,7 +2669,10 @@
 <LM>w#w-ln94200-123-p5s1w20</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="min_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="min_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="min" src="manual" selected="1">SNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-123-p5s1w21">
 <src.rf>manual</src.rf>
@@ -2802,7 +2818,8 @@
 <tag>
 <AM lemma="Ču_;S" src="orig">NNMXX-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Ču_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ču_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Ču-1_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p5s1w38">
@@ -2830,7 +2847,10 @@
 <LM>w#w-ln94200-123-p5s1w40</LM>
 </w.rf>
 <form>ťi</form>
-<tag lemma="ťi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="ťi_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="ťi" src="manual" selected="1">SNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-123-p5s1w41">
 <src.rf>manual</src.rf>
@@ -3594,7 +3614,10 @@
 <LM>w#w-ln94200-123-p7s2w9</LM>
 </w.rf>
 <form>Tchien</form>
-<tag lemma="Tchien_;G" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Tchien_;G" src="orig">NNXXX-----A----</AM>
+<AM lemma="Tchien" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-123-p7s2w10">
 <src.rf>manual</src.rf>
@@ -3615,7 +3638,8 @@
 <AM lemma="a-2_,t_^(angl._neurč._člen_před_samohl.)" src="auto" recommended="1">AAXXX----1A---1</AM>
 <AM lemma="an-1_,a" src="auto">P4IS4----------</AM>
 <AM lemma="an-1_,a" src="auto">P4YS1----------</AM>
-<AM lemma="an-2_;G_,t_^(Tchien-an-men)" src="auto" selected="1">NNIXX-----A----</AM>
+<AM lemma="an-2_;G_,t_^(Tchien-an-men)" src="auto">NNIXX-----A----</AM>
+<AM lemma="an-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p7s2w12">
@@ -3633,9 +3657,10 @@
 </w.rf>
 <form>men</form>
 <tag>
-<AM lemma="men_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="men_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="jméno_,h_,x" src="auto" recommended="1">NNNP2-----A---6</AM>
 <AM lemma="men_,t" src="auto">XX-------------</AM>
+<AM lemma="men-1_^(Tchien-an-men)" src="manual" selected="1">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p7s2w14">
@@ -3851,8 +3876,9 @@
 </w.rf>
 <form>Ču</form>
 <tag>
-<AM lemma="Ču_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ču_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Ču-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p8s1w3">
@@ -4595,7 +4621,9 @@
 <AM lemma="Š-9_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Š-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="Š_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Š_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Š-1_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p10s2w5">
@@ -4640,7 +4668,7 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="C_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="C-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
@@ -4654,6 +4682,7 @@
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="C-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p10s2w10">
@@ -4671,9 +4700,10 @@
 </w.rf>
 <form>jang</form>
 <tag>
-<AM lemma="jang_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="jang_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="jang" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jang" src="auto">NNIS4-----A----</AM>
+<AM lemma="jang-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p10s2w12">

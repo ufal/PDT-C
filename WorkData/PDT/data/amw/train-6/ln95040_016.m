@@ -1064,7 +1064,10 @@
 <LM>w#w-ln95040-016-p4s1w51</LM>
 </w.rf>
 <form>datu</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS3-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-016-p4s1w52">
 <src.rf>manual</src.rf>

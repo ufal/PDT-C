@@ -686,7 +686,10 @@
 <LM>w#w-cmpr9410-003-p8s1w2</LM>
 </w.rf>
 <form>Anděl</form>
-<tag lemma="Anděl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Anděl_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Anděl-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-003-p8s1w3">
 <src.rf>manual</src.rf>

@@ -1231,8 +1231,9 @@
 </w.rf>
 <form>Hami</form>
 <tag>
-<AM lemma="Hami_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hami_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Hami_;R" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Hami-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p3s5w2">

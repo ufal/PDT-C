@@ -1464,7 +1464,7 @@
 <AM lemma="Strážný_;G" src="auto">AAIP1----1A---6</AM>
 <AM lemma="Strážný_;G" src="auto">AAIP4----1A---6</AM>
 <AM lemma="Strážný_;G" src="auto">AAIP5----1A---6</AM>
-<AM lemma="Strážný_;G" src="auto" selected="1">AAIS1----1A----</AM>
+<AM lemma="Strážný_;G" src="auto">AAIS1----1A----</AM>
 <AM lemma="Strážný_;G" src="auto">AAIS4----1A----</AM>
 <AM lemma="Strážný_;G" src="auto">AAIS5----1A----</AM>
 <AM lemma="Strážný_;G" src="auto">AAMP1----1A---6</AM>
@@ -1512,6 +1512,7 @@
 <AM lemma="strážný_^(kdo_stráží,_člověk)" src="auto">NNMP5-----A---6</AM>
 <AM lemma="strážný_^(kdo_stráží,_člověk)" src="auto">NNMS1-----A----</AM>
 <AM lemma="strážný_^(kdo_stráží,_člověk)" src="auto">NNMS5-----A----</AM>
+<AM lemma="Strážný_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-038-p2s11w11">

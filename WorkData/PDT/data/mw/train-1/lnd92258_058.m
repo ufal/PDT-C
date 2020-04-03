@@ -2007,7 +2007,10 @@
 <LM>w#w-lnd92258-058-p5s3w10</LM>
 </w.rf>
 <form>Georga</form>
-<tag lemma="Georg_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Georg_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="George_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-058-p5s3w11">
 <src.rf>manual</src.rf>

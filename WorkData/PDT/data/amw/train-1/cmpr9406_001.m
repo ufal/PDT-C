@@ -11603,7 +11603,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>datem</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="datum_^(kalendářní)" src="orig">NNNS7-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-001-p18s4w21">
 <src.rf>manual</src.rf>
