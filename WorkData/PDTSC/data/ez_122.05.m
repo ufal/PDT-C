@@ -3678,7 +3678,8 @@
 <form>Wordem</form>
 <tag>
 <AM lemma="Word" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Word_;R" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Word_;R" src="manual">NNIS7-----A----</AM>
+<AM lemma="word" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m122-d1t1349-21">

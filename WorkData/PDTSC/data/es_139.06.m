@@ -456,8 +456,8 @@
 </w.rf>
 <form>Trabantíkem</form>
 <tag>
-<AM lemma="trabantík" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Trabantík_;R" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="trabantík" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
+<AM lemma="Trabantík_;R" src="manual">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m139-454-462">

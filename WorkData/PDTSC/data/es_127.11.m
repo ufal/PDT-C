@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="es_127.11.w"></reffile>
+<reffile id="w" name="wdata" href="es_127.11.w" />
 </references>
 </head>
 <s id="m127-d1e2354-x2">
@@ -421,15 +421,16 @@
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ne" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
-</m><m id="m127-d1t2363-18-sw1">
+</m>
+<m id="m127-d1t2363-18-sw1">
 <w.rf>
 <LM>w#w-d1t2363-18</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m127-d1t2363-18-sw2">
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m127-d1t2363-18-sw2">
 <w.rf>
 <LM>w#w-d1t2363-18</LM>
 </w.rf>
@@ -438,8 +439,9 @@
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
 <AM lemma="li-2" src="auto" recommended="1">J,-------------</AM>
-<AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m127-d1t2363-19">
 <w.rf>
 <LM>w#w-d1t2363-19</LM>
@@ -4901,7 +4903,8 @@
 <form>Völkl</form>
 <tag>
 <AM lemma="Völkl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Völkl-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Völkl-2_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Völkl-2_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m127-223-258">

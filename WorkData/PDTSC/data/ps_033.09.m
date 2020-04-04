@@ -5419,8 +5419,8 @@
 </w.rf>
 <form>Výhybku</form>
 <tag>
-<AM lemma="výhybka" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Výhybka_;G" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="výhybka" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Výhybka_;G" src="manual">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m033-60-69">

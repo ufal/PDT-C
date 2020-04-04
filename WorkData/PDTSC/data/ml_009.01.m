@@ -908,7 +908,8 @@
 <tag>
 <AM lemma="vršíček_,e" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="vršíček_,e" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vršíček-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Vršíček-2_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Vršíček_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m009-285-144">
@@ -956,7 +957,8 @@
 <form>Vršíčkem</form>
 <tag>
 <AM lemma="vršíček_,e" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Vršíček-2_;G" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Vršíček-2_;G" src="manual">NNIS7-----A----</AM>
+<AM lemma="Vršíček_;G" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m009-d1t306-5">

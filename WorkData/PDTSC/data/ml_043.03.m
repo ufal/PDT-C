@@ -755,7 +755,8 @@
 <form>trvalo</form>
 <tag>
 <AM lemma="trvat" src="auto" recommended="1">VpNS----R-AAI--</AM>
-<AM lemma="trvalo_^(na_trvalo)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="trvalo_^(na_trvalo)" src="manual">Db-------------</AM>
+<AM lemma="trvalo_,i" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m043-d1t1027-9">

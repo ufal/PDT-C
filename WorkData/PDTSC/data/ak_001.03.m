@@ -1897,7 +1897,8 @@
 <form>traviatu</form>
 <tag>
 <AM lemma="Traviata" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Traviata_;Y" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Traviata_;Y" src="manual">NNFS4-----A----</AM>
+<AM lemma="traviata" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m001-d-id98210">

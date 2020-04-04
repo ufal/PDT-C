@@ -5740,7 +5740,8 @@
 <tag>
 <AM lemma="VŘSR" src="auto">NNFXX-----A----</AM>
 <AM lemma="VŘSR_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="VŘSR_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VŘSR_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="VŘSR_^(Velká_říjnová_socialistická_revoluce)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m030-d1e1792-x3-174">
