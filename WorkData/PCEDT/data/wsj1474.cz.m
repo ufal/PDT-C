@@ -5960,6 +5960,7 @@
 <w.rf>
 <LM>w#w-wsj1474-001-p1s18W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>obranných</form>
 <tag>
 <AM lemma="obranný" src="auto">AAFP2----1A----</AM>
@@ -5969,8 +5970,9 @@
 <AM lemma="obranný" src="auto">AAMP2----1A----</AM>
 <AM lemma="obranný" src="auto">AAMP6----1A----</AM>
 <AM lemma="obranný" src="auto">AANP2----1A----</AM>
-<AM lemma="obranný" src="auto">AANP6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="obranný" src="auto">AANP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1474-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7001,6 +7003,7 @@
 <w.rf>
 <LM>w#w-wsj1474-001-p1s22W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vysokým</form>
 <tag>
 <AM lemma="vysoký" src="auto">AAFP3----1A----</AM>
@@ -7013,8 +7016,9 @@
 <AM lemma="vysoký" src="auto">AANP3----1A----</AM>
 <AM lemma="vysoký" src="auto">AANS6----1A---7</AM>
 <AM lemma="vysoký" src="auto" recommended="1">AANS7----1A----</AM>
-<AM lemma="vysoká_^(zvěř)" src="auto">NNFP3-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="vysoká_^(zvěř)" src="auto">NNFP3-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1474-001-p1s22W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10617,7 +10621,8 @@
 <form>Abram</form>
 <tag>
 <AM lemma="Abram_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Abram-2_;R" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Abram-2_;R" src="manual">NNIXX-----A----</AM>
+<AM lemma="Abram-2_;R _,i_^(^DS**Abrams-2)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1474-001-p1s35W18-Ta">

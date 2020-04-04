@@ -3517,7 +3517,10 @@
 <LM>w#w-wsj1136-001-p1s9W17</LM>
 </w.rf>
 <form>Always</form>
-<tag lemma="Always_;R" src="auto" recommended="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Always_;R" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Always_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1136-001-p1s9W18-Ta">
 <src.rf>tagger-a</src.rf>

@@ -5900,6 +5900,7 @@
 <w.rf>
 <LM>w#w-wsj0280-001-p1s25W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
@@ -5908,8 +5909,9 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0280-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6911,6 +6913,7 @@
 <w.rf>
 <LM>w#w-wsj0280-001-p1s29W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>prodejní</form>
 <tag>
 <AM lemma="prodejní" src="auto">AAFP1----1A----</AM>
@@ -6941,8 +6944,9 @@
 <AM lemma="prodejní" src="auto">AANS4----1A----</AM>
 <AM lemma="prodejní" src="auto">AANS5----1A----</AM>
 <AM lemma="prodejný" src="auto">AAMP1----1A----</AM>
-<AM lemma="prodejný" src="auto">AAMP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="prodejný" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0280-001-p1s29W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9155,7 +9159,8 @@
 <form>Anne</form>
 <tag>
 <AM lemma="Anne_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Anne-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Anne-77" src="manual">F%-------------</AM>
+<AM lemma="Anne_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0280-001-p1s40W24-Ta">
@@ -9168,7 +9173,9 @@
 <AM lemma="Klein_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Klein_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Klein_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Klein-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Klein-77" src="manual">F%-------------</AM>
+<AM lemma="Klein-2_;S" src="manual">NNFS1-----A----</AM>
+<AM lemma="Klein-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0280-001-p1s40W25-Ta">

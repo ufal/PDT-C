@@ -380,7 +380,10 @@
 <LM>w#w-wsj0253-001-p1s2W2</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1077,7 +1080,10 @@
 <LM>w#w-wsj0253-001-p1s4W6</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1422,7 +1428,10 @@
 <LM>w#w-wsj0253-001-p1s5W6</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1874,7 +1883,10 @@
 <LM>w#w-wsj0253-001-p1s6W21</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s6W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2801,7 +2813,10 @@
 <LM>w#w-wsj0253-001-p1s9W41</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s9W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2966,7 +2981,10 @@
 <LM>w#w-wsj0253-001-p1s10W9</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s10W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3713,7 +3731,10 @@
 <LM>w#w-wsj0253-001-p1s11W32</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s11W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3772,7 +3793,10 @@
 <LM>w#w-wsj0253-001-p1s11W37</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s11W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4198,7 +4222,10 @@
 <LM>w#w-wsj0253-001-p1s13W3</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4482,7 +4509,10 @@
 <LM>w#w-wsj0253-001-p1s14W4</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s14W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5353,7 +5383,10 @@
 <LM>w#w-wsj0253-001-p1s17W3</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s17W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5660,7 +5693,10 @@
 <LM>w#w-wsj0253-001-p1s19W2</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Armstrong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Armstrong-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0253-001-p1s19W3-Ta">
 <src.rf>tagger-a</src.rf>

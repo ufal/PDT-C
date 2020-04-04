@@ -811,7 +811,9 @@
 <form>ADIA</form>
 <tag>
 <AM lemma="ADIA_:B_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="ADIA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="ADIA-77" src="manual">F%-------------</AM>
+<AM lemma="ADIA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ADIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1915-001-p1s3W3-Ta">
@@ -28452,14 +28454,14 @@
 <LM>w#w-wsj1915-001-p1s74W24</LM>
 </w.rf>
 <form>28</form>
-<tag>
-<AM lemma="28" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="28" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1915-001-p1s74W24-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1915-001-p1s74W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>podlažní</form>
 <tag>
 <AM lemma="podlažní" src="auto">AAFP1----1A----</AM>
@@ -28488,8 +28490,9 @@
 <AM lemma="podlažní" src="auto">AANP5----1A----</AM>
 <AM lemma="podlažní" src="auto">AANS1----1A----</AM>
 <AM lemma="podlažní" src="auto">AANS4----1A----</AM>
-<AM lemma="podlažní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="podlažní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1915-001-p1s74W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -39518,6 +39521,7 @@
 <w.rf>
 <LM>w#w-wsj1915-001-p1s97W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>určité</form>
 <tag>
 <AM lemma="určitý" src="auto">AAFP1----1A----</AM>
@@ -39535,8 +39539,9 @@
 <AM lemma="určitý" src="auto">AANP5----1A---6</AM>
 <AM lemma="určitý" src="auto">AANS1----1A----</AM>
 <AM lemma="určitý" src="auto">AANS4----1A----</AM>
-<AM lemma="určitý" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="určitý" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1915-001-p1s97W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -2565,7 +2565,9 @@
 <tag>
 <AM lemma="Arnold_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Arnold_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="Arnold_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Arnold_;G" src="manual">NNIS6-----A----</AM>
+<AM lemma="Arnold-2_;G_;K" src="manual">NNIS6-----A----</AM>
+<AM lemma="Arnold-2_;K" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0121-001-p1s9W13-Ta">
@@ -10196,7 +10198,9 @@
 <tag>
 <AM lemma="Arnold_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Arnold_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Arnold_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Arnold_;G" src="manual">NNIS2-----A----</AM>
+<AM lemma="Arnold-2_;G_;K" src="manual">NNIS2-----A----</AM>
+<AM lemma="Arnold-2_;K" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0121-001-p1s42W16-Ta">

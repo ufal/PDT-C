@@ -2388,7 +2388,8 @@
 <AM lemma="Alameda" src="auto">NNFP4-----A----</AM>
 <AM lemma="Alameda" src="auto">NNFP5-----A----</AM>
 <AM lemma="Alameda" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Alameda_;S" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Alameda_;S" src="manual">NNFS2-----A----</AM>
+<AM lemma="Alameda_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1724-001-p1s8W13-Ta">

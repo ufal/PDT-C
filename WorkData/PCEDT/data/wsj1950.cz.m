@@ -895,13 +895,15 @@
 <w.rf>
 <LM>w#w-wsj1950-001-p1s2W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>desetiletými</form>
 <tag>
 <AM lemma="desetiletý" src="auto" recommended="1">AAFP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAIP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
-<AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="desetiletý" src="auto">AANP7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1950-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6419,7 +6421,9 @@
 <form>AA1</form>
 <tag>
 <AM lemma="Aa1_;K_^(stupeň_národního_ratingu)" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="AA1" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AA1" src="manual">NNXXX-----A----</AM>
+<AM lemma="AA1-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="AA1-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1950-001-p1s14W14-Ta">
@@ -15889,7 +15893,8 @@
 <AM lemma="třicetiletý" src="auto">AAMP2----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AAMP6----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AANP2----1A----</AM>
-<AM lemma="třicetiletý" src="auto">AANP6----1A----</AM></tag>
+<AM lemma="třicetiletý" src="auto">AANP6----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1950-001-p1s39W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16019,13 +16024,15 @@
 <w.rf>
 <LM>w#w-wsj1950-001-p1s39W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>třicetiletými</form>
 <tag>
 <AM lemma="třicetiletý" src="auto" recommended="1">AAFP7----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AAIP7----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AAMP7----1A----</AM>
-<AM lemma="třicetiletý" src="auto">AANP7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="třicetiletý" src="auto">AANP7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1950-001-p1s39W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16513,7 +16520,8 @@
 <AM lemma="desetiletý" src="auto">AAMP2----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAMP6----1A----</AM>
 <AM lemma="desetiletý" src="auto">AANP2----1A----</AM>
-<AM lemma="desetiletý" src="auto">AANP6----1A----</AM></tag>
+<AM lemma="desetiletý" src="auto">AANP6----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1950-001-p1s41W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16630,13 +16638,15 @@
 <w.rf>
 <LM>w#w-wsj1950-001-p1s41W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>desetiletými</form>
 <tag>
 <AM lemma="desetiletý" src="auto" recommended="1">AAFP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAIP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
-<AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="desetiletý" src="auto">AANP7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1950-001-p1s41W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
