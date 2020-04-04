@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_30_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="mf920902_011.m" />
+<reffile id="w" name="wdata" href="mf920902_011.w" />
+</references>
+</head>
+<meta>
+<annotation_info>
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<trees>
+<LM id="a-mf920902-011-p1s1A">
+<s.rf>m#m-mf920902-011-p1s1A</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920902-011-p1s1Aw1">
+<m.rf>m#m-mf920902-011-p1s1Aw1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s1Aw2">
+<m.rf>m#m-mf920902-011-p1s1Aw2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s1Aw4">
+<m.rf>m#m-mf920902-011-p1s1Aw4</m.rf>
+<afun>ExD</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s1Aw3">
+<m.rf>m#m-mf920902-011-p1s1Aw3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s1B">
+<s.rf>m#m-mf920902-011-p1s1B</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920902-011-p1s1Bw1">
+<m.rf>m#m-mf920902-011-p1s1Bw1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s1Bw2">
+<m.rf>m#m-mf920902-011-p1s1Bw2</m.rf>
+<afun>ExD</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s1Bw3">
+<m.rf>m#m-mf920902-011-p1s1Bw3</m.rf>
+<afun>ExD</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
+<ord>3</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s1Bw4">
+<m.rf>m#m-mf920902-011-p1s1Bw4</m.rf>
+<afun>ExD</afun>
+<ord>4</ord>
+<clause_number>0</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s1Bw5">
+<m.rf>m#m-mf920902-011-p1s1Bw5</m.rf>
+<afun>AuxK</afun>
+<ord>5</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s1C">
+<s.rf>m#m-mf920902-011-p1s1C</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920902-011-p1s1Cw13">
+<m.rf>m#m-mf920902-011-p1s1Cw13</m.rf>
+<afun>Pred</afun>
+<ord>13</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s1Cw3">
+<m.rf>m#m-mf920902-011-p1s1Cw3</m.rf>
+<afun>Obj</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s1Cw1">
+<m.rf>m#m-mf920902-011-p1s1Cw1</m.rf>
+<afun>Atr</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s1Cw2">
+<m.rf>m#m-mf920902-011-p1s1Cw2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s1Cw4">
+<m.rf>m#m-mf920902-011-p1s1Cw4</m.rf>
+<afun>AuxP</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s1Cw7">
+<m.rf>m#m-mf920902-011-p1s1Cw7</m.rf>
+<afun>Coord</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s1Cw6">
+<m.rf>m#m-mf920902-011-p1s1Cw6</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>6</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s1Cw5">
+<m.rf>m#m-mf920902-011-p1s1Cw5</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s1Cw8">
+<m.rf>m#m-mf920902-011-p1s1Cw8</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>8</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s1Cw9">
+<m.rf>m#m-mf920902-011-p1s1Cw9</m.rf>
+<afun>AuxV</afun>
+<ord>9</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s1Cw10">
+<m.rf>m#m-mf920902-011-p1s1Cw10</m.rf>
+<afun>Adv</afun>
+<ord>10</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s1Cw11">
+<m.rf>m#m-mf920902-011-p1s1Cw11</m.rf>
+<afun>AuxP</afun>
+<ord>11</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s1Cw12">
+<m.rf>m#m-mf920902-011-p1s1Cw12</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s1Cw16">
+<m.rf>m#m-mf920902-011-p1s1Cw16</m.rf>
+<afun>Sb</afun>
+<ord>16</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s1Cw14">
+<m.rf>m#m-mf920902-011-p1s1Cw14</m.rf>
+<afun>Atr</afun>
+<ord>14</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s1Cw15">
+<m.rf>m#m-mf920902-011-p1s1Cw15</m.rf>
+<afun>Atr</afun>
+<ord>15</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s1Cw17">
+<m.rf>m#m-mf920902-011-p1s1Cw17</m.rf>
+<afun>AuxK</afun>
+<ord>17</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s2">
+<s.rf>m#m-mf920902-011-p1s2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920902-011-p1s2w1">
+<m.rf>m#m-mf920902-011-p1s2w1</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s2w7">
+<m.rf>m#m-mf920902-011-p1s2w7</m.rf>
+<afun>Obj</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s2w3">
+<m.rf>m#m-mf920902-011-p1s2w3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s2w2">
+<m.rf>m#m-mf920902-011-p1s2w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s2w4">
+<m.rf>m#m-mf920902-011-p1s2w4</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s2w5">
+<m.rf>m#m-mf920902-011-p1s2w5</m.rf>
+<afun>AuxG</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s2w6">
+<m.rf>m#m-mf920902-011-p1s2w6</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s2w10">
+<m.rf>m#m-mf920902-011-p1s2w10</m.rf>
+<afun>Atr</afun>
+<ord>10</ord>
+<clause_number>2</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s2w8">
+<m.rf>m#m-mf920902-011-p1s2w8</m.rf>
+<afun>AuxX</afun>
+<ord>8</ord>
+<clause_number>0</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s2w9">
+<m.rf>m#m-mf920902-011-p1s2w9</m.rf>
+<afun>Sb</afun>
+<ord>9</ord>
+<clause_number>2</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s2w11">
+<m.rf>m#m-mf920902-011-p1s2w11</m.rf>
+<afun>AuxP</afun>
+<ord>11</ord>
+<clause_number>2</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s2w12">
+<m.rf>m#m-mf920902-011-p1s2w12</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+<clause_number>2</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s2w13">
+<m.rf>m#m-mf920902-011-p1s2w13</m.rf>
+<afun>AuxK</afun>
+<ord>13</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s4">
+<s.rf>m#m-mf920902-011-p1s4</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920902-011-p1s4w5">
+<m.rf>m#m-mf920902-011-p1s4w5</m.rf>
+<afun>Pred</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s4w3">
+<m.rf>m#m-mf920902-011-p1s4w3</m.rf>
+<afun>Sb</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s4w1">
+<m.rf>m#m-mf920902-011-p1s4w1</m.rf>
+<afun>Atr</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s4w2">
+<m.rf>m#m-mf920902-011-p1s4w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s4w7">
+<m.rf>m#m-mf920902-011-p1s4w7</m.rf>
+<afun>Atv</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s4w6">
+<m.rf>m#m-mf920902-011-p1s4w6</m.rf>
+<afun>AuxY</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s4w8">
+<m.rf>m#m-mf920902-011-p1s4w8</m.rf>
+<afun>Atr</afun>
+<ord>8</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s4w10">
+<m.rf>m#m-mf920902-011-p1s4w10</m.rf>
+<afun>Atr</afun>
+<ord>10</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s4w9">
+<m.rf>m#m-mf920902-011-p1s4w9</m.rf>
+<afun>Atr</afun>
+<ord>9</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s4w13">
+<m.rf>m#m-mf920902-011-p1s4w13</m.rf>
+<afun>Atr</afun>
+<ord>13</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920902-011-p1s4w11">
+<m.rf>m#m-mf920902-011-p1s4w11</m.rf>
+<afun>Atr</afun>
+<ord>11</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920902-011-p1s4w12">
+<m.rf>m#m-mf920902-011-p1s4w12</m.rf>
+<afun>Atr</afun>
+<ord>12</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s4w4">
+<m.rf>m#m-mf920902-011-p1s4w4</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920902-011-p1s4w14">
+<m.rf>m#m-mf920902-011-p1s4w14</m.rf>
+<afun>AuxK</afun>
+<ord>14</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>
