@@ -2731,7 +2731,8 @@
 <form>genius</form>
 <tag>
 <AM lemma="genius" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="genius-2" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="genius-2" src="manual">NNIS4-----A----</AM>
+<AM lemma="genius-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m139-d1t1388-2">
@@ -2741,7 +2742,8 @@
 <form>loci</form>
 <tag>
 <AM lemma="loci_,t_^(př._génius_loci)" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="loci_^(př._génius_loci)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="loci_^(př._génius_loci)" src="manual">NNIS2-----A----</AM>
+<AM lemma="loci-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m139-356-370">

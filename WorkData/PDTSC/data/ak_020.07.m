@@ -963,6 +963,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m020-715-718">

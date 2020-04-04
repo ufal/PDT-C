@@ -2503,7 +2503,8 @@
 <AM lemma="nesokol" src="auto">X@-------------</AM>
 <AM lemma="nesokol" src="manual">NNMS1-----A----</AM>
 <AM lemma="sokol_^(pták;člen_organizace)" src="manual">NNMS1-----A----</AM>
-<AM lemma="sokol_^(pták;člen_organizace)" src="manual" selected="1">NNMS1-----N----</AM>
+<AM lemma="sokol_^(pták;člen_organizace)" src="manual">NNMS1-----N----</AM>
+<AM lemma="sokol-1" src="manual" selected="1">NNMS1-----N----</AM>
 </tag>
 </m>
 <m id="m041-43-44">

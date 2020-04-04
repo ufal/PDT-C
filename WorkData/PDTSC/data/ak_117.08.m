@@ -4203,10 +4203,11 @@
 </w.rf>
 <form>sucho</form>
 <tag>
-<AM lemma="sucho" src="auto" selected="1">Dg-------1A----</AM>
+<AM lemma="sucho" src="auto">Dg-------1A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS5-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m117-320-322">
@@ -4229,11 +4230,11 @@
 <form>horko</form>
 <tag>
 <AM lemma="horka_;G_^(menší_hora)" src="auto">NNFS5-----A----</AM>
-<AM lemma="horko-1" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="horko-1" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="horko-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="horko-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="horko-2" src="auto">Db-------------</AM>
-<AM lemma="horko-2" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="horko-2" src="manual">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m117-320-323">

@@ -2048,6 +2048,7 @@
 <AM lemma="Škoda-1_;K_;R" src="auto">NNFS1-----A----</AM>
 <AM lemma="Škoda-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m121-d-id166029-punct">

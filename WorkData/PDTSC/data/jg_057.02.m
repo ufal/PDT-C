@@ -5334,7 +5334,8 @@
 <AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>
 <AM lemma="datum_,h_,x" src="auto">NNIS4-----A----</AM>
 <AM lemma="datum_,h" src="manual">NNIS4-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="manual" selected="1">NNIS4-----A---6</AM>
+<AM lemma="datum_^(kalendářní)" src="manual">NNIS4-----A---6</AM>
+<AM lemma="datum-2_,h" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m057-d1t909-4">

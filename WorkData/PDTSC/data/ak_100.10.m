@@ -2834,7 +2834,8 @@
 <form>ČSM</form>
 <tag>
 <AM lemma="ČSM_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČSM_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSM_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČSM_^(Československý_svaz_mládeže)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m100-322-323">

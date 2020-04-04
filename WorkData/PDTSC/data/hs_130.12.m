@@ -2326,7 +2326,8 @@
 <form>Postřižin</form>
 <tag>
 <AM lemma="postřižiny" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Postřižiny_;R" src="manual" selected="1">NNFP2-----A----</AM>
+<AM lemma="Postřižiny_;R" src="manual">NNFP2-----A----</AM>
+<AM lemma="postřižiny" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m130-d1t1634-35">

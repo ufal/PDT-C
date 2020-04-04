@@ -6250,6 +6250,7 @@
 <AM lemma="dobytek" src="auto">NNIS1-----A----</AM>
 <AM lemma="dobytek" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dobytek" src="auto">NNMS1-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m136-d-id66831-punct">
@@ -6541,6 +6542,7 @@
 <AM lemma="dobytek" src="auto">NNIS1-----A----</AM>
 <AM lemma="dobytek" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dobytek" src="auto">NNMS1-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m136-d-id67452-punct">
@@ -6952,7 +6954,7 @@
 <form_change>spell</form_change>
 <form>různé</form>
 <tag>
-<AM lemma="různý" selected="1" src="auto">AAFP1----1A----</AM>
+<AM lemma="různý" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="různý" src="auto">AAFP5----1A----</AM>
 <AM lemma="různý" src="auto">AAFS2----1A----</AM>
 <AM lemma="různý" src="auto">AAFS3----1A----</AM>

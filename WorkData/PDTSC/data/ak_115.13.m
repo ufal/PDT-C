@@ -545,7 +545,10 @@
 <LM>w#w-d1t1883-7</LM>
 </w.rf>
 <form>abyste</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag>
+<AM lemma="aby" src="auto" recommended="1">J,-P---2-------</AM>
+<AM lemma="aby" src="manual" selected="1">J,-----------e-</AM>
+</tag>
 </m>
 <m id="m115-d1t1883-8">
 <w.rf>
@@ -1414,7 +1417,10 @@
 <LM>w#w-d1t1907-11</LM>
 </w.rf>
 <form>škoda</form>
-<tag lemma="škoda" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m115-181-182">
 <w.rf>

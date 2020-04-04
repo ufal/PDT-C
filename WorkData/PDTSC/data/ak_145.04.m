@@ -3661,7 +3661,8 @@
 <form>Kombi</form>
 <tag>
 <AM lemma="kombi" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Kombi_;R" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Kombi_;R" src="manual">NNNXX-----A----</AM>
+<AM lemma="kombi" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m145-d-id94578-punct">

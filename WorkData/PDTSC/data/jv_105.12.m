@@ -1566,7 +1566,8 @@
 <tag>
 <AM lemma="rock" src="auto">NNIS1-----A----</AM>
 <AM lemma="rock" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto" selected="1">NNXXX-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m105-d1t2705-1">
@@ -1577,6 +1578,7 @@
 <tag>
 <AM lemma="and-77_,t" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="and-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m105-d1t2707-1">
@@ -1587,6 +1589,7 @@
 <tag>
 <AM lemma="roll" src="auto">NNIS1-----A----</AM>
 <AM lemma="roll" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="roll-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m105-737-77">
@@ -2831,7 +2834,8 @@
 <tag>
 <AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto" selected="1">NNXXX-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m105-d1t2788-1">
@@ -2842,6 +2846,7 @@
 <tag>
 <AM lemma="and-77_,t" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="and-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m105-d1t2790-1">
@@ -2851,7 +2856,8 @@
 <form>roll</form>
 <tag>
 <AM lemma="roll" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="roll" src="auto" selected="1">NNIS4-----A----</AM>
+<AM lemma="roll" src="auto">NNIS4-----A----</AM>
+<AM lemma="roll-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m105-d1t2792-1">

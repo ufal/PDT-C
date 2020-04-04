@@ -70,7 +70,7 @@
 <AM lemma="šťastný" src="auto">AAMP1----1N---6</AM>
 <AM lemma="šťastný" src="auto">AAMP4----1N---6</AM>
 <AM lemma="šťastný" src="auto">AAMP5----1N---6</AM>
-<AM lemma="šťastný" selected="1" src="auto">AAMS1----1N----</AM>
+<AM lemma="šťastný" src="auto" selected="1">AAMS1----1N----</AM>
 <AM lemma="šťastný" src="auto">AAMS5----1N----</AM>
 <AM lemma="šťastný" src="auto">AANP1----1N---6</AM>
 <AM lemma="šťastný" src="auto">AANP4----1N---6</AM>
@@ -2694,7 +2694,10 @@
 <LM>w#w-d1t810-3</LM>
 </w.rf>
 <form>škoda</form>
-<tag lemma="škoda" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m026-d-m-d1e805-x2-punct-punct">
 <w.rf>
@@ -2733,7 +2736,10 @@
 <LM>w#w-d1t812-5</LM>
 </w.rf>
 <form>škoda</form>
-<tag lemma="škoda" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m026-d1e805-x3-78">
 <w.rf>
@@ -5148,7 +5154,7 @@
 <form_change>spell</form_change>
 <form>polštářek</form>
 <tag>
-<AM lemma="polštářek" selected="1" src="auto">NNIS1-----A----</AM>
+<AM lemma="polštářek" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="polštářek" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

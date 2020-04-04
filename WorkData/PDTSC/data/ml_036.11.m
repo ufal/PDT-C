@@ -1919,7 +1919,8 @@
 <form>čisto</form>
 <tag>
 <AM lemma="čistý" src="auto" recommended="1">ACNS------A----</AM>
-<AM lemma="čisto_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="čisto_^(*1ý)" src="manual">Dg-------1A----</AM>
+<AM lemma="čisto-1_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d-id152241-punct">

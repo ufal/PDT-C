@@ -416,8 +416,8 @@
 <AM lemma="luna" src="auto">NNFP1-----A----</AM>
 <AM lemma="luna" src="auto">NNFP4-----A----</AM>
 <AM lemma="luna" src="auto">NNFP5-----A----</AM>
-<AM lemma="luna" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Luna_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="luna" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Luna_;G" src="manual">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m027-d-id132547-punct">

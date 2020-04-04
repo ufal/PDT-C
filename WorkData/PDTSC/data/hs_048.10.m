@@ -2332,7 +2332,10 @@
 <LM>w#w-d1t2834-4</LM>
 </w.rf>
 <form>škoda</form>
-<tag lemma="škoda" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m048-d-id152357-punct">
 <w.rf>
@@ -4586,7 +4589,10 @@
 <LM>w#w-d1t2908-4</LM>
 </w.rf>
 <form>škoda</form>
-<tag lemma="škoda" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m048-d-m-d1e2899-x3-punct-punct">
 <w.rf>
@@ -4625,7 +4631,10 @@
 <LM>w#w-d1t2912-3</LM>
 </w.rf>
 <form>škoda</form>
-<tag lemma="škoda" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m048-d1e2909-x2-375">
 <w.rf>

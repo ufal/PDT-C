@@ -3134,7 +3134,8 @@
 <tag>
 <AM lemma="super_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="super_,t" src="auto">A2--------A----</AM>
-<AM lemma="super_,h" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="super_,h" src="manual">AAXXX----1A----</AM>
+<AM lemma="super-4" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m061-968-1002">
@@ -4365,6 +4366,7 @@
 <AM lemma="Škoda-1_;K_;R" src="auto">NNFS1-----A----</AM>
 <AM lemma="Škoda-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m061-d-m-d1e3774-x2-punct-punct">

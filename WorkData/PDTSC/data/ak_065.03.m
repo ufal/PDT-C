@@ -4493,7 +4493,8 @@
 <form>Cihlářka</form>
 <tag>
 <AM lemma="cihlářka_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Cihlářka_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Cihlářka_;R" src="manual">NNFS1-----A----</AM>
+<AM lemma="cihlářka_^(*2)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m065-d1t1091-7">

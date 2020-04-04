@@ -3599,7 +3599,10 @@
 <LM>w#w-d1t1806-18</LM>
 </w.rf>
 <form>přistavili</form>
-<tag lemma="přistavit_^(např._auto_k_naložení)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag>
+<AM lemma="přistavit_^(např._auto_k_naložení)" src="auto" recommended="1">VpMP----R-AAP--</AM>
+<AM lemma="přistavět_^(přidělat_ke_stavbě)" src="manual" selected="1">VpMP----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m007-d1t1810-1">
 <w.rf>

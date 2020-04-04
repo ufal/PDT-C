@@ -4291,8 +4291,8 @@
 </w.rf>
 <form>Dámu</form>
 <tag>
-<AM lemma="dáma" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Dáma_;R" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="dáma" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Dáma_;R" src="manual">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m137-d-id74004-punct">

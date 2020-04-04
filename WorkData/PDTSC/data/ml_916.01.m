@@ -1122,7 +1122,8 @@
 <form>OPBH</form>
 <tag>
 <AM lemma="OPBH_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="OPBH_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPBH_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="OPBH_^(Obvodní_podnik_bytového_hospodářství)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m916-d1t430-12">

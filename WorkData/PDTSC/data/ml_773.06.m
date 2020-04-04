@@ -1704,7 +1704,10 @@
 <LM>w#w-d1t1808-14</LM>
 </w.rf>
 <form>krátko</form>
-<tag lemma="krátko" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="krátko" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="krátko-2" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m773-d-id123094">
 <w.rf>

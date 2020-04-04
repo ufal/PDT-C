@@ -1841,7 +1841,8 @@
 <form>Finisterre</form>
 <tag>
 <AM lemma="Finisterre_;L_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Finisterre_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Finisterre_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Finisterre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m111-301-315">

@@ -137,8 +137,8 @@
 </w.rf>
 <form>Langhans</form>
 <tag>
-<AM lemma="Langhans_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Langhans-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Langhans_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Langhans-2_;K" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m029-d1e332-x2-84">

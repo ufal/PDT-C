@@ -4636,7 +4636,8 @@
 <AM lemma="super_,t" src="auto">A2--------A----</AM>
 <AM lemma="super" src="manual">A2--------A----</AM>
 <AM lemma="super_,h" src="manual">AAXXX----1A----</AM>
-<AM lemma="super" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="super" src="manual">AAXXX----1A----</AM>
+<AM lemma="super-4" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m033-13-17">

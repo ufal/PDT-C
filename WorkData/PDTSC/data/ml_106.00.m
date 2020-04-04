@@ -4207,7 +4207,10 @@
 <LM>w#w-d1t194-13</LM>
 </w.rf>
 <form>country</form>
-<tag lemma="country" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="country" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="country-1" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m106-d-id62873-punct">
 <w.rf>
@@ -4221,7 +4224,10 @@
 <LM>w#w-d1t194-15</LM>
 </w.rf>
 <form>blues</form>
-<tag lemma="blues" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="blues" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="blues-1" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m106-d-id62897-punct">
 <w.rf>
@@ -4245,6 +4251,7 @@
 <AM lemma="rock" src="auto">NNIS1-----A----</AM>
 <AM lemma="rock" src="auto">NNIS4-----A----</AM>
 <AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="rock-1" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m106-d1e183-x2-94">

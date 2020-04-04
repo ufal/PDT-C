@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="hg_022.00.w"></reffile>
+<reffile id="w" name="wdata" href="hg_022.00.w" />
 </references>
 </head>
 <s id="m022-d1e23-x2">
@@ -501,15 +501,17 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-</m><m id="m022-d1t62-5-sw1">
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
+<m id="m022-d1t62-5-sw1">
 <w.rf>
 <LM>w#w-d1t62-5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vámi</form>
-<tag>
-<AM lemma="ty" src="auto" recommended="1">PP-P7--2-------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+</m>
 <m id="m022-d1t62-6">
 <w.rf>
 <LM>w#w-d1t62-6</LM>
@@ -3269,6 +3271,7 @@
 <AM lemma="dobytek" src="auto">NNIS1-----A----</AM>
 <AM lemma="dobytek" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dobytek" src="auto">NNMS1-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m022-298_1-302">

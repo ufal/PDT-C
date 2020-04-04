@@ -4955,7 +4955,10 @@
 <LM>w#w-d1t1555-2</LM>
 </w.rf>
 <form>Africa</form>
-<tag lemma="Afrika_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Afrika_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Africa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m985-d1t1555-3">
 <w.rf>
@@ -4967,6 +4970,7 @@
 <AM lemma="star" src="auto">NNIS1-----A----</AM>
 <AM lemma="star" src="auto">NNIS4-----A----</AM>
 <AM lemma="star_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Star-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m985-d-id100147">
@@ -5075,6 +5079,7 @@
 <AM lemma="star" src="auto">NNIS1-----A----</AM>
 <AM lemma="star" src="auto">NNIS4-----A----</AM>
 <AM lemma="star_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="star-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m985-d-id100387">

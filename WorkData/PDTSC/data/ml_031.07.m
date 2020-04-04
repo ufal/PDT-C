@@ -649,8 +649,8 @@
 </w.rf>
 <form>Luna</form>
 <tag>
-<AM lemma="luna" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Luna_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="luna" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Luna_;K" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m031-d1t2470-1">

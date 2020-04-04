@@ -2023,7 +2023,8 @@
 <tag>
 <AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto" selected="1">NNXXX-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m022-d1t2853-5">
@@ -2043,8 +2044,9 @@
 </w.rf>
 <form>roll</form>
 <tag>
-<AM lemma="roll" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="roll" src="auto">NNIS1-----A----</AM>
 <AM lemma="roll" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="roll-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m022-d1e2838-x2-1018">

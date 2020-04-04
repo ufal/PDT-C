@@ -4739,7 +4739,8 @@
 <form>Jakobín</form>
 <tag>
 <AM lemma="jakobín" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jakobín_;K" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jakobín_;K" src="manual">NNMS1-----A----</AM>
+<AM lemma="jakobín" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m129-d-id153581-punct">

@@ -1524,7 +1524,10 @@
 <LM>w#w-d1t149-4</LM>
 </w.rf>
 <form>přistavit</form>
-<tag lemma="přistavit_^(např._auto_k_naložení)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag>
+<AM lemma="přistavit_^(např._auto_k_naložení)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="přistavět_^(přidělat_ke_stavbě)" src="manual" selected="1">Vf--------A-P-1</AM>
+</tag>
 </m>
 <m id="m005-d1t149-5">
 <w.rf>
@@ -2794,7 +2797,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m005-87"/>
+<s id="m005-87"></s>
 <s id="m005-d1e242-x3">
 <m id="m005-d1t251-5">
 <w.rf>

@@ -305,7 +305,8 @@
 <form>čisto</form>
 <tag>
 <AM lemma="čistý" src="auto" recommended="1">ACNS------A----</AM>
-<AM lemma="čisto" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="čisto" src="manual">Dg-------1A----</AM>
+<AM lemma="čisto-1" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m794-d-id94362">

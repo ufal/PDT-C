@@ -1491,8 +1491,8 @@
 </w.rf>
 <form>tady</form>
 <tag>
-<AM lemma="tady" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="tady-2" src="manual" selected="1">PDXXX----------</AM>
+<AM lemma="tady" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tady-2" src="manual">PDXXX----------</AM>
 </tag>
 </m>
 <m id="m027-d1t1500-6">

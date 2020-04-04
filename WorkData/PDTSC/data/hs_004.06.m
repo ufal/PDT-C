@@ -108,7 +108,7 @@
 <AM lemma="dál-2" src="auto">NNFS4-----A----</AM>
 <AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto">Db-------------</AM>
 <AM lemma="dít-1_^(dít_se)" src="auto">VpYS----R-AAI-1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual" selected="1" />
+<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual" selected="1"/>
 </tag>
 </m>
 <m id="m004-d-m-d1e2361-x2-punct-punct">
@@ -3236,7 +3236,8 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m004-d1t2606-1">

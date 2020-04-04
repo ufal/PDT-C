@@ -3241,7 +3241,7 @@
 <form>Nerudově</form>
 <tag>
 <AM lemma="Nerudův_;S_^(*2a)" src="auto">AUFS3M---------</AM>
-<AM lemma="Nerudův_;S_^(*2a)" src="auto">AUFS6M---------</AM>
+<AM lemma="Nerudův_;S_^(*2a)" src="auto" selected="1">AUFS6M---------</AM>
 <AM lemma="Nerudův_;S_^(*2a)" src="auto">AUIS3M--------6</AM>
 <AM lemma="Nerudův_;S_^(*2a)" src="auto">AUIS6M---------</AM>
 <AM lemma="Nerudův_;S_^(*2a)" src="auto">AUMS3M--------6</AM>

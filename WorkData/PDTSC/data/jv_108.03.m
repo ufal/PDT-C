@@ -5027,6 +5027,7 @@
 <tag>
 <AM lemma="mini" src="auto">A2--------A----</AM>
 <AM lemma="mini" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="mini-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m108-d1t774-3">

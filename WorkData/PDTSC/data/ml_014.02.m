@@ -461,7 +461,7 @@
 <AM lemma="půlnoční" src="auto">AAFS1----1A----</AM>
 <AM lemma="půlnoční" src="auto">AAFS2----1A----</AM>
 <AM lemma="půlnoční" src="auto">AAFS3----1A----</AM>
-<AM lemma="půlnoční" src="auto" selected="1">AAFS4----1A----</AM>
+<AM lemma="půlnoční" src="auto">AAFS4----1A----</AM>
 <AM lemma="půlnoční" src="auto">AAFS5----1A----</AM>
 <AM lemma="půlnoční" src="auto">AAFS6----1A----</AM>
 <AM lemma="půlnoční" src="auto">AAFS7----1A----</AM>
@@ -482,6 +482,7 @@
 <AM lemma="půlnoční" src="auto">AANS1----1A----</AM>
 <AM lemma="půlnoční" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="půlnoční" src="auto">AANS5----1A----</AM>
+<AM lemma="půlnoční-2_^(mše)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m014-534_1-548">
@@ -2812,6 +2813,7 @@
 <AM lemma="půlnoční" src="auto">AANS1----1A----</AM>
 <AM lemma="půlnoční" src="auto">AANS4----1A----</AM>
 <AM lemma="půlnoční" src="auto">AANS5----1A----</AM>
+<AM lemma="půlnoční-2_^(mše)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m014-866-912">

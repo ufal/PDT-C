@@ -1298,7 +1298,8 @@
 <form>svobodna</form>
 <tag>
 <AM lemma="svobodný" src="auto" recommended="1">ACQW------A----</AM>
-<AM lemma="svobodno" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="svobodno" src="manual">NNNS2-----A----</AM>
+<AM lemma="svobodna" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m148-417-430">

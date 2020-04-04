@@ -1118,7 +1118,8 @@
 <form>přistavili</form>
 <tag>
 <AM lemma="přistavit_^(např._auto_k_naložení)" src="auto" recommended="1">VpMP----R-AAP--</AM>
-<AM lemma="přistavit_:W_^(např._auto_k_naložení;stavba)" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="přistavit_:W_^(např._auto_k_naložení;stavba)" src="manual">VpMP---XR-AA---</AM>
+<AM lemma="přistavět_^(přidělat_ke_stavbě)" src="manual" selected="1">VpMP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m109-d1t1572-9">

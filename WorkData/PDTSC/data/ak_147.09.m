@@ -711,7 +711,8 @@
 <form>Ruanda</form>
 <tag>
 <AM lemma="Rwanda_;G_,x" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Ruanda-1_;G_^(Ruanda-Urundi)" src="auto" selected="1">A2--------A----</AM>
+<AM lemma="Ruanda-1_;G_^(Ruanda-Urundi)" src="auto">A2--------A----</AM>
+<AM lemma="Ruanda_;G_,s_^(^DD**Rwanda)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m147-d1t889-2">

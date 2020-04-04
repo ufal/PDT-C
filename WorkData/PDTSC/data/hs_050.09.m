@@ -4141,6 +4141,7 @@
 <AM lemma="půlnoční" src="auto">AANS1----1A----</AM>
 <AM lemma="půlnoční" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="půlnoční" src="auto">AANS5----1A----</AM>
+<AM lemma="půlnoční-1" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 </m>
 <m id="m050-d1t2782-4">

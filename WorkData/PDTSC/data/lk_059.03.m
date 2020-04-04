@@ -1759,6 +1759,7 @@
 <AM lemma="dobytek" src="auto">NNIS1-----A----</AM>
 <AM lemma="dobytek" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dobytek" src="auto">NNMS1-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m059-d1t1763-2">

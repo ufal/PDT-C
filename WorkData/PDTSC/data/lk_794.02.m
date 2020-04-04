@@ -1633,7 +1633,8 @@
 <AM lemma="post-1_^(pozice)" src="auto">NNIS1-----A----</AM>
 <AM lemma="post-1_^(pozice)" src="auto">NNIS4-----A----</AM>
 <AM lemma="post-2_,t_^(po-,_např._post-traumatický)" src="auto">A2--------A----</AM>
-<AM lemma="post-3" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="post-3" src="manual">NNMXX-----A----</AM>
+<AM lemma="post-3" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m794-d-id84230">
@@ -2093,7 +2094,8 @@
 <AM lemma="Posti_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="postit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="postit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="post-3" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="post-3" src="manual">NNMS1-----A----</AM>
+<AM lemma="post-3" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m794-d1t622-3">

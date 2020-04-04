@@ -172,7 +172,8 @@
 <AM lemma="půlnoční" src="auto">AANS1----1A----</AM>
 <AM lemma="půlnoční" src="auto">AANS4----1A----</AM>
 <AM lemma="půlnoční" src="auto">AANS5----1A----</AM>
-<AM lemma="půlnoční-2" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="půlnoční-2" src="manual">NNFS4-----A----</AM>
+<AM lemma="půlnoční-2_^(mše)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m110-117-121">
