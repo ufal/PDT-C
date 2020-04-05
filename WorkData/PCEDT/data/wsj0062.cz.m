@@ -6020,7 +6020,9 @@
 <form>Adolph</form>
 <tag>
 <AM lemma="Adolph_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Adolph-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Adolph-77" src="manual">F%-------------</AM>
+<AM lemma="Adolph_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Adolph_;Y_,s_^(^DD**Adolf)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0062-001-p1s20W17-Ta">
@@ -6030,8 +6032,8 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coors-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coors_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Coors-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0062-001-p1s20W18-Ta">

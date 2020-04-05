@@ -21445,7 +21445,8 @@
 <form>Contra</form>
 <tag>
 <AM lemma="contra-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Contra-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Contra-77" src="manual">F%-------------</AM>
+<AM lemma="Contra_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0049-001-p1s72W10-Ta">

@@ -232,9 +232,9 @@
 </w.rf>
 <form>Manpower</form>
 <tag>
-<AM lemma="Manpower_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Manpower_;K" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Manpower_;K" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Manpower-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Manpower-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2281-001-p1s0W17-Ta">

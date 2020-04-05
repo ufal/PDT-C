@@ -356,14 +356,14 @@
 <LM>w#w-wsj1045-001-p1s1W1</LM>
 </w.rf>
 <form>44</form>
-<tag>
-<AM lemma="44" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="44" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1045-001-p1s1W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1045-001-p1s1W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -388,8 +388,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1045-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -902,8 +903,8 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coors_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s2W29-Ta">
@@ -1029,8 +1030,8 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coors_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s3W4-Ta">
@@ -2584,7 +2585,8 @@
 <form>Adolph</form>
 <tag>
 <AM lemma="Adolph_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Adolph-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Adolph-77" src="manual">F%-------------</AM>
+<AM lemma="Adolph_;Y_,s_^(^DD**Adolf)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s10W29-Ta">
@@ -2594,8 +2596,8 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coors-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coors_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Coors-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s10W30-Ta">

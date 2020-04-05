@@ -661,20 +661,21 @@
 <LM>w#w-wsj1455-001-p1s4W2</LM>
 </w.rf>
 <form>38</form>
-<tag>
-<AM lemma="38" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="38" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1455-001-p1s4W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1455-001-p1s4W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letém</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS6----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAMS6----1A----</AM>
-<AM lemma="letý" src="auto">AANS6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1455-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1938,7 +1939,8 @@
 <tag>
 <AM lemma="Paul_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Paula_;Y_,t" src="auto">NNFP2-----A----</AM>
-<AM lemma="Paul-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Paul-77" src="manual">F%-------------</AM>
+<AM lemma="Paul_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1455-001-p1s7W33-Ta">
@@ -1951,7 +1953,8 @@
 <AM lemma="Stuart_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Stuart_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Stuart_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stuart-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Stuart-77" src="manual">F%-------------</AM>
+<AM lemma="Stuart-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1455-001-p1s7W34-Ta">
@@ -4185,22 +4188,23 @@
 <LM>w#w-wsj1455-001-p1s18W8</LM>
 </w.rf>
 <form>20</form>
-<tag>
-<AM lemma="20" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="20" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1455-001-p1s18W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1455-001-p1s18W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>patrová</form>
 <tag>
 <AM lemma="patrový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="patrový" src="auto">AAFS5----1A----</AM>
 <AM lemma="patrový" src="auto">AANP1----1A----</AM>
 <AM lemma="patrový" src="auto">AANP4----1A----</AM>
-<AM lemma="patrový" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="patrový" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1455-001-p1s18W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

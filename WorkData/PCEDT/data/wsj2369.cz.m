@@ -10415,6 +10415,7 @@
 <tag>
 <AM lemma="Baxter_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Baxter_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Baxterová_;S" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2369-001-p1s34W43-Ta">

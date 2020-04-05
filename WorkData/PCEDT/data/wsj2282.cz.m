@@ -468,14 +468,14 @@
 <LM>w#w-wsj2282-001-p1s1W1</LM>
 </w.rf>
 <form>45</form>
-<tag>
-<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="45" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2282-001-p1s1W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2282-001-p1s1W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -500,8 +500,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj2282-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2756,7 +2757,10 @@
 <LM>w#w-wsj2282-001-p1s9W2</LM>
 </w.rf>
 <form>Butler</form>
-<tag lemma="Butler_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Butler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Butler-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2282-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>

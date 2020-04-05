@@ -2310,10 +2310,10 @@
 <w.rf>
 <LM>w#w-wsj2019-001-p1s10W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>patnáctkrát</form>
-<tag>
-<AM lemma="patnáctkrát`15_^(*4)" src="auto" recommended="1">Cv-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="patnáctkrát`15_^(*4)" src="auto" recommended="1">Cv-------------</tag>
+</m>
 <m id="m-wsj2019-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3768,13 +3768,15 @@
 <w.rf>
 <LM>w#w-wsj2019-001-p1s18W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>mimoburzovního</form>
 <tag>
 <AM lemma="mimoburzovní" src="auto">AAIS2----1A----</AM>
 <AM lemma="mimoburzovní" src="auto">AAMS2----1A----</AM>
 <AM lemma="mimoburzovní" src="auto">AAMS4----1A----</AM>
-<AM lemma="mimoburzovní" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="mimoburzovní" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2019-001-p1s18W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6551,7 +6553,8 @@
 <form>Boehringer</form>
 <tag>
 <AM lemma="Boehringer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Boehringer_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Boehringer_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Boehringer-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2019-001-p1s30W13-Ta">

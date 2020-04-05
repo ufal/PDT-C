@@ -20755,7 +20755,10 @@
 <LM>w#w-wsj1856-001-p1s78W2</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1856-001-p1s78W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -21061,7 +21064,10 @@
 <LM>w#w-wsj1856-001-p1s79W12</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1856-001-p1s79W13-Ta">
 <src.rf>tagger-a</src.rf>

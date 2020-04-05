@@ -10092,11 +10092,13 @@
 <w.rf>
 <LM>w#w-wsj1376-001-p1s36W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Cleveland</form>
 <tag>
 <AM lemma="Cleveland_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cleveland_;G" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Cleveland_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1376-001-p1s36W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12745,14 +12747,14 @@
 <LM>w#w-wsj1376-001-p1s44W6</LM>
 </w.rf>
 <form>3.2</form>
-<tag>
-<AM lemma="3.2" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="3.2" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1376-001-p1s44W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1376-001-p1s44W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>akrový</form>
 <tag>
 <AM lemma="akrový" src="auto">AAFP1----1A---6</AM>
@@ -12777,8 +12779,9 @@
 <AM lemma="akrový" src="auto">AANP5----1A---6</AM>
 <AM lemma="akrový" src="auto">AANS1----1A---6</AM>
 <AM lemma="akrový" src="auto">AANS4----1A---6</AM>
-<AM lemma="akrový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="akrový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1376-001-p1s44W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16871,7 +16874,8 @@
 <form>Avenue</form>
 <tag>
 <AM lemma="avenue" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Avenue_;R" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Avenue_;R" src="manual">NNFXX-----A----</AM>
+<AM lemma="Avenue-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1376-001-p1s60W33-Ta">

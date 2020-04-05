@@ -120,7 +120,8 @@
 <AM lemma="laboratorium_,s" src="auto">NNNS1-----A----</AM>
 <AM lemma="laboratorium_,s" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="laboratorium_,s" src="auto">NNNS5-----A----</AM>
-<AM lemma="Laboratorium-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Laboratorium-77" src="manual">F%-------------</AM>
+<AM lemma="laboratorium" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0272-001-p1s0W12-Ta">
@@ -132,7 +133,8 @@
 <tag>
 <AM lemma="Prof_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="prof_:B" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Prof-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Prof-77" src="manual">F%-------------</AM>
+<AM lemma="Prof_^(profesor)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0272-001-p1s0W13-Ta">
@@ -153,7 +155,8 @@
 <AM lemma="Dr_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="dr-99_:B_;S" src="auto">NNXXX-----A----</AM>
 <AM lemma="dr_:B_^(doktor,_akad._titul)" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dr-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dr-77" src="manual">F%-------------</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0272-001-p1s0W15-Ta">
@@ -172,7 +175,8 @@
 <form>Berthold</form>
 <tag>
 <AM lemma="Berthold_;Y_,s_^(^DD**Bertold)" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Berthold-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Berthold-77" src="manual">F%-------------</AM>
+<AM lemma="Berthold_;S_;Y_,s_^(^DD**Bertold)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0272-001-p1s0W17-Ta">

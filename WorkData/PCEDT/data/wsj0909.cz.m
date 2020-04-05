@@ -5722,6 +5722,7 @@
 <w.rf>
 <LM>w#w-wsj0909-001-p1s22W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Reaganových</form>
 <tag>
 <AM lemma="Reaganův_;S_^(*2)" src="auto">AUFP2M---------</AM>
@@ -5733,8 +5734,9 @@
 <AM lemma="Reaganův_;S_^(*2)" src="auto">AUNP2M---------</AM>
 <AM lemma="Reaganův_;S_^(*2)" src="auto">AUNP6M---------</AM>
 <AM lemma="Reaganová_;S" src="auto">NNFP2-----A----</AM>
-<AM lemma="Reaganová_;S" src="auto">NNFP6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Reaganová_;S" src="auto">NNFP6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0909-001-p1s22W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16678,7 +16680,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0909-001-p1s69W16-Ta">
@@ -17599,7 +17602,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0909-001-p1s72W10-Ta">
@@ -19680,6 +19684,7 @@
 <w.rf>
 <LM>w#w-wsj0909-001-p1s80W34</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>postavení</form>
 <tag>
 <AM lemma="postavený_^(*3it)" src="auto">AAMP1----1A----</AM>
@@ -19693,8 +19698,9 @@
 <AM lemma="postavení_^(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="postavení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="postavení_^(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="postavení_^(*3it)" src="auto">NNNS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="postavení_^(*3it)" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0909-001-p1s80W35-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -952,7 +952,10 @@
 <LM>w#w-wsj1641-001-p1s3W6</LM>
 </w.rf>
 <form>Chiron</form>
-<tag lemma="Chiron_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Chiron_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chiron-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1641-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1906,7 +1909,10 @@
 <LM>w#w-wsj1641-001-p1s5W21</LM>
 </w.rf>
 <form>Chiron</form>
-<tag lemma="Chiron_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Chiron_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chiron-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1641-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2625,7 +2631,10 @@
 <LM>w#w-wsj1641-001-p1s8W10</LM>
 </w.rf>
 <form>Chiron</form>
-<tag lemma="Chiron_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Chiron_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chiron-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1641-001-p1s8W11-Ta">
 <src.rf>tagger-a</src.rf>

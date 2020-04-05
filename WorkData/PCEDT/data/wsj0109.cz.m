@@ -21,17 +21,18 @@
 <AM lemma="R-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="R-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM></tag>
+<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s0W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0109-001-p1s0W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0109-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -775,17 +776,18 @@
 <AM lemma="l-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
-<AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
+<AM lemma="litr" src="auto">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s1W22-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0109-001-p1s1W22</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0109-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2706,7 +2708,10 @@
 <LM>w#w-wsj0109-001-p1s8W23</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s8W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2864,7 +2869,10 @@
 <LM>w#w-wsj0109-001-p1s9W8</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3223,10 +3231,13 @@
 <w.rf>
 <LM>w#w-wsj0109-001-p1s11W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Campbell</form>
 <tag>
-<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0109-001-p1s11W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3702,7 +3713,10 @@
 <LM>w#w-wsj0109-001-p1s12W7</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4382,7 +4396,10 @@
 <LM>w#w-wsj0109-001-p1s15W20</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s15W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4718,7 +4735,10 @@
 <LM>w#w-wsj0109-001-p1s16W14</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s16W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5631,7 +5651,10 @@
 <LM>w#w-wsj0109-001-p1s19W21</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s19W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6964,7 +6987,10 @@
 <LM>w#w-wsj0109-001-p1s24W4</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s24W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8028,7 +8054,10 @@
 <LM>w#w-wsj0109-001-p1s28W2</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s28W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8573,7 +8602,10 @@
 <LM>w#w-wsj0109-001-p1s30W8</LM>
 </w.rf>
 <form>Campbell</form>
-<tag lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Campbell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0109-001-p1s30W9-Ta">
 <src.rf>tagger-a</src.rf>

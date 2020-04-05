@@ -126,7 +126,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0174-001-p1s0W11-Ta">
@@ -813,7 +814,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0174-001-p1s2W26-Ta">
@@ -1327,7 +1329,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0174-001-p1s5W4-Ta">
@@ -2000,11 +2003,13 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s7W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Moskvě</form>
 <tag>
 <AM lemma="Moskva_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Moskva_;G" src="auto" recommended="1">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Moskva_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0174-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2681,10 +2686,10 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s10W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>funkcionář</form>
-<tag>
-<AM lemma="funkcionář" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="funkcionář" src="auto" recommended="1">NNMS1-----A----</tag>
+</m>
 <m id="m-wsj0174-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3371,6 +3376,7 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s13W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Alzheimerova</form>
 <tag>
 <AM lemma="Alzheimerův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
@@ -3381,8 +3387,9 @@
 <AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNP1M---------</AM>
 <AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNP4M---------</AM>
 <AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNP5M---------</AM>
-<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNS2M---------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNS2M---------</AM>
+</tag>
+</m>
 <m id="m-wsj0174-001-p1s13W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3513,7 +3520,8 @@
 <tag>
 <AM lemma="Michigan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Michigan_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Michigan_;G" src="auto">NNIS6-----A----</AM></tag>
+<AM lemma="Michigan_;G" src="auto">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0174-001-p1s14W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3566,6 +3574,7 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s14W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>který</form>
 <tag>
 <AM lemma="který" src="auto">P4FS2---------6</AM>
@@ -3576,8 +3585,9 @@
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
-<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM>
+</tag>
+</m>
 <m id="m-wsj0174-001-p1s14W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7784,20 +7794,21 @@
 <LM>w#w-wsj0174-001-p1s28W16</LM>
 </w.rf>
 <form>237</form>
-<tag>
-<AM lemma="237" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="237" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0174-001-p1s28W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0174-001-p1s28W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>členném</form>
 <tag>
 <AM lemma="členný" src="auto">AAIS6----1A----</AM>
 <AM lemma="členný" src="auto">AAMS6----1A----</AM>
-<AM lemma="členný" src="auto" recommended="1">AANS6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="členný" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0174-001-p1s28W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

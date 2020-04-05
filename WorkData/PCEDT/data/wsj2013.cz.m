@@ -4918,14 +4918,14 @@
 <LM>w#w-wsj2013-001-p1s19W1</LM>
 </w.rf>
 <form>55</form>
-<tag>
-<AM lemma="55" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="55" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2013-001-p1s19W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2013-001-p1s19W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -4950,8 +4950,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj2013-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8289,6 +8290,7 @@
 <w.rf>
 <LM>w#w-wsj2013-001-p1s29W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>církevní</form>
 <tag>
 <AM lemma="církevní" src="auto">AAFP1----1A----</AM>
@@ -8317,8 +8319,9 @@
 <AM lemma="církevní" src="auto">AANP5----1A----</AM>
 <AM lemma="církevní" src="auto">AANS1----1A----</AM>
 <AM lemma="církevní" src="auto">AANS4----1A----</AM>
-<AM lemma="církevní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="církevní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2013-001-p1s29W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -39572,7 +39575,8 @@
 <form>Contra</form>
 <tag>
 <AM lemma="contra-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Contra_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Contra_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Contra_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2013-001-p1s152W13-Ta">

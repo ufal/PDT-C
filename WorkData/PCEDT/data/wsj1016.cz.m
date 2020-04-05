@@ -488,8 +488,8 @@
 </w.rf>
 <form>Coates</form>
 <tag>
-<AM lemma="Coates_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coates-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coates_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Coates-2_;K" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1016-001-p1s1W11-Ta">

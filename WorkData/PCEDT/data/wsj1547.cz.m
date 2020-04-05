@@ -9221,7 +9221,8 @@
 <form>Contra</form>
 <tag>
 <AM lemma="contra-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Contra_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Contra_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Contra_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1547-001-p1s30W10-Ta">

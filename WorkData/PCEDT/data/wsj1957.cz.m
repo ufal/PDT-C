@@ -1109,14 +1109,14 @@
 <LM>w#w-wsj1957-001-p1s4W2</LM>
 </w.rf>
 <form>225</form>
-<tag>
-<AM lemma="225" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="225" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1957-001-p1s4W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1957-001-p1s4W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>akciový</form>
 <tag>
 <AM lemma="akciový" src="auto">AAFP1----1A---6</AM>
@@ -1141,8 +1141,9 @@
 <AM lemma="akciový" src="auto">AANP5----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS1----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS4----1A---6</AM>
-<AM lemma="akciový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="akciový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1957-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13320,7 +13321,9 @@
 <form>Bass</form>
 <tag>
 <AM lemma="Bass_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bass-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bass-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bass-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bass-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1957-001-p1s50W3-Ta">

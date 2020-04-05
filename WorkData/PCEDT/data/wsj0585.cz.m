@@ -2386,10 +2386,10 @@
 <w.rf>
 <LM>w#w-wsj0585-001-p1s7W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>příčinou</form>
-<tag>
-<AM lemma="příčina" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="příčina" src="auto" recommended="1">NNFS7-----A----</tag>
+</m>
 <m id="m-wsj0585-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9170,7 +9170,9 @@
 <AM lemma="Liza_;Y_,t" src="auto">NNFP2-----A----</AM>
 <AM lemma="liz" src="auto">NNIS1-----A----</AM>
 <AM lemma="liz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Liz-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Liz-77" src="manual">F%-------------</AM>
+<AM lemma="Liz_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Liz_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0585-001-p1s31W31-Ta">
@@ -9180,8 +9182,8 @@
 </w.rf>
 <form>Claiborne</form>
 <tag>
-<AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Claiborne-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Claiborne_;S" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
+<AM lemma="Claiborne-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0585-001-p1s31W32-Ta">
@@ -13439,6 +13441,7 @@
 <w.rf>
 <LM>w#w-wsj0585-001-p1s47W28</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>akcie</form>
 <tag>
 <AM lemma="akcie" src="auto">NNFP1-----A----</AM>
@@ -13446,8 +13449,9 @@
 <AM lemma="akcie" src="auto">NNFP5-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS1-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS2-----A----</AM>
-<AM lemma="akcie" src="auto">NNFS5-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="akcie" src="auto">NNFS5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0585-001-p1s47W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

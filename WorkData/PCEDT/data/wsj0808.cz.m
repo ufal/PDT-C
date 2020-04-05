@@ -2886,6 +2886,7 @@
 <AM lemma="Rul_;S" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="rula" src="auto">NNFS3-----A----</AM>
 <AM lemma="rula" src="auto">NNFS6-----A----</AM>
+<AM lemma="Rule_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0808-001-p1s10W8-Ta">

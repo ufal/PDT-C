@@ -3861,7 +3861,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1602-001-p1s8W31-Ta">

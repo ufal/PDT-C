@@ -782,6 +782,7 @@
 <w.rf>
 <LM>w#w-wsj2412-001-p1s2W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>doporučujících</form>
 <tag>
 <AM lemma="doporučující_^(*5ovat)" src="auto">AGFP2-----A----</AM>
@@ -791,8 +792,9 @@
 <AM lemma="doporučující_^(*5ovat)" src="auto">AGMP2-----A----</AM>
 <AM lemma="doporučující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="doporučující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGNP6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="doporučující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2412-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1661,10 +1663,14 @@
 <w.rf>
 <LM>w#w-wsj2412-001-p1s4W28</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Claiborne</form>
 <tag>
-<AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Claiborne-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Claiborne-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2412-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10633,10 +10639,10 @@
 <w.rf>
 <LM>w#w-wsj2412-001-p1s56W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>víc</form>
-<tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+</m>
 <m id="m-wsj2412-001-p1s56W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

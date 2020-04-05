@@ -3051,7 +3051,8 @@
 <form>Čchang</form>
 <tag>
 <AM lemma="Čchang" src="auto">X@-------------</AM>
-<AM lemma="Čchang_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Čchang_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Čchang-2_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1467-001-p1s9W5-Ta">

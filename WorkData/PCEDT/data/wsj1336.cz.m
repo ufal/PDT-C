@@ -1439,8 +1439,8 @@
 </w.rf>
 <form>Claiborne</form>
 <tag>
-<AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Claiborne_;K_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Claiborne_;S" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
+<AM lemma="Claiborne_;K_;S" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1336-001-p1s3W4-Ta">
@@ -1694,8 +1694,8 @@
 </w.rf>
 <form>Claiborne</form>
 <tag>
-<AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Claiborne_;K_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Claiborne_;S" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
+<AM lemma="Claiborne_;K_;S" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1336-001-p1s4W5-Ta">

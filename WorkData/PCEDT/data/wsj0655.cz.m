@@ -288,7 +288,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s0W25-Ta">
@@ -426,7 +427,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s1W14-Ta">
@@ -914,14 +916,14 @@
 <LM>w#w-wsj0655-001-p1s2W8</LM>
 </w.rf>
 <form>19</form>
-<tag>
-<AM lemma="19" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="19" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0655-001-p1s2W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0655-001-p1s2W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>měsíční</form>
 <tag>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
@@ -952,8 +954,9 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
-<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0655-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4128,7 +4131,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s11W15-Ta">
@@ -6317,7 +6321,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s16W25-Ta">
@@ -7136,7 +7141,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s19W18-Ta">
@@ -7357,7 +7363,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s19W38-Ta">
@@ -7643,7 +7650,8 @@
 <form>Contras</form>
 <tag>
 <AM lemma="contras_,l_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Contras_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Contras_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Contras_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s20W23-Ta">

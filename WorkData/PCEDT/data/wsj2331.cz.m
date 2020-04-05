@@ -8814,6 +8814,7 @@
 <w.rf>
 <LM>w#w-wsj2331-001-p1s27W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>PŘEZKOUMÁNÍ</form>
 <tag>
 <AM lemma="přezkoumání_^(*3at)" src="auto">NNNP1-----A----</AM>
@@ -8825,8 +8826,9 @@
 <AM lemma="přezkoumání_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="přezkoumání_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="přezkoumání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="přezkoumání_^(*3at)" src="auto">NNNS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="přezkoumání_^(*3at)" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2331-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11351,7 +11353,10 @@
 <LM>w#w-wsj2331-001-p1s36W31</LM>
 </w.rf>
 <form>Bozell</form>
-<tag lemma="Bozell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bozell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bozell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2331-001-p1s36W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11612,7 +11617,10 @@
 <LM>w#w-wsj2331-001-p1s38W1</LM>
 </w.rf>
 <form>Bozell</form>
-<tag lemma="Bozell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bozell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bozell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2331-001-p1s38W2-Ta">
 <src.rf>tagger-a</src.rf>

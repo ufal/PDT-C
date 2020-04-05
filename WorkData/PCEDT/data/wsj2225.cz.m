@@ -5456,14 +5456,14 @@
 <LM>w#w-wsj2225-001-p1s20W4</LM>
 </w.rf>
 <form>60</form>
-<tag>
-<AM lemma="60" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="60" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2225-001-p1s20W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2225-001-p1s20W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>sekundové</form>
 <tag>
 <AM lemma="sekundový" src="auto">AAFP1----1A----</AM>
@@ -5481,8 +5481,9 @@
 <AM lemma="sekundový" src="auto">AANP5----1A---6</AM>
 <AM lemma="sekundový" src="auto">AANS1----1A----</AM>
 <AM lemma="sekundový" src="auto">AANS4----1A----</AM>
-<AM lemma="sekundový" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="sekundový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2225-001-p1s20W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6388,7 +6389,8 @@
 <form>Butler</form>
 <tag>
 <AM lemma="Butler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Butler_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Butler_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Butler-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2225-001-p1s23W23-Ta">

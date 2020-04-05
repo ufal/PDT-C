@@ -8172,6 +8172,7 @@
 <w.rf>
 <LM>w#w-wsj0814-001-p1s25W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>svázané</form>
 <tag>
 <AM lemma="svázaný_^(*2t)" src="auto">AAFP1----1A----</AM>
@@ -8189,8 +8190,9 @@
 <AM lemma="svázaný_^(*2t)" src="auto">AANP5----1A---6</AM>
 <AM lemma="svázaný_^(*2t)" src="auto">AANS1----1A----</AM>
 <AM lemma="svázaný_^(*2t)" src="auto">AANS4----1A----</AM>
-<AM lemma="svázaný_^(*2t)" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="svázaný_^(*2t)" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0814-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

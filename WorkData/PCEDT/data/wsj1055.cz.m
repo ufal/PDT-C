@@ -4563,7 +4563,10 @@
 <LM>w#w-wsj1055-001-p1s21W15</LM>
 </w.rf>
 <form>Chiron</form>
-<tag lemma="Chiron_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Chiron_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chiron-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1055-001-p1s21W16-Ta">
 <src.rf>tagger-a</src.rf>

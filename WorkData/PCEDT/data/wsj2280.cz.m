@@ -1212,7 +1212,8 @@
 <form>Arrow</form>
 <tag>
 <AM lemma="Arrow_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Arrow-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Arrow-2_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Arrow-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2280-001-p1s2W16-Ta">

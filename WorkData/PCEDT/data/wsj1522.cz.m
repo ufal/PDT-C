@@ -29,7 +29,9 @@
 <form>Basf</form>
 <tag>
 <AM lemma="Basf_:B_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Basf-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Basf-77" src="manual">F%-------------</AM>
+<AM lemma="Basf-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Basf-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1522-001-p1s0W3-Ta">
@@ -599,7 +601,11 @@
 <LM>w#w-wsj1522-001-p1s1W15</LM>
 </w.rf>
 <form>Basf</form>
-<tag lemma="Basf_:B_;K" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Basf_:B_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Basf-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Basf-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1522-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -970,7 +976,11 @@
 <LM>w#w-wsj1522-001-p1s3W10</LM>
 </w.rf>
 <form>Basf</form>
-<tag lemma="Basf_:B_;K" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Basf_:B_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Basf-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Basf-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1522-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>

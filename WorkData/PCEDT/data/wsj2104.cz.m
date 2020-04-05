@@ -11830,12 +11830,14 @@
 <w.rf>
 <LM>w#w-wsj2104-001-p1s30W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>náš</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto">PSYS5-P1-------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="můj_^(přivlast.)" src="auto">PSYS5-P1-------</AM>
+</tag>
+</m>
 <m id="m-wsj2104-001-p1s30W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14923,7 +14925,8 @@
 <tag>
 <AM lemma="Robert_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roberta_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Robert-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Robert-77" src="manual">F%-------------</AM>
+<AM lemma="Robert_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2104-001-p1s36W54-Ta">
@@ -14933,8 +14936,8 @@
 </w.rf>
 <form>Bass</form>
 <tag>
-<AM lemma="Bass_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bass-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bass_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bass-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2104-001-p1s36W55-Ta">

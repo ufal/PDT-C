@@ -2175,7 +2175,8 @@
 <form>Barilla</form>
 <tag>
 <AM lemma="Barilla_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Barilla_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Barilla_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Barilla-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2254-001-p1s9W15-Ta">
