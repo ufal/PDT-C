@@ -3820,11 +3820,13 @@
 <w.rf>
 <LM>w#w-wsj2362-001-p1s10W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Connecticut</form>
 <tag>
 <AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Connecticut_;G" src="auto">NNIS4-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Connecticut_;G" src="auto">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2362-001-p1s10W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4763,7 +4765,10 @@
 <LM>w#w-wsj2362-001-p1s12W36</LM>
 </w.rf>
 <form>Dassault</form>
-<tag lemma="Dassault_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dassault_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Dassault-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2362-001-p1s12W37-Ta">
 <src.rf>tagger-a</src.rf>

@@ -12885,7 +12885,10 @@
 <LM>w#w-wsj1208-001-p1s54W9</LM>
 </w.rf>
 <form>Del</form>
-<tag lemma="Del_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Del_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Del-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1208-001-p1s54W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13353,7 +13356,10 @@
 <LM>w#w-wsj1208-001-p1s56W7</LM>
 </w.rf>
 <form>Del</form>
-<tag lemma="Del_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Del_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Del-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1208-001-p1s56W8-Ta">
 <src.rf>tagger-a</src.rf>

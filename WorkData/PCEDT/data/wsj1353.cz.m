@@ -5000,8 +5000,8 @@
 </w.rf>
 <form>Edwards</form>
 <tag>
-<AM lemma="Edwards_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Edwards_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Edwards_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Edwards_;K" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1353-001-p1s14W13-Ta">

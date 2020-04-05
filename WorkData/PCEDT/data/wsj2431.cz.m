@@ -7492,7 +7492,10 @@
 <LM>w#w-wsj2431-001-p1s21W11</LM>
 </w.rf>
 <form>Dassault</form>
-<tag lemma="Dassault_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dassault_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Dassault-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2431-001-p1s21W12-Ta">
 <src.rf>tagger-a</src.rf>

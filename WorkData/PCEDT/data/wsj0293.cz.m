@@ -285,11 +285,13 @@
 <w.rf>
 <LM>w#w-wsj0293-001-p1s1W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>úřad</form>
 <tag>
 <AM lemma="úřad" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="úřad" src="auto">NNIS4-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="úřad" src="auto">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0293-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12680,7 +12682,8 @@
 <tag>
 <AM lemma="dobytek-2_^(nadávka)" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="dobytek-2_^(nadávka)" src="auto">NNMS4-----A----</AM>
-<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0293-001-p1s39W24-Ta">

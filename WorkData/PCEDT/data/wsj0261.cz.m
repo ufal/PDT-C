@@ -516,6 +516,7 @@
 <w.rf>
 <LM>w#w-wsj0261-001-p1s2W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Restaurace</form>
 <tag>
 <AM lemma="restaurace" src="auto">NNFP1-----A----</AM>
@@ -523,8 +524,9 @@
 <AM lemma="restaurace" src="auto">NNFP5-----A----</AM>
 <AM lemma="restaurace" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="restaurace" src="auto">NNFS2-----A----</AM>
-<AM lemma="restaurace" src="auto">NNFS5-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="restaurace" src="auto">NNFS5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0261-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1540,8 +1542,7 @@
 <LM>w#w-wsj0261-001-p1s5W20</LM>
 </w.rf>
 <form>5</form>
-<tag>
-<AM lemma="5" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="5" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0261-001-p1s5W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1552,17 +1553,18 @@
 <tag>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
 <AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="x-88" src="auto">BNXXX-----A----</AM></tag>
+<AM lemma="x-88" src="auto">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0261-001-p1s5W20-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0261-001-p1s5W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>8</form>
-<tag>
-<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="8" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0261-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4350,7 +4352,8 @@
 <tag>
 <AM lemma="dobytek-2_^(nadávka)" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="dobytek-2_^(nadávka)" src="auto">NNMS4-----A----</AM>
-<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0261-001-p1s12W60-Ta">

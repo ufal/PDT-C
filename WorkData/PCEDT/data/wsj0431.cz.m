@@ -478,7 +478,10 @@
 <LM>w#w-wsj0431-001-p1s2W2</LM>
 </w.rf>
 <form>Edison</form>
-<tag lemma="Edison_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Edison_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Edison-2_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

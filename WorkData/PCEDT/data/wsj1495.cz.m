@@ -2408,8 +2408,8 @@
 </w.rf>
 <form>Duke</form>
 <tag>
-<AM lemma="Duke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Duke-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Duke_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Duke-2_;K" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1495-001-p1s6W43-Ta">

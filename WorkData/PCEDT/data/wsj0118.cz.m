@@ -20248,6 +20248,7 @@
 <tag>
 <AM lemma="Del_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Del-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Del-2_;S_;Y" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0118-001-p1s60W3-Ta">

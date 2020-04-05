@@ -1951,7 +1951,7 @@
 </w.rf>
 <form>data</form>
 <tag>
-<AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP1-----A----</AM>
+<AM lemma="data_^(údaje,_např._v_databázi)" src="auto" selected="1">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNP1-----A----</AM>

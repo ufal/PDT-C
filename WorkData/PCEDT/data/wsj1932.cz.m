@@ -12697,7 +12697,8 @@
 <tag>
 <AM lemma="dobytek-2_^(nadávka)" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="dobytek-2_^(nadávka)" src="auto">NNMS4-----A----</AM>
-<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1932-001-p1s48W13-Ta">
@@ -13124,7 +13125,8 @@
 <tag>
 <AM lemma="dobytek-2_^(nadávka)" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="dobytek-2_^(nadávka)" src="auto">NNMS4-----A----</AM>
-<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1932-001-p1s49W3-Ta">
@@ -13556,7 +13558,9 @@
 <form>dobytka</form>
 <tag>
 <AM lemma="dobytek-2_^(nadávka)" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="dobytek-2_^(nadávka)" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="dobytek-2_^(nadávka)" src="auto">NNMS4-----A----</AM>
+<AM lemma="	dobytek-1_^(zvířata)" src="manual">NNIS2-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1932-001-p1s50W14-Ta">
@@ -14011,7 +14015,8 @@
 <tag>
 <AM lemma="dobytek-2_^(nadávka)" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="dobytek-2_^(nadávka)" src="auto">NNMS4-----A----</AM>
-<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1932-001-p1s52W15-Ta">

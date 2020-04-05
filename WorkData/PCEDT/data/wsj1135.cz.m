@@ -6247,7 +6247,8 @@
 <tag>
 <AM lemma="dobytek-2_^(nadávka)" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="dobytek-2_^(nadávka)" src="auto">NNMS4-----A----</AM>
-<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual">NNIS2-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1135-001-p1s14W31-Ta">
@@ -6393,13 +6394,15 @@
 <w.rf>
 <LM>w#w-wsj1135-001-p1s15W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pravidla</form>
 <tag>
 <AM lemma="pravidlo" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="pravidlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="pravidlo" src="auto">NNNP5-----A----</AM>
-<AM lemma="pravidlo" src="auto">NNNS2-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="pravidlo" src="auto">NNNS2-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1135-001-p1s15W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
