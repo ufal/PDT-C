@@ -8731,8 +8731,9 @@
 <form>Dow</form>
 <tag>
 <AM lemma="Dow-1_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Dow_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dow_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dowa_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Dow-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2124-001-p1s30W10-Ta">
@@ -8741,7 +8742,10 @@
 <LM>w#w-wsj2124-001-p1s30W10</LM>
 </w.rf>
 <form>Jones</form>
-<tag lemma="Jones_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jones_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Jones-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2124-001-p1s30W11-Ta">
 <src.rf>tagger-a</src.rf>
