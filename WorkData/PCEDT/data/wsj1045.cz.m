@@ -903,8 +903,9 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Coors-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s2W29-Ta">
@@ -1030,8 +1031,9 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Coors-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s3W4-Ta">
@@ -1335,7 +1337,10 @@
 <LM>w#w-wsj1045-001-p1s3W31</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1045-001-p1s3W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2585,8 +2590,8 @@
 <form>Adolph</form>
 <tag>
 <AM lemma="Adolph_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Adolph-77" src="manual">F%-------------</AM>
-<AM lemma="Adolph_;Y_,s_^(^DD**Adolf)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Adolph-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Adolph_;Y_,s_^(^DD**Adolf)" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s10W29-Ta">
@@ -2596,8 +2601,8 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Coors-77" src="manual">F%-------------</AM>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s10W30-Ta">
@@ -2680,7 +2685,10 @@
 <LM>w#w-wsj1045-001-p1s11W2</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1045-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>

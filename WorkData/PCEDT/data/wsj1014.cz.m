@@ -2255,14 +2255,14 @@
 <LM>w#w-wsj1014-001-p1s5W56</LM>
 </w.rf>
 <form>12</form>
-<tag>
-<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="12" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1014-001-p1s5W56-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1014-001-p1s5W56</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>kusové</form>
 <tag>
 <AM lemma="kusový" src="auto">AAFP1----1A----</AM>
@@ -2280,8 +2280,9 @@
 <AM lemma="kusový" src="auto">AANP5----1A---6</AM>
 <AM lemma="kusový" src="auto">AANS1----1A----</AM>
 <AM lemma="kusový" src="auto" recommended="1">AANS4----1A----</AM>
-<AM lemma="kusový" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="kusový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1014-001-p1s5W57-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4552,7 +4553,11 @@
 <LM>w#w-wsj1014-001-p1s12W3</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1014-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10241,7 +10246,11 @@
 <LM>w#w-wsj1014-001-p1s26W13</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1014-001-p1s26W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10286,7 +10295,11 @@
 <LM>w#w-wsj1014-001-p1s27W3</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1014-001-p1s27W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10339,7 +10352,10 @@
 <LM>w#w-wsj1014-001-p1s27W8</LM>
 </w.rf>
 <form>Stroh</form>
-<tag lemma="Stroh_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Stroh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Stroh-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1014-001-p1s27W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10460,7 +10476,10 @@
 <LM>w#w-wsj1014-001-p1s27W17</LM>
 </w.rf>
 <form>Miller</form>
-<tag lemma="Miller_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Miller_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Miller-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1014-001-p1s27W18-Ta">
 <src.rf>tagger-a</src.rf>

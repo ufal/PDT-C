@@ -474,7 +474,11 @@
 <LM>w#w-wsj0941-001-p1s1W8</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0941-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -856,7 +860,11 @@
 <LM>w#w-wsj0941-001-p1s2W2</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0941-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1747,7 +1755,11 @@
 <LM>w#w-wsj0941-001-p1s4W10</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0941-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2075,7 +2087,11 @@
 <LM>w#w-wsj0941-001-p1s5W26</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0941-001-p1s5W27-Ta">
 <src.rf>tagger-a</src.rf>
