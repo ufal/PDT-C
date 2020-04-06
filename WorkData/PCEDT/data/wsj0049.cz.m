@@ -1697,6 +1697,7 @@
 <AM lemma="pasus" src="auto">NNIS3-----A----</AM>
 <AM lemma="pasus" src="auto">NNIS6-----A----</AM>
 <AM lemma="pást_^(se,např._koně,_husy)" src="auto">VB-S---1P-AAI--</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0049-001-p1s3W20-Ta">

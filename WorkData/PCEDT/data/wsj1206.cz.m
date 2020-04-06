@@ -897,10 +897,10 @@
 <w.rf>
 <LM>w#w-wsj1206-001-p1s2W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>jenž</form>
-<tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+</m>
 <m id="m-wsj1206-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12327,7 +12327,10 @@
 <LM>w#w-wsj1206-001-p1s34W2</LM>
 </w.rf>
 <form>Kemper</form>
-<tag lemma="Kemper_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kemper_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kemper-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1206-001-p1s34W3-Ta">
 <src.rf>tagger-a</src.rf>

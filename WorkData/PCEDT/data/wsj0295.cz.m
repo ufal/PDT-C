@@ -2630,7 +2630,8 @@
 <form>Seagram</form>
 <tag>
 <AM lemma="Seagram_;G_,t_^(Seragram_Building)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Seagram-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Seagram-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Seagram_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0295-001-p1s8W21-Ta">
@@ -11299,6 +11300,7 @@
 <w.rf>
 <LM>w#w-wsj0295-001-p1s44W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
@@ -11307,8 +11309,9 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0295-001-p1s44W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -11089,6 +11089,7 @@
 <AM lemma="Campo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Campo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Campo_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Campo-2_;S" src="manual">NNMS1-----A----</AM>
 <AM lemma="Campo-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -11114,7 +11115,8 @@
 <AM lemma="Campo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Campo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Campo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Campo-2_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Campo-2_;S" src="manual">NNMXX-----A----</AM>
+<AM lemma="Campo_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2055-001-p1s38W16-Ta">

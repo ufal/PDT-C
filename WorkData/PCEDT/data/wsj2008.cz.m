@@ -4970,7 +4970,8 @@
 <form>Kendall</form>
 <tag>
 <AM lemma="Kendall_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kendall_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kendall_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Kendall-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s16W23-Ta">

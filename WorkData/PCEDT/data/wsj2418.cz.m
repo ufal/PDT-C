@@ -1514,7 +1514,9 @@
 <tag>
 <AM lemma="Justin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Justina_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Justin-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Justin-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Justin-3_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="Justin-3_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2418-001-p1s5W19-Ta">
@@ -2683,21 +2685,22 @@
 <LM>w#w-wsj2418-001-p1s9W7</LM>
 </w.rf>
 <form>61</form>
-<tag>
-<AM lemma="61" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="61" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2418-001-p1s9W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2418-001-p1s9W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letého</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2418-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10289,7 +10292,8 @@
 <tag>
 <AM lemma="Justin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Justina_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Justin-3_;K" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Justin-3_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Justin-3_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2418-001-p1s38W28-Ta">
@@ -12068,10 +12072,10 @@
 <w.rf>
 <LM>w#w-wsj2418-001-p1s47W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>síních</form>
-<tag>
-<AM lemma="síň" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="síň" src="auto" recommended="1">NNFP6-----A----</tag>
+</m>
 <m id="m-wsj2418-001-p1s47W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12950,13 +12954,15 @@
 <w.rf>
 <LM>w#w-wsj2418-001-p1s49W35</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>výrobky</form>
 <tag>
 <AM lemma="výrobek" src="auto">NNIP1-----A----</AM>
 <AM lemma="výrobek" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="výrobek" src="auto">NNIP5-----A----</AM>
-<AM lemma="výrobek" src="auto">NNIP7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="výrobek" src="auto">NNIP7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2418-001-p1s49W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -6059,7 +6059,8 @@
 <AM lemma="columbium" src="auto">NNNP4-----A----</AM>
 <AM lemma="columbium" src="auto">NNNP5-----A----</AM>
 <AM lemma="columbium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Columbia_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Columbia_;K_;R" src="manual">NNFS1-----A----</AM>
+<AM lemma="Columbie_;G_;K_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s20W2-Ta">

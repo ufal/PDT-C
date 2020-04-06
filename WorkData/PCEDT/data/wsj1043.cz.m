@@ -83,6 +83,7 @@
 <w.rf>
 <LM>w#w-wsj1043-001-p1s0W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vlastní</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
@@ -113,8 +114,9 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS4----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1043-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1384,7 +1386,10 @@
 <LM>w#w-wsj1043-001-p1s4W11</LM>
 </w.rf>
 <form>Kemper</form>
-<tag lemma="Kemper_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kemper_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kemper-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1043-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>

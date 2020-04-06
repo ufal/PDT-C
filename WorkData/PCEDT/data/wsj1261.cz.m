@@ -1768,7 +1768,8 @@
 <form>Kraft</form>
 <tag>
 <AM lemma="Kraft_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kraft-2_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Kraft-2_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="Kraft-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1261-001-p1s4W25-Ta">

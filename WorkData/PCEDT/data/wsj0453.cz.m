@@ -12443,7 +12443,11 @@
 <LM>w#w-wsj0453-001-p1s45W14</LM>
 </w.rf>
 <form>Creswell</form>
-<tag lemma="Creswell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Creswell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Creswell-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Creswell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0453-001-p1s45W15-Ta">
 <src.rf>tagger-a</src.rf>
