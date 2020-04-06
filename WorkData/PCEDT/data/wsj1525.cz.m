@@ -2134,14 +2134,14 @@
 <LM>w#w-wsj1525-001-p1s8W40</LM>
 </w.rf>
 <form>20</form>
-<tag>
-<AM lemma="20" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="20" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1525-001-p1s8W40-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1525-001-p1s8W40</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>leté</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A----</AM>
@@ -2159,8 +2159,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A----</AM>
 <AM lemma="letý" src="auto">AANS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1525-001-p1s8W41-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10395,6 +10396,7 @@
 <form>Elders</form>
 <tag>
 <AM lemma="Elders_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Elders-2_;K" src="manual">NNXXX-----A----</AM>
 <AM lemma="Elders-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

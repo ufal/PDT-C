@@ -34849,7 +34849,8 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
-<AM lemma="PACIFIC-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="PACIFIC-77" src="manual">F%-------------</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1915-001-p1s91W3-Ta">
@@ -34860,7 +34861,8 @@
 <form>GAS</form>
 <tag>
 <AM lemma="GAS-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="GAS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="GAS-77" src="manual">F%-------------</AM>
+<AM lemma="Gas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1915-001-p1s91W4-Ta">

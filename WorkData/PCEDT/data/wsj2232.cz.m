@@ -11273,7 +11273,10 @@
 <LM>w#w-wsj2232-001-p1s38W11</LM>
 </w.rf>
 <form>Goldman</form>
-<tag lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goldman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s38W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11289,7 +11292,10 @@
 <LM>w#w-wsj2232-001-p1s38W13</LM>
 </w.rf>
 <form>Sachs</form>
-<tag lemma="Sachs_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sachs_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sachs-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s38W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11635,7 +11641,10 @@
 <LM>w#w-wsj2232-001-p1s39W18</LM>
 </w.rf>
 <form>Goldman</form>
-<tag lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goldman-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s39W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20762,7 +20771,8 @@
 <form>Baker</form>
 <tag>
 <AM lemma="Baker_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Baker_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Baker_;S" src="manual">NNMXX-----A----</AM>
+<AM lemma="Baker-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2232-001-p1s72W31-Ta">
@@ -20773,7 +20783,8 @@
 <form>Hughes</form>
 <tag>
 <AM lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hughes_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Hughes_;S" src="manual">NNMXX-----A----</AM>
+<AM lemma="Hughes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2232-001-p1s72W32-Ta">

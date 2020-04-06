@@ -3155,7 +3155,10 @@
 <LM>w#w-wsj2428-001-p1s9W5</LM>
 </w.rf>
 <form>Goldman</form>
-<tag lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goldman-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2428-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3465,7 +3468,10 @@
 <LM>w#w-wsj2428-001-p1s10W3</LM>
 </w.rf>
 <form>Goldman</form>
-<tag lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goldman-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2428-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>

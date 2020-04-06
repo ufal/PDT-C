@@ -1081,20 +1081,23 @@
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
+</tag>
 </m>
 <m id="m-wsj2274-001-p1s3W50-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2274-001-p1s3W50</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>rámci</form>
 <tag>
 <AM lemma="rámec" src="auto">NNIP7-----A----</AM>
 <AM lemma="rámec" src="auto">NNIS3-----A----</AM>
 <AM lemma="rámec" src="auto">NNIS5-----A----</AM>
-<AM lemma="rámec" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="rámec" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2274-001-p1s3W51-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1299,7 +1302,8 @@
 <tag>
 <AM lemma="Connecticut_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Connecticut_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
+<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2274-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1415,12 +1419,14 @@
 <w.rf>
 <LM>w#w-wsj2274-001-p1s4W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Connecticutu</form>
 <tag>
 <AM lemma="Connecticut_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Connecticut_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2274-001-p1s4W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2034,7 +2040,10 @@
 <LM>w#w-wsj2274-001-p1s7W2</LM>
 </w.rf>
 <form>Hughes</form>
-<tag lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hughes-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2274-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2621,7 +2630,10 @@
 <LM>w#w-wsj2274-001-p1s8W2</LM>
 </w.rf>
 <form>Hughes</form>
-<tag lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hughes-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2274-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>

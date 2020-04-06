@@ -1022,10 +1022,10 @@
 <w.rf>
 <LM>w#w-wsj1377-001-p1s5W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>dlouhodobě</form>
-<tag>
-<AM lemma="dlouhodobě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="dlouhodobě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+</m>
 <m id="m-wsj1377-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5809,22 +5809,23 @@
 <LM>w#w-wsj1377-001-p1s22W3</LM>
 </w.rf>
 <form>55</form>
-<tag>
-<AM lemma="55" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="55" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1377-001-p1s22W3-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1377-001-p1s22W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letá</form>
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="letý" src="auto">AAFS5----1A----</AM>
 <AM lemma="letý" src="auto">AANP1----1A----</AM>
 <AM lemma="letý" src="auto">AANP4----1A----</AM>
-<AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1377-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8427,6 +8428,7 @@
 <form>Geo</form>
 <tag>
 <AM lemma="geo" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="Geo_;K_;R" src="manual">NNNXX-----A----</AM>
 <AM lemma="Geo_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -15445,6 +15447,7 @@
 <w.rf>
 <LM>w#w-wsj1377-001-p1s56W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zřetelný</form>
 <tag>
 <AM lemma="zřetelný" src="auto">AAFP1----1A---6</AM>
@@ -15469,8 +15472,9 @@
 <AM lemma="zřetelný" src="auto">AANP5----1A---6</AM>
 <AM lemma="zřetelný" src="auto">AANS1----1A---6</AM>
 <AM lemma="zřetelný" src="auto">AANS4----1A---6</AM>
-<AM lemma="zřetelný" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="zřetelný" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1377-001-p1s56W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -7511,7 +7511,10 @@
 <LM>w#w-wsj1065-001-p1s21W36</LM>
 </w.rf>
 <form>Haas</form>
-<tag lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haas-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1065-001-p1s21W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9558,7 +9561,10 @@
 <LM>w#w-wsj1065-001-p1s28W6</LM>
 </w.rf>
 <form>Haas</form>
-<tag lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haas-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1065-001-p1s28W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15017,14 +15023,14 @@
 <LM>w#w-wsj1065-001-p1s49W5</LM>
 </w.rf>
 <form>43</form>
-<tag>
-<AM lemma="43" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="43" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1065-001-p1s49W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1065-001-p1s49W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -15049,8 +15055,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1065-001-p1s49W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15899,14 +15906,14 @@
 <LM>w#w-wsj1065-001-p1s53W1</LM>
 </w.rf>
 <form>48</form>
-<tag>
-<AM lemma="48" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="48" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1065-001-p1s53W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1065-001-p1s53W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -15931,8 +15938,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1065-001-p1s53W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16316,14 +16324,14 @@
 <LM>w#w-wsj1065-001-p1s54W1</LM>
 </w.rf>
 <form>45</form>
-<tag>
-<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="45" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1065-001-p1s54W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1065-001-p1s54W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -16348,8 +16356,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1065-001-p1s54W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16747,14 +16756,14 @@
 <LM>w#w-wsj1065-001-p1s55W1</LM>
 </w.rf>
 <form>42</form>
-<tag>
-<AM lemma="42" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="42" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1065-001-p1s55W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1065-001-p1s55W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -16779,8 +16788,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1065-001-p1s55W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

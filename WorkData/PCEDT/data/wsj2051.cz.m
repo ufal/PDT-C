@@ -606,7 +606,8 @@
 <AM lemma="Beatrice-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Beatrice-2_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Beatrice-2_;G_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Beatrice_;G_;K_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2051-001-p1s1W11-Ta">
@@ -633,7 +634,10 @@
 <form>Euronotes</form>
 <tag>
 <AM lemma="euronotes_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="euronotes" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="euronotes" src="manual">NNNXX-----A----</AM>
+<AM lemma="Euronotes-77" src="manual">F%-------------</AM>
+<AM lemma="Euronotes_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Euronotes_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2051-001-p1s1W14-Ta">

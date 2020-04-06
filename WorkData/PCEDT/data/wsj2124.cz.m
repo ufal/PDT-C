@@ -3839,10 +3839,10 @@
 <w.rf>
 <LM>w#w-wsj2124-001-p1s12W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>dvanáctkrát</form>
-<tag>
-<AM lemma="dvanáctkrát`12_^(*4)" src="auto" recommended="1">Cv-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="dvanáctkrát`12_^(*4)" src="auto" recommended="1">Cv-------------</tag>
+</m>
 <m id="m-wsj2124-001-p1s12W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

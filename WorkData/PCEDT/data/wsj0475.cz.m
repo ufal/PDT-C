@@ -4673,7 +4673,10 @@
 <LM>w#w-wsj0475-001-p1s15W2</LM>
 </w.rf>
 <form>Goldman</form>
-<tag lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goldman-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0475-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6955,6 +6958,7 @@
 <w.rf>
 <LM>w#w-wsj0475-001-p1s22W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FP1----------</AM>
@@ -6967,8 +6971,9 @@
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
 <AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto">P4YP4----------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto">P4YP4----------</AM>
+</tag>
+</m>
 <m id="m-wsj0475-001-p1s22W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

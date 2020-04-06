@@ -1373,8 +1373,7 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>1.875</form>
-<tag>
-<AM lemma="1.875" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="1.875" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0950-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1426,11 +1425,10 @@
 <w.rf>
 <LM>w#w-wsj0950-001-p1s3W17</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
+<form_change>spell</form_change>
 <form>44.875</form>
-<tag>
-<AM lemma="44.875" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="44.875" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0950-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1868,6 +1866,7 @@
 <form>Hughes</form>
 <tag>
 <AM lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hughes-2_;K" src="manual">NNIS1-----A----</AM>
 <AM lemma="Hughes-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

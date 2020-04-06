@@ -384,6 +384,7 @@
 <form>Fleet</form>
 <tag>
 <AM lemma="Fleet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fleet-2_;K" src="manual">NNIS1-----A----</AM>
 <AM lemma="Fleet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
