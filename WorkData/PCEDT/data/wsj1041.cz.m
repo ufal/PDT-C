@@ -6074,7 +6074,9 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;H" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;H" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="azidotymidin_;H" src="manual">NNIXX-----A---b</AM>
+<AM lemma="AZT-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="AZT_;H_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s22W26-Ta">
@@ -6210,6 +6212,7 @@
 <AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s22W35-Ta">
@@ -6279,7 +6282,8 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="IQ_:B" src="auto" selected="1">NNXXX-----A----</AM>
+<AM lemma="IQ_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s22W42-Ta">

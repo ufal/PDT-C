@@ -2670,7 +2670,8 @@
 <form>Janus</form>
 <tag>
 <AM lemma="Janus_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Janus-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Janus-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Janus-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2381-001-p1s9W23-Ta">
@@ -11590,6 +11591,7 @@
 <w.rf>
 <LM>w#w-wsj2381-001-p1s40W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>národním</form>
 <tag>
 <AM lemma="národní" src="auto">AAFP3----1A----</AM>
@@ -11601,8 +11603,9 @@
 <AM lemma="národní" src="auto" recommended="1">AAMS7----1A----</AM>
 <AM lemma="národní" src="auto">AANP3----1A----</AM>
 <AM lemma="národní" src="auto">AANS6----1A----</AM>
-<AM lemma="národní" src="auto">AANS7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="národní" src="auto">AANS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2381-001-p1s40W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

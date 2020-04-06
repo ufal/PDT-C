@@ -695,7 +695,10 @@
 <LM>w#w-wsj2096-001-p1s2W12</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2096-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

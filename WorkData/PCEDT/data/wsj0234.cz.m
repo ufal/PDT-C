@@ -210,7 +210,9 @@
 <form>ITT</form>
 <tag>
 <AM lemma="ITT-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="ITT-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="ITT-77" src="manual">F%-------------</AM>
+<AM lemma="ITT-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ITT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0234-001-p1s0W19-Ta">
@@ -328,7 +330,9 @@
 <form>ITT</form>
 <tag>
 <AM lemma="ITT-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="ITT-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="ITT-77" src="manual">F%-------------</AM>
+<AM lemma="ITT-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ITT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0234-001-p1s0W28-Ta">
