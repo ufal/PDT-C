@@ -3458,7 +3458,10 @@
 <LM>w#w-wsj1248-001-p1s11W2</LM>
 </w.rf>
 <form>Lazard</form>
-<tag lemma="Lazard_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lazard_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lazard-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4091,7 +4094,10 @@
 <LM>w#w-wsj1248-001-p1s12W25</LM>
 </w.rf>
 <form>Lazard</form>
-<tag lemma="Lazard_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lazard_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lazard-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s12W26-Ta">
 <src.rf>tagger-a</src.rf>

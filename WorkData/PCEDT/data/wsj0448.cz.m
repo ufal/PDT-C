@@ -3117,7 +3117,8 @@
 <AM lemma="Chase_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="chasa" src="auto">NNFS3-----A----</AM>
 <AM lemma="chasa" src="auto">NNFS6-----A----</AM>
-<AM lemma="Chase-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Chase-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Chase-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0448-001-p1s7W10-Ta">
