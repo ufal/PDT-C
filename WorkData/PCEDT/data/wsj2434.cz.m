@@ -540,6 +540,7 @@
 <w.rf>
 <LM>w#w-wsj2434-001-p1s1W22</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>základní</form>
 <tag>
 <AM lemma="základní" src="auto">AAFP1----1A----</AM>
@@ -568,8 +569,9 @@
 <AM lemma="základní" src="auto">AANP5----1A----</AM>
 <AM lemma="základní" src="auto">AANS1----1A----</AM>
 <AM lemma="základní" src="auto">AANS4----1A----</AM>
-<AM lemma="základní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="základní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2434-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -597,7 +599,8 @@
 <form>Macintosh</form>
 <tag>
 <AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Macintosh_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Macintosh_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Macintosh-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W26-Ta">
@@ -713,7 +716,8 @@
 <form>Macintosh</form>
 <tag>
 <AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Macintosh_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Macintosh_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Macintosh-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W35-Ta">
@@ -863,7 +867,8 @@
 <form>Macintosh</form>
 <tag>
 <AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Macintosh_;R" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Macintosh_;R" src="manual">NNIS4-----A----</AM>
+<AM lemma="Macintosh-2_;R" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W50-Ta">

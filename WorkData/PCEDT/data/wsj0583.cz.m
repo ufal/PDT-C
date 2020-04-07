@@ -5237,6 +5237,7 @@
 <tag>
 <AM lemma="mini" src="auto">A2--------A----</AM>
 <AM lemma="mini" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="mini-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0583-001-p1s14W12-Ta">
@@ -5818,6 +5819,7 @@
 <tag>
 <AM lemma="mini" src="auto">A2--------A----</AM>
 <AM lemma="mini" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="mini-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0583-001-p1s15W30-Ta">
@@ -6380,6 +6382,7 @@
 <tag>
 <AM lemma="mini" src="auto">A2--------A----</AM>
 <AM lemma="mini" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="mini-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0583-001-p1s16W6-Ta">

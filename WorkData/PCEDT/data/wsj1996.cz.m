@@ -567,6 +567,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s0W48-Ta">
@@ -627,6 +628,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s1W5-Ta">
@@ -874,6 +876,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s2W6-Ta">
@@ -2408,6 +2411,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s6W4-Ta">
@@ -3227,6 +3231,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s8W3-Ta">
@@ -4028,6 +4033,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s11W5-Ta">
@@ -4493,6 +4499,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s11W44-Ta">
@@ -5991,6 +5998,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s18W19-Ta">
@@ -6484,6 +6492,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s19W8-Ta">
@@ -7187,6 +7196,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s21W22-Ta">
@@ -7783,6 +7793,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s23W20-Ta">
@@ -9378,6 +9389,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s30W4-Ta">
@@ -10092,6 +10104,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s31W25-Ta">
@@ -10502,6 +10515,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s33W14-Ta">
@@ -11214,6 +11228,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s36W6-Ta">
@@ -11393,6 +11408,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s37W4-Ta">
@@ -12133,6 +12149,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s39W8-Ta">
@@ -12343,6 +12360,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s40W7-Ta">
@@ -12695,6 +12713,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s41W13-Ta">
@@ -12854,6 +12873,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s41W24-Ta">
@@ -12932,6 +12952,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s41W31-Ta">
@@ -13121,6 +13142,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s41W44-Ta">
@@ -13519,6 +13541,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s42W7-Ta">
@@ -14322,6 +14345,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s44W18-Ta">
@@ -14584,6 +14608,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s45W12-Ta">
@@ -14867,6 +14892,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s46W9-Ta">
@@ -15458,6 +15484,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s48W13-Ta">
@@ -16526,6 +16553,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s52W21-Ta">
@@ -17060,6 +17088,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s55W15-Ta">
@@ -17213,6 +17242,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s56W12-Ta">
@@ -17853,6 +17883,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s59W8-Ta">
@@ -18812,6 +18843,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s64W31-Ta">
@@ -20076,6 +20108,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s70W8-Ta">
@@ -20510,6 +20543,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1996-001-p1s72W20-Ta">

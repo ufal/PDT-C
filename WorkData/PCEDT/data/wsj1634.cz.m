@@ -11131,8 +11131,8 @@
 </w.rf>
 <form>Rainman</form>
 <tag>
-<AM lemma="Rainman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rainman-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Rainman_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rainman-2_;R" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1634-001-p1s40W8-Ta">

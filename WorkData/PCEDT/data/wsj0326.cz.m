@@ -2131,6 +2131,7 @@
 <form>Miller</form>
 <tag>
 <AM lemma="Miller_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Miller-3_;K_;R" src="manual">NNIS1-----A----</AM>
 <AM lemma="Miller-3_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

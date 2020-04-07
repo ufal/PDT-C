@@ -10282,7 +10282,10 @@
 <LM>w#w-wsj2365-001-p1s36W7</LM>
 </w.rf>
 <form>Macintosh</form>
-<tag lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2365-001-p1s36W8-Ta">
 <src.rf>tagger-a</src.rf>

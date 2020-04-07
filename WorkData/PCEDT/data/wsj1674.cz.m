@@ -430,6 +430,7 @@
 <tag>
 <AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mark_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Mark-2_;K" src="manual">NNIS1-----A----</AM>
 <AM lemma="Mark-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -571,14 +572,14 @@
 <LM>w#w-wsj1674-001-p1s1W12</LM>
 </w.rf>
 <form>15</form>
-<tag>
-<AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="15" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1674-001-p1s1W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1674-001-p1s1W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>leté</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A----</AM>
@@ -596,8 +597,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A----</AM>
 <AM lemma="letý" src="auto">AANS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1674-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

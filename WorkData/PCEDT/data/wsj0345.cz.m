@@ -7185,7 +7185,8 @@
 <form>Mead</form>
 <tag>
 <AM lemma="Mead_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mead-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mead-1_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Mead-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0345-001-p1s19W10-Ta">

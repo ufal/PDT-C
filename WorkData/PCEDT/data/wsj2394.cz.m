@@ -3103,6 +3103,7 @@
 <w.rf>
 <LM>w#w-wsj2394-001-p1s7W28</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>plánování</form>
 <tag>
 <AM lemma="plánování_^(*3at)" src="auto">NNNP1-----A----</AM>
@@ -3114,8 +3115,9 @@
 <AM lemma="plánování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="plánování_^(*3at)" src="auto">NNNS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="plánování_^(*3at)" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2394-001-p1s7W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3362,7 +3364,8 @@
 <form>National</form>
 <tag>
 <AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="National-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="National-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="National_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2394-001-p1s9W3-Ta">

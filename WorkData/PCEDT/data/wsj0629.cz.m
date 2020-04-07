@@ -147,7 +147,8 @@
 <tag>
 <AM lemma="mega_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="mega_,t" src="manual">AAXXX----1A----</AM>
-<AM lemma="mega_,h" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="mega_,h" src="manual">AAXXX----1A----</AM>
+<AM lemma="mega-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0629-001-p1s0W12-Ta">
@@ -12676,7 +12677,8 @@
 <AM lemma="mega_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="mega_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="mega" src="manual">AAXXX----1A----</AM>
-<AM lemma="mega_,h" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="mega_,h" src="manual">AAXXX----1A----</AM>
+<AM lemma="mega-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0629-001-p1s49W6-Ta">
@@ -14545,6 +14547,7 @@
 <w.rf>
 <LM>w#w-wsj0629-001-p1s55W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>finanční</form>
 <tag>
 <AM lemma="finanční" src="auto">AAFP1----1A----</AM>
@@ -14573,8 +14576,9 @@
 <AM lemma="finanční" src="auto">AANP5----1A----</AM>
 <AM lemma="finanční" src="auto">AANS1----1A----</AM>
 <AM lemma="finanční" src="auto">AANS4----1A----</AM>
-<AM lemma="finanční" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="finanční" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0629-001-p1s55W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

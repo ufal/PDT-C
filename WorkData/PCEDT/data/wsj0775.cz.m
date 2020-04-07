@@ -2556,7 +2556,8 @@
 <form>Mark</form>
 <tag>
 <AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mark-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Mark-77" src="manual">F%-------------</AM>
+<AM lemma="Mark-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0775-001-p1s8W13-Ta">
@@ -2582,12 +2583,12 @@
 </w.rf>
 <form>Ford</form>
 <tag>
-<AM lemma="Ford-2_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Ford-2_;K_;R" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Ford-2_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Ford-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ford-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ford-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0775-001-p1s8W16-Ta">
@@ -2597,11 +2598,11 @@
 </w.rf>
 <form>Escort</form>
 <tag>
-<AM lemma="Escort_;K_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Escort_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Escort_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="escort_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="escort_^(vozidlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Escort-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Escort-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0775-001-p1s8W17-Ta">

@@ -244,7 +244,10 @@
 <LM>w#w-wsj1917-001-p1s0W24</LM>
 </w.rf>
 <form>Lionel</form>
-<tag lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lionel-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -404,7 +407,10 @@
 <LM>w#w-wsj1917-001-p1s1W2</LM>
 </w.rf>
 <form>Lionel</form>
-<tag lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lionel-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -779,7 +785,10 @@
 <LM>w#w-wsj1917-001-p1s2W2</LM>
 </w.rf>
 <form>Lionel</form>
-<tag lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lionel-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1139,7 +1148,10 @@
 <LM>w#w-wsj1917-001-p1s3W5</LM>
 </w.rf>
 <form>Lionel</form>
-<tag lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lionel-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1600,7 +1612,10 @@
 <LM>w#w-wsj1917-001-p1s3W41</LM>
 </w.rf>
 <form>Lionel</form>
-<tag lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lionel-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s3W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1832,7 +1847,10 @@
 <LM>w#w-wsj1917-001-p1s4W16</LM>
 </w.rf>
 <form>Lionel</form>
-<tag lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lionel-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2169,7 +2187,10 @@
 <LM>w#w-wsj1917-001-p1s5W8</LM>
 </w.rf>
 <form>Lionel</form>
-<tag lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lionel-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>

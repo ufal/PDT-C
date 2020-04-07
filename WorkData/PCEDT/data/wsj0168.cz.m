@@ -34,6 +34,7 @@
 <tag>
 <AM lemma="meridián" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="meridián" src="auto">NNIS4-----A----</AM>
+<AM lemma="Meridián-77" src="manual">F%-------------</AM>
 <AM lemma="Meridián-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1807,20 +1808,21 @@
 <LM>w#w-wsj0168-001-p1s5W48</LM>
 </w.rf>
 <form>8.5</form>
-<tag>
-<AM lemma="8.5" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="8.5" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0168-001-p1s5W49-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0168-001-p1s5W49</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>milionu</form>
 <tag>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0168-001-p1s5W50-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

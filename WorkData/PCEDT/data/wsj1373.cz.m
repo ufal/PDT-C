@@ -2444,7 +2444,8 @@
 <tag>
 <AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="National-77" src="manual">F%-------------</AM>
-<AM lemma="National-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="National-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="National_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1373-001-p1s9W3-Ta">
@@ -3293,7 +3294,8 @@
 <form>National</form>
 <tag>
 <AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="National-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="National-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="National_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1373-001-p1s12W3-Ta">

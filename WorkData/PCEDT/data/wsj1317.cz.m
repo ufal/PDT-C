@@ -11417,7 +11417,10 @@
 <LM>w#w-wsj1317-001-p1s42W10</LM>
 </w.rf>
 <form>Mattel</form>
-<tag lemma="Mattel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mattel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mattel-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1317-001-p1s42W11-Ta">
 <src.rf>tagger-a</src.rf>

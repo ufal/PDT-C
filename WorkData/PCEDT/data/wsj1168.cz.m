@@ -458,7 +458,8 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wang-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Wang-77" src="manual">F%-------------</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1168-001-p1s1W6-Ta">
@@ -1204,6 +1205,7 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1168-001-p1s3W7-Ta">
@@ -2058,7 +2060,8 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wang-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Wang-77" src="manual">F%-------------</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1168-001-p1s4W34-Ta">
@@ -2534,7 +2537,8 @@
 <tag>
 <AM lemma="Wang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wang_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wang-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Wang-77" src="manual">F%-------------</AM>
+<AM lemma="Wang-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1168-001-p1s6W7-Ta">

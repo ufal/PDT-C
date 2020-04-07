@@ -4253,6 +4253,8 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="A-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0786-001-p1s16W13-Ta">
