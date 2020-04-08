@@ -828,7 +828,8 @@
 <tag>
 <AM lemma="Pepsi_;R" src="auto">AAXXX----1A----</AM>
 <AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Pepsi-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;K_;R" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1167-001-p1s3W10-Ta">
@@ -961,7 +962,8 @@
 <form>PepsiCola</form>
 <tag>
 <AM lemma="pepsicola" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="PepsiCola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="PepsiCola-77" src="manual">F%-------------</AM>
+<AM lemma="Pepsicola_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1167-001-p1s4W7-Ta">
@@ -972,7 +974,8 @@
 <form>Australia</form>
 <tag>
 <AM lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Australia-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Australia-77" src="manual">F%-------------</AM>
+<AM lemma="Australie_;G_,s_^(^DD**Austrálie)" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1167-001-p1s4W8-Ta">

@@ -496,7 +496,8 @@
 <tag>
 <AM lemma="interferon_;H" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="interferon_;H" src="auto">NNIS4-----A----</AM>
-<AM lemma="interferon_;H_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="interferon_;H_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Interferon_;H_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s1W14-Ta">

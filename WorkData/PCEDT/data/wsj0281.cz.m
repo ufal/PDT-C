@@ -881,8 +881,9 @@
 </w.rf>
 <form>Northwest</form>
 <tag>
-<AM lemma="Northwest-77" src="auto" recommended="1" selected="1">F%-------------</AM>
+<AM lemma="Northwest-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="Northwest_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Northwest_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0281-001-p1s2W9-Ta">

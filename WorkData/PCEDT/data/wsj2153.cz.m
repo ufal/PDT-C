@@ -15974,9 +15974,9 @@
 <form>Bethlehem</form>
 <tag>
 <AM lemma="Bethlehem-2_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem-3_;K" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2153-001-p1s62W7-Ta">

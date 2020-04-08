@@ -491,6 +491,7 @@
 <form>Penney</form>
 <tag>
 <AM lemma="Penney_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Penney-2_;K" src="manual">NNXXX-----A----</AM>
 <AM lemma="Penney-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

@@ -1670,6 +1670,7 @@
 <AM lemma="Foley-2_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Foley-2_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="Foley-3_;G_,t_^(v_názvu_Foley_Island)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Foley-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0769-001-p1s5W17-Ta">

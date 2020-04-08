@@ -10177,9 +10177,9 @@
 </w.rf>
 <form>Segment</form>
 <tag>
-<AM lemma="segment" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="segment" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="segment" src="auto">NNIS4-----A----</AM>
-<AM lemma="Segment-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Segment-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2346-001-p1s40W2-Ta">
@@ -10252,7 +10252,10 @@
 <LM>w#w-wsj2346-001-p1s40W7</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2346-001-p1s40W8-Ta">
 <src.rf>tagger-a</src.rf>
