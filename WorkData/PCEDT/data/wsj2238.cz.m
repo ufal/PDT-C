@@ -1005,6 +1005,7 @@
 <form>Waterfordu</form>
 <tag>
 <AM lemma="Waterfordu" src="auto">X@-------------</AM>
+<AM lemma="Waterford_;G_;K" src="manual">NNIS2-----A----</AM>
 <AM lemma="Waterford_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

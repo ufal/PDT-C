@@ -5924,6 +5924,7 @@
 <AM lemma="Philadelphia_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Philadelphia_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Philadelphia_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0103-001-p1s16W44-Ta">

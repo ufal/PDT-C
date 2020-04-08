@@ -5617,7 +5617,11 @@
 <LM>w#w-wsj0142-001-p1s15W4</LM>
 </w.rf>
 <form>Philadelphia</form>
-<tag lemma="Philadelphia_;G" src="auto" recommended="1">NNFS1-----A---1</tag>
+<tag>
+<AM lemma="Philadelphia_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="	Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual">NNFS1-----A---1</AM>
+<AM lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual" selected="1">NNFS1-----A---1</AM>
+</tag>
 </m>
 <m id="m-wsj0142-001-p1s15W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -13878,7 +13878,10 @@
 <LM>w#w-wsj2232-001-p1s50W16</LM>
 </w.rf>
 <form>Perrier</form>
-<tag lemma="Perrier_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perrier_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Perrier-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s50W17-Ta">
 <src.rf>tagger-a</src.rf>

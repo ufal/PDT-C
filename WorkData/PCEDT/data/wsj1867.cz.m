@@ -5166,8 +5166,8 @@
 </w.rf>
 <form>PLC</form>
 <tag>
-<AM lemma="PLC-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="PLC-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="PLC-88" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
+<AM lemma="PLC-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1867-001-p1s27W5-Ta">

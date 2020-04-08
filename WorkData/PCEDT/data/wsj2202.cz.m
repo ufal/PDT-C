@@ -702,7 +702,8 @@
 <tag>
 <AM lemma="rock" src="auto">NNIS1-----A----</AM>
 <AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="rock-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2202-001-p1s1W55-Ta">
@@ -726,7 +727,8 @@
 <AM lemma="n-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="n_^(n-tice)" src="auto">A2--------A----</AM>
 <AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
-<AM lemma="n-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="n-77" src="manual">F%-------------</AM>
+<AM lemma="n-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2202-001-p1s1W57-Ta">

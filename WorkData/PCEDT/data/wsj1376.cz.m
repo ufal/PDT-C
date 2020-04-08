@@ -10012,6 +10012,7 @@
 <AM lemma="rock" src="auto">NNIS1-----A----</AM>
 <AM lemma="rock" src="auto">NNIS4-----A----</AM>
 <AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="rock-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1376-001-p1s35W40-Ta">
@@ -10032,7 +10033,8 @@
 <AM lemma="and-77_,t" src="auto">F%-------------</AM>
 <AM lemma="and-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="and_^(rock-and-roll(" src="manual">NNXXX-----A----</AM>
-<AM lemma="and_^(rock-and-roll)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="and_^(rock-and-roll)" src="manual">NNXXX-----A----</AM>
+<AM lemma="and-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1376-001-p1s35W42-Ta">
@@ -10053,6 +10055,7 @@
 <AM lemma="roll" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="roll" src="auto">NNIS3-----A----</AM>
 <AM lemma="roll" src="auto">NNIS6-----A----</AM>
+<AM lemma="roll-1" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1376-001-p1s35W44-Ta">

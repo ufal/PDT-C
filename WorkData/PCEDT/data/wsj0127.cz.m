@@ -49,7 +49,9 @@
 <form>PLC</form>
 <tag>
 <AM lemma="PLC-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="PLC-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="PLC-77" src="manual">F%-------------</AM>
+<AM lemma="PLC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PLC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0127-001-p1s0W5-Ta">
@@ -1936,7 +1938,10 @@
 <LM>w#w-wsj0127-001-p1s5W2</LM>
 </w.rf>
 <form>Reed</form>
-<tag lemma="Reed_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reed_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Reed-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0127-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2347,7 +2352,10 @@
 <LM>w#w-wsj0127-001-p1s7W11</LM>
 </w.rf>
 <form>Reed</form>
-<tag lemma="Reed_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reed_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Reed-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0127-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -24,7 +24,10 @@
 <LM>w#w-wsj0334-001-p1s0W2</LM>
 </w.rf>
 <form>Marks</form>
-<tag lemma="Marks_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marks_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Marks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0334-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -40,7 +43,10 @@
 <LM>w#w-wsj0334-001-p1s0W4</LM>
 </w.rf>
 <form>Spencer</form>
-<tag lemma="Spencer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Spencer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Spencer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0334-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -94,7 +100,8 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual">AAIS4----1A----</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0334-001-p1s0W11-Ta">

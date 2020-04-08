@@ -8360,7 +8360,8 @@
 <AM lemma="Al-3_;Y_^(Al_Gore_apod._jm.)" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Ali_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ali_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Ali_;Y" src="auto" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ali_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Ali_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2052-001-p1s34W8-Ta">

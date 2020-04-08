@@ -834,7 +834,8 @@
 <form>Reynolds</form>
 <tag>
 <AM lemma="Reynolds_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Reynolds_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Reynolds_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reynolds-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2123-001-p1s3W2-Ta">
@@ -2454,7 +2455,8 @@
 <form>Reynolds</form>
 <tag>
 <AM lemma="Reynolds_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Reynolds_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Reynolds_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reynolds-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2123-001-p1s7W35-Ta">
@@ -4620,7 +4622,8 @@
 <form>Reynolds</form>
 <tag>
 <AM lemma="Reynolds_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Reynolds_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Reynolds_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reynolds-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2123-001-p1s15W8-Ta">

@@ -3691,7 +3691,7 @@
 <tag>
 <AM lemma="přezdívaný-1_^(znovu_zdít)_(*4t-1)" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="přezdívaný-1_^(znovu_zdít)_(*4t-1)" src="auto">AAMP5----1A----</AM>
-<AM lemma="přezdívaný-2_^(přejmenovat)_(*4t-2)" src="auto">AAMP1----1A----</AM>
+<AM lemma="přezdívaný-2_^(přejmenovat)_(*4t-2)" src="auto" selected="1">AAMP1----1A----</AM>
 <AM lemma="přezdívaný-2_^(přejmenovat)_(*4t-2)" src="auto">AAMP5----1A----</AM>
 </tag>
 </m>

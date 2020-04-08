@@ -430,7 +430,8 @@
 <tag>
 <AM lemma="punk" src="auto">NNIS1-----A----</AM>
 <AM lemma="punk" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="punk-2" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="punk-2" src="manual">S2--------A----</AM>
+<AM lemma="punk-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0819-001-p1s1W18-Ta">
@@ -6489,7 +6490,8 @@
 <tag>
 <AM lemma="punk" src="auto">NNIS1-----A----</AM>
 <AM lemma="punk" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="punk-2" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="punk-2" src="manual">S2--------A----</AM>
+<AM lemma="punk-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0819-001-p1s17W33-Ta">

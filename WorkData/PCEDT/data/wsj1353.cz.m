@@ -4750,8 +4750,8 @@
 </w.rf>
 <form>Reforma</form>
 <tag>
-<AM lemma="reforma" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Reforma_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="reforma" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Reforma_;K" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1353-001-p1s13W15-Ta">

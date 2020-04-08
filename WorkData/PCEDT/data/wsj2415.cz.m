@@ -2874,11 +2874,13 @@
 <w.rf>
 <LM>w#w-wsj2415-001-p1s14W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>investoři</form>
 <tag>
 <AM lemma="investor" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="investor" src="auto">NNMP5-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="investor" src="auto">NNMP5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2415-001-p1s14W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12583,8 +12585,8 @@
 <tag>
 <AM lemma="puta-2_,x" src="auto" recommended="1">II-------------</AM>
 <AM lemma="puta-1_,h_^(slepice)" src="auto">NNFP2-----A----</AM>
-<AM lemma="put-77" src="manual">F%-------------</AM>
-<AM lemma="put_,l" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="put-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="put_,l" src="manual">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s53W23-Ta">
@@ -12807,7 +12809,8 @@
 <AM lemma="puta-2_,x" src="auto" recommended="1">II-------------</AM>
 <AM lemma="puta-1_,h_^(slepice)" src="auto">NNFP2-----A----</AM>
 <AM lemma="Put-77" src="manual">F%-------------</AM>
-<AM lemma="put_,l" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="put_,l" src="manual">NNIS1-----A----</AM>
+<AM lemma="put-3_,l" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s54W2-Ta">
@@ -13003,17 +13006,18 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM></tag>
+<AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj2415-001-p1s54W21-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2415-001-p1s54W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj2415-001-p1s54W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13073,7 +13077,8 @@
 <AM lemma="puta-2_,x" src="auto">II-------------</AM>
 <AM lemma="puta-1_,h_^(slepice)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="put-77" src="manual">F%-------------</AM>
-<AM lemma="put_,l" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="put_,l" src="manual">NNIXX-----A----</AM>
+<AM lemma="put-3_,l" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s54W28-Ta">
@@ -13261,7 +13266,10 @@
 <tag>
 <AM lemma="premium" src="auto">X@-------------</AM>
 <AM lemma="premium-77" src="manual">F%-------------</AM>
-<AM lemma="premium_,l" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="premium_,l" src="manual">NNXXX-----A----</AM>
+<AM lemma="premium-1_,l" src="manual">NNNS1-----A----</AM>
+<AM lemma="premium_;l" src="manual">NNNS1-----A----</AM>
+<AM lemma="premium_,l" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s56W5-Ta">
@@ -13377,7 +13385,8 @@
 <form>putu</form>
 <tag>
 <AM lemma="puta-1_,h_^(slepice)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="put_,l" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="put_,l" src="manual">NNIS2-----A----</AM>
+<AM lemma="put-3_,l" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s57W4-Ta">
@@ -13598,7 +13607,8 @@
 <form>putu</form>
 <tag>
 <AM lemma="puta-1_,h_^(slepice)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="put_,l" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="put_,l" src="manual">NNIS2-----A----</AM>
+<AM lemma="put-3_,l" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s58W4-Ta">
@@ -13683,7 +13693,8 @@
 <tag>
 <AM lemma="premium" src="auto">X@-------------</AM>
 <AM lemma="premium-77" src="manual">F%-------------</AM>
-<AM lemma="premium_,l" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="premium_,l" src="manual">NNXXX-----A----</AM>
+<AM lemma="premium_,l" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s59W5-Ta">
@@ -13782,7 +13793,8 @@
 <AM lemma="puta-1_,h_^(slepice)" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="puta-1_,h_^(slepice)" src="auto">NNFP5-----A----</AM>
 <AM lemma="puta-1_,h_^(slepice)" src="auto">NNFS2-----A----</AM>
-<AM lemma="put_,l" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="put_,l" src="manual">NNIP4-----A----</AM>
+<AM lemma="put-3_,l" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s59W12-Ta">
@@ -14212,7 +14224,8 @@
 <form>putu</form>
 <tag>
 <AM lemma="puta-1_,h_^(slepice)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="put_,l" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="put_,l" src="manual">NNIS2-----A----</AM>
+<AM lemma="put-3_,l" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s60W4-Ta">
@@ -14399,7 +14412,8 @@
 <form>putu</form>
 <tag>
 <AM lemma="puta-1_,h_^(slepice)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="put_,l" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="put_,l" src="manual">NNIS2-----A----</AM>
+<AM lemma="put-3_,l" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2415-001-p1s61W6-Ta">

@@ -3921,7 +3921,10 @@
 <LM>w#w-wsj1663-001-p1s11W8</LM>
 </w.rf>
 <form>Saks</form>
-<tag lemma="Saks_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Saks_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Saks-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1663-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4982,7 +4985,10 @@
 <LM>w#w-wsj1663-001-p1s16W2</LM>
 </w.rf>
 <form>anglicko</form>
-<tag lemma="anglický" src="auto" recommended="1">A2--------A----</tag>
+<tag>
+<AM lemma="anglický" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="anglicko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-wsj1663-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -6532,9 +6532,9 @@
 </w.rf>
 <form>Sandinisté</form>
 <tag>
-<AM lemma="sandinista" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="sandinista" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="sandinista" src="auto">NNMP5-----A----</AM>
-<AM lemma="Sandinista" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Sandinista" src="manual">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s17W14-Ta">
@@ -8015,10 +8015,10 @@
 </w.rf>
 <form>Sandinisty</form>
 <tag>
-<AM lemma="sandinista" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="sandinista" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
 <AM lemma="sandinista" src="auto">NNMP7-----A----</AM>
 <AM lemma="sandinista" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sandinista" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="Sandinista" src="manual">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s21W29-Ta">
@@ -8209,9 +8209,9 @@
 </w.rf>
 <form>Sandinisté</form>
 <tag>
-<AM lemma="sandinista" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="sandinista" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="sandinista" src="auto">NNMP5-----A----</AM>
-<AM lemma="Sandinista" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Sandinista" src="manual">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0655-001-p1s22W15-Ta">

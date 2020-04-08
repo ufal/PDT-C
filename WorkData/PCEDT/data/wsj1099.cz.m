@@ -18440,8 +18440,8 @@
 <AM lemma="přezdívaný-2_^(přejmenovat)_(*4t-2)" src="auto">AAIS2----1A----</AM>
 <AM lemma="přezdívaný-2_^(přejmenovat)_(*4t-2)" src="auto">AAMS2----1A----</AM>
 <AM lemma="přezdívaný-2_^(přejmenovat)_(*4t-2)" src="auto">AAMS4----1A----</AM>
-<AM lemma="přezdívaný-2_^(přejmenovat)_(*4t-2)" src="auto">AANS2----1A----</AM>
-<AM lemma="přezdívaný-1_^(znovu_zdít_přejmenovat)" src="manual" selected="1">AANS2----1A----</AM>
+<AM lemma="přezdívaný-2_^(přejmenovat)_(*4t-2)" src="auto" selected="1">AANS2----1A----</AM>
+<AM lemma="přezdívaný-1_^(znovu_zdít_přejmenovat)" src="manual">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1099-001-p1s61W19-Ta">

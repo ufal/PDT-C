@@ -7402,8 +7402,8 @@
 </w.rf>
 <form>Rainman</form>
 <tag>
-<AM lemma="Rainman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rainman-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Rainman_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rainman-2_;R" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1634-001-p1s25W8-Ta">
@@ -15218,8 +15218,8 @@
 </w.rf>
 <form>Rainman</form>
 <tag>
-<AM lemma="Rainman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rainman-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Rainman_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rainman-2_;R" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1634-001-p1s60W51-Ta">
@@ -22133,6 +22133,7 @@
 <AM lemma="půlnoční" src="auto">AANS1----1A----</AM>
 <AM lemma="půlnoční" src="auto">AANS4----1A----</AM>
 <AM lemma="půlnoční" src="auto">AANS5----1A----</AM>
+<AM lemma="půlnoční-1" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1634-001-p1s86W35-Ta">

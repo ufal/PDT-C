@@ -2431,9 +2431,9 @@
 </w.rf>
 <form>Sandinisté</form>
 <tag>
-<AM lemma="sandinista" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="sandinista" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="sandinista" src="auto">NNMP5-----A----</AM>
-<AM lemma="Sandinista" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Sandinista" src="manual">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1700-001-p1s8W7-Ta">
@@ -2957,9 +2957,9 @@
 </w.rf>
 <form>Sandinisté</form>
 <tag>
-<AM lemma="sandinista" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="sandinista" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="sandinista" src="auto">NNMP5-----A----</AM>
-<AM lemma="Sandinista" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Sandinista" src="manual">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1700-001-p1s9W24-Ta">
@@ -6800,11 +6800,13 @@
 <w.rf>
 <LM>w#w-wsj1700-001-p1s23W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>alespoň</form>
 <tag>
 <AM lemma="alespoň-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="alespoň-2" src="auto">TT-------------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="alespoň-2" src="auto">TT-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1700-001-p1s23W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

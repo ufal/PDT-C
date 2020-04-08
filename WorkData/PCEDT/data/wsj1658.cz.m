@@ -1208,7 +1208,10 @@
 <LM>w#w-wsj1658-001-p1s3W2</LM>
 </w.rf>
 <form>Holiday</form>
-<tag lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Holiday-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1658-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1984,7 +1987,10 @@
 <LM>w#w-wsj1658-001-p1s4W37</LM>
 </w.rf>
 <form>Bass</form>
-<tag lemma="Bass_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bass_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bass-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1658-001-p1s4W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2013,7 +2019,10 @@
 <LM>w#w-wsj1658-001-p1s5W2</LM>
 </w.rf>
 <form>Holiday</form>
-<tag lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Holiday-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1658-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3708,7 +3717,10 @@
 <LM>w#w-wsj1658-001-p1s11W2</LM>
 </w.rf>
 <form>Holiday</form>
-<tag lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Holiday-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1658-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3860,7 +3872,10 @@
 <LM>w#w-wsj1658-001-p1s11W15</LM>
 </w.rf>
 <form>Bass</form>
-<tag lemma="Bass_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bass_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bass-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1658-001-p1s11W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3889,7 +3904,10 @@
 <LM>w#w-wsj1658-001-p1s12W2</LM>
 </w.rf>
 <form>Holiday</form>
-<tag lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Holiday-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1658-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5383,7 +5401,10 @@
 <LM>w#w-wsj1658-001-p1s14W2</LM>
 </w.rf>
 <form>Holiday</form>
-<tag lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Holiday-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1658-001-p1s14W3-Ta">
 <src.rf>tagger-a</src.rf>

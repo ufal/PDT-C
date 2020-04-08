@@ -4535,7 +4535,8 @@
 <AM lemma="Ferranti_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ferranti_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ferranti-2_;K" src="manual">NNIS4-----A----</AM>
-<AM lemma="Ferranti-2_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ferranti-2_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="Ferranti-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2362-001-p1s12W15-Ta">

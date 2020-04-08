@@ -2708,7 +2708,8 @@
 <tag>
 <AM lemma="puta-2_,x" src="auto" recommended="1">II-------------</AM>
 <AM lemma="puta-1_,h_^(slepice)" src="auto">NNFP2-----A----</AM>
-<AM lemma="put-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="put-77" src="manual">F%-------------</AM>
+<AM lemma="put-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2160-001-p1s7W14-Ta">

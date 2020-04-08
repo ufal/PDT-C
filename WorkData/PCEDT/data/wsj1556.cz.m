@@ -2095,7 +2095,8 @@
 <AM lemma="charisma_,s_^(^DD**charizma)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="charisma_,s_^(^DD**charizma)" src="auto">NNNS4-----A----</AM>
 <AM lemma="charisma_,s_^(^DD**charizma)" src="auto">NNNS5-----A----</AM>
-<AM lemma="Charisma_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Charisma_;K" src="manual">NNNS1-----A----</AM>
+<AM lemma="Charisma_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1556-001-p1s5W7-Ta">

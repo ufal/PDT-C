@@ -10646,7 +10646,8 @@
 <form>Vivien</form>
 <tag>
 <AM lemma="Vivien_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Vivien-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vivien-2_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Vivien_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2055-001-p1s36W33-Ta">
@@ -10659,6 +10660,7 @@
 <AM lemma="Reuter-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="auto">NNIXX-----A----</AM>
 <AM lemma="reuter_;K_,i_^(^DS**Reuters)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Reuter-3_;S" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2055-001-p1s36W34-Ta">

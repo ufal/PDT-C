@@ -3486,7 +3486,8 @@
 <AM lemma="Bombaj_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Bombaj_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Bombaj_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Bombaj_;G_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bombaj_;G_;R" src="manual">NNFS1-----A----</AM>
+<AM lemma="Bombay_;G_;R_,s_^(^DD**Bombaj)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1804-001-p1s14W7-Ta">
@@ -3750,6 +3751,7 @@
 <AM lemma="Tanqueray_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tanqueray_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tanqueray_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tanqueray-2_;R" src="manual">NNXXX-----A----</AM>
 <AM lemma="Tanqueray-2_;R" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
