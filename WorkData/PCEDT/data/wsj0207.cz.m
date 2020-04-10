@@ -8894,7 +8894,10 @@
 <LM>w#w-wsj0207-001-p1s26W4</LM>
 </w.rf>
 <form>škoda</form>
-<tag lemma="škoda" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0207-001-p1s26W5-Ta">
 <src.rf>tagger-a</src.rf>

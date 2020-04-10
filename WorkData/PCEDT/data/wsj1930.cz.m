@@ -5817,7 +5817,10 @@
 <LM>w#w-wsj1930-001-p1s26W6</LM>
 </w.rf>
 <form>Sears</form>
-<tag lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1930-001-p1s26W7-Ta">
 <src.rf>tagger-a</src.rf>

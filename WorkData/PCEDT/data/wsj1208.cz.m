@@ -8430,7 +8430,9 @@
 <tag>
 <AM lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Sears_;K" src="manual">NNIS1-----A----</AM>
-<AM lemma="Sears_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sears_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1208-001-p1s37W14-Ta">

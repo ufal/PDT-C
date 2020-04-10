@@ -785,7 +785,10 @@
 <LM>w#w-wsj1820-001-p1s1W10</LM>
 </w.rf>
 <form>Sears</form>
-<tag lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1820-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1128,7 +1131,10 @@
 <LM>w#w-wsj1820-001-p1s2W8</LM>
 </w.rf>
 <form>Sears</form>
-<tag lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1820-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1577,7 +1583,10 @@
 <LM>w#w-wsj1820-001-p1s4W21</LM>
 </w.rf>
 <form>Sears</form>
-<tag lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1820-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3477,7 +3486,10 @@
 <LM>w#w-wsj1820-001-p1s11W2</LM>
 </w.rf>
 <form>Sears</form>
-<tag lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1820-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4128,7 +4140,10 @@
 <LM>w#w-wsj1820-001-p1s13W11</LM>
 </w.rf>
 <form>Sears</form>
-<tag lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1820-001-p1s13W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5018,7 +5033,10 @@
 <LM>w#w-wsj1820-001-p1s15W12</LM>
 </w.rf>
 <form>Sears</form>
-<tag lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1820-001-p1s15W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5436,7 +5454,10 @@
 <LM>w#w-wsj1820-001-p1s17W2</LM>
 </w.rf>
 <form>Sears</form>
-<tag lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sears_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sears-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1820-001-p1s17W3-Ta">
 <src.rf>tagger-a</src.rf>

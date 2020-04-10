@@ -4917,7 +4917,8 @@
 <form>čínsko</form>
 <tag>
 <AM lemma="čínský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="čínsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="čínsko_^(*1ý)" src="manual">S2--------A----</AM>
+<AM lemma="čínsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0347-001-p1s15W14-Ta">

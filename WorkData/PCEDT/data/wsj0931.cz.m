@@ -107,7 +107,9 @@
 <form>Siao</form>
 <tag>
 <AM lemma="Siao" src="auto">X@-------------</AM>
-<AM lemma="Siao_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Siao_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Siao-3_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Siao-3_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0931-001-p1s0W10-Ta">
@@ -2333,11 +2335,13 @@
 <w.rf>
 <LM>w#w-wsj0931-001-p1s6W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>představitelé</form>
 <tag>
 <AM lemma="představitel" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="představitel" src="auto">NNMP5-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="představitel" src="auto">NNMP5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0931-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
