@@ -14314,8 +14314,9 @@
 <tag>
 <AM lemma="sucho" src="auto">Dg-------1A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="sucho" src="auto" selected="1">NNNS4-----A----</AM>
+<AM lemma="sucho" src="auto">NNNS4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS5-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0515-001-p1s60W20-Ta">

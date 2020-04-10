@@ -795,6 +795,7 @@
 <w.rf>
 <LM>w#w-wsj0232-001-p1s2W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>odpovídajícím</form>
 <tag>
 <AM lemma="odpovídající_^(*4t)" src="auto">AGFP3-----A----</AM>
@@ -806,8 +807,9 @@
 <AM lemma="odpovídající_^(*4t)" src="auto">AGMS7-----A----</AM>
 <AM lemma="odpovídající_^(*4t)" src="auto">AGNP3-----A----</AM>
 <AM lemma="odpovídající_^(*4t)" src="auto">AGNS6-----A----</AM>
-<AM lemma="odpovídající_^(*4t)" src="auto">AGNS7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGNS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0232-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1261,7 +1263,10 @@
 <LM>w#w-wsj0232-001-p1s5W7</LM>
 </w.rf>
 <form>suchem</form>
-<tag lemma="sucho" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="sucho" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0232-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

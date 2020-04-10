@@ -4992,6 +4992,7 @@
 <AM lemma="sucho" src="auto">NNNP4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNP5-----A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0192-001-p1s16W11-Ta">
@@ -6240,7 +6241,10 @@
 <LM>w#w-wsj0192-001-p1s20W19</LM>
 </w.rf>
 <form>suchem</form>
-<tag lemma="sucho" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="sucho" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0192-001-p1s20W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6828,6 +6832,7 @@
 <AM lemma="sucho" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS5-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0192-001-p1s23W3-Ta">
@@ -7900,6 +7905,7 @@
 <AM lemma="sucho" src="auto">NNNP4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNP5-----A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0192-001-p1s27W9-Ta">
@@ -12676,7 +12682,8 @@
 <AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
+<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj0192-001-p1s47W29-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12684,18 +12691,17 @@
 <LM>w#w-wsj0192-001-p1s47W29</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0192-001-p1s47W29-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0192-001-p1s47W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Neill</form>
-<tag>
-<AM lemma="Neill_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="Neill_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+</m>
 <m id="m-wsj0192-001-p1s47W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

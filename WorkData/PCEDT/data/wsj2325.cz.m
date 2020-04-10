@@ -5776,6 +5776,7 @@
 <w.rf>
 <LM>w#w-wsj2325-001-p1s22W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>surové</form>
 <tag>
 <AM lemma="surový" src="auto">AAFP1----1A----</AM>
@@ -5793,8 +5794,9 @@
 <AM lemma="surový" src="auto">AANP5----1A---6</AM>
 <AM lemma="surový" src="auto">AANS1----1A----</AM>
 <AM lemma="surový" src="auto">AANS4----1A----</AM>
-<AM lemma="surový" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="surový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2325-001-p1s22W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7653,7 +7655,10 @@
 <LM>w#w-wsj2325-001-p1s30W8</LM>
 </w.rf>
 <form>suchem</form>
-<tag lemma="sucho" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="sucho" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2325-001-p1s30W9-Ta">
 <src.rf>tagger-a</src.rf>

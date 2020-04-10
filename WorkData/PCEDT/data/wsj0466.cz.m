@@ -708,11 +708,13 @@
 <w.rf>
 <LM>w#w-wsj0466-001-p1s3W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Výrobek</form>
 <tag>
 <AM lemma="výrobek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="výrobek" src="auto">NNIS4-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="výrobek" src="auto">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0466-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7685,12 +7687,14 @@
 <w.rf>
 <LM>w#w-wsj0466-001-p1s28W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="na-2" src="auto">II-------------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="na-2" src="auto">II-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0466-001-p1s28W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8091,7 +8095,10 @@
 <LM>w#w-wsj0466-001-p1s29W21</LM>
 </w.rf>
 <form>suchem</form>
-<tag lemma="sucho" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="sucho" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0466-001-p1s29W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10400,9 +10407,10 @@
 <form>sucho</form>
 <tag>
 <AM lemma="sucho" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="sucho" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="sucho" src="auto">NNNS1-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS5-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0466-001-p1s38W3-Ta">

@@ -167,7 +167,10 @@
 <LM>w#w-wsj2330-001-p1s0W14</LM>
 </w.rf>
 <form>suchem</form>
-<tag lemma="sucho" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="sucho" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2330-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3289,7 +3292,10 @@
 <LM>w#w-wsj2330-001-p1s10W32</LM>
 </w.rf>
 <form>suchem</form>
-<tag lemma="sucho" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="sucho" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2330-001-p1s10W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8545,14 +8551,14 @@
 <LM>w#w-wsj2330-001-p1s27W11</LM>
 </w.rf>
 <form>90</form>
-<tag>
-<AM lemma="90" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="90" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2330-001-p1s27W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2330-001-p1s27W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>librových</form>
 <tag>
 <AM lemma="librový" src="auto" recommended="1">AAFP2----1A----</AM>
@@ -8562,8 +8568,9 @@
 <AM lemma="librový" src="auto">AAMP2----1A----</AM>
 <AM lemma="librový" src="auto">AAMP6----1A----</AM>
 <AM lemma="librový" src="auto">AANP2----1A----</AM>
-<AM lemma="librový" src="auto">AANP6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="librový" src="auto">AANP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2330-001-p1s27W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9728,6 +9735,7 @@
 <AM lemma="sucho" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS5-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2330-001-p1s31W7-Ta">

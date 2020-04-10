@@ -15747,6 +15747,7 @@
 <AM lemma="sokol-1_;L_^(pták)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="sokol-2_;K_^(organizace)" src="auto">NNIS1-----A----</AM>
 <AM lemma="sokol-2_;K_^(organizace)" src="auto">NNIS4-----A----</AM>
+<AM lemma="sokol-1" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0305-001-p1s51W11-Ta">

@@ -15667,7 +15667,8 @@
 <AM lemma="pár-1" src="auto">ClXXX----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXP1----------</AM>
+<AM lemma="pár-1" src="manual">ClXP1----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">ClXXX----------</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s47W17-Ta">

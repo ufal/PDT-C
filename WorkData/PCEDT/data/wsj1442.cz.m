@@ -10722,7 +10722,10 @@
 <LM>w#w-wsj1442-001-p1s31W9</LM>
 </w.rf>
 <form>škoda</form>
-<tag lemma="škoda" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1442-001-p1s31W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13891,6 +13894,7 @@
 <w.rf>
 <LM>w#w-wsj1442-001-p1s41W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>spojeným</form>
 <tag>
 <AM lemma="spojený_^(*3it)" src="auto" recommended="1">AAFP3----1A----</AM>
@@ -13902,8 +13906,9 @@
 <AM lemma="spojený_^(*3it)" src="auto">AAMS7----1A----</AM>
 <AM lemma="spojený_^(*3it)" src="auto">AANP3----1A----</AM>
 <AM lemma="spojený_^(*3it)" src="auto">AANS6----1A---7</AM>
-<AM lemma="spojený_^(*3it)" src="auto">AANS7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="spojený_^(*3it)" src="auto">AANS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1442-001-p1s41W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

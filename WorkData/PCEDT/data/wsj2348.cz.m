@@ -3466,6 +3466,7 @@
 <tag>
 <AM lemma="sucho" src="auto">NNNS3-----A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2348-001-p1s13W9-Ta">

@@ -227,7 +227,10 @@
 <LM>w#w-wsj1825-001-p1s2W5</LM>
 </w.rf>
 <form>suchem</form>
-<tag lemma="sucho" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="sucho" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1825-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1764,6 +1767,7 @@
 <AM lemma="sucho" src="auto">NNNP4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNP5-----A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1825-001-p1s8W16-Ta">
@@ -2920,6 +2924,7 @@
 <AM lemma="sucho" src="auto">NNNP4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNP5-----A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1825-001-p1s13W4-Ta">

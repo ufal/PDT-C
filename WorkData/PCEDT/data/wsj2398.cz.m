@@ -6813,7 +6813,10 @@
 <LM>w#w-wsj2398-001-p1s20W31</LM>
 </w.rf>
 <form>suchem</form>
-<tag lemma="sucho" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="sucho" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2398-001-p1s20W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9533,10 +9536,10 @@
 <w.rf>
 <LM>w#w-wsj2398-001-p1s31W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>centů</form>
-<tag>
-<AM lemma="cent" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="cent" src="auto" recommended="1">NNIP2-----A----</tag>
+</m>
 <m id="m-wsj2398-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10455,12 +10458,14 @@
 <w.rf>
 <LM>w#w-wsj2398-001-p1s33W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Wilmingtonu</form>
 <tag>
 <AM lemma="Wilmington_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Wilmington_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Wilmington_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Wilmington_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2398-001-p1s33W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

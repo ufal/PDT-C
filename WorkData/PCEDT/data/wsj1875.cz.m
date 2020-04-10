@@ -1481,7 +1481,8 @@
 <form>Solidarita</form>
 <tag>
 <AM lemma="solidarita" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Solidarita_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Solidarita_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Solidarita_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s5W23-Ta">
@@ -2570,14 +2571,14 @@
 <LM>w#w-wsj1875-001-p1s9W15</LM>
 </w.rf>
 <form>163</form>
-<tag>
-<AM lemma="163" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="163" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1875-001-p1s9W15-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1875-001-p1s9W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>členný</form>
 <tag>
 <AM lemma="členný" src="auto">AAFP1----1A---6</AM>
@@ -2602,8 +2603,9 @@
 <AM lemma="členný" src="auto">AANP5----1A---6</AM>
 <AM lemma="členný" src="auto">AANS1----1A---6</AM>
 <AM lemma="členný" src="auto">AANS4----1A---6</AM>
-<AM lemma="členný" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="členný" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1875-001-p1s9W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3047,14 +3049,14 @@
 <LM>w#w-wsj1875-001-p1s10W29</LM>
 </w.rf>
 <form>26</form>
-<tag>
-<AM lemma="26" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="26" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1875-001-p1s10W29-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1875-001-p1s10W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>členné</form>
 <tag>
 <AM lemma="členný" src="auto">AAFP1----1A----</AM>
@@ -3072,8 +3074,9 @@
 <AM lemma="členný" src="auto">AANP5----1A---6</AM>
 <AM lemma="členný" src="auto">AANS1----1A----</AM>
 <AM lemma="členný" src="auto" recommended="1">AANS4----1A----</AM>
-<AM lemma="členný" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="členný" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1875-001-p1s10W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

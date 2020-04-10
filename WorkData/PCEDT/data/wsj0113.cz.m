@@ -149,6 +149,7 @@
 <AM lemma="sucho" src="auto">NNNS1-----A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS5-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0113-001-p1s0W12-Ta">
@@ -908,6 +909,7 @@
 <AM lemma="sucho" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS5-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0113-001-p1s2W31-Ta">
@@ -5606,6 +5608,7 @@
 <AM lemma="sucho" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS5-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0113-001-p1s18W9-Ta">
@@ -6515,6 +6518,7 @@
 <AM lemma="sucho" src="auto">NNNP4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNP5-----A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0113-001-p1s22W10-Ta">

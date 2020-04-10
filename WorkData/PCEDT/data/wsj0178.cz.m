@@ -5906,6 +5906,7 @@
 <AM lemma="sucho" src="auto">NNNP4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNP5-----A----</AM>
 <AM lemma="sucho" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0178-001-p1s23W16-Ta">
