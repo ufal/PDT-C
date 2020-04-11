@@ -8682,7 +8682,8 @@
 <form>Tchai</form>
 <tag>
 <AM lemma="Tchai" src="auto">X@-------------</AM>
-<AM lemma="Tchai-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchai-77" src="manual">F%-------------</AM>
+<AM lemma="Tchai" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1743-001-p1s32W9-Ta">
@@ -8700,9 +8701,10 @@
 </w.rf>
 <form>wanu</form>
 <tag>
-<AM lemma="wan_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="wan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1743-001-p1s32W11-Ta">
@@ -9114,6 +9116,7 @@
 <tag>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1743-001-p1s33W9-Ta">
@@ -9475,7 +9478,8 @@
 <form>Tchai</form>
 <tag>
 <AM lemma="Tchai" src="auto">X@-------------</AM>
-<AM lemma="Tchai-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchai-77" src="manual">F%-------------</AM>
+<AM lemma="Tchai" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1743-001-p1s34W3-Ta">
@@ -9495,6 +9499,7 @@
 <tag>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1743-001-p1s34W5-Ta">

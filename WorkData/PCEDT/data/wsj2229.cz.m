@@ -1186,7 +1186,8 @@
 <tag>
 <AM lemma="tra-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="třít" src="auto">VeYS------A-I--</AM>
-<AM lemma="tra_^(slabika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tra_^(slabika)" src="manual">NNXXX-----A----</AM>
+<AM lemma="tra_^(slabika)" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2229-001-p1s4W32-Ta">
@@ -1205,7 +1206,8 @@
 <form>pa</form>
 <tag>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
-<AM lemma="pa-2_^(slabika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pa-2_^(slabika)" src="manual">NNXXX-----A----</AM>
+<AM lemma="pa-2_^(slabika)" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2229-001-p1s4W34-Ta">
@@ -1224,7 +1226,8 @@
 <form>su</form>
 <tag>
 <AM lemma="být" src="auto" recommended="1">VB-S---1P-AAI-7</AM>
-<AM lemma="su_^(slabika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="su_^(slabika)" src="manual">NNXXX-----A----</AM>
+<AM lemma="su_^(slabika)" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2229-001-p1s4W36-Ta">

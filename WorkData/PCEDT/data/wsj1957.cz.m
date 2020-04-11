@@ -16325,6 +16325,7 @@
 <tag>
 <AM lemma="Tchaj-1_;S_,t" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tchaj-2_;G" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1957-001-p1s61W18-Ta">
@@ -16343,7 +16344,8 @@
 <form>peji</form>
 <tag>
 <AM lemma="peji" src="auto">X@-------------</AM>
-<AM lemma="pej_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="pej_;G" src="manual">NNIS6-----A----</AM>
+<AM lemma="pej-1" src="manual" selected="1">SNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1957-001-p1s61W20-Ta">

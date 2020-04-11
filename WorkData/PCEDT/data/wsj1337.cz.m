@@ -13607,7 +13607,8 @@
 <tag>
 <AM lemma="Hong_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Hong_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Hong-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Hong-2_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hong-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1337-001-p1s48W6-Ta">

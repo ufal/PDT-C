@@ -12204,7 +12204,8 @@
 <form>Tchai</form>
 <tag>
 <AM lemma="Tchai" src="auto">X@-------------</AM>
-<AM lemma="Tchai-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchai-77" src="manual">F%-------------</AM>
+<AM lemma="Tchai" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0586-001-p1s39W15-Ta">
@@ -12223,7 +12224,8 @@
 <form>peji</form>
 <tag>
 <AM lemma="peji" src="auto">X@-------------</AM>
-<AM lemma="pej_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="pej_;G" src="manual">NNIS6-----A----</AM>
+<AM lemma="pej-1" src="manual" selected="1">SNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0586-001-p1s39W17-Ta">

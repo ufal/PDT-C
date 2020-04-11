@@ -2210,7 +2210,8 @@
 <AM lemma="Irsko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Irsko_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="irský" src="auto">A2--------A----</AM>
-<AM lemma="irsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="irsko_^(*1ý)" src="manual">S2--------A----</AM>
+<AM lemma="irsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2151-001-p1s10W2-Ta">

@@ -4323,7 +4323,8 @@
 <form>Sydney</form>
 <tag>
 <AM lemma="Sydney_;G" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Sydney-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sydney-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Sydney-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1162-001-p1s14W36-Ta">
@@ -9685,12 +9686,14 @@
 <w.rf>
 <LM>w#w-wsj1162-001-p1s32W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Maguire</form>
 <tag>
 <AM lemma="Maguire_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Maguire_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Maguire_;S" src="auto">NNMXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Maguire_;S" src="auto">NNMXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1162-001-p1s32W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

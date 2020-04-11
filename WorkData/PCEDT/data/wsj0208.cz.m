@@ -8258,7 +8258,8 @@
 <form>Tchien</form>
 <tag>
 <AM lemma="Tchien" src="auto">X@-------------</AM>
-<AM lemma="Tchien-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchien-77" src="manual">F%-------------</AM>
+<AM lemma="Tchien" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0208-001-p1s25W13-Ta">
@@ -8278,9 +8279,10 @@
 <tag>
 <AM lemma="an-1_,a" src="auto">P4IS4----------</AM>
 <AM lemma="an-1_,a" src="auto" recommended="1">P4YS1----------</AM>
-<AM lemma="an-77" src="auto" selected="1">F%-------------</AM>
+<AM lemma="an-77" src="auto">F%-------------</AM>
 <AM lemma="anus" src="auto">NNIS1-----A---2</AM>
 <AM lemma="anus" src="auto">NNIS4-----A---2</AM>
+<AM lemma="an-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0208-001-p1s25W15-Ta">
@@ -8298,11 +8300,12 @@
 </w.rf>
 <form>men</form>
 <tag>
-<AM lemma="men-77" src="auto" selected="1">F%-------------</AM>
+<AM lemma="men-77" src="auto">F%-------------</AM>
 <AM lemma="men_;G" src="auto">NNXXX-----A----</AM>
 <AM lemma="men_;G_^(Tchien-an-men)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="men_;G_^(Tchien-an-men)" src="auto">NNIS4-----A----</AM>
 <AM lemma="méno_,h_^(^GC**jméno)" src="auto">NNNP2-----A---6</AM>
+<AM lemma="men-1_^(Tchien-an-men)" src="manual" selected="1">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0208-001-p1s25W17-Ta">
