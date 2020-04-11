@@ -130,13 +130,15 @@
 <w.rf>
 <LM>w#w-wsj1190-001-p1s0W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zpochybní</form>
 <tag>
 <AM lemma="zpochybnit" src="auto">VB-P---3P-AAP--</AM>
 <AM lemma="zpochybnit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="zpochybnět_,s" src="auto">VB-P---3P-AAP-1</AM>
-<AM lemma="zpochybnět_,s" src="auto">VB-S---3P-AAP--</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="zpochybnět_,s" src="auto">VB-S---3P-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj1190-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2919,7 +2921,8 @@
 <form>Showtime</form>
 <tag>
 <AM lemma="Showtime" src="auto">X@-------------</AM>
-<AM lemma="Showtime-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Showtime-77" src="manual">F%-------------</AM>
+<AM lemma="Showtime_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1190-001-p1s7W6-Ta">

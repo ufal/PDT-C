@@ -1288,7 +1288,10 @@
 <LM>w#w-wsj0665-001-p1s2W21</LM>
 </w.rf>
 <form>Thomson</form>
-<tag lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thomson-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0665-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>

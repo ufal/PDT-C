@@ -2484,7 +2484,8 @@
 <form>Nuggets</form>
 <tag>
 <AM lemma="Nuggets" src="auto">X@-------------</AM>
-<AM lemma="Nuggets_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Nuggets_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Nuggets_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1461-001-p1s7W21-Ta">
@@ -2655,7 +2656,8 @@
 <form>Braves</form>
 <tag>
 <AM lemma="Braves" src="auto">X@-------------</AM>
-<AM lemma="Braves-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Braves-77" src="manual">F%-------------</AM>
+<AM lemma="Braves_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1461-001-p1s7W36-Ta">

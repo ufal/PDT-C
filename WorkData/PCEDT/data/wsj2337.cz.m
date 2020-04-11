@@ -9749,6 +9749,7 @@
 <w.rf>
 <LM>w#w-wsj2337-001-p1s28W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>inzerce</form>
 <tag>
 <AM lemma="inzerce" src="auto">NNFP1-----A----</AM>
@@ -9756,8 +9757,9 @@
 <AM lemma="inzerce" src="auto">NNFP5-----A----</AM>
 <AM lemma="inzerce" src="auto">NNFS1-----A----</AM>
 <AM lemma="inzerce" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="inzerce" src="auto">NNFS5-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="inzerce" src="auto">NNFS5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2337-001-p1s28W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11884,7 +11886,8 @@
 <tag>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Time_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2337-001-p1s33W9-Ta">

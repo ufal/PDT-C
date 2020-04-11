@@ -10142,7 +10142,8 @@
 <tag>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Time_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2451-001-p1s33W4-Ta">
@@ -10493,7 +10494,8 @@
 <tag>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Time_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2451-001-p1s33W28-Ta">
@@ -10952,7 +10954,8 @@
 <tag>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Time-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Time-77" src="manual">F%-------------</AM>
+<AM lemma="Time_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2451-001-p1s34W17-Ta">
@@ -10971,7 +10974,8 @@
 <form>Warner</form>
 <tag>
 <AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Warner-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Warner-77" src="manual">F%-------------</AM>
+<AM lemma="Warner-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2451-001-p1s34W19-Ta">

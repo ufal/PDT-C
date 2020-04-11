@@ -3234,7 +3234,10 @@
 <LM>w#w-wsj2362-001-p1s9W9</LM>
 </w.rf>
 <form>Thomson</form>
-<tag lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thomson-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2362-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8111,7 +8114,10 @@
 <LM>w#w-wsj2362-001-p1s23W2</LM>
 </w.rf>
 <form>Thomson</form>
-<tag lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thomson-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2362-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8990,7 +8996,10 @@
 <LM>w#w-wsj2362-001-p1s25W8</LM>
 </w.rf>
 <form>Thomson</form>
-<tag lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thomson-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2362-001-p1s25W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9515,7 +9524,10 @@
 <LM>w#w-wsj2362-001-p1s26W15</LM>
 </w.rf>
 <form>Thomson</form>
-<tag lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thomson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thomson-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2362-001-p1s26W16-Ta">
 <src.rf>tagger-a</src.rf>

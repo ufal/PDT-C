@@ -7746,7 +7746,8 @@
 <tag>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Time_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s31W17-Ta">
@@ -7839,7 +7840,8 @@
 <tag>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Time_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s32W4-Ta">
@@ -9118,7 +9120,8 @@
 <tag>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Time_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s36W9-Ta">
@@ -10251,19 +10254,20 @@
 <LM>w#w-wsj1903-001-p1s42W8</LM>
 </w.rf>
 <form>43</form>
-<tag>
-<AM lemma="43" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="43" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1903-001-p1s42W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1903-001-p1s42W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letou</form>
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="letý" src="auto">AAFS7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AAFS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1903-001-p1s42W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

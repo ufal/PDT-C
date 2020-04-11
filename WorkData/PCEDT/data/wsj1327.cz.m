@@ -3251,7 +3251,10 @@
 <LM>w#w-wsj1327-001-p1s16W15</LM>
 </w.rf>
 <form>Josephine</form>
-<tag lemma="Josephine_;Y" src="auto" recommended="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Josephine_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Josephine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1327-001-p1s16W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3259,7 +3262,10 @@
 <LM>w#w-wsj1327-001-p1s16W16</LM>
 </w.rf>
 <form>Baker</form>
-<tag lemma="Baker_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Baker_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Baker-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1327-001-p1s16W17-Ta">
 <src.rf>tagger-a</src.rf>

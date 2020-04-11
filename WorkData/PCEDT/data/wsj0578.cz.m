@@ -8740,6 +8740,7 @@
 <w.rf>
 <LM>w#w-wsj0578-001-p1s25W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Petersovu</form>
 <tag>
 <AM lemma="Petersův_;S_^(*2)" src="auto" recommended="1">AUFS4M---------</AM>
@@ -8748,8 +8749,9 @@
 <AM lemma="Petersův_;S_^(*2)" src="auto">AUMS3M---------</AM>
 <AM lemma="Petersův_;S_^(*2)" src="auto">AUMS6M--------1</AM>
 <AM lemma="Petersův_;S_^(*2)" src="auto">AUNS3M---------</AM>
-<AM lemma="Petersův_;S_^(*2)" src="auto">AUNS6M--------1</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Petersův_;S_^(*2)" src="auto">AUNS6M--------1</AM>
+</tag>
+</m>
 <m id="m-wsj0578-001-p1s25W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16096,7 +16098,8 @@
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="Time-77" src="manual">F%-------------</AM>
-<AM lemma="Time_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Time_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0578-001-p1s48W24-Ta">
