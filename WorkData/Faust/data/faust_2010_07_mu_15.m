@@ -4250,7 +4250,8 @@
 <form>Hami</form>
 <tag>
 <AM lemma="Hami_;R" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Hami_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Hami_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hami-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_15-SCzechM-p1614-s1-w16">

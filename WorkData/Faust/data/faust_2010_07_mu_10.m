@@ -1219,10 +1219,11 @@
 <AM lemma="datum_,h_,x" recommended="1">NNIS1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)">NNNP3-----A---6</AM>
 <AM lemma="datum_^(kalendářní)">NNNP3-----A---6</AM>
-<AM lemma="datum_^(kalendářní)" selected="1">NNNS1-----A----</AM>
+<AM lemma="datum_^(kalendářní)">NNNS1-----A----</AM>
 <AM lemma="datum_^(kalendářní)">NNNS4-----A----</AM>
 <AM lemma="datum_^(kalendářní)">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p0997-s1-w6">
@@ -1299,6 +1300,7 @@
 <AM lemma="datum_^(kalendářní)">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS1-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p0997-s1-w15">
@@ -2322,7 +2324,8 @@
 <tag>
 <AM lemma="online-2_,t" recommended="1">Db-------------</AM>
 <AM lemma="online-1_,t">AAXXX----1A----</AM>
-<AM lemma="online" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="online" src="manual">AAXXX----1A----</AM>
+<AM lemma="online-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p1010-s1-w5">

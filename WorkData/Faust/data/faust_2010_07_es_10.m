@@ -1530,6 +1530,7 @@
 <AM lemma="datum_^(kalendářní)">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS1-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="es_10-SCzechM-p0997-s1-w5">
@@ -1599,6 +1600,7 @@
 <AM lemma="datum_^(kalendářní)">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS1-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="es_10-SCzechM-p0997-s1-w13">
@@ -2540,6 +2542,7 @@
 <AM lemma="online-2_,t" recommended="1">Db-------------</AM>
 <AM lemma="online-1_,t">AAXXX----1A----</AM>
 <AM lemma="online-1" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="online-2" src="manual">Db-------------</AM>
 </tag>
 </m>
 <m id="es_10-SCzechM-p1010-s1-w5">

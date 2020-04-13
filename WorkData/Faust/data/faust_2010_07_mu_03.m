@@ -1948,6 +1948,7 @@
 <tag>
 <AM lemma="sucho" recommended="1">NNNS6-----A----</AM>
 <AM lemma="sucho">NNNS3-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="mu_03-SCzechM-p0222-s1-w11">

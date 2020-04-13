@@ -1162,7 +1162,10 @@
 <LM>w#w-mu_18-SCzechM-p1874-s1-w14</LM>
 </w.rf>
 <form>škoda</form>
-<tag lemma="škoda" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="škoda" recommended="1">NNFS1-----A----</AM>
+<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="mu_18-SCzechM-p1874-s1-w15">
 <w.rf>
@@ -1399,7 +1402,10 @@
 <LM>w#w-mu_18-SCzechM-p1877-s1-w13</LM>
 </w.rf>
 <form>beta</form>
-<tag lemma="beta" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="beta" recommended="1">NNFS1-----A----</AM>
+<AM lemma="beta-3" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="mu_18-SCzechM-p1877-s1-w14">
 <w.rf>

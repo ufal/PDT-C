@@ -5036,7 +5036,8 @@
 <tag>
 <AM lemma="SMS_:B_;K" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="SMS-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="SMS_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SMS_:B_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="SMS_^(short_message_service)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_12-SCzechM-p1276-s1-w8">

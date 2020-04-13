@@ -1440,10 +1440,11 @@
 <AM lemma="datum_,h_,x" recommended="1">NNIS1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)">NNNP3-----A---6</AM>
 <AM lemma="datum_^(kalendářní)">NNNP3-----A---6</AM>
-<AM lemma="datum_^(kalendářní)" selected="1">NNNS1-----A----</AM>
+<AM lemma="datum_^(kalendářní)">NNNS1-----A----</AM>
 <AM lemma="datum_^(kalendářní)">NNNS4-----A----</AM>
 <AM lemma="datum_^(kalendářní)">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="jh_10-SCzechM-p0997-s1-w6">

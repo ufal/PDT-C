@@ -878,7 +878,7 @@
 <form>dat</form>
 <tag>
 <AM lemma="datum_^(kalendářní)" recommended="1">NNNP2-----A----</AM>
-<AM lemma="data_^(údaje,_např._v_databázi)">NNNP2-----A----</AM>
+<AM lemma="data_^(údaje,_např._v_databázi)" selected="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="es_09-SCzechM-p0890-s1-w8">

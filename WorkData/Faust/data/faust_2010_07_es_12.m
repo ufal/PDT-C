@@ -1300,7 +1300,7 @@
 <tag>
 <AM lemma="prostřednictví" recommended="1">NNNS7-----A----</AM>
 <AM lemma="prostřednictví">NNNP3-----A----</AM>
-<AM lemma="prostřednictvím">RR--2----------</AM>
+<AM lemma="prostřednictvím" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1222-s1-w6">
@@ -1335,7 +1335,8 @@
 <tag>
 <AM lemma="PROXY">X@-------------</AM>
 <AM lemma="PROXY-77" src="manual">F%-------------</AM>
-<AM lemma="proxy" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="proxy" src="manual">NNXXX-----A----</AM>
+<AM lemma="proxy" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1222-s1-w9">
@@ -4783,7 +4784,8 @@
 <AM lemma="SMS_:B_;K" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="SMS-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="SMS-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="SMS_^(short_message_service)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SMS_^(short_message_service)" src="manual">NNXXX-----A----</AM>
+<AM lemma="SMS_^(short_message_service)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1276-s1-w9">

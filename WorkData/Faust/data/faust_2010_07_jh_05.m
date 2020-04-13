@@ -4845,6 +4845,7 @@
 <AM lemma="datum_^(kalendářní)">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS1-----A----</AM>
 <AM lemma="datum_,h_,x">NNIS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="jh_05-SCzechM-p0510-s1-w4">

@@ -1027,7 +1027,8 @@
 <tag>
 <AM lemma="být_,n" recommended="1">VB-S---1P-AA--7</AM>
 <AM lemma="su_^(slabika)" src="manual">NNXXX-----A----</AM>
-<AM lemma="su_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="su_;S" src="manual">NNXXX-----A----</AM>
+<AM lemma="su_^(slabika)" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2006-s1-w5">
@@ -3176,7 +3177,8 @@
 <AM lemma="LAN_:B_^(počítačová_síť)" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
-<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="LAN_^(počítačová_síť)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2026-s1-w15">
@@ -3244,7 +3246,8 @@
 <AM lemma="LAN_:B_^(počítačová_síť)" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
-<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="LAN_^(počítačová_síť)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2026-s1-w21">

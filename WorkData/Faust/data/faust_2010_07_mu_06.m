@@ -1039,7 +1039,9 @@
 <AM lemma="Ems_;G">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)">NNIS4-----A----</AM>
-<AM lemma="EMS_:B_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMS_:B_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="EMS-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_06-SCzechM-p0560-s1-w18">

@@ -4351,7 +4351,8 @@
 <form>Hamim</form>
 <tag>
 <AM lemma="Hamim">X@-------------</AM>
-<AM lemma="Hami_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Hami_;Y" src="manual">NNMS7-----A----</AM>
+<AM lemma="Hami-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="jh_15-SCzechM-p1614-s1-w15">

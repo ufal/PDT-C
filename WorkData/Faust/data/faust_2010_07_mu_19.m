@@ -968,7 +968,8 @@
 <form>su</form>
 <tag>
 <AM lemma="být_,n" recommended="1">VB-S---1P-AA--7</AM>
-<AM lemma="su_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="su_;S" src="manual">NNXXX-----A----</AM>
+<AM lemma="su_^(slabika)" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_19-SCzechM-p2006-s1-w5">
