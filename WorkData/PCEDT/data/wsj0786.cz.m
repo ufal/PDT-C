@@ -2600,7 +2600,11 @@
 <LM>w#w-wsj0786-001-p1s9W7</LM>
 </w.rf>
 <form>Bass</form>
-<tag lemma="Bass_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bass_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bass-2_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Bass-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0786-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>

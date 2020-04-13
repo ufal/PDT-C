@@ -13324,7 +13324,9 @@
 <AM lemma="Bass_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bass-2_;K" src="manual">NNXXX-----A----</AM>
 <AM lemma="Bass-88_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="Bass-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Bass-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Bass-2_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Bass-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1957-001-p1s50W3-Ta">

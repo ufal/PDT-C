@@ -1219,7 +1219,10 @@
 <LM>w#w-wsj1563-001-p1s6W4</LM>
 </w.rf>
 <form>beta</form>
-<tag lemma="beta" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="beta" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="beta-3" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1563-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
