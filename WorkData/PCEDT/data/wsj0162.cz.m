@@ -6303,6 +6303,7 @@
 <form>Woolworth</form>
 <tag>
 <AM lemma="Woolworth_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Woolworth-2_;K" src="manual">NNIS1-----A----</AM>
 <AM lemma="Woolworth-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

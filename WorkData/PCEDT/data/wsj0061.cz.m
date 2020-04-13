@@ -182,7 +182,8 @@
 <form>Wu</form>
 <tag>
 <AM lemma="Wu" src="auto">X@-------------</AM>
-<AM lemma="Wu-2_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Wu-2_;S" src="manual">NNMXX-----A----</AM>
+<AM lemma="Wu-3_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0061-001-p1s1W3-Ta">

@@ -14985,7 +14985,10 @@
 <LM>w#w-wsj2443-001-p1s42W34</LM>
 </w.rf>
 <form>Woolworth</form>
-<tag lemma="Woolworth_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Woolworth_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Woolworth-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2443-001-p1s42W35-Ta">
 <src.rf>tagger-a</src.rf>

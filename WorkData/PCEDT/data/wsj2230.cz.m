@@ -12910,6 +12910,7 @@
 <AM lemma="Au_:B_^(zlato)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="au" src="auto">II-------------</AM>
 <AM lemma="au_^(au-pair)" src="auto">A2--------A----</AM>
+<AM lemma="Au-2_;S_;Y" src="manual">NNMXX-----A----</AM>
 <AM lemma="Au-2_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>

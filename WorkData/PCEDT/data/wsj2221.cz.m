@@ -2042,8 +2042,8 @@
 </w.rf>
 <form>zatraceně</form>
 <tag>
-<AM lemma="zatraceně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="zatraceně" src="manual" selected="1">II-------------</AM>
+<AM lemma="zatraceně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
+<AM lemma="zatraceně" src="manual">II-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2221-001-p1s6W10-Ta">

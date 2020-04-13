@@ -6689,7 +6689,10 @@
 <LM>w#w-wsj1036-001-p1s18W48</LM>
 </w.rf>
 <form>Woolworth</form>
-<tag lemma="Woolworth_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Woolworth_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Woolworth-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1036-001-p1s18W49-Ta">
 <src.rf>tagger-a</src.rf>

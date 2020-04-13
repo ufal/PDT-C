@@ -9385,6 +9385,8 @@
 <tag>
 <AM lemma="YMCA-1" src="auto">NNFS1-----A----</AM>
 <AM lemma="YMCA-2_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="YMCA-2" src="manual">BNXXX-----A----</AM>
+<AM lemma="YMCA-2_^(Young_Men's_Christian_Association)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0105-001-p1s30W8-Ta">
@@ -9409,7 +9411,10 @@
 <LM>w#w-wsj0105-001-p1s30W9</LM>
 </w.rf>
 <form>YWCA</form>
-<tag lemma="YWCA_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="YWCA_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="YWCA_;K_^(Young_Women’s_Christian_Association)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0105-001-p1s30W10-Ta">
 <src.rf>tagger-a</src.rf>
