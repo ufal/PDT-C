@@ -11760,7 +11760,8 @@
 <form>Warburg</form>
 <tag>
 <AM lemma="Warburg-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Warburg-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Warburg-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Warburg-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1957-001-p1s43W7-Ta">

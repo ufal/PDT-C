@@ -2892,7 +2892,9 @@
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="seno" src="auto">NNNP2-----A----</AM>
 <AM lemma="sen-88_^(senior)" src="manual">BNXXX-----A----</AM>
-<AM lemma="sen-88_^(senior)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="sen-88_^(senior)" src="manual">BNXXX-----A----</AM>
+<AM lemma="sen-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="sen-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1528-001-p1s11W6-Ta">

@@ -894,7 +894,10 @@
 <LM>w#w-wsj1514-001-p1s1W33</LM>
 </w.rf>
 <form>Vickers</form>
-<tag lemma="Vickers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Vickers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Vickers-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1514-001-p1s1W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1659,7 +1662,10 @@
 <LM>w#w-wsj1514-001-p1s4W18</LM>
 </w.rf>
 <form>Vickers</form>
-<tag lemma="Vickers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Vickers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Vickers-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1514-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2000,7 +2006,10 @@
 <LM>w#w-wsj1514-001-p1s6W2</LM>
 </w.rf>
 <form>Vickers</form>
-<tag lemma="Vickers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Vickers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Vickers-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1514-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

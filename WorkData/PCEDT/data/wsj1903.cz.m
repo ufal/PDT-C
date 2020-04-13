@@ -135,7 +135,9 @@
 <tag>
 <AM lemma="milisekunda" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ms-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ms_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ms_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s0W12-Ta">
@@ -313,7 +315,9 @@
 <tag>
 <AM lemma="milisekunda" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ms-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ms_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ms_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s1W6-Ta">
@@ -802,7 +806,9 @@
 <tag>
 <AM lemma="milisekunda" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ms-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ms_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ms_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s3W6-Ta">
@@ -1572,7 +1578,9 @@
 <tag>
 <AM lemma="milisekunda" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ms-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ms_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ms_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s7W6-Ta">
@@ -3807,7 +3815,10 @@
 <LM>w#w-wsj1903-001-p1s17W8</LM>
 </w.rf>
 <form>McCall</form>
-<tag lemma="McCall_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="McCall_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="McCall-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1903-001-p1s17W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3836,6 +3847,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s17W11-Ta">
@@ -4136,7 +4148,9 @@
 <tag>
 <AM lemma="milisekunda" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ms-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ms_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ms_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s19W4-Ta">
@@ -4402,7 +4416,9 @@
 <form>Matilda</form>
 <tag>
 <AM lemma="Matilda_;Y_,s_^(^DD**Matylda)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Matilda-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Matilda-2_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Matilda_;Y_,s_^(^DD**Matylda)" src="manual">NNFS1-----A----</AM>
+<AM lemma="Matilda_;Y_;K_,s_^(^DD**Matylda)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s20W7-Ta">
@@ -4665,7 +4681,8 @@
 <form>Matilda</form>
 <tag>
 <AM lemma="Matilda_;Y_,s_^(^DD**Matylda)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Matilda-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Matilda-2_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Matilda_;Y_;K_,s_^(^DD**Matylda)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s21W12-Ta">
@@ -4957,7 +4974,9 @@
 <tag>
 <AM lemma="milisekunda" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ms-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ms_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ms_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s22W16-Ta">
@@ -5116,7 +5135,9 @@
 <tag>
 <AM lemma="milisekunda" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ms-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ms_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ms_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s23W3-Ta">
@@ -6153,6 +6174,7 @@
 <form>Venture</form>
 <tag>
 <AM lemma="venture_,t_^(joint_v.;_společný_podnik)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Venture_;R" src="manual">NNXXX-----A----</AM>
 <AM lemma="Venture_;R" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

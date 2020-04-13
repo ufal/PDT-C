@@ -6089,7 +6089,10 @@
 <LM>w#w-wsj1930-001-p1s28W2</LM>
 </w.rf>
 <form>Whitbread</form>
-<tag lemma="Whitbread_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Whitbread_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Whitbread-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1930-001-p1s28W3-Ta">
 <src.rf>tagger-a</src.rf>

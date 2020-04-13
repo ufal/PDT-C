@@ -2027,6 +2027,7 @@
 <w.rf>
 <LM>w#w-wsj2341-001-p1s4W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>rostoucích</form>
 <tag>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFP2-----A----</AM>
@@ -2036,8 +2037,9 @@
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMP2-----A----</AM>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMP6-----A----</AM>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP2-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2341-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10709,7 +10711,10 @@
 <LM>w#w-wsj2341-001-p1s34W10</LM>
 </w.rf>
 <form>Upjohn</form>
-<tag lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Upjohn-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2341-001-p1s34W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11097,7 +11102,10 @@
 <LM>w#w-wsj2341-001-p1s35W4</LM>
 </w.rf>
 <form>Upjohn</form>
-<tag lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Upjohn-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2341-001-p1s35W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11900,7 +11908,10 @@
 <LM>w#w-wsj2341-001-p1s37W40</LM>
 </w.rf>
 <form>Upjohn</form>
-<tag lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Upjohn-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2341-001-p1s37W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11929,7 +11940,10 @@
 <LM>w#w-wsj2341-001-p1s38W2</LM>
 </w.rf>
 <form>Upjohn</form>
-<tag lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Upjohn-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2341-001-p1s38W3-Ta">
 <src.rf>tagger-a</src.rf>

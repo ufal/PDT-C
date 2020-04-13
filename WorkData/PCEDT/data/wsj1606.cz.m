@@ -4560,7 +4560,10 @@
 <LM>w#w-wsj1606-001-p1s14W36</LM>
 </w.rf>
 <form>VGA</form>
-<tag lemma="VGA_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="VGA_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="VGA_^(Video_Graphics_Array)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1606-001-p1s14W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4854,7 +4857,10 @@
 <LM>w#w-wsj1606-001-p1s15W13</LM>
 </w.rf>
 <form>VGA</form>
-<tag lemma="VGA_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="VGA_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="VGA_^(Video_Graphics_Array)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1606-001-p1s15W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6390,14 +6396,14 @@
 <LM>w#w-wsj1606-001-p1s20W15</LM>
 </w.rf>
 <form>3.5</form>
-<tag>
-<AM lemma="3.5" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="3.5" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1606-001-p1s20W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1606-001-p1s20W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>palcové</form>
 <tag>
 <AM lemma="palcový" src="auto">AAFP1----1A----</AM>
@@ -6415,8 +6421,9 @@
 <AM lemma="palcový" src="auto">AANP5----1A---6</AM>
 <AM lemma="palcový" src="auto">AANS1----1A----</AM>
 <AM lemma="palcový" src="auto">AANS4----1A----</AM>
-<AM lemma="palcový" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="palcový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1606-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

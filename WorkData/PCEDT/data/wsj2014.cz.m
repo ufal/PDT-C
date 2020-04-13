@@ -29,7 +29,9 @@
 <form>UPJOHN</form>
 <tag>
 <AM lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="UPJOHN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UPJOHN-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="UPJOHN-77" src="manual">F%-------------</AM>
+<AM lemma="Upjohn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2014-001-p1s0W3-Ta">

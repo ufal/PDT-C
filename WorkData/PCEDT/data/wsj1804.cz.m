@@ -1738,8 +1738,9 @@
 </w.rf>
 <form>Beefeater</form>
 <tag>
-<AM lemma="Beefeater_;R" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Beefeater_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="Beefeater_;R" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Beefeater_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1804-001-p1s6W6-Ta">
@@ -9447,7 +9448,8 @@
 <form>Heineken</form>
 <tag>
 <AM lemma="Heineken_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Heineken-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Heineken-2_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Heineken-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1804-001-p1s38W11-Ta">

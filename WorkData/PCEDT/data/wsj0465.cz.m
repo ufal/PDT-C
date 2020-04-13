@@ -6941,6 +6941,7 @@
 <w.rf>
 <LM>w#w-wsj0465-001-p1s22W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pracující</form>
 <tag>
 <AM lemma="pracující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
@@ -6984,8 +6985,9 @@
 <AM lemma="pracující-3" src="auto">NNFS4-----A----</AM>
 <AM lemma="pracující-3" src="auto">NNFS5-----A----</AM>
 <AM lemma="pracující-3" src="auto">NNFS6-----A----</AM>
-<AM lemma="pracující-3" src="auto">NNFS7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="pracující-3" src="auto">NNFS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0465-001-p1s22W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -22185,6 +22187,7 @@
 <form>Whitehead</form>
 <tag>
 <AM lemma="Whitehead_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Whitehead-2_;K" src="manual">NNIS1-----A----</AM>
 <AM lemma="Whitehead-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

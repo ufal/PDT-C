@@ -142,7 +142,8 @@
 <tag>
 <AM lemma="Vilma_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Vil_;S" src="manual">NNMS7-----A----</AM>
-<AM lemma="Vila_;S" src="manual" selected="1">NNMS7-----A---1</AM>
+<AM lemma="Vila_;S" src="manual">NNMS7-----A---1</AM>
+<AM lemma="Vila_;S" src="manual" selected="1">NNMS7-----A---6</AM>
 </tag>
 </m>
 <m id="m-wsj0962-001-p1s0W13-Ta">
@@ -3312,7 +3313,8 @@
 <form>Vilem</form>
 <tag>
 <AM lemma="Vilma_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Vila_;S" src="manual" selected="1">NNMS7-----A---1</AM>
+<AM lemma="Vila_;S" src="manual">NNMS7-----A---1</AM>
+<AM lemma="Vila_;S" src="manual" selected="1">NNMS7-----A---6</AM>
 </tag>
 </m>
 <m id="m-wsj0962-001-p1s7W32-Ta">

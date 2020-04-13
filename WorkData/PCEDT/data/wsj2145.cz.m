@@ -9340,6 +9340,7 @@
 <w.rf>
 <LM>w#w-wsj2145-001-p1s34W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>úspěšné</form>
 <tag>
 <AM lemma="úspěšný" src="auto" recommended="1">AAFP1----1A----</AM>
@@ -9357,8 +9358,9 @@
 <AM lemma="úspěšný" src="auto">AANP5----1A---6</AM>
 <AM lemma="úspěšný" src="auto">AANS1----1A----</AM>
 <AM lemma="úspěšný" src="auto">AANS4----1A----</AM>
-<AM lemma="úspěšný" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="úspěšný" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2145-001-p1s34W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12699,7 +12701,8 @@
 <form>Jr</form>
 <tag>
 <AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="jr-88_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr-88_^(junior)" src="auto">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2145-001-p1s46W7-Ta">

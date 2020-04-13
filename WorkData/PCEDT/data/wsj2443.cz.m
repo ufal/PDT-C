@@ -6216,18 +6216,17 @@
 <LM>w#w-wsj2443-001-p1s20W16</LM>
 </w.rf>
 <form>resp</form>
-<tag>
-<AM lemma="respektive_:B" src="auto" recommended="1">Db------------8</AM></tag>
+<tag lemma="respektive_:B" src="auto" recommended="1">Db------------8</tag>
 </m>
 <m id="m-wsj2443-001-p1s20W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2443-001-p1s20W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj2443-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6807,7 +6806,8 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj2443-001-p1s22W3-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -6815,14 +6815,14 @@
 <LM>w#w-wsj2443-001-p1s22W3</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2443-001-p1s22W3-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2443-001-p1s22W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>A</form>
 <tag>
 <AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -6833,8 +6833,9 @@
 <AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2443-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14722,7 +14723,10 @@
 <LM>w#w-wsj2443-001-p1s42W11</LM>
 </w.rf>
 <form>Upjohn</form>
-<tag lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Upjohn-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2443-001-p1s42W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18050,10 +18054,10 @@
 <w.rf>
 <LM>w#w-wsj2443-001-p1s51W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nabízet</form>
-<tag>
-<AM lemma="nabízet" src="auto" recommended="1">Vf--------A-I--</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="nabízet" src="auto" recommended="1">Vf--------A-I--</tag>
+</m>
 <m id="m-wsj2443-001-p1s51W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
