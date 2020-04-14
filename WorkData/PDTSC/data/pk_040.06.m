@@ -2800,6 +2800,11 @@
 </w.rf>
 <form>2,5</form>
 <tag lemma="2,5" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>2.5</text>
+</LM>
+</comment>
 </m>
 <m id="m040-d1t1754-14">
 <w.rf>

@@ -676,6 +676,11 @@
 </w.rf>
 <form>34,5</form>
 <tag lemma="34,5" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>34.5</text>
+</LM>
+</comment>
 </m>
 <m id="m149-d-m-d1e1649-x2-punct-punct">
 <w.rf>

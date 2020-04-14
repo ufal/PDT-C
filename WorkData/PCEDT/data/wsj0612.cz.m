@@ -1252,6 +1252,11 @@
 <AM lemma="B1" src="auto">X@-------------</AM>
 <AM lemma="B1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: B 1</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0612-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2316,13 +2321,15 @@
 <w.rf>
 <LM>w#w-wsj0612-001-p1s5W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>desetiletými</form>
 <tag>
 <AM lemma="desetiletý" src="auto" recommended="1">AAFP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAIP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
-<AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="desetiletý" src="auto">AANP7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0612-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2422,6 +2429,11 @@
 <AM lemma="A3" src="auto">X@-------------</AM>
 <AM lemma="A3" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 3</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0612-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>

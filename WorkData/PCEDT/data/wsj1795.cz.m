@@ -4604,6 +4604,11 @@
 <AM lemma="4krát" src="auto">X@-------------</AM>
 <AM lemma="4krát`4" src="manual" selected="1">Cv-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 4 krát</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1795-001-p1s15W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5884,6 +5889,7 @@
 <w.rf>
 <LM>w#w-wsj1795-001-p1s21W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>desetinásobné</form>
 <tag>
 <AM lemma="desetinásobný`10" src="auto">AAFP1----1A----</AM>
@@ -5901,8 +5907,9 @@
 <AM lemma="desetinásobný`10" src="auto">AANP5----1A---6</AM>
 <AM lemma="desetinásobný`10" src="auto">AANS1----1A----</AM>
 <AM lemma="desetinásobný`10" src="auto" recommended="1">AANS4----1A----</AM>
-<AM lemma="desetinásobný`10" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="desetinásobný`10" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1795-001-p1s21W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8363,10 +8370,10 @@
 <w.rf>
 <LM>w#w-wsj1795-001-p1s31W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>touhou</form>
-<tag>
-<AM lemma="touha" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="touha" src="auto" recommended="1">NNFS7-----A----</tag>
+</m>
 <m id="m-wsj1795-001-p1s31W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

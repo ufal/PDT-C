@@ -1712,6 +1712,11 @@
 </w.rf>
 <form>1,60</form>
 <tag lemma="1,60" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.60</text>
+</LM>
+</comment>
 </m>
 <m id="m039-d1t1628-1">
 <w.rf>
@@ -1830,6 +1835,11 @@
 </w.rf>
 <form>1,60</form>
 <tag lemma="1,60" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.60</text>
+</LM>
+</comment>
 </m>
 <m id="m039-d1t1632-13">
 <w.rf>
@@ -6134,7 +6144,7 @@
 <form_change>spell</form_change>
 <form>tištění</form>
 <tag>
-<AM lemma="tištěný_^(*5sknout)" selected="1" src="auto">AAMP1----1A----</AM>
+<AM lemma="tištěný_^(*5sknout)" src="auto" selected="1">AAMP1----1A----</AM>
 <AM lemma="tištěný_^(*5sknout)" src="auto">AAMP5----1A----</AM>
 <AM lemma="tištění_^(*5sknout)" src="auto">NNNP1-----A----</AM>
 <AM lemma="tištění_^(*5sknout)" src="auto">NNNP2-----A----</AM>

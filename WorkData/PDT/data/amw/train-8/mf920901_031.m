@@ -784,6 +784,11 @@
 <form_change>spell</form_change>
 <form>Preud'homma</form>
 <tag lemma="Preud'homme_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<comment>
+<LM type="Other">
+<text>3v1: Preud ' homma</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf920901-031-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1819,6 +1824,11 @@
 <form_change>spell</form_change>
 <form>Preud'homme</form>
 <tag lemma="Preud'homme_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<comment>
+<LM type="Other">
+<text>3v1: Preud ' homme</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf920901-031-p5s1Aw35">
 <src.rf>manual</src.rf>

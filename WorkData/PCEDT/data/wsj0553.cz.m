@@ -5995,6 +5995,11 @@
 <AM lemma="M1" src="auto">X@-------------</AM>
 <AM lemma="M1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: M 1</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0553-001-p1s18W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6014,6 +6019,11 @@
 <AM lemma="M5" src="auto">X@-------------</AM>
 <AM lemma="M5" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: M 5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0553-001-p1s18W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11332,6 +11342,11 @@
 <AM lemma="M1" src="auto">X@-------------</AM>
 <AM lemma="M1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: M 1</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0553-001-p1s39W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11351,6 +11366,11 @@
 <AM lemma="M5" src="auto">X@-------------</AM>
 <AM lemma="M5" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: M 5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0553-001-p1s39W19-Ta">
 <src.rf>tagger-a</src.rf>

@@ -7372,6 +7372,11 @@
 <AM lemma="TS03">X@-------------</AM>
 <AM lemma="TS03" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: TS 03</text>
+</LM>
+</comment>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w18">
 <w.rf>

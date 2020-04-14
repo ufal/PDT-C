@@ -1191,6 +1191,11 @@
 <AM lemma="1989A" src="auto">X@-------------</AM>
 <AM lemma="1989A" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 1989 A</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1312-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1216,6 +1221,11 @@
 <AM lemma="1989B" src="auto">X@-------------</AM>
 <AM lemma="1989B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 1989 B</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1312-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>

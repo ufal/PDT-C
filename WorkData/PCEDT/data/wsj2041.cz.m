@@ -2453,6 +2453,11 @@
 <AM lemma="45letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="45letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 45 letého</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2041-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13598,14 +13603,14 @@
 <LM>w#w-wsj2041-001-p1s51W31</LM>
 </w.rf>
 <form>77</form>
-<tag>
-<AM lemma="77" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="77" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2041-001-p1s51W31-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2041-001-p1s51W31</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>B</form>
 <tag>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
@@ -13613,8 +13618,9 @@
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
-<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2041-001-p1s51W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -6970,6 +6970,11 @@
 <AM lemma="20akciový" src="auto">X@-------------</AM>
 <AM lemma="20akciový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 20 akciový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1578-001-p1s29W4-Ta">
 <src.rf>tagger-a</src.rf>

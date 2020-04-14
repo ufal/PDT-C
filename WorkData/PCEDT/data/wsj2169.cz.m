@@ -4959,6 +4959,11 @@
 <AM lemma="Poor's" src="auto">X@-------------</AM>
 <AM lemma="Poor's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: Poor ' s</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2169-001-p1s16W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5819,6 +5824,11 @@
 <AM lemma="Poor's" src="auto">X@-------------</AM>
 <AM lemma="Poor's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: Poor ' s</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2169-001-p1s19W6-Ta">
 <src.rf>tagger-a</src.rf>

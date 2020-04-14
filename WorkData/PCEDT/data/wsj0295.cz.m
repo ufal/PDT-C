@@ -895,6 +895,11 @@
 <AM lemma="62letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="62letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 62 letého</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0295-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5834,6 +5839,11 @@
 <AM lemma="66letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="66letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 66 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0295-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>

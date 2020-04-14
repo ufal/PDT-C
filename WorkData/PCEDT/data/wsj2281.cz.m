@@ -8531,6 +8531,11 @@
 <AM lemma="12měsíční" src="auto">X@-------------</AM>
 <AM lemma="12měsíční" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 12 měsíční</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2281-001-p1s22W29-Ta">
 <src.rf>tagger-a</src.rf>

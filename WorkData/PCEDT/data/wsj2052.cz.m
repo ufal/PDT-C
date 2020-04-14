@@ -5027,6 +5027,11 @@
 <AM lemma="7B" src="auto">X@-------------</AM>
 <AM lemma="7B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 7 B</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2052-001-p1s22W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5214,6 +5219,11 @@
 <AM lemma="23BN" src="auto">X@-------------</AM>
 <AM lemma="23BN" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 23 BN</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2052-001-p1s22W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5406,6 +5416,11 @@
 <AM lemma="F16" src="auto">X@-------------</AM>
 <AM lemma="F16" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: F 16</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2052-001-p1s22W38-Ta">
 <src.rf>tagger-a</src.rf>

@@ -874,6 +874,11 @@
 <AM lemma="Field's" src="auto">X@-------------</AM>
 <AM lemma="Field's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: Field ' s</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2125-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

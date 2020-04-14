@@ -6173,6 +6173,11 @@
 <AM lemma="M8" src="auto">X@-------------</AM>
 <AM lemma="M8" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: M 8</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0409-001-p1s26W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6192,6 +6197,11 @@
 <AM lemma="7sp" src="auto">X@-------------</AM>
 <AM lemma="7sp" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 7 sp</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0409-001-p1s26W13-Ta">
 <src.rf>tagger-a</src.rf>

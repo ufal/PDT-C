@@ -1046,14 +1046,14 @@
 <LM>w#w-wsj1830-001-p1s6W2</LM>
 </w.rf>
 <form>46</form>
-<tag>
-<AM lemma="46" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="46" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1830-001-p1s6W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1830-001-p1s6W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -1078,8 +1078,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1830-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3289,14 +3290,14 @@
 <LM>w#w-wsj1830-001-p1s12W43</LM>
 </w.rf>
 <form>30</form>
-<tag>
-<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="30" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1830-001-p1s12W43-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1830-001-p1s12W43</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>librových</form>
 <tag>
 <AM lemma="librový" src="auto" recommended="1">AAFP2----1A----</AM>
@@ -3306,8 +3307,9 @@
 <AM lemma="librový" src="auto">AAMP2----1A----</AM>
 <AM lemma="librový" src="auto">AAMP6----1A----</AM>
 <AM lemma="librový" src="auto">AANP2----1A----</AM>
-<AM lemma="librový" src="auto">AANP6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="librový" src="auto">AANP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1830-001-p1s12W44-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4256,6 +4258,11 @@
 <AM lemma="R2" src="auto">X@-------------</AM>
 <AM lemma="R2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: R 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1830-001-p1s15W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4275,6 +4282,11 @@
 <AM lemma="D2_:B_^(dálnice_v_ČR)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="D2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: D 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1830-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2186,6 +2186,11 @@
 <form_change>spell</form_change>
 <form>Ze'ev</form>
 <tag lemma="Ze'ev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<comment>
+<LM type="Other">
+<text>3v1: Ze ' ev</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95047-058-p5s3w17">
 <src.rf>manual</src.rf>

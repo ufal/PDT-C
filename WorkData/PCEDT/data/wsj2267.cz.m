@@ -193,6 +193,11 @@
 <AM lemma="Dunkin´" src="auto">X@-------------</AM>
 <AM lemma="Dunkin´-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Dunkin '</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2267-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -308,8 +313,7 @@
 <LM>w#w-wsj2267-001-p1s1W28</LM>
 </w.rf>
 <form>1</form>
-<tag>
-<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="1" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2267-001-p1s1W28-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -317,20 +321,21 @@
 <LM>w#w-wsj2267-001-p1s1W28</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2267-001-p1s1W28-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2267-001-p1s1W28</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS3-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="listopad" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2267-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -833,6 +838,11 @@
 <AM lemma="Dunkin´" src="auto">X@-------------</AM>
 <AM lemma="Dunkin´-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Dunkin '</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2267-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1017,8 +1027,7 @@
 <LM>w#w-wsj2267-001-p1s4W26</LM>
 </w.rf>
 <form>1</form>
-<tag>
-<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="1" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2267-001-p1s4W26-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1026,20 +1035,21 @@
 <LM>w#w-wsj2267-001-p1s4W26</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2267-001-p1s4W26-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2267-001-p1s4W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS3-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="listopad" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2267-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1637,6 +1647,11 @@
 <AM lemma="Dunkin´" src="auto">X@-------------</AM>
 <AM lemma="Dunkin´-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Dunkin '</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2267-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

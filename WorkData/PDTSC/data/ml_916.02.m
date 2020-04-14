@@ -6400,6 +6400,11 @@
 <AM lemma="V1" src="auto">X@-------------</AM>
 <AM lemma="V1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: V 1</text>
+</LM>
+</comment>
 </m>
 <m id="m916-d-id93633">
 <w.rf>
@@ -6437,6 +6442,11 @@
 <AM lemma="V2" src="auto">X@-------------</AM>
 <AM lemma="V2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: V 2</text>
+</LM>
+</comment>
 </m>
 <m id="m916-3370-3373">
 <w.rf>

@@ -8000,6 +8000,11 @@
 <AM lemma="GR8FLRED" src="auto">X@-------------</AM>
 <AM lemma="GR8FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: GR 8 FLRED</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1778-001-p1s61W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8640,11 +8645,13 @@
 <w.rf>
 <LM>w#w-wsj1778-001-p1s68W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vestoje</form>
 <tag>
 <AM lemma="vestoje" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vstoje_,x" src="auto">Db-------------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="vstoje_,x" src="auto">Db-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1778-001-p1s68W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9008,13 +9015,15 @@
 <w.rf>
 <LM>w#w-wsj1778-001-p1s76W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>několika</form>
 <tag>
 <AM lemma="několik" src="auto">Ca--2----------</AM>
 <AM lemma="několik" src="auto">Ca--3----------</AM>
 <AM lemma="několik" src="auto">Ca--6----------</AM>
-<AM lemma="několik" src="auto" recommended="1">Ca--7----------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="několik" src="auto" recommended="1">Ca--7----------</AM>
+</tag>
+</m>
 <m id="m-wsj1778-001-p1s76W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16917,6 +16926,11 @@
 <AM lemma="GR8FLRED" src="auto">X@-------------</AM>
 <AM lemma="GR8FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: GR 8 FLRED</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1778-001-p1s127W2-Ta">
 <src.rf>tagger-a</src.rf>

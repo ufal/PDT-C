@@ -651,6 +651,11 @@
 <AM lemma="8R5151SS">X@-------------</AM>
 <AM lemma="8R5151SS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>4v1: 8 R 5151 SS</text>
+</LM>
+</comment>
 </m>
 <m id="es_06-SCzechM-p0558-s1-w19">
 <w.rf>

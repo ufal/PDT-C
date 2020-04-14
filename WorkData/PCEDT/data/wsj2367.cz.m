@@ -5143,6 +5143,11 @@
 <AM lemma="Man´" src="auto">X@-------------</AM>
 <AM lemma="Man´-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Man '</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2367-001-p1s20W16-Ta">
 <src.rf>tagger-a</src.rf>

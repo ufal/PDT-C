@@ -1,0 +1,42 @@
+#!btred -N -T -e split_form()
+# -*- cperl -*-
+use warnings;
+use strict;
+use utf8;
+
+sub split_form {
+    return if $this == $root;
+
+    my ($form) = $this->{form};
+    return if $form =~ /^(?:[[:alpha:]]+
+                           |-?[[:digit:]]+ (?:\.[[:digit:]]+)?
+                           |[^[:alpha:][:digit:]]
+                           |[[:digit:]]+
+                         )$/x;
+
+    my ($comment, $type);
+    if ($form =~ /^[0-9]+,[0-9]+$/) {
+        $type = 'New Form';
+        $comment = $form =~ s/,/./r;
+    } else {
+        my @tokens = grep length,
+                     split /(,
+                            |(?<=\.)           (?=\.)
+                            |(?<=[0-9])        (?=[^0-9])
+                            |(?<=[^0-9])       (?=[0-9])
+                            |(?<=[[:alpha:]])  (?=[^[:alpha:]])
+                            |(?<=[^[:alpha:]]) (?=[[:alpha:]])
+                            )/x, $form;
+        $type = 'Other';
+        $comment = scalar(@tokens) . "v1: @tokens";
+        return if 1 == @tokens;
+        $comment =~ s/´/'/g;
+    }
+
+    my @comments = ListV($this->{comment});
+    push @comments, { type => $type, text => $comment };
+    $this->{comment} = List(@comments);
+    ChangingFile(1);
+    print(join "\t", $form, $type, $comment, "");
+    FPosition();
+}

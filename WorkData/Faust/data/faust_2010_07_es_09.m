@@ -6412,6 +6412,11 @@
 <AM lemma="Fre3s3x">X@-------------</AM>
 <AM lemma="Fre3s3x-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>5v1: Fre 3 s 3 x</text>
+</LM>
+</comment>
 </m>
 <m id="es_09-SCzechM-p0967-s1-w13">
 <w.rf>
@@ -6482,6 +6487,11 @@
 <AM lemma="1e">X@-------------</AM>
 <AM lemma="1e-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 1 e</text>
+</LM>
+</comment>
 </m>
 <m id="es_09-SCzechM-p0967-s1-w21">
 <w.rf>

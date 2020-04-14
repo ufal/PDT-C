@@ -2390,6 +2390,11 @@
 <AM lemma="99krát" src="auto">X@-------------</AM>
 <AM lemma="99krát`99" src="manual" selected="1">Cv-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 99 krát</text>
+</LM>
+</comment>
 </m>
 <m id="m914-d1t500-10">
 <w.rf>

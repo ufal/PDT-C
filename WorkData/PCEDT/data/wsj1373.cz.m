@@ -2754,6 +2754,11 @@
 <AM lemma="4kilobitových" src="auto">X@-------------</AM>
 <AM lemma="4kilobitový" src="manual" selected="1">AAFP2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 4 kilobitových</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1373-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8539,6 +8544,11 @@
 <AM lemma="MC88200" src="auto">X@-------------</AM>
 <AM lemma="MC88200" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: MC 88200</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1373-001-p1s31W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9874,6 +9884,11 @@
 <AM lemma="MC68030" src="auto">X@-------------</AM>
 <AM lemma="MC68030" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: MC 68030</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1373-001-p1s35W27-Ta">
 <src.rf>tagger-a</src.rf>

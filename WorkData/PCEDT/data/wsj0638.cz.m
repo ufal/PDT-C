@@ -3629,6 +3629,11 @@
 <AM lemma="14librové" src="auto">X@-------------</AM>
 <AM lemma="14librový" src="manual" selected="1">AAIP4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 14 librové</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0638-001-p1s8W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3674,6 +3679,11 @@
 <AM lemma="20megabytovým" src="auto">X@-------------</AM>
 <AM lemma="20megabytový" src="manual" selected="1">AAIS7----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 20 megabytovým</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0638-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3699,6 +3709,11 @@
 <AM lemma="40megabytovým" src="auto">X@-------------</AM>
 <AM lemma="40megabytový" src="manual" selected="1">AAIS7----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 40 megabytovým</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0638-001-p1s8W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4556,6 +4571,11 @@
 <AM lemma="20megabytový" src="auto">X@-------------</AM>
 <AM lemma="20megabytový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 20 megabytový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0638-001-p1s11W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5759,6 +5779,11 @@
 <AM lemma="20megabytovým" src="auto">X@-------------</AM>
 <AM lemma="20megabytový" src="manual" selected="1">AAIS7----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 20 megabytovým</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0638-001-p1s15W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5843,6 +5868,11 @@
 <AM lemma="40megabytový" src="auto">X@-------------</AM>
 <AM lemma="40megabytový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 40 megabytový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0638-001-p1s15W24-Ta">
 <src.rf>tagger-a</src.rf>

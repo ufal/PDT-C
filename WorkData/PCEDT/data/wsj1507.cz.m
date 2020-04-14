@@ -3032,6 +3032,11 @@
 <AM lemma="120denní" src="auto">X@-------------</AM>
 <AM lemma="120denní" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 120 denní</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1507-001-p1s11W17-Ta">
 <src.rf>tagger-a</src.rf>

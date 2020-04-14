@@ -163,6 +163,11 @@
 <AM lemma="CP486" src="auto">X@-------------</AM>
 <AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: CP 486</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1591-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -589,20 +594,21 @@
 <LM>w#w-wsj1591-001-p1s2W14</LM>
 </w.rf>
 <form>32</form>
-<tag>
-<AM lemma="32" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="32" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1591-001-p1s2W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1591-001-p1s2W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>bitovém</form>
 <tag>
 <AM lemma="bitový" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="bitový" src="auto">AAMS6----1A----</AM>
-<AM lemma="bitový" src="auto">AANS6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="bitový" src="auto">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1591-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -625,6 +631,11 @@
 <AM lemma="486tm" src="auto">X@-------------</AM>
 <AM lemma="486tm" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 486 tm</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1591-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5595,6 +5606,11 @@
 <AM lemma="CP486" src="auto">X@-------------</AM>
 <AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: CP 486</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1591-001-p1s16W12-Ta">
 <src.rf>tagger-a</src.rf>

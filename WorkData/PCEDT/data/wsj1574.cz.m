@@ -1853,6 +1853,11 @@
 <AM lemma="33letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="33letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 33 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1574-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>

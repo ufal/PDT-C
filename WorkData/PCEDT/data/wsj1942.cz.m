@@ -270,6 +270,11 @@
 <AM lemma="2C" src="auto">X@-------------</AM>
 <AM lemma="2C" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 2 C</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1942-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>

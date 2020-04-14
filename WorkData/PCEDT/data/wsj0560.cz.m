@@ -9807,6 +9807,11 @@
 <AM lemma="AP600" src="auto">X@-------------</AM>
 <AM lemma="AP600" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: AP 600</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0560-001-p1s27W22-Ta">
 <src.rf>tagger-a</src.rf>

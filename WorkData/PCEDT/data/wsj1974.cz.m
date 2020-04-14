@@ -7865,6 +7865,11 @@
 <AM lemma="30letý" src="auto">AANP2----1A----</AM>
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 30 letých</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1974-001-p1s25W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8613,6 +8618,11 @@
 <AM lemma="30letý" src="auto">AANP2----1A----</AM>
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 30 letých</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1974-001-p1s28W14-Ta">
 <src.rf>tagger-a</src.rf>

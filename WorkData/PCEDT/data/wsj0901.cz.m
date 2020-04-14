@@ -427,6 +427,11 @@
 <AM lemma="60A" src="auto">X@-------------</AM>
 <AM lemma="60A" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 60 A</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0901-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -506,6 +511,11 @@
 <AM lemma="60K" src="auto">X@-------------</AM>
 <AM lemma="60K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 60 K</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0901-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>

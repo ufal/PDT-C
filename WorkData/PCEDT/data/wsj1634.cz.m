@@ -16463,6 +16463,11 @@
 <AM lemma="20th" src="auto">X@-------------</AM>
 <AM lemma="20th-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 20 th</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1634-001-p1s65W31-Ta">
 <src.rf>tagger-a</src.rf>

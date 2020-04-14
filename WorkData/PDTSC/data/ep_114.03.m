@@ -2959,6 +2959,11 @@
 </w.rf>
 <form>4,5</form>
 <tag lemma="4,5" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>4.5</text>
+</LM>
+</comment>
 </m>
 <m id="m114-d1t924-6">
 <w.rf>
@@ -7052,6 +7057,11 @@
 </w.rf>
 <form>2,5</form>
 <tag lemma="2,5" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>2.5</text>
+</LM>
+</comment>
 </m>
 <m id="m114-d1t1090-10">
 <w.rf>

@@ -2004,6 +2004,11 @@
 <AM lemma="CF6" src="auto">X@-------------</AM>
 <AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: CF 6</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0682-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4458,6 +4463,11 @@
 <AM lemma="CF6" src="auto">X@-------------</AM>
 <AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: CF 6</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0682-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>

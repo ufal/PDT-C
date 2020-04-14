@@ -10018,6 +10018,11 @@
 <AM lemma="50milionové" src="auto">X@-------------</AM>
 <AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 50 milionové</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2160-001-p1s25W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11143,6 +11148,11 @@
 <AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual">AAFS1----1A----</AM>
 <AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 50 milionová</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2160-001-p1s29W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11806,6 +11816,11 @@
 <AM lemma="50milionovou" src="auto">X@-------------</AM>
 <AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 50 milionovou</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2160-001-p1s31W11-Ta">
 <src.rf>tagger-a</src.rf>

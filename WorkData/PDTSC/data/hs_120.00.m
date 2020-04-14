@@ -1490,6 +1490,11 @@
 <AM lemma="23letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="23letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 23 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m120-d1t80-2">
 <w.rf>

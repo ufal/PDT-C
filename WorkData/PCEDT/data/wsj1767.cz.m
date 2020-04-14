@@ -2238,13 +2238,15 @@
 <w.rf>
 <LM>w#w-wsj1767-001-p1s5W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>cíli</form>
 <tag>
 <AM lemma="cíl" src="auto" recommended="1">NNIP7-----A----</AM>
 <AM lemma="cíl" src="auto">NNIS3-----A----</AM>
 <AM lemma="cíl" src="auto">NNIS5-----A----</AM>
-<AM lemma="cíl" src="auto">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="cíl" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1767-001-p1s5W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3906,10 +3908,10 @@
 <w.rf>
 <LM>w#w-wsj1767-001-p1s10W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vozů</form>
-<tag>
-<AM lemma="vůz" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="vůz" src="auto" recommended="1">NNIP2-----A----</tag>
+</m>
 <m id="m-wsj1767-001-p1s10W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5906,6 +5908,11 @@
 <AM lemma="XR4Ti" src="auto">X@-------------</AM>
 <AM lemma="XR4Ti" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: XR 4 Ti</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1767-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6582,6 +6589,11 @@
 <AM lemma="XR4Ti" src="auto">X@-------------</AM>
 <AM lemma="XR4Ti" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: XR 4 Ti</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1767-001-p1s18W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7937,6 +7949,11 @@
 <AM lemma="XR4Ti" src="auto">X@-------------</AM>
 <AM lemma="XR4Ti" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: XR 4 Ti</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1767-001-p1s24W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8658,6 +8675,11 @@
 <AM lemma="XR4Ti" src="auto">X@-------------</AM>
 <AM lemma="XR4Ti" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: XR 4 Ti</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1767-001-p1s27W16-Ta">
 <src.rf>tagger-a</src.rf>

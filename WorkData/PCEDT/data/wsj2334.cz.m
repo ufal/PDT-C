@@ -1201,6 +1201,7 @@
 <w.rf>
 <LM>w#w-wsj2334-001-p1s2W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>patnáctidenní</form>
 <tag>
 <AM lemma="patnáctidenní" src="auto">AAFP1----1A----</AM>
@@ -1229,8 +1230,9 @@
 <AM lemma="patnáctidenní" src="auto">AANP5----1A----</AM>
 <AM lemma="patnáctidenní" src="auto">AANS1----1A----</AM>
 <AM lemma="patnáctidenní" src="auto" recommended="1">AANS4----1A----</AM>
-<AM lemma="patnáctidenní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="patnáctidenní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2334-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1508,6 +1510,11 @@
 <AM lemma="10K" src="auto">X@-------------</AM>
 <AM lemma="10K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 10 K</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2334-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>

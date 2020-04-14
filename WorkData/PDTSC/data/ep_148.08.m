@@ -1121,6 +1121,11 @@
 <AM lemma="d´Ampezzo" src="auto">X@-------------</AM>
 <AM lemma="d´Ampezzo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: d ' Ampezzo</text>
+</LM>
+</comment>
 </m>
 <m id="m148-113-114">
 <w.rf>

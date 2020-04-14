@@ -249,6 +249,11 @@
 <AM lemma="i860" src="auto">X@-------------</AM>
 <AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: i 860</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2258-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -302,6 +307,11 @@
 <AM lemma="i860" src="auto">X@-------------</AM>
 <AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: i 860</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2258-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1715,6 +1725,11 @@
 <AM lemma="i860" src="auto">X@-------------</AM>
 <AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: i 860</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2258-001-p1s4W30-Ta">
 <src.rf>tagger-a</src.rf>

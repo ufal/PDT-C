@@ -126,6 +126,11 @@
 <AM lemma="10letý" src="auto">AANP2----1A----</AM>
 <AM lemma="10letý" src="auto">AANP6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 10 letých</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1533-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>

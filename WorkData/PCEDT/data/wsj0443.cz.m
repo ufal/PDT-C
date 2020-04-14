@@ -3954,6 +3954,11 @@
 <AM lemma="30sekundový" src="auto">AANP2----1A----</AM>
 <AM lemma="30sekundový" src="auto">AANP6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 30 sekundových</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0443-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6819,7 +6824,8 @@
 <AM lemma="zhoubný" src="auto">AANP5----1A---6</AM>
 <AM lemma="zhoubný" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="zhoubný" src="auto">AANS4----1A----</AM>
-<AM lemma="zhoubný" src="auto">AANS5----1A----</AM></tag>
+<AM lemma="zhoubný" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0443-001-p1s19W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6827,14 +6833,14 @@
 <LM>w#w-wsj0443-001-p1s19W6</LM>
 </w.rf>
 <form>11</form>
-<tag>
-<AM lemma="11" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="11" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0443-001-p1s19W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0443-001-p1s19W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>denní</form>
 <tag>
 <AM lemma="denní" src="auto">AAFP1----1A----</AM>
@@ -6863,8 +6869,9 @@
 <AM lemma="denní" src="auto">AANP5----1A----</AM>
 <AM lemma="denní" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="denní" src="auto">AANS4----1A----</AM>
-<AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="denní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0443-001-p1s19W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -2135,6 +2135,11 @@
 <AM lemma="75procentní" src="auto">AANS4----1A----</AM>
 <AM lemma="75procentní" src="auto">AANS5----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 75 procentní</text>
+</LM>
+</comment>
 </m>
 <m id="m953-d1t1532-2">
 <w.rf>

@@ -80,6 +80,11 @@
 </w.rf>
 <form>1,6</form>
 <tag lemma="1,6" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.6</text>
+</LM>
+</comment>
 </m>
 <m id="m983-d1e1251-x4-2705">
 <w.rf>

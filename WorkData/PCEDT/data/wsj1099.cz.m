@@ -9369,6 +9369,11 @@
 <AM lemma="57letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="57letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 57 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1099-001-p1s33W3-Ta">
 <src.rf>tagger-a</src.rf>

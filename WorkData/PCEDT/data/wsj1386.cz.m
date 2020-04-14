@@ -3370,6 +3370,11 @@
 <AM lemma="35mm" src="auto">X@-------------</AM>
 <AM lemma="35mm" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 35 mm</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1386-001-p1s8W33-Ta">
 <src.rf>tagger-a</src.rf>

@@ -907,6 +907,11 @@
 <AM lemma="36minutový" src="auto">AANS4----1A---6</AM>
 <AM lemma="36minutový" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 36 minutový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0039-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2962,12 +2967,14 @@
 <w.rf>
 <LM>w#w-wsj0039-001-p1s10W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>filmu</form>
 <tag>
 <AM lemma="film" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="film" src="auto">NNIS3-----A----</AM>
-<AM lemma="film" src="auto">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="film" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0039-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8327,6 +8334,7 @@
 <w.rf>
 <LM>w#w-wsj0039-001-p1s32W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Louise</form>
 <tag>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS5-----A----</AM>
@@ -8335,8 +8343,9 @@
 <AM lemma="Louis-3_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Louisa_;Y_,t" src="auto">NNFS3-----A----</AM>
 <AM lemma="Louisa_;Y_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Louise_;Y" src="auto" recommended="1">NNFXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Louise_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0039-001-p1s32W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9273,6 +9282,7 @@
 <w.rf>
 <LM>w#w-wsj0039-001-p1s37W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Louise</form>
 <tag>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS5-----A----</AM>
@@ -9281,8 +9291,9 @@
 <AM lemma="Louis-3_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Louisa_;Y_,t" src="auto">NNFS3-----A----</AM>
 <AM lemma="Louisa_;Y_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Louise_;Y" src="auto" recommended="1">NNFXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Louise_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0039-001-p1s37W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

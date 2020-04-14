@@ -1383,6 +1383,11 @@
 <AM lemma="24krát" src="auto">X@-------------</AM>
 <AM lemma="24krát" src="manual" selected="1">Cv-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 24 krát</text>
+</LM>
+</comment>
 </m>
 <m id="m004-d-id119519-punct">
 <w.rf>
@@ -3647,6 +3652,11 @@
 </w.rf>
 <form>V3Sek</form>
 <tag lemma="V3Ska" src="auto" recommended="1">NNFP2-----A----</tag>
+<comment>
+<LM type="Other">
+<text>3v1: V 3 Sek</text>
+</LM>
+</comment>
 </m>
 <m id="m004-d1e2152-x3-552">
 <w.rf>

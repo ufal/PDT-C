@@ -31,6 +31,11 @@
 <AM lemma="R." src="auto">X@-------------</AM>
 <AM lemma="R.-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: R .</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0556-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1741,6 +1746,11 @@
 <AM lemma="Bullock's" src="auto">X@-------------</AM>
 <AM lemma="Bullock's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: Bullock ' s</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0556-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3853,6 +3863,11 @@
 <AM lemma="R." src="auto">X@-------------</AM>
 <AM lemma="R.-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: R .</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0556-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5737,6 +5752,11 @@
 <AM lemma="Bloomingdale's" src="auto">X@-------------</AM>
 <AM lemma="Bloomingdale's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: Bloomingdale ' s</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0556-001-p1s20W7-Ta">
 <src.rf>tagger-a</src.rf>

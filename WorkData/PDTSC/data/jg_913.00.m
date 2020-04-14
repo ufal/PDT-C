@@ -4539,6 +4539,11 @@
 </w.rf>
 <form>3,50</form>
 <tag lemma="3,50" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>3.50</text>
+</LM>
+</comment>
 </m>
 <m id="m913-d1e146-x9-763">
 <w.rf>
@@ -4587,6 +4592,11 @@
 </w.rf>
 <form>3,50</form>
 <tag lemma="3,50" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>3.50</text>
+</LM>
+</comment>
 </m>
 <m id="m913-d1e146-x9-756">
 <w.rf>

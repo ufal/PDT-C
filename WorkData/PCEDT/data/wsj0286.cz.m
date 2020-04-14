@@ -3480,6 +3480,11 @@
 <AM lemma="300ZX" src="auto">X@-------------</AM>
 <AM lemma="300ZX" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 300 ZX</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0286-001-p1s10W49-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6184,11 +6189,13 @@
 <w.rf>
 <LM>w#w-wsj0286-001-p1s20W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS2FS3-------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS2FS3-------</AM>
+</tag>
+</m>
 <m id="m-wsj0286-001-p1s20W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11502,6 +11509,11 @@
 <AM lemma="240SX" src="auto">X@-------------</AM>
 <AM lemma="240SX" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 240 SX</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0286-001-p1s42W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11581,6 +11593,11 @@
 <AM lemma="300ZX" src="auto">X@-------------</AM>
 <AM lemma="300ZX" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 300 ZX</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0286-001-p1s42W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11645,6 +11662,11 @@
 <AM lemma="300ZX" src="auto">X@-------------</AM>
 <AM lemma="300ZX" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 300 ZX</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0286-001-p1s43W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -21269,6 +21291,11 @@
 <AM lemma="Q45" src="auto">X@-------------</AM>
 <AM lemma="Q45" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Q 45</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0286-001-p1s77W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -21573,6 +21600,11 @@
 <AM lemma="LS400" src="auto">X@-------------</AM>
 <AM lemma="LS400" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: LS 400</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0286-001-p1s78W12-Ta">
 <src.rf>tagger-a</src.rf>

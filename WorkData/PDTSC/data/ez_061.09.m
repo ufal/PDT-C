@@ -1853,6 +1853,11 @@
 </w.rf>
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>3v1: . . .</text>
+</LM>
+</comment>
 </m>
 </s>
 <s id="m061-d1e3329-x2">
@@ -3097,6 +3102,11 @@
 </w.rf>
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>3v1: . . .</text>
+</LM>
+</comment>
 </m>
 </s>
 <s id="m061-d1e3421-x3">
@@ -3574,6 +3584,11 @@
 </w.rf>
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>3v1: . . .</text>
+</LM>
+</comment>
 </m>
 <m id="m061-552-557">
 <w.rf>
@@ -3906,6 +3921,11 @@
 </w.rf>
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>3v1: . . .</text>
+</LM>
+</comment>
 </m>
 </s>
 <s id="m061-493">

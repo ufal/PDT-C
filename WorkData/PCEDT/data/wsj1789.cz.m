@@ -2897,6 +2897,11 @@
 <AM lemma="61letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="61letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 61 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1789-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4926,11 +4931,13 @@
 <w.rf>
 <LM>w#w-wsj1789-001-p1s18W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zamezí</form>
 <tag>
 <AM lemma="zamezit" src="auto">VB-P---3P-AAP--</AM>
-<AM lemma="zamezit" src="auto" recommended="1">VB-S---3P-AAP--</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="zamezit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj1789-001-p1s18W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7283,6 +7290,11 @@
 <AM lemma="15dolarový" src="auto">X@-------------</AM>
 <AM lemma="15dolarový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 15 dolarový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1789-001-p1s28W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7863,12 +7875,14 @@
 <w.rf>
 <LM>w#w-wsj1789-001-p1s30W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>investičnímu</form>
 <tag>
 <AM lemma="investiční" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="investiční" src="auto">AAMS3----1A----</AM>
-<AM lemma="investiční" src="auto">AANS3----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="investiční" src="auto">AANS3----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1789-001-p1s30W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

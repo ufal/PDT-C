@@ -7659,12 +7659,14 @@
 <w.rf>
 <LM>w#w-wsj0986-001-p1s25W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>PRO</form>
 <tag>
 <AM lemma="Pro-77_,t" src="auto">F%-------------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+</tag>
+</m>
 <m id="m-wsj0986-001-p1s25W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7829,6 +7831,11 @@
 <AM lemma="30letý" src="auto">AANP2----1A----</AM>
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 30 letých</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0986-001-p1s25W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8053,11 +8060,10 @@
 <w.rf>
 <LM>w#w-wsj0986-001-p1s26W11</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
+<form_change>spell</form_change>
 <form>7.875</form>
-<tag>
-<AM lemma="7.875" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="7.875" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0986-001-p1s26W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8560,6 +8566,11 @@
 <AM lemma="30letý" src="auto">AANP2----1A----</AM>
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 30 letých</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0986-001-p1s28W14-Ta">
 <src.rf>tagger-a</src.rf>

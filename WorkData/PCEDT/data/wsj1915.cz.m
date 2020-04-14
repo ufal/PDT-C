@@ -47517,6 +47517,11 @@
 <AM lemma="3COM" src="auto">X@-------------</AM>
 <AM lemma="3COM-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 3 COM</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1915-001-p1s114W3-Ta">
 <src.rf>tagger-a</src.rf>

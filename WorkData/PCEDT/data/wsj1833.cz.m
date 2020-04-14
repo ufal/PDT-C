@@ -384,6 +384,11 @@
 <AM lemma="3M" src="auto">X@-------------</AM>
 <AM lemma="3M" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 3 M</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1833-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

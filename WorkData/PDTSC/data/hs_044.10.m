@@ -3456,6 +3456,11 @@
 <AM lemma="600hektarová" src="auto">X@-------------</AM>
 <AM lemma="600hektarový" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 600 hektarová</text>
+</LM>
+</comment>
 </m>
 <m id="m044-d1t3188-9">
 <w.rf>

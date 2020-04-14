@@ -167,6 +167,11 @@
 <AM lemma="60palcové" src="auto">X@-------------</AM>
 <AM lemma="60palcový" src="manual" selected="1">AAFS6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 60 palcové</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1776-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>

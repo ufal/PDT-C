@@ -1625,11 +1625,13 @@
 <w.rf>
 <LM>w#w-wsj1566-001-p1s7W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>mně</form>
 <tag>
 <AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
-<AM lemma="já" src="auto">PP-S6--1-------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="já" src="auto">PP-S6--1-------</AM>
+</tag>
+</m>
 <m id="m-wsj1566-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9834,6 +9836,11 @@
 <AM lemma="7A" src="auto">X@-------------</AM>
 <AM lemma="7A" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 7 A</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1566-001-p1s34W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9859,6 +9866,11 @@
 <AM lemma="7B" src="auto">X@-------------</AM>
 <AM lemma="7B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 7 B</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1566-001-p1s34W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11440,6 +11452,7 @@
 <w.rf>
 <LM>w#w-wsj1566-001-p1s40W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pomoci</form>
 <tag>
 <AM lemma="pomoci" src="auto">Vf--------A-P-1</AM>
@@ -11449,8 +11462,9 @@
 <AM lemma="pomoc" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="pomoc" src="auto">NNFS3-----A----</AM>
 <AM lemma="pomoc" src="auto">NNFS5-----A----</AM>
-<AM lemma="pomoc" src="auto">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="pomoc" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1566-001-p1s40W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

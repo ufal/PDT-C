@@ -1560,6 +1560,11 @@
 </w.rf>
 <form>1,5</form>
 <tag lemma="1,5" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.5</text>
+</LM>
+</comment>
 </m>
 <m id="m109-602-607">
 <w.rf>

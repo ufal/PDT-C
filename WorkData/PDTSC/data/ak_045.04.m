@@ -2789,6 +2789,11 @@
 <AM lemma="29letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="29letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 29 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m045-719-724">
 <w.rf>
@@ -2922,6 +2927,11 @@
 <AM lemma="29letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="29letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 29 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m045-d-m-d1e1308-x2-punct-punct">
 <w.rf>
@@ -3215,6 +3225,11 @@
 <AM lemma="29letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="29letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 29 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m045-d1t1351-1">
 <w.rf>

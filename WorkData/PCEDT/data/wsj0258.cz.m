@@ -929,6 +929,11 @@
 <AM lemma="RC6280" src="auto">X@-------------</AM>
 <AM lemma="RC6280" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: RC 6280</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0258-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6165,6 +6170,11 @@
 <AM lemma="VAX9000" src="auto">X@-------------</AM>
 <AM lemma="VAX9000" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: VAX 9000</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0258-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6508,6 +6518,11 @@
 <AM lemma="RC6280" src="auto">X@-------------</AM>
 <AM lemma="RC6280" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: RC 6280</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0258-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>

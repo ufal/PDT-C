@@ -252,11 +252,13 @@
 <w.rf>
 <LM>w#w-wsj0170-001-p1s0W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společností</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0170-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1082,6 +1084,11 @@
 <AM lemma="11ti" src="auto">X@-------------</AM>
 <AM lemma="11ti" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 11 ti</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0170-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>

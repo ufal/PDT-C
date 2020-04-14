@@ -1423,6 +1423,11 @@
 <AM lemma="26letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="26letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 26 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1272-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1935,6 +1940,11 @@
 <AM lemma="98librovým" src="auto">X@-------------</AM>
 <AM lemma="98librový" src="manual" selected="1">AAMS7----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 98 librovým</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1272-001-p1s7W14-Ta">
 <src.rf>tagger-a</src.rf>

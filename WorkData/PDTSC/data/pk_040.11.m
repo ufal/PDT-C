@@ -1757,7 +1757,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m040-473"/>
+<s id="m040-473"></s>
 <s id="m040-d1e2931-x2">
 <m id="m040-d1t2934-1">
 <w.rf>
@@ -4371,6 +4371,11 @@
 </w.rf>
 <form>3,20</form>
 <tag lemma="3,20" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>3.20</text>
+</LM>
+</comment>
 </m>
 <m id="m040-d1t3061-5">
 <w.rf>
@@ -4526,6 +4531,11 @@
 </w.rf>
 <form>7,80</form>
 <tag lemma="7,80" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>7.80</text>
+</LM>
+</comment>
 </m>
 <m id="m040-d1t3071-6">
 <w.rf>

@@ -5524,6 +5524,11 @@
 <AM lemma="29letý" src="auto">AAMS4----1A----</AM>
 <AM lemma="29letý" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 29 letého</text>
+</LM>
+</comment>
 </m>
 <m id="m054-d1t1607-12">
 <w.rf>

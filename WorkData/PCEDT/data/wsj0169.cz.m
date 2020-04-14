@@ -313,6 +313,11 @@
 <AM lemma="Weisfeld's" src="auto">X@-------------</AM>
 <AM lemma="Weisfeld's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: Weisfeld ' s</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0169-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>

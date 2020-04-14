@@ -1273,13 +1273,15 @@
 <w.rf>
 <LM>w#w-wsj1432-001-p1s3W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pekingského</form>
 <tag>
 <AM lemma="pekingský" src="auto">AAIS2----1A----</AM>
 <AM lemma="pekingský" src="auto">AAMS2----1A----</AM>
 <AM lemma="pekingský" src="auto">AAMS4----1A----</AM>
-<AM lemma="pekingský" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="pekingský" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1432-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4624,6 +4626,11 @@
 <AM lemma="A330" src="auto">X@-------------</AM>
 <AM lemma="A330" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 330</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1432-001-p1s14W22-Ta">
 <src.rf>tagger-a</src.rf>

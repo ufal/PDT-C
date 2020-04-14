@@ -1862,6 +1862,11 @@
 <AM lemma="78letý" src="auto">AANP4----1A----</AM>
 <AM lemma="78letý" src="auto">AANP5----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 78 letá</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2386-001-p1s8W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5085,6 +5090,11 @@
 <AM lemma="34letý" src="auto">AANP4----1A----</AM>
 <AM lemma="34letý" src="auto">AANP5----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 34 letá</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2386-001-p1s20W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11338,6 +11348,11 @@
 <AM lemma="2000krát" src="auto">X@-------------</AM>
 <AM lemma="2000krát" src="manual" selected="1">Cv-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 2000 krát</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2386-001-p1s48W11-Ta">
 <src.rf>tagger-a</src.rf>

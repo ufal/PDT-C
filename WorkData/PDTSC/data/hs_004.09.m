@@ -2781,6 +2781,11 @@
 <AM lemma="ping-pong_,t" src="auto">NNIS3-----A----</AM>
 <AM lemma="ping-pong_,t" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: ping - pongu</text>
+</LM>
+</comment>
 </m>
 <m id="m004-d1e3713-x2-3474">
 <w.rf>

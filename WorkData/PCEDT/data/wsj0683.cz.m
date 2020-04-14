@@ -3321,6 +3321,11 @@
 <AM lemma="50letý" src="auto">AAMS6----1A----</AM>
 <AM lemma="50letý" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 50 letém</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0683-001-p1s7W39-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3735,6 +3735,11 @@
 <form_change>spell</form_change>
 <form>nemusej'</form>
 <tag lemma="muset" src="orig" selected="1">VB-P---3P-NA--6</tag>
+<comment>
+<LM type="Other">
+<text>2v1: nemusej '</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95040-042-p5s5w14">
 <src.rf>manual</src.rf>

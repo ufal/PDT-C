@@ -4029,6 +4029,11 @@
 <AM lemma="2krát">X@-------------</AM>
 <AM lemma="2krát`2" src="manual" selected="1">Cv-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 2 krát</text>
+</LM>
+</comment>
 </m>
 <m id="es_13-SCzechM-p1387-s1-w5">
 <w.rf>

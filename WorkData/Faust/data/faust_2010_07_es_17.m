@@ -196,6 +196,11 @@
 <AM lemma="X1i">X@-------------</AM>
 <AM lemma="X1i-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: X 1 i</text>
+</LM>
+</comment>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w2">
 <w.rf>
@@ -213,6 +218,11 @@
 <AM lemma="X1j">X@-------------</AM>
 <AM lemma="X1j-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: X 1 j</text>
+</LM>
+</comment>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w4">
 <w.rf>

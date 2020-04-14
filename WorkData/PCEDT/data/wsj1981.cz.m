@@ -1765,6 +1765,11 @@
 <AM lemma="24měsíční" src="auto">X@-------------</AM>
 <AM lemma="24měsíční" src="manual" selected="1">AAFP4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 24 měsíční</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1981-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1830,6 +1835,11 @@
 <AM lemma="60měsíční" src="auto">X@-------------</AM>
 <AM lemma="60měsíční" src="manual" selected="1">AAFP4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 60 měsíční</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1981-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4031,6 +4031,11 @@
 <AM lemma="RECH3">X@-------------</AM>
 <AM lemma="RECH3" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: RECH 3</text>
+</LM>
+</comment>
 </m>
 <m id="jh_18-SCzechM-p1897-s1-w36">
 <w.rf>

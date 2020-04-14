@@ -840,6 +840,11 @@
 <AM lemma="A3-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="A3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 3</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0441-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -864,6 +869,11 @@
 <AM lemma="A2-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="A2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0441-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1938,6 +1948,11 @@
 <AM lemma="A2" src="auto">X@-------------</AM>
 <AM lemma="A2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0441-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1961,6 +1976,11 @@
 <AM lemma="A1" src="auto">X@-------------</AM>
 <AM lemma="A1-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 1</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0441-001-p1s3W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2297,6 +2317,11 @@
 <AM lemma="A3" src="auto">X@-------------</AM>
 <AM lemma="A3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 3</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0441-001-p1s3W51-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2320,6 +2345,11 @@
 <AM lemma="A2" src="auto">X@-------------</AM>
 <AM lemma="A2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0441-001-p1s3W53-Ta">
 <src.rf>tagger-a</src.rf>

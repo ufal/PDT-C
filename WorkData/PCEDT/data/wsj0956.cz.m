@@ -1279,11 +1279,13 @@
 <w.rf>
 <LM>w#w-wsj0956-001-p1s4W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>přehlídce</form>
 <tag>
 <AM lemma="přehlídka" src="auto">NNFS3-----A----</AM>
-<AM lemma="přehlídka" src="auto" recommended="1">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="přehlídka" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0956-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5276,20 +5278,21 @@
 <LM>w#w-wsj0956-001-p1s18W4</LM>
 </w.rf>
 <form>34</form>
-<tag>
-<AM lemma="34" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="34" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0956-001-p1s18W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0956-001-p1s18W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>stránkovém</form>
 <tag>
 <AM lemma="stránkový" src="auto">AAIS6----1A----</AM>
 <AM lemma="stránkový" src="auto">AAMS6----1A----</AM>
-<AM lemma="stránkový" src="auto" recommended="1">AANS6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="stránkový" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0956-001-p1s18W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6169,6 +6172,11 @@
 <AM lemma="Q45" src="auto">X@-------------</AM>
 <AM lemma="Q45" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Q 45</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0956-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>

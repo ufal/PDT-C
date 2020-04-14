@@ -2693,6 +2693,11 @@
 </w.rf>
 <form>6,20</form>
 <tag lemma="6,20" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>6.20</text>
+</LM>
+</comment>
 </m>
 <m id="m017-d1t721-9">
 <w.rf>

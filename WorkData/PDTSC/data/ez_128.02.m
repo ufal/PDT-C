@@ -4483,6 +4483,11 @@
 <AM lemma="170V" src="auto">X@-------------</AM>
 <AM lemma="170V" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 170 V</text>
+</LM>
+</comment>
 </m>
 <m id="m128-d-m-d1e802-x2-punct-punct">
 <w.rf>

@@ -2610,6 +2610,11 @@
 <AM lemma="A4" src="auto">X@-------------</AM>
 <AM lemma="A4" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 4</text>
+</LM>
+</comment>
 </m>
 <m id="m104-d1t1267-6">
 <w.rf>

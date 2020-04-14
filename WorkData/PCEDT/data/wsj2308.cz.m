@@ -11509,6 +11509,7 @@
 <w.rf>
 <LM>w#w-wsj2308-001-p1s36W35</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>desetidenní</form>
 <tag>
 <AM lemma="desetidenní" src="auto">AAFP1----1A----</AM>
@@ -11537,8 +11538,9 @@
 <AM lemma="desetidenní" src="auto">AANP5----1A----</AM>
 <AM lemma="desetidenní" src="auto">AANS1----1A----</AM>
 <AM lemma="desetidenní" src="auto">AANS4----1A----</AM>
-<AM lemma="desetidenní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="desetidenní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2308-001-p1s36W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12367,6 +12369,11 @@
 <AM lemma="PW4060" src="auto">X@-------------</AM>
 <AM lemma="PW4060" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: PW 4060</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2308-001-p1s39W21-Ta">
 <src.rf>tagger-a</src.rf>

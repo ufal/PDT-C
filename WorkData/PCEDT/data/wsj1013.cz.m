@@ -3553,6 +3553,11 @@
 <AM lemma="300milionová" src="auto">X@-------------</AM>
 <AM lemma="300milionový_,s_^(^DD**300miliónový)" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 300 milionová</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1013-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -527,6 +527,11 @@
 <AM lemma="59letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="59letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 59 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1317-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -961,6 +966,11 @@
 <AM lemma="57letý" src="auto">AAMS4----1A----</AM>
 <AM lemma="57letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 57 letého</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1317-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3433,6 +3443,11 @@
 <AM lemma="50letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="50letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 50 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1317-001-p1s11W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3715,6 +3730,11 @@
 <AM lemma="56letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="56letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 56 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1317-001-p1s12W2-Ta">
 <src.rf>tagger-a</src.rf>

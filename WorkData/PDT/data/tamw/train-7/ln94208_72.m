@@ -510,6 +510,11 @@
 <form_change>spell</form_change>
 <form>17letí</form>
 <tag lemma="17letý" src="orig" selected="1">AAMP1----1A----</tag>
+<comment>
+<LM type="Other">
+<text>2v1: 17 letí</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94208-72-p2s3w4">
 <src.rf>manual</src.rf>

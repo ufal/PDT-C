@@ -445,6 +445,11 @@
 <AM lemma="Dunkin'" src="auto">X@-------------</AM>
 <AM lemma="Dunkin'-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Dunkin '</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0159-001-p1s0W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -678,6 +683,11 @@
 <AM lemma="Dunkin'" src="auto">X@-------------</AM>
 <AM lemma="Dunkin'_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Dunkin '</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0159-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1199,6 +1209,11 @@
 <AM lemma="Dunkin'" src="auto">X@-------------</AM>
 <AM lemma="Dunkin'_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Dunkin '</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0159-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3629,6 +3629,11 @@
 <AM lemma="15librové" src="auto">X@-------------</AM>
 <AM lemma="15librové" src="manual" selected="1">AANS1----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 15 librové</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1435-001-p1s14W7-Ta">
 <src.rf>tagger-a</src.rf>

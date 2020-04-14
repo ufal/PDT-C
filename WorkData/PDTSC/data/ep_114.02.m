@@ -6913,6 +6913,11 @@
 </w.rf>
 <form>1,20</form>
 <tag lemma="1,20" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.20</text>
+</LM>
+</comment>
 </m>
 <m id="m114-d1e770-x2-438">
 <w.rf>

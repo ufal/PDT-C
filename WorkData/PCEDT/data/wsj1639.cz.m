@@ -467,6 +467,11 @@
 <AM lemma="B2" src="auto">X@-------------</AM>
 <AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: B 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1639-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1191,6 +1196,11 @@
 <AM lemma="B2" src="auto">X@-------------</AM>
 <AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: B 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1639-001-p1s3W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1214,6 +1224,11 @@
 <AM lemma="Ba3" src="auto">X@-------------</AM>
 <AM lemma="Ba3" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Ba 3</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1639-001-p1s3W31-Ta">
 <src.rf>tagger-a</src.rf>

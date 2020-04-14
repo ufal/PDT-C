@@ -4516,6 +4516,11 @@
 <AM lemma="d'" src="auto">X@-------------</AM>
 <AM lemma="d'-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: d '</text>
+</LM>
+</comment>
 </m>
 <m id="m136-d1t2152-2">
 <w.rf>

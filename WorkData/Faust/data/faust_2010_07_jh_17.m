@@ -179,6 +179,11 @@
 <AM lemma="X1i">X@-------------</AM>
 <AM lemma="X1i" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: X 1 i</text>
+</LM>
+</comment>
 </m>
 <m id="jh_17-SCzechM-p1754-s1-w2">
 <w.rf>
@@ -196,6 +201,11 @@
 <AM lemma="X1j">X@-------------</AM>
 <AM lemma="X1j" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: X 1 j</text>
+</LM>
+</comment>
 </m>
 <m id="jh_17-SCzechM-p1754-s1-w4">
 <w.rf>
@@ -1765,6 +1775,11 @@
 <AM lemma="PT10">X@-------------</AM>
 <AM lemma="PT10" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: PT 10</text>
+</LM>
+</comment>
 </m>
 <m id="jh_17-SCzechM-p1769-s1-w13">
 <w.rf>
@@ -1834,6 +1849,11 @@
 <AM lemma="T6">X@-------------</AM>
 <AM lemma="T6" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: T 6</text>
+</LM>
+</comment>
 </m>
 <m id="jh_17-SCzechM-p1769-s1-w22">
 <w.rf>

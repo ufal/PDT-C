@@ -3080,6 +3080,11 @@
 </w.rf>
 <form>3,2</form>
 <tag lemma="3,2" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>3.2</text>
+</LM>
+</comment>
 </m>
 <m id="m041-d1t1672-1">
 <w.rf>

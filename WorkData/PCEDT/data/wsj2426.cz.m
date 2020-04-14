@@ -245,7 +245,8 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj2426-001-p1s0W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -253,14 +254,14 @@
 <LM>w#w-wsj2426-001-p1s0W20</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2426-001-p1s0W20-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2426-001-p1s0W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>p</form>
 <tag>
 <AM lemma="p-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -269,8 +270,9 @@
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2426-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1275,6 +1277,11 @@
 <AM lemma="T34C" src="auto">X@-------------</AM>
 <AM lemma="T34C" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: T 34 C</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2426-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>

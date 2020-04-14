@@ -3699,6 +3699,11 @@
 </w.rf>
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>3v1: . . .</text>
+</LM>
+</comment>
 </m>
 </s>
 <s id="m039-d1e2224-x2">

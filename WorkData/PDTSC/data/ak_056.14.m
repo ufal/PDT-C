@@ -1484,7 +1484,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m056-790"/>
+<s id="m056-790"></s>
 <s id="m056-d1e3941-x2">
 <m id="m056-d1t3950-4">
 <w.rf>
@@ -2144,6 +2144,11 @@
 </w.rf>
 <form>V3Skou</form>
 <tag lemma="V3Ska" src="auto" recommended="1">NNFS7-----A----</tag>
+<comment>
+<LM type="Other">
+<text>3v1: V 3 Skou</text>
+</LM>
+</comment>
 </m>
 <m id="m056-d1t4017-16">
 <w.rf>

@@ -2726,6 +2726,11 @@
 <AM lemma="100krát" src="auto">X@-------------</AM>
 <AM lemma="100krát" src="manual" selected="1">Db-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 100 krát</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1934-001-p1s10W14-Ta">
 <src.rf>tagger-a</src.rf>

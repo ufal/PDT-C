@@ -8638,6 +8638,11 @@
 <AM lemma="5B" src="auto">X@-------------</AM>
 <AM lemma="5B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 5 B</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2112-001-p1s30W31-Ta">
 <src.rf>tagger-a</src.rf>

@@ -883,6 +883,11 @@
 <AM lemma="37letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="37letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 37 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0979-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1570,6 +1575,11 @@
 <AM lemma="49letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="49letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 49 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0979-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2083,19 +2093,20 @@
 <LM>w#w-wsj0979-001-p1s5W19</LM>
 </w.rf>
 <form>1.5</form>
-<tag>
-<AM lemma="1.5" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="1.5" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0979-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0979-001-p1s5W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>miliardovou</form>
 <tag>
 <AM lemma="miliardový" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="miliardový" src="auto">AAFS7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="miliardový" src="auto">AAFS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0979-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

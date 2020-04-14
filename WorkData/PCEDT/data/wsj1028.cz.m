@@ -5641,6 +5641,11 @@
 <AM lemma="Baa2" src="manual">NNXXX-----A----</AM>
 <AM lemma="Baa2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Baa 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1028-001-p1s14W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5665,6 +5670,11 @@
 <AM lemma="Ba3" src="manual">NNXXX-----A----</AM>
 <AM lemma="Ba3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Ba 3</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1028-001-p1s14W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5916,6 +5926,11 @@
 <AM lemma="Baa3" src="manual">NNXXX-----A----</AM>
 <AM lemma="Baa3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Baa 3</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1028-001-p1s14W50-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5940,6 +5955,11 @@
 <AM lemma="B2" src="manual">NNXXX-----A----</AM>
 <AM lemma="B2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: B 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1028-001-p1s14W52-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6105,6 +6125,11 @@
 <AM lemma="Baa2" src="manual">NNXXX-----A----</AM>
 <AM lemma="Baa2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Baa 2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1028-001-p1s15W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6129,6 +6154,11 @@
 <AM lemma="Ba3" src="manual">NNXXX-----A----</AM>
 <AM lemma="Ba3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Ba 3</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1028-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>

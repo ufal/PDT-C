@@ -3728,6 +3728,11 @@
 <AM lemma="53rd" src="auto">X@-------------</AM>
 <AM lemma="53rd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 53 rd</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0277-001-p1s11W22-Ta">
 <src.rf>tagger-a</src.rf>

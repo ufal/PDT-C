@@ -467,6 +467,11 @@
 <AM lemma="340B" src="auto">X@-------------</AM>
 <AM lemma="340B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 340 B</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1785-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>

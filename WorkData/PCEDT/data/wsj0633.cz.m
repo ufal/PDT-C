@@ -14093,6 +14093,11 @@
 <AM lemma="10tisícové" src="auto">X@-------------</AM>
 <AM lemma="10tisícové" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 10 tisícové</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0633-001-p1s54W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15279,10 +15284,10 @@
 <w.rf>
 <LM>w#w-wsj0633-001-p1s62W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>mohou</form>
-<tag>
-<AM lemma="moci" src="auto" recommended="1">VB-P---3P-AAI-1</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="moci" src="auto" recommended="1">VB-P---3P-AAI-1</tag>
+</m>
 <m id="m-wsj0633-001-p1s62W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -18761,6 +18766,11 @@
 <AM lemma="36stránkový" src="auto">X@-------------</AM>
 <AM lemma="36stránkový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 36 stránkový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0633-001-p1s74W18-Ta">
 <src.rf>tagger-a</src.rf>

@@ -12606,6 +12606,11 @@
 <AM lemma="52letý" src="auto">AANS4----1A----</AM>
 <AM lemma="52letý" src="auto">AANS5----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 52 leté</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0990-001-p1s40W5-Ta">
 <src.rf>tagger-a</src.rf>

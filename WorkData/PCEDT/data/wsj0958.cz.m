@@ -1361,6 +1361,11 @@
 <AM lemma="A310" src="auto">X@-------------</AM>
 <AM lemma="A310" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: A 310</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0958-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1981,6 +1986,11 @@
 <AM lemma="DC10" src="auto">X@-------------</AM>
 <AM lemma="DC10" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: DC 10</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0958-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3288,6 +3298,11 @@
 <AM lemma="300ER" src="auto">X@-------------</AM>
 <AM lemma="300ER" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 300 ER</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0958-001-p1s7W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3706,6 +3721,11 @@
 <AM lemma="300ER" src="auto">X@-------------</AM>
 <AM lemma="300ER" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 300 ER</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0958-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4388,6 +4408,11 @@
 <AM lemma="DC10" src="auto">X@-------------</AM>
 <AM lemma="DC10" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: DC 10</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0958-001-p1s9W40-Ta">
 <src.rf>tagger-a</src.rf>

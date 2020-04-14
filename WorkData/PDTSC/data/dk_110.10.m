@@ -31,6 +31,11 @@
 </w.rf>
 <form>4.</form>
 <tag lemma="4" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>2v1: 4 .</text>
+</LM>
+</comment>
 </m>
 <m id="m110-350-106">
 <w.rf>

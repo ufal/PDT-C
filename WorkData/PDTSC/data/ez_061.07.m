@@ -3292,6 +3292,11 @@
 <AM lemma="21letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="21letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 21 letého</text>
+</LM>
+</comment>
 </m>
 <m id="m061-d1t2541-5">
 <w.rf>
@@ -4272,6 +4277,11 @@
 </w.rf>
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>3v1: . . .</text>
+</LM>
+</comment>
 </m>
 </s>
 <s id="m061-41">
@@ -5162,6 +5172,11 @@
 </w.rf>
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>3v1: . . .</text>
+</LM>
+</comment>
 </m>
 </s>
 <s id="m061-127">

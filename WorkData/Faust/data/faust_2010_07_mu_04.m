@@ -1937,6 +1937,11 @@
 <AM lemma="0x00000000">X@-------------</AM>
 <AM lemma="0x00000000-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>3v1: 0 x 00000000</text>
+</LM>
+</comment>
 </m>
 <m id="mu_04-SCzechM-p0335-s1-w12">
 <w.rf>

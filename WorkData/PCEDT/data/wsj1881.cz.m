@@ -299,10 +299,10 @@
 <w.rf>
 <LM>w#w-wsj1881-001-p1s0W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>být</form>
-<tag>
-<AM lemma="být" src="auto" recommended="1">Vf--------A-I--</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="být" src="auto" recommended="1">Vf--------A-I--</tag>
+</m>
 <m id="m-wsj1881-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -691,10 +691,10 @@
 <w.rf>
 <LM>w#w-wsj1881-001-p1s2W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>milionů</form>
-<tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+</m>
 <m id="m-wsj1881-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9470,14 +9470,16 @@
 <w.rf>
 <LM>w#w-wsj1881-001-p1s31W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
+</tag>
+</m>
 <m id="m-wsj1881-001-p1s31W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9949,6 +9951,11 @@
 <AM lemma="13D" src="auto">X@-------------</AM>
 <AM lemma="13D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 13 D</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1881-001-p1s33W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11431,10 +11438,10 @@
 <w.rf>
 <LM>w#w-wsj1881-001-p1s40W22</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>začlenit</form>
-<tag>
-<AM lemma="začlenit" src="auto" recommended="1">Vf--------A-P--</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="začlenit" src="auto" recommended="1">Vf--------A-P--</tag>
+</m>
 <m id="m-wsj1881-001-p1s40W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

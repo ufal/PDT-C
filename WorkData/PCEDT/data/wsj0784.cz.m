@@ -957,6 +957,11 @@
 <AM lemma="53patrový" src="auto">X@-------------</AM>
 <AM lemma="53patrový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 53 patrový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0784-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4053,6 +4058,11 @@
 <AM lemma="132akrové" src="auto">X@-------------</AM>
 <AM lemma="132akrový" src="manual" selected="1">AAFS6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 132 akrové</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0784-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6345,6 +6355,11 @@
 <AM lemma="40hodinový" src="auto">X@-------------</AM>
 <AM lemma="40hodinový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 40 hodinový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0784-001-p1s19W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6419,6 +6434,11 @@
 <AM lemma="35hodinový" src="auto">X@-------------</AM>
 <AM lemma="35hodinový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 35 hodinový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0784-001-p1s19W36-Ta">
 <src.rf>tagger-a</src.rf>

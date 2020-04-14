@@ -4902,6 +4902,11 @@
 <AM lemma="P1" src="auto">X@-------------</AM>
 <AM lemma="P1-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: P 1</text>
+</LM>
+</comment>
 </m>
 <m id="m128-d-id109977-punct">
 <w.rf>

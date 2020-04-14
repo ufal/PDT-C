@@ -6271,6 +6271,11 @@
 <AM lemma="30letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="30letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 30 letý</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s20W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9403,6 +9408,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s30W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9878,6 +9888,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s31W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20602,6 +20617,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s73W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20889,6 +20909,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s74W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20977,6 +21002,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s75W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -21467,6 +21497,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s76W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -21732,6 +21767,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s76W46-Ta">
 <src.rf>tagger-a</src.rf>
@@ -22411,6 +22451,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s78W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -22794,6 +22839,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s79W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -23217,6 +23267,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s81W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -23935,6 +23990,11 @@
 <AM lemma="p53" src="auto">X@-------------</AM>
 <AM lemma="p53" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: p 53</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0465-001-p1s83W17-Ta">
 <src.rf>tagger-a</src.rf>
