@@ -17,9 +17,7 @@ def parse_lemma(lemma):
             lemma_id = "{}-{}".format(raw_lemma, sense)
             assert lemma.startswith(lemma_id)
 
-            if sense == 0:
-                print("LS-0 Lemma sense 0 for lemma {}".format(lemma))
-            elif not (sense >= 1 and sense < 255):
+            if not (sense >= 1 and sense < 255):
                 print("LS-Rng Bad range of lemma sense of lemma {}".format(lemma))
 
             info = info[match.end():]
@@ -98,28 +96,29 @@ def parse_lemma_and_validate(form, lemma, tag):
     raw_lemma, sense, reference, style, terms, derivations, comments = parse_lemma(lemma)
 
     # Special lemmas
+    form_equal_lemma = len(raw_lemma) == len(form) and all(l == f if l.isupper() else l.lower() == f.lower() for l, f in zip(raw_lemma, form))
     if sense == 77 and (
-            tag != "F%-------------" or raw_lemma.lower() != form.lower() or reference or style or terms or derivations or comments):
+            tag != "F%-------------" or not form_equal_lemma or reference or style or terms or derivations or comments):
         print("SL-77 Sense 77 implies tag F%, lemma==form and no other lemma info for lemma {} tag {} form {}".format(lemma, tag, form))
     if tag == "F%-------------" and (
-            sense != 77 or raw_lemma.lower() != form.lower() or reference or style or terms or derivations or comments):
+            sense != 77 or not form_equal_lemma or reference or style or terms or derivations or comments):
         print("SL-F% Tag F% implies sense 77, lemma==form and no other lemma info for lemma {} tag {} form {}".format(lemma, tag, form))
     if sense == 88 and (
-            tag != "BNXXX-----A----" or raw_lemma.lower() != form.lower() or reference or style or terms or derivations or comments):
+            tag != "BNXXX-----A----" or not form_equal_lemma or reference or style or terms or derivations or comments):
         print("SL-88 Sense 88 implies tag BNXXX, lemma==form and no other lemma info for lemma {} tag {} form {}".format(lemma, tag, form))
     if sense == 33 and (
-            tag != "NNNXX-----A----" or raw_lemma.lower() != form.lower() or reference or style or terms or derivations or comments != ["označení_pomocí_písmene"]):
+            tag != "NNNXX-----A----" or not form_equal_lemma or reference or style or terms or derivations or comments != ["označení_pomocí_písmene"]):
         print("SL-33 Sense 33 implies tag NNNXX, lemma==form, comment označení_pomocí_písmene and no other lemma info for lemma {} tag {} form {}".format(lemma, tag, form))
     if sense == 99 and (
-            tag != "NNXXX-----A----" or raw_lemma.lower() != form.lower() or style or terms != ["S"] or derivations or comments):
-        print("SL-99 Sense 99 implies tag NNXXX, lemma==form, term S and no other lemma info for lemma {} tag {} form {}".format(lemma, tag, form))
+            tag != "BNXXX-----A----" or not form_equal_lemma or style or terms != ["S"] or derivations or comments):
+        print("SL-99 Sense 99 implies tag BNXXX, lemma==form, term S and no other lemma info for lemma {} tag {} form {}".format(lemma, tag, form))
 
     # Typed derivation links
     for link_type, link in derivations:
-        if link_type not in ["", "DD", "DS", "GC", "G2", "AR", "OR"]:
+        if link_type not in ["", "DD", "DS", "GC"]:
             print("D-Type Unknown derivation link type {} for lemma {}".format(link_type, lemma))
-        if link_type == "GC" and style not in ["h", "n", "l", "v"]:
-            print("D-GC For derivation link GC, style is expected to be one of `hnlv` for lemma {}".format(lemma))
+        if link_type == "GC" and style not in ["h", "n", "l", "e", "v"]:
+            print("D-GC For derivation link GC, style is expected to be one of `hnlev` for lemma {}".format(lemma))
         if link_type == "DD" and style not in ["a", "s"]:
             print("D-DD For derivation link GC, style is expected to be one of `as` for lemma {}".format(lemma))
         if link_type == "DS" and style not in ["i"]:
@@ -137,23 +136,24 @@ def parse_lemma_and_validate(form, lemma, tag):
     else:
         if len(set(terms)) < len(terms):
             print("T-Rpt Repeated term in lemma {}".format(lemma))
-        if "".join(terms) != "".join(sorted(terms, key=str.lower)):
+        if "".join(terms) != "".join(sorted(terms, key=lambda l: "z" if l == "m" else l.lower())):
             print("T-Ord Terms not sorted (case insensitively) in lemma {}".format(lemma))
 
-    # Uppercase lemmas as a term
-    if raw_lemma[0].isupper() and not terms:
-        print("T-Uc Uppercase lemma without term {}".format(lemma))
+#     # Uppercase lemmas as a term
+#     if raw_lemma[0].isupper() and not terms:
+#         print("T-Uc Uppercase lemma without term {}".format(lemma))
 
     # Specific terms are nouns
-    if (set(terms) & {"E", "G", "K", "m", "R", "S", "Y"}) and not tag.startswith("NN"):
-        print("T-NN Term EGKmRSY should imply noun, but got lemma {} and tag {}".format(lemma, tag))
+    if (set(terms) & {"E", "G", "K", "m", "R", "S", "Y"}) and not tag.startswith(("NN", "AU", "BN", "SN")):
+        print("T-NN Term EGKmRSY should imply NN/AU/BN/SN, but got lemma {} and tag {}".format(lemma, tag))
 
     # Tags
     if len(tag) != 15:
         print("T-15 Tags should always consist of 15 characters for lemma {} and tag {}".format(lemma, tag))
 
     if len(tag) >= 5 and tag[3:5] in ["SX", "PX"]:
-        print("T-SPX Tag cannot have number without case (SX/PX) in lemma {} and tag {}".format(lemma, tag))
+        if (raw_lemma, tag) not in [("její", "PSFSXFS3-------"), ("jejíž", "P1FSXFS3-------"), ("jejíž", "P1FSXFS3------2")]:
+            print("T-SPX Tag cannot have number without case (SX/PX) in lemma {} and tag {}".format(lemma, tag))
 
     # Aspects
     if len(tag) > 12 and tag.startswith("V") != (tag[12] in ["P", "I", "B"]):
