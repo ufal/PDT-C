@@ -1,7 +1,5 @@
-multiple-*.txt
-unique-*.txt
-pdt.train
-pdt.dtest
-pdt.etest
-*.tsv
-*.tsv.log
+Faust/
+PCEDT/
+PDT/
+PDTSC/
+__pycache__/
