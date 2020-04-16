@@ -6,7 +6,8 @@
 for d in Faust PCEDT PDT PDTSC; do
   mkdir -p $d
   (
-    cd $d && python3 ../pdtc_to_vertical.py `find ../../../../$d -name "*.m"` >$d.tsv
+    cd $d
+    [ -n "$TSV_VALID" ] || python3 ../pdtc_to_vertical.py `find ../../../../$d -name "*.m"` >$d.tsv
     perl ../consistency_vertical.pl "$1" $d.tsv >$d.tsv.log
   ) &
 done
