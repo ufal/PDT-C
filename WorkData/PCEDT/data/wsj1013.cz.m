@@ -3548,28 +3548,22 @@
 <w.rf>
 <LM>w#w-wsj1013-001-p1s10W6</LM>
 </w.rf>
-<form>300milionová</form>
+<form>300</form>
 <tag>
-<AM lemma="300milionová" src="auto">X@-------------</AM>
-<AM lemma="300milionový_,s_^(^DD**300miliónový)" src="manual" selected="1">AAFS1----1A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>300</text>
-</LM>
-</comment>
+<AM lemma="300" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj1013-001-p1s10W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1013-001-p1s10W6</LM>
 </w.rf>
-<form>300milionová</form>
+<form>milionová</form>
 <tag>
-<AM lemma="300milionová" src="auto">X@-------------</AM>
-<AM lemma="300milionový_,s_^(^DD**300miliónový)" src="manual" selected="1">AAFS1----1A----</AM>
-</tag>
-<comment><LM type="New Form"><text>milionová</text></LM></comment>
-</m>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFS5----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP1----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP5----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1013-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

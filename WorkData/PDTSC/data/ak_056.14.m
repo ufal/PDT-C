@@ -2142,28 +2142,32 @@
 <w.rf>
 <LM>w#w-d1t4017-12</LM>
 </w.rf>
-<form>V3Skou</form>
-<tag lemma="V3Ska" src="auto" recommended="1">NNFS7-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>V</text>
-</LM>
-</comment>
+<form>V</form>
+<tag>
+<AM lemma="V-3`5" src="auto">C}-------------</AM>
+<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="volt" src="auto">NNIXX-----A---8</AM>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
 </m><m id="m056-d1t4017-12-sw1">
 <w.rf>
 <LM>w#w-d1t4017-12</LM>
 </w.rf>
-<form>V3Skou</form>
-<tag lemma="V3Ska" src="auto" recommended="1">NNFS7-----A----</tag>
-<comment><LM type="New Form"><text>3</text></LM></comment>
+<form>3</form>
+<tag>
+<AM lemma="3" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m056-d1t4017-12-sw2">
 <w.rf>
 <LM>w#w-d1t4017-12</LM>
 </w.rf>
-<form>V3Skou</form>
-<tag lemma="V3Ska" src="auto" recommended="1">NNFS7-----A----</tag>
-<comment><LM type="New Form"><text>Skou</text></LM></comment>
-</m>
+<form>Skou</form>
+<tag>
+<AM lemma="Skou" src="auto">X@-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m056-d1t4017-16">
 <w.rf>
 <LM>w#w-d1t4017-16</LM>

@@ -2784,21 +2784,17 @@
 <w.rf>
 <LM>w#w-d1t2489-15</LM>
 </w.rf>
-<form>8.</form>
-<tag lemma="8" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>8</text>
-</LM>
-</comment>
+<form>8</form>
+<tag>
+<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m110-d1t2489-15-sw1">
 <w.rf>
 <LM>w#w-d1t2489-15</LM>
 </w.rf>
-<form>8.</form>
-<tag lemma="8" src="auto" recommended="1">C=-------------</tag>
-<comment><LM type="New Form"><text>.</text></LM></comment>
-</m>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m110-d1t2489-16">
 <w.rf>
 <LM>w#w-d1t2489-16</LM>

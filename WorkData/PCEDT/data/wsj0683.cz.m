@@ -3315,30 +3315,20 @@
 <w.rf>
 <LM>w#w-wsj0683-001-p1s7W38</LM>
 </w.rf>
-<form>50letém</form>
+<form>50</form>
 <tag>
-<AM lemma="50letý" src="auto">AAIS6----1A----</AM>
-<AM lemma="50letý" src="auto">AAMS6----1A----</AM>
-<AM lemma="50letý" src="auto" recommended="1">AANS6----1A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>50</text>
-</LM>
-</comment>
+<AM lemma="50" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj0683-001-p1s7W38-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0683-001-p1s7W38</LM>
 </w.rf>
-<form>50letém</form>
+<form>letém</form>
 <tag>
-<AM lemma="50letý" src="auto">AAIS6----1A----</AM>
-<AM lemma="50letý" src="auto">AAMS6----1A----</AM>
-<AM lemma="50letý" src="auto" recommended="1">AANS6----1A----</AM>
-</tag>
-<comment><LM type="New Form"><text>letém</text></LM></comment>
-</m>
+<AM lemma="letý" src="auto">AAIS6----1A----</AM>
+<AM lemma="letý" src="auto">AAMS6----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AANS6----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0683-001-p1s7W39-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -260,28 +260,24 @@
 <w.rf>
 <LM>w#w-183-185</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
-</comment>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 </m><m id="m144-183-185-sw1">
 <w.rf>
 <LM>w#w-183-185</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment><LM type="New Form"><text>.</text></LM></comment>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 </m><m id="m144-183-185-sw2">
 <w.rf>
 <LM>w#w-183-185</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment><LM type="New Form"><text>.</text></LM></comment>
-</m>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 </s>
 <s id="m144-186">
 <m id="m144-d1t1295-1">

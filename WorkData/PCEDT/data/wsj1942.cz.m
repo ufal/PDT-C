@@ -265,28 +265,22 @@
 <w.rf>
 <LM>w#w-wsj1942-001-p1s0W20</LM>
 </w.rf>
-<form>2C</form>
+<form>2</form>
 <tag>
-<AM lemma="2C" src="auto">X@-------------</AM>
-<AM lemma="2C" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>2</text>
-</LM>
-</comment>
+<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj1942-001-p1s0W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1942-001-p1s0W20</LM>
 </w.rf>
-<form>2C</form>
+<form>C</form>
 <tag>
-<AM lemma="2C" src="auto">X@-------------</AM>
-<AM lemma="2C" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>C</text></LM></comment>
-</m>
+<AM lemma="C-3`100" src="auto">C}-------------</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
+<AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1942-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

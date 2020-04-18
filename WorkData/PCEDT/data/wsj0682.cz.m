@@ -1999,28 +1999,20 @@
 <w.rf>
 <LM>w#w-wsj0682-001-p1s6W5</LM>
 </w.rf>
-<form>CF6</form>
+<form>CF</form>
 <tag>
-<AM lemma="CF6" src="auto">X@-------------</AM>
-<AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>CF</text>
-</LM>
-</comment>
+<AM lemma="CF-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="californium_:B_;H_,t" src="auto">NNNXX-----A---8</AM>
+<AM lemma="cf-77_:B" src="auto">F%-------------</AM></tag>
 </m><m id="m-wsj0682-001-p1s6W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0682-001-p1s6W5</LM>
 </w.rf>
-<form>CF6</form>
+<form>6</form>
 <tag>
-<AM lemma="CF6" src="auto">X@-------------</AM>
-<AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>6</text></LM></comment>
-</m>
+<AM lemma="6" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0682-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4469,28 +4461,20 @@
 <w.rf>
 <LM>w#w-wsj0682-001-p1s13W6</LM>
 </w.rf>
-<form>CF6</form>
+<form>CF</form>
 <tag>
-<AM lemma="CF6" src="auto">X@-------------</AM>
-<AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>CF</text>
-</LM>
-</comment>
+<AM lemma="CF-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="californium_:B_;H_,t" src="auto">NNNXX-----A---8</AM>
+<AM lemma="cf-77_:B" src="auto">F%-------------</AM></tag>
 </m><m id="m-wsj0682-001-p1s13W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0682-001-p1s13W6</LM>
 </w.rf>
-<form>CF6</form>
+<form>6</form>
 <tag>
-<AM lemma="CF6" src="auto">X@-------------</AM>
-<AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>6</text></LM></comment>
-</m>
+<AM lemma="6" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0682-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

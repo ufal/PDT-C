@@ -8739,28 +8739,22 @@
 <w.rf>
 <LM>w#w-wsj0301-001-p1s26W10</LM>
 </w.rf>
-<form>G7</form>
+<form>G</form>
 <tag>
-<AM lemma="G7" src="auto">X@-------------</AM>
-<AM lemma="G7" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>G</text>
-</LM>
-</comment>
+<AM lemma="G-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="G-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="g-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="g-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="gram" src="auto">NNIXX-----A---8</AM></tag>
 </m><m id="m-wsj0301-001-p1s26W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0301-001-p1s26W10</LM>
 </w.rf>
-<form>G7</form>
+<form>7</form>
 <tag>
-<AM lemma="G7" src="auto">X@-------------</AM>
-<AM lemma="G7" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>7</text></LM></comment>
-</m>
+<AM lemma="7" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0301-001-p1s26W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9335,28 +9329,22 @@
 <w.rf>
 <LM>w#w-wsj0301-001-p1s27W1</LM>
 </w.rf>
-<form>G7</form>
+<form>G</form>
 <tag>
-<AM lemma="G7" src="auto">X@-------------</AM>
-<AM lemma="G7" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>G</text>
-</LM>
-</comment>
+<AM lemma="G-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="G-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="g-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="g-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="gram" src="auto">NNIXX-----A---8</AM></tag>
 </m><m id="m-wsj0301-001-p1s27W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0301-001-p1s27W1</LM>
 </w.rf>
-<form>G7</form>
+<form>7</form>
 <tag>
-<AM lemma="G7" src="auto">X@-------------</AM>
-<AM lemma="G7" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>7</text></LM></comment>
-</m>
+<AM lemma="7" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0301-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

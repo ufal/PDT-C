@@ -6895,28 +6895,26 @@
 <w.rf>
 <LM>w#w-wsj2253-001-p1s21W19</LM>
 </w.rf>
-<form>M2</form>
+<form>M</form>
 <tag>
-<AM lemma="m2-1_:B_^(metr_čtvereční)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="M2" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>M</text>
-</LM>
-</comment>
+<AM lemma="M-3`1000" src="auto">C}-------------</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="M-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM></tag>
 </m><m id="m-wsj2253-001-p1s21W19-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2253-001-p1s21W19</LM>
 </w.rf>
-<form>M2</form>
+<form>2</form>
 <tag>
-<AM lemma="m2-1_:B_^(metr_čtvereční)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="M2" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>2</text></LM></comment>
-</m>
+<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj2253-001-p1s21W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

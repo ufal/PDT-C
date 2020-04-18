@@ -1356,28 +1356,26 @@
 <w.rf>
 <LM>w#w-wsj0958-001-p1s2W18</LM>
 </w.rf>
-<form>A310</form>
+<form>A</form>
 <tag>
-<AM lemma="A310" src="auto">X@-------------</AM>
-<AM lemma="A310" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>A</text>
-</LM>
-</comment>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="A-77_^(př._a_la)" src="auto">F%-------------</AM>
+<AM lemma="A-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="ampér" src="auto">NNIXX-----A---8</AM>
+<AM lemma="a-1" src="auto">J^-------------</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-77_,t" src="auto">F%-------------</AM>
+<AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
 </m><m id="m-wsj0958-001-p1s2W18-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0958-001-p1s2W18</LM>
 </w.rf>
-<form>A310</form>
+<form>310</form>
 <tag>
-<AM lemma="A310" src="auto">X@-------------</AM>
-<AM lemma="A310" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>310</text></LM></comment>
-</m>
+<AM lemma="310" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0958-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1992,28 +1990,18 @@
 <w.rf>
 <LM>w#w-wsj0958-001-p1s4W9</LM>
 </w.rf>
-<form>DC10</form>
+<form>DC</form>
 <tag>
-<AM lemma="DC10" src="auto">X@-------------</AM>
-<AM lemma="DC10" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>DC</text>
-</LM>
-</comment>
+<AM lemma="DC_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
 </m><m id="m-wsj0958-001-p1s4W9-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0958-001-p1s4W9</LM>
 </w.rf>
-<form>DC10</form>
+<form>10</form>
 <tag>
-<AM lemma="DC10" src="auto">X@-------------</AM>
-<AM lemma="DC10" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>10</text></LM></comment>
-</m>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0958-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3315,28 +3303,22 @@
 <w.rf>
 <LM>w#w-wsj0958-001-p1s7W24</LM>
 </w.rf>
-<form>300ER</form>
+<form>300</form>
 <tag>
-<AM lemma="300ER" src="auto">X@-------------</AM>
-<AM lemma="300ER" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>300</text>
-</LM>
-</comment>
+<AM lemma="300" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj0958-001-p1s7W24-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0958-001-p1s7W24</LM>
 </w.rf>
-<form>300ER</form>
+<form>ER</form>
 <tag>
-<AM lemma="300ER" src="auto">X@-------------</AM>
-<AM lemma="300ER" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>ER</text></LM></comment>
-</m>
+<AM lemma="ER-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="erbium_:B_;H" src="auto">NNNXX-----A---8</AM>
+<AM lemma="er-77_,t" src="auto">F%-------------</AM>
+<AM lemma="er_^(er-forma)" src="auto">A2--------A----</AM>
+<AM lemma="er_^(název_hlásky_r)" src="auto">NNNXX-----A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0958-001-p1s7W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3749,28 +3731,22 @@
 <w.rf>
 <LM>w#w-wsj0958-001-p1s8W11</LM>
 </w.rf>
-<form>300ER</form>
+<form>300</form>
 <tag>
-<AM lemma="300ER" src="auto">X@-------------</AM>
-<AM lemma="300ER" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>300</text>
-</LM>
-</comment>
+<AM lemma="300" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj0958-001-p1s8W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0958-001-p1s8W11</LM>
 </w.rf>
-<form>300ER</form>
+<form>ER</form>
 <tag>
-<AM lemma="300ER" src="auto">X@-------------</AM>
-<AM lemma="300ER" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>ER</text></LM></comment>
-</m>
+<AM lemma="ER-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="erbium_:B_;H" src="auto">NNNXX-----A---8</AM>
+<AM lemma="er-77_,t" src="auto">F%-------------</AM>
+<AM lemma="er_^(er-forma)" src="auto">A2--------A----</AM>
+<AM lemma="er_^(název_hlásky_r)" src="auto" recommended="1">NNNXX-----A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0958-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4447,28 +4423,18 @@
 <w.rf>
 <LM>w#w-wsj0958-001-p1s9W39</LM>
 </w.rf>
-<form>DC10</form>
+<form>DC</form>
 <tag>
-<AM lemma="DC10" src="auto">X@-------------</AM>
-<AM lemma="DC10" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>DC</text>
-</LM>
-</comment>
+<AM lemma="DC_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
 </m><m id="m-wsj0958-001-p1s9W39-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0958-001-p1s9W39</LM>
 </w.rf>
-<form>DC10</form>
+<form>10</form>
 <tag>
-<AM lemma="DC10" src="auto">X@-------------</AM>
-<AM lemma="DC10" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>10</text></LM></comment>
-</m>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0958-001-p1s9W40-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

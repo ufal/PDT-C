@@ -620,14 +620,10 @@
 <w.rf>
 <LM>w#w-d1t1738-4</LM>
 </w.rf>
-<form>184,37</form>
-<tag lemma="184,37" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>184.37</text>
-</LM>
-</comment>
-</m>
+<form>184.37</form>
+<tag>
+<AM lemma="184.37" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m114-d1t1738-10">
 <w.rf>
 <LM>w#w-d1t1738-10</LM>
@@ -758,14 +754,10 @@
 <w.rf>
 <LM>w#w-d1t1745-9</LM>
 </w.rf>
-<form>9,37</form>
-<tag lemma="9,37" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>9.37</text>
-</LM>
-</comment>
-</m>
+<form>9.37</form>
+<tag>
+<AM lemma="9.37" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m114-d1t1745-10">
 <w.rf>
 <LM>w#w-d1t1745-10</LM>
@@ -1654,14 +1646,10 @@
 <w.rf>
 <LM>w#w-d1t1791-11</LM>
 </w.rf>
-<form>1,20</form>
-<tag lemma="1,20" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1.20</text>
-</LM>
-</comment>
-</m>
+<form>1.20</form>
+<tag>
+<AM lemma="1.20" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m114-49-1013">
 <w.rf>
 <LM>w#w-49-1013</LM>
@@ -2107,14 +2095,10 @@
 <w.rf>
 <LM>w#w-d1t1806-17</LM>
 </w.rf>
-<form>1,60</form>
-<tag lemma="1,60" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1.60</text>
-</LM>
-</comment>
-</m>
+<form>1.60</form>
+<tag>
+<AM lemma="1.60" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m114-1032-1041">
 <w.rf>
 <LM>w#w-1032-1041</LM>
@@ -2288,14 +2272,10 @@
 <w.rf>
 <LM>w#w-d1t1811-3</LM>
 </w.rf>
-<form>1,80</form>
-<tag lemma="1,80" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1.80</text>
-</LM>
-</comment>
-</m>
+<form>1.80</form>
+<tag>
+<AM lemma="1.80" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m114-1046-1047">
 <w.rf>
 <LM>w#w-1046-1047</LM>

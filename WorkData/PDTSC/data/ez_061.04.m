@@ -3162,28 +3162,24 @@
 <w.rf>
 <LM>w#w-d-m-d1e1393-x3-punct-punct</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
-</comment>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 </m><m id="m061-d-m-d1e1393-x3-punct-punct-sw1">
 <w.rf>
 <LM>w#w-d-m-d1e1393-x3-punct-punct</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment><LM type="New Form"><text>.</text></LM></comment>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 </m><m id="m061-d-m-d1e1393-x3-punct-punct-sw2">
 <w.rf>
 <LM>w#w-d-m-d1e1393-x3-punct-punct</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment><LM type="New Form"><text>.</text></LM></comment>
-</m>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 </s>
 <s id="m061-d1e1422-x2">
 <m id="m061-d1t1427-1">

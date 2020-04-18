@@ -1116,37 +1116,28 @@
 <w.rf>
 <LM>w#w-d1t3655-4</LM>
 </w.rf>
-<form>d´Ampezzo</form>
+<form>d</form>
 <tag>
-<AM lemma="d´Ampezzo" src="auto">X@-------------</AM>
-<AM lemma="d´Ampezzo-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>d</text>
-</LM>
-</comment>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="d-77" src="auto">F%-------------</AM>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM></tag>
 </m><m id="m148-d1t3655-4-sw1">
 <w.rf>
 <LM>w#w-d1t3655-4</LM>
 </w.rf>
-<form>d´Ampezzo</form>
+<form>'</form>
 <tag>
-<AM lemma="d´Ampezzo" src="auto">X@-------------</AM>
-<AM lemma="d´Ampezzo-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>'</text></LM></comment>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 </m><m id="m148-d1t3655-4-sw2">
 <w.rf>
 <LM>w#w-d1t3655-4</LM>
 </w.rf>
-<form>d´Ampezzo</form>
+<form>Ampezzo</form>
 <tag>
-<AM lemma="d´Ampezzo" src="auto">X@-------------</AM>
-<AM lemma="d´Ampezzo-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>Ampezzo</text></LM></comment>
-</m>
+<AM lemma="Ampezzo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Ampezzo_;G" src="auto">NNNS4-----A----</AM>
+<AM lemma="Ampezzo_;G" src="auto">NNNS5-----A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m148-113-114">
 <w.rf>
 <LM>w#w-113-114</LM>

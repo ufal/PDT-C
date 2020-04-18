@@ -719,47 +719,36 @@
 <w.rf>
 <LM>w#w-mu_06-SCzechM-p0558-s1-w26</LM>
 </w.rf>
-<form>8R5151SS</form>
+<form>8</form>
 <tag>
-<AM lemma="8R5151SS">X@-------------</AM>
-<AM lemma="8R5151SS" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>8</text>
-</LM>
-</comment>
+<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="mu_06-SCzechM-p0558-s1-w26-sw1">
 <w.rf>
 <LM>w#w-mu_06-SCzechM-p0558-s1-w26</LM>
 </w.rf>
-<form>8R5151SS</form>
+<form>R</form>
 <tag>
-<AM lemma="8R5151SS">X@-------------</AM>
-<AM lemma="8R5151SS" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>R</text></LM></comment>
+<AM lemma="R-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="R-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM></tag>
 </m><m id="mu_06-SCzechM-p0558-s1-w26-sw2">
 <w.rf>
 <LM>w#w-mu_06-SCzechM-p0558-s1-w26</LM>
 </w.rf>
-<form>8R5151SS</form>
+<form>5151</form>
 <tag>
-<AM lemma="8R5151SS">X@-------------</AM>
-<AM lemma="8R5151SS" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>5151</text></LM></comment>
+<AM lemma="5151" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="mu_06-SCzechM-p0558-s1-w26-sw3">
 <w.rf>
 <LM>w#w-mu_06-SCzechM-p0558-s1-w26</LM>
 </w.rf>
-<form>8R5151SS</form>
+<form>SS</form>
 <tag>
-<AM lemma="8R5151SS">X@-------------</AM>
-<AM lemma="8R5151SS" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>SS</text></LM></comment>
-</m>
+<AM lemma="SS_:B_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="ss" src="auto">II-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="mu_06-SCzechM-p0558-s1-w27">
 <w.rf>
 <LM>w#w-mu_06-SCzechM-p0558-s1-w27</LM>

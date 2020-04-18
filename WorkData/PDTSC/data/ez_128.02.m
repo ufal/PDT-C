@@ -4478,27 +4478,25 @@
 <w.rf>
 <LM>w#w-d1t805-12</LM>
 </w.rf>
-<form>170V</form>
+<form>170</form>
 <tag>
-<AM lemma="170V" src="auto">X@-------------</AM>
-<AM lemma="170V" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>170</text>
-</LM>
-</comment>
+<AM lemma="170" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m128-d1t805-12-sw1">
 <w.rf>
 <LM>w#w-d1t805-12</LM>
 </w.rf>
-<form>170V</form>
+<form>V</form>
 <tag>
-<AM lemma="170V" src="auto">X@-------------</AM>
-<AM lemma="170V" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>V</text></LM></comment>
-</m>
+<AM lemma="V-3`5" src="auto">C}-------------</AM>
+<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="volt" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m128-d-m-d1e802-x2-punct-punct">
 <w.rf>
 <LM>w#w-d-m-d1e802-x2-punct-punct</LM>

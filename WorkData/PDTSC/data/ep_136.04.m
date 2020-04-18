@@ -4511,27 +4511,19 @@
 <w.rf>
 <LM>w#w-d1e2128-x2-456</LM>
 </w.rf>
-<form>d'</form>
+<form>d</form>
 <tag>
-<AM lemma="d'" src="auto">X@-------------</AM>
-<AM lemma="d'-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>d</text>
-</LM>
-</comment>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="d-77" src="auto">F%-------------</AM>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM></tag>
 </m><m id="m136-d1e2128-x2-456-sw1">
 <w.rf>
 <LM>w#w-d1e2128-x2-456</LM>
 </w.rf>
-<form>d'</form>
+<form>'</form>
 <tag>
-<AM lemma="d'" src="auto">X@-------------</AM>
-<AM lemma="d'-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>'</text></LM></comment>
-</m>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m136-d1t2152-2">
 <w.rf>
 <LM>w#w-d1t2152-2</LM>

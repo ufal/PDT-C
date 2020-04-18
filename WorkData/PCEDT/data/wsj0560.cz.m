@@ -9802,28 +9802,22 @@
 <w.rf>
 <LM>w#w-wsj0560-001-p1s27W21</LM>
 </w.rf>
-<form>AP600</form>
+<form>AP</form>
 <tag>
-<AM lemma="AP600" src="auto">X@-------------</AM>
-<AM lemma="AP600" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>AP</text>
-</LM>
-</comment>
+<AM lemma="AP-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Ap-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="Apa_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="ap-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="ap_:B_^(a_podobně)" src="auto">Db-------------</AM></tag>
 </m><m id="m-wsj0560-001-p1s27W21-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0560-001-p1s27W21</LM>
 </w.rf>
-<form>AP600</form>
+<form>600</form>
 <tag>
-<AM lemma="AP600" src="auto">X@-------------</AM>
-<AM lemma="AP600" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>600</text></LM></comment>
-</m>
+<AM lemma="600" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0560-001-p1s27W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

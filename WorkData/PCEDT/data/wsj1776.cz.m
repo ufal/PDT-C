@@ -162,28 +162,33 @@
 <w.rf>
 <LM>w#w-wsj1776-001-p1s0W14</LM>
 </w.rf>
-<form>60palcové</form>
+<form>60</form>
 <tag>
-<AM lemma="60palcové" src="auto">X@-------------</AM>
-<AM lemma="60palcový" src="manual" selected="1">AAFS6----1A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>60</text>
-</LM>
-</comment>
+<AM lemma="60" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj1776-001-p1s0W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1776-001-p1s0W14</LM>
 </w.rf>
-<form>60palcové</form>
+<form>palcové</form>
 <tag>
-<AM lemma="60palcové" src="auto">X@-------------</AM>
-<AM lemma="60palcový" src="manual" selected="1">AAFS6----1A----</AM>
-</tag>
-<comment><LM type="New Form"><text>palcové</text></LM></comment>
-</m>
+<AM lemma="palcový" src="auto">AAFP1----1A----</AM>
+<AM lemma="palcový" src="auto">AAFP4----1A----</AM>
+<AM lemma="palcový" src="auto">AAFP5----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS2----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS3----1A----</AM>
+<AM lemma="palcový" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP1----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP4----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP5----1A----</AM>
+<AM lemma="palcový" src="auto">AAMP4----1A----</AM>
+<AM lemma="palcový" src="auto">AANP1----1A---6</AM>
+<AM lemma="palcový" src="auto">AANP4----1A---6</AM>
+<AM lemma="palcový" src="auto">AANP5----1A---6</AM>
+<AM lemma="palcový" src="auto">AANS1----1A----</AM>
+<AM lemma="palcový" src="auto">AANS4----1A----</AM>
+<AM lemma="palcový" src="auto">AANS5----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1776-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

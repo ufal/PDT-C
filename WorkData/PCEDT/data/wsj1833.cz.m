@@ -379,28 +379,26 @@
 <w.rf>
 <LM>w#w-wsj1833-001-p1s1W6</LM>
 </w.rf>
-<form>3M</form>
+<form>3</form>
 <tag>
-<AM lemma="3M" src="auto">X@-------------</AM>
-<AM lemma="3M" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>3</text>
-</LM>
-</comment>
+<AM lemma="3" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj1833-001-p1s1W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1833-001-p1s1W6</LM>
 </w.rf>
-<form>3M</form>
+<form>M</form>
 <tag>
-<AM lemma="3M" src="auto">X@-------------</AM>
-<AM lemma="3M" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>M</text></LM></comment>
-</m>
+<AM lemma="M-3`1000" src="auto">C}-------------</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="M-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1833-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

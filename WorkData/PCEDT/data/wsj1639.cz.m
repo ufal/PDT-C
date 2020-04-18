@@ -462,28 +462,23 @@
 <w.rf>
 <LM>w#w-wsj1639-001-p1s0W40</LM>
 </w.rf>
-<form>B2</form>
+<form>B</form>
 <tag>
-<AM lemma="B2" src="auto">X@-------------</AM>
-<AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>B</text>
-</LM>
-</comment>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
 </m><m id="m-wsj1639-001-p1s0W40-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1639-001-p1s0W40</LM>
 </w.rf>
-<form>B2</form>
+<form>2</form>
 <tag>
-<AM lemma="B2" src="auto">X@-------------</AM>
-<AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>2</text></LM></comment>
-</m>
+<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1639-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1202,27 +1197,22 @@
 <w.rf>
 <LM>w#w-wsj1639-001-p1s3W28</LM>
 </w.rf>
-<form>B2</form>
+<form>B</form>
 <tag>
-<AM lemma="B2" src="auto">X@-------------</AM>
-<AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>B</text>
-</LM>
-</comment>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
 </m><m id="m-wsj1639-001-p1s3W28-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1639-001-p1s3W28</LM>
 </w.rf>
-<form>B2</form>
+<form>2</form>
 <tag>
-<AM lemma="B2" src="auto">X@-------------</AM>
-<AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>2</text></LM></comment>
+<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
 </m>
 <m id="m-wsj1639-001-p1s3W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1241,28 +1231,19 @@
 <w.rf>
 <LM>w#w-wsj1639-001-p1s3W30</LM>
 </w.rf>
-<form>Ba3</form>
+<form>Ba</form>
 <tag>
-<AM lemma="Ba3" src="auto">X@-------------</AM>
-<AM lemma="Ba3" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Ba</text>
-</LM>
-</comment>
+<AM lemma="ba" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="bavit" src="auto">VB-S---3P-AAI-5</AM></tag>
 </m><m id="m-wsj1639-001-p1s3W30-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1639-001-p1s3W30</LM>
 </w.rf>
-<form>Ba3</form>
+<form>3</form>
 <tag>
-<AM lemma="Ba3" src="auto">X@-------------</AM>
-<AM lemma="Ba3" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>3</text></LM></comment>
-</m>
+<AM lemma="3" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1639-001-p1s3W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

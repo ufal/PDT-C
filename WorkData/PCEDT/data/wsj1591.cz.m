@@ -158,28 +158,18 @@
 <w.rf>
 <LM>w#w-wsj1591-001-p1s1W12</LM>
 </w.rf>
-<form>CP486</form>
+<form>CP</form>
 <tag>
-<AM lemma="CP486" src="auto">X@-------------</AM>
-<AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>CP</text>
-</LM>
-</comment>
+<AM lemma="CP_:B" src="auto" recommended="1">NNXXX-----A---8</AM></tag>
 </m><m id="m-wsj1591-001-p1s1W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1591-001-p1s1W12</LM>
 </w.rf>
-<form>CP486</form>
+<form>486</form>
 <tag>
-<AM lemma="CP486" src="auto">X@-------------</AM>
-<AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>486</text></LM></comment>
-</m>
+<AM lemma="486" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1591-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -637,28 +627,18 @@
 <w.rf>
 <LM>w#w-wsj1591-001-p1s2W16</LM>
 </w.rf>
-<form>486tm</form>
+<form>486</form>
 <tag>
-<AM lemma="486tm" src="auto">X@-------------</AM>
-<AM lemma="486tm" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>486</text>
-</LM>
-</comment>
+<AM lemma="486" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj1591-001-p1s2W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1591-001-p1s2W16</LM>
 </w.rf>
-<form>486tm</form>
+<form>tm</form>
 <tag>
-<AM lemma="486tm" src="auto">X@-------------</AM>
-<AM lemma="486tm" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>tm</text></LM></comment>
-</m>
+<AM lemma="tm" src="auto">X@-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1591-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5623,28 +5603,18 @@
 <w.rf>
 <LM>w#w-wsj1591-001-p1s16W11</LM>
 </w.rf>
-<form>CP486</form>
+<form>CP</form>
 <tag>
-<AM lemma="CP486" src="auto">X@-------------</AM>
-<AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>CP</text>
-</LM>
-</comment>
+<AM lemma="CP_:B" src="auto" recommended="1">NNXXX-----A---8</AM></tag>
 </m><m id="m-wsj1591-001-p1s16W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1591-001-p1s16W11</LM>
 </w.rf>
-<form>CP486</form>
+<form>486</form>
 <tag>
-<AM lemma="CP486" src="auto">X@-------------</AM>
-<AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>486</text></LM></comment>
-</m>
+<AM lemma="486" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1591-001-p1s16W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

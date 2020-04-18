@@ -869,39 +869,37 @@
 <w.rf>
 <LM>w#w-wsj2125-001-p1s2W19</LM>
 </w.rf>
-<form>Field's</form>
+<form>Field</form>
 <tag>
-<AM lemma="Field's" src="auto">X@-------------</AM>
-<AM lemma="Field's-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Field</text>
-</LM>
-</comment>
+<AM lemma="Field_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 </m><m id="m-wsj2125-001-p1s2W19-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2125-001-p1s2W19</LM>
 </w.rf>
-<form>Field's</form>
+<form>'</form>
 <tag>
-<AM lemma="Field's" src="auto">X@-------------</AM>
-<AM lemma="Field's-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>'</text></LM></comment>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 </m><m id="m-wsj2125-001-p1s2W19-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2125-001-p1s2W19</LM>
 </w.rf>
-<form>Field's</form>
+<form>s</form>
 <tag>
-<AM lemma="Field's" src="auto">X@-------------</AM>
-<AM lemma="Field's-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>s</text></LM></comment>
-</m>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj2125-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

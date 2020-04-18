@@ -2721,28 +2721,19 @@
 <w.rf>
 <LM>w#w-wsj1934-001-p1s10W13</LM>
 </w.rf>
-<form>100krát</form>
+<form>100</form>
 <tag>
-<AM lemma="100krát" src="auto">X@-------------</AM>
-<AM lemma="100krát" src="manual" selected="1">Db-------------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>100</text>
-</LM>
-</comment>
+<AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj1934-001-p1s10W13-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1934-001-p1s10W13</LM>
 </w.rf>
-<form>100krát</form>
+<form>krát</form>
 <tag>
-<AM lemma="100krát" src="auto">X@-------------</AM>
-<AM lemma="100krát" src="manual" selected="1">Db-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>krát</text></LM></comment>
-</m>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="krát-2" src="auto">Db-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1934-001-p1s10W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

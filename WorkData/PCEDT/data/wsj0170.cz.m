@@ -1079,28 +1079,19 @@
 <w.rf>
 <LM>w#w-wsj0170-001-p1s3W5</LM>
 </w.rf>
-<form>11ti</form>
+<form>11</form>
 <tag>
-<AM lemma="11ti" src="auto">X@-------------</AM>
-<AM lemma="11ti" src="manual" selected="1">AAIS4----1A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>11</text>
-</LM>
-</comment>
+<AM lemma="11" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj0170-001-p1s3W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0170-001-p1s3W5</LM>
 </w.rf>
-<form>11ti</form>
+<form>ti</form>
 <tag>
-<AM lemma="11ti" src="auto">X@-------------</AM>
-<AM lemma="11ti" src="manual" selected="1">AAIS4----1A----</AM>
-</tag>
-<comment><LM type="New Form"><text>ti</text></LM></comment>
-</m>
+<AM lemma="ten" src="auto" recommended="1">PDMP1----------</AM>
+<AM lemma="ty" src="auto">PH-S3--2-------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0170-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

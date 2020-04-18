@@ -12587,56 +12587,33 @@
 <w.rf>
 <LM>w#w-wsj0990-001-p1s40W4</LM>
 </w.rf>
-<form>52leté</form>
+<form>52</form>
 <tag>
-<AM lemma="52letý" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="52letý" src="auto">AAFP4----1A----</AM>
-<AM lemma="52letý" src="auto">AAFP5----1A----</AM>
-<AM lemma="52letý" src="auto">AAFS2----1A----</AM>
-<AM lemma="52letý" src="auto" selected="1">AAFS3----1A----</AM>
-<AM lemma="52letý" src="auto">AAFS6----1A----</AM>
-<AM lemma="52letý" src="auto">AAIP1----1A----</AM>
-<AM lemma="52letý" src="auto">AAIP4----1A----</AM>
-<AM lemma="52letý" src="auto">AAIP5----1A----</AM>
-<AM lemma="52letý" src="auto">AAMP4----1A----</AM>
-<AM lemma="52letý" src="auto">AANP1----1A---6</AM>
-<AM lemma="52letý" src="auto">AANP4----1A---6</AM>
-<AM lemma="52letý" src="auto">AANP5----1A---6</AM>
-<AM lemma="52letý" src="auto">AANS1----1A----</AM>
-<AM lemma="52letý" src="auto">AANS4----1A----</AM>
-<AM lemma="52letý" src="auto">AANS5----1A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>52</text>
-</LM>
-</comment>
+<AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj0990-001-p1s40W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0990-001-p1s40W4</LM>
 </w.rf>
-<form>52leté</form>
+<form>leté</form>
 <tag>
-<AM lemma="52letý" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="52letý" src="auto">AAFP4----1A----</AM>
-<AM lemma="52letý" src="auto">AAFP5----1A----</AM>
-<AM lemma="52letý" src="auto">AAFS2----1A----</AM>
-<AM lemma="52letý" src="auto" selected="1">AAFS3----1A----</AM>
-<AM lemma="52letý" src="auto">AAFS6----1A----</AM>
-<AM lemma="52letý" src="auto">AAIP1----1A----</AM>
-<AM lemma="52letý" src="auto">AAIP4----1A----</AM>
-<AM lemma="52letý" src="auto">AAIP5----1A----</AM>
-<AM lemma="52letý" src="auto">AAMP4----1A----</AM>
-<AM lemma="52letý" src="auto">AANP1----1A---6</AM>
-<AM lemma="52letý" src="auto">AANP4----1A---6</AM>
-<AM lemma="52letý" src="auto">AANP5----1A---6</AM>
-<AM lemma="52letý" src="auto">AANS1----1A----</AM>
-<AM lemma="52letý" src="auto">AANS4----1A----</AM>
-<AM lemma="52letý" src="auto">AANS5----1A----</AM>
-</tag>
-<comment><LM type="New Form"><text>leté</text></LM></comment>
-</m>
+<AM lemma="letý" src="auto">AAFP1----1A----</AM>
+<AM lemma="letý" src="auto">AAFP4----1A----</AM>
+<AM lemma="letý" src="auto">AAFP5----1A----</AM>
+<AM lemma="letý" src="auto">AAFS2----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAFS3----1A----</AM>
+<AM lemma="letý" src="auto">AAFS6----1A----</AM>
+<AM lemma="letý" src="auto">AAIP1----1A----</AM>
+<AM lemma="letý" src="auto">AAIP4----1A----</AM>
+<AM lemma="letý" src="auto">AAIP5----1A----</AM>
+<AM lemma="letý" src="auto">AAMP4----1A----</AM>
+<AM lemma="letý" src="auto">AANP1----1A---6</AM>
+<AM lemma="letý" src="auto">AANP4----1A---6</AM>
+<AM lemma="letý" src="auto">AANP5----1A---6</AM>
+<AM lemma="letý" src="auto">AANS1----1A----</AM>
+<AM lemma="letý" src="auto">AANS4----1A----</AM>
+<AM lemma="letý" src="auto">AANS5----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0990-001-p1s40W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1932,37 +1932,26 @@
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0335-s1-w11</LM>
 </w.rf>
-<form>0x00000000</form>
+<form>0</form>
 <tag>
-<AM lemma="0x00000000">X@-------------</AM>
-<AM lemma="0x00000000-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>0</text>
-</LM>
-</comment>
+<AM lemma="0" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="mu_04-SCzechM-p0335-s1-w11-sw1">
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0335-s1-w11</LM>
 </w.rf>
-<form>0x00000000</form>
+<form>x</form>
 <tag>
-<AM lemma="0x00000000">X@-------------</AM>
-<AM lemma="0x00000000-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>x</text></LM></comment>
+<AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM></tag>
 </m><m id="mu_04-SCzechM-p0335-s1-w11-sw2">
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0335-s1-w11</LM>
 </w.rf>
-<form>0x00000000</form>
+<form>00000000</form>
 <tag>
-<AM lemma="0x00000000">X@-------------</AM>
-<AM lemma="0x00000000-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>00000000</text></LM></comment>
-</m>
+<AM lemma="00000000" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="mu_04-SCzechM-p0335-s1-w12">
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0335-s1-w12</LM>

@@ -672,30 +672,22 @@
 <w.rf>
 <LM>w#w-wsj0099-001-p1s1W23</LM>
 </w.rf>
-<form>130U</form>
+<form>130</form>
 <tag>
-<AM lemma="130U" src="auto">X@-------------</AM>
-<AM lemma="130" src="manual">C=-------------</AM>
-<AM lemma="130U" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>130</text>
-</LM>
-</comment>
+<AM lemma="130" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj0099-001-p1s1W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0099-001-p1s1W23</LM>
 </w.rf>
-<form>130U</form>
+<form>U</form>
 <tag>
-<AM lemma="130U" src="auto">X@-------------</AM>
-<AM lemma="130" src="manual">C=-------------</AM>
-<AM lemma="130U" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>U</text></LM></comment>
-</m>
+<AM lemma="U-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="U-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="u-1" src="auto">RR--2----------</AM>
+<AM lemma="u-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0099-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

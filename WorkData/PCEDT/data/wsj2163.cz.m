@@ -2564,39 +2564,42 @@
 <w.rf>
 <LM>w#w-wsj2163-001-p1s7W15</LM>
 </w.rf>
-<form>N.V</form>
+<form>N</form>
 <tag>
-<AM lemma="N.V" src="auto">X@-------------</AM>
-<AM lemma="N.V-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>N</text>
-</LM>
-</comment>
+<AM lemma="N-1_:B_;H_^(zn._dusíku)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="N-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="N-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSZS2-P1------8</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSZS7-P1------8</AM>
+<AM lemma="n-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="n-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="n_^(n-tice)" src="auto">A2--------A----</AM>
+<AM lemma="nad-1_:B" src="auto">RR--7---------8</AM></tag>
 </m><m id="m-wsj2163-001-p1s7W15-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2163-001-p1s7W15</LM>
 </w.rf>
-<form>N.V</form>
+<form>.</form>
 <tag>
-<AM lemma="N.V" src="auto">X@-------------</AM>
-<AM lemma="N.V-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>.</text></LM></comment>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 </m><m id="m-wsj2163-001-p1s7W15-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2163-001-p1s7W15</LM>
 </w.rf>
-<form>N.V</form>
+<form>V</form>
 <tag>
-<AM lemma="N.V" src="auto">X@-------------</AM>
-<AM lemma="N.V-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>V</text></LM></comment>
-</m>
+<AM lemma="V-3`5" src="auto">C}-------------</AM>
+<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="volt" src="auto">NNIXX-----A---8</AM>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj2163-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

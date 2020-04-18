@@ -191,36 +191,31 @@
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w1</LM>
 </w.rf>
-<form>X1i</form>
+<form>X</form>
 <tag>
-<AM lemma="X1i">X@-------------</AM>
-<AM lemma="X1i-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>X</text>
-</LM>
-</comment>
+<AM lemma="X-3`10" src="auto">C}-------------</AM>
+<AM lemma="X-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="X-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto">J*-------------</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM></tag>
 </m><m id="es_17-SCzechM-p1754-s1-w1-sw1">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w1</LM>
 </w.rf>
-<form>X1i</form>
+<form>1</form>
 <tag>
-<AM lemma="X1i">X@-------------</AM>
-<AM lemma="X1i-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>1</text></LM></comment>
+<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="es_17-SCzechM-p1754-s1-w1-sw2">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w1</LM>
 </w.rf>
-<form>X1i</form>
+<form>i</form>
 <tag>
-<AM lemma="X1i">X@-------------</AM>
-<AM lemma="X1i-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>i</text></LM></comment>
+<AM lemma="i-1" src="auto">J^-------------</AM>
+<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM></tag>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w2">
 <w.rf>
@@ -233,37 +228,30 @@
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w3</LM>
 </w.rf>
-<form>X1j</form>
+<form>X</form>
 <tag>
-<AM lemma="X1j">X@-------------</AM>
-<AM lemma="X1j-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>X</text>
-</LM>
-</comment>
+<AM lemma="X-3`10" src="auto">C}-------------</AM>
+<AM lemma="X-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="X-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto">J*-------------</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM></tag>
 </m><m id="es_17-SCzechM-p1754-s1-w3-sw1">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w3</LM>
 </w.rf>
-<form>X1j</form>
+<form>1</form>
 <tag>
-<AM lemma="X1j">X@-------------</AM>
-<AM lemma="X1j-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>1</text></LM></comment>
+<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="es_17-SCzechM-p1754-s1-w3-sw2">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w3</LM>
 </w.rf>
-<form>X1j</form>
+<form>j</form>
 <tag>
-<AM lemma="X1j">X@-------------</AM>
-<AM lemma="X1j-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>j</text></LM></comment>
-</m>
+<AM lemma="j-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="j-88_:B" src="auto">NNXXX-----A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="es_17-SCzechM-p1754-s1-w4">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w4</LM>

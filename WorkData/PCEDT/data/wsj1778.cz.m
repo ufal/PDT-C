@@ -7995,39 +7995,26 @@
 <w.rf>
 <LM>w#w-wsj1778-001-p1s61W1</LM>
 </w.rf>
-<form>GR8FLRED</form>
+<form>GR</form>
 <tag>
-<AM lemma="GR8FLRED" src="auto">X@-------------</AM>
-<AM lemma="GR8FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>GR</text>
-</LM>
-</comment>
+<AM lemma="GR-88_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
 </m><m id="m-wsj1778-001-p1s61W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1778-001-p1s61W1</LM>
 </w.rf>
-<form>GR8FLRED</form>
+<form>8</form>
 <tag>
-<AM lemma="GR8FLRED" src="auto">X@-------------</AM>
-<AM lemma="GR8FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>8</text></LM></comment>
+<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj1778-001-p1s61W1-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1778-001-p1s61W1</LM>
 </w.rf>
-<form>GR8FLRED</form>
+<form>FLRED</form>
 <tag>
-<AM lemma="GR8FLRED" src="auto">X@-------------</AM>
-<AM lemma="GR8FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>FLRED</text></LM></comment>
-</m>
+<AM lemma="FLRED" src="auto">X@-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1778-001-p1s61W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16943,39 +16930,26 @@
 <w.rf>
 <LM>w#w-wsj1778-001-p1s127W1</LM>
 </w.rf>
-<form>GR8FLRED</form>
+<form>GR</form>
 <tag>
-<AM lemma="GR8FLRED" src="auto">X@-------------</AM>
-<AM lemma="GR8FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>GR</text>
-</LM>
-</comment>
+<AM lemma="GR-88_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
 </m><m id="m-wsj1778-001-p1s127W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1778-001-p1s127W1</LM>
 </w.rf>
-<form>GR8FLRED</form>
+<form>8</form>
 <tag>
-<AM lemma="GR8FLRED" src="auto">X@-------------</AM>
-<AM lemma="GR8FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>8</text></LM></comment>
+<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj1778-001-p1s127W1-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1778-001-p1s127W1</LM>
 </w.rf>
-<form>GR8FLRED</form>
+<form>FLRED</form>
 <tag>
-<AM lemma="GR8FLRED" src="auto">X@-------------</AM>
-<AM lemma="GR8FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>FLRED</text></LM></comment>
-</m>
+<AM lemma="FLRED" src="auto">X@-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1778-001-p1s127W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

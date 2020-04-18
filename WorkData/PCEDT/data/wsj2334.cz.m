@@ -1505,28 +1505,24 @@
 <w.rf>
 <LM>w#w-wsj2334-001-p1s3W9</LM>
 </w.rf>
-<form>10K</form>
+<form>10</form>
 <tag>
-<AM lemma="10K" src="auto">X@-------------</AM>
-<AM lemma="10K" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
-</comment>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
 </m><m id="m-wsj2334-001-p1s3W9-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2334-001-p1s3W9</LM>
 </w.rf>
-<form>10K</form>
+<form>K</form>
 <tag>
-<AM lemma="10K" src="auto">X@-------------</AM>
-<AM lemma="10K" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>K</text></LM></comment>
-</m>
+<AM lemma="K-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="K-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="k-1" src="auto">RR--3----------</AM>
+<AM lemma="k-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="k-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="kůň" src="auto">NNMXX-----A---8</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj2334-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

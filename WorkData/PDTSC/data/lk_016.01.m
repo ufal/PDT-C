@@ -2305,7 +2305,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m016-d1e615-x2"></s>
+<s id="m016-d1e615-x2" />
 <s id="m016-710">
 <m id="m016-d1t620-1">
 <w.rf>
@@ -4005,14 +4005,10 @@
 <w.rf>
 <LM>w#w-d1t748-5</LM>
 </w.rf>
-<form>4,5</form>
-<tag lemma="4,5" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>4.5</text>
-</LM>
-</comment>
-</m>
+<form>4.5</form>
+<tag>
+<AM lemma="4.5" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m016-d1e714-x3-174">
 <w.rf>
 <LM>w#w-d1e714-x3-174</LM>

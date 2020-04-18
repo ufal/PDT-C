@@ -7500,27 +7500,18 @@
 <w.rf>
 <LM>w#w-jh_19-SCzechM-p2080-s1-w18</LM>
 </w.rf>
-<form>TS03</form>
+<form>TS</form>
 <tag>
-<AM lemma="TS03">X@-------------</AM>
-<AM lemma="TS03-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>TS</text>
-</LM>
-</comment>
+<AM lemma="TS-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="ts" src="auto">II-------------</AM></tag>
 </m><m id="jh_19-SCzechM-p2080-s1-w18-sw1">
 <w.rf>
 <LM>w#w-jh_19-SCzechM-p2080-s1-w18</LM>
 </w.rf>
-<form>TS03</form>
+<form>03</form>
 <tag>
-<AM lemma="TS03">X@-------------</AM>
-<AM lemma="TS03-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>03</text></LM></comment>
-</m>
+<AM lemma="03" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="jh_19-SCzechM-p2080-s1-w19">
 <w.rf>
 <LM>w#w-jh_19-SCzechM-p2080-s1-w19</LM>

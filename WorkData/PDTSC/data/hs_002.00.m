@@ -5785,27 +5785,23 @@
 <w.rf>
 <LM>w#w-d-id2586048</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
-</comment>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 </m><m id="m002-d-id2586048-sw1">
 <w.rf>
 <LM>w#w-d-id2586048</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment><LM type="New Form"><text>.</text></LM></comment>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 </m><m id="m002-d-id2586048-sw2">
 <w.rf>
 <LM>w#w-d-id2586048</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment><LM type="New Form"><text>.</text></LM></comment>
-</m>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 </s>
 </mdata>

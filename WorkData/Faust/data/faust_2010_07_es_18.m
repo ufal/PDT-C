@@ -4062,27 +4062,17 @@
 <w.rf>
 <LM>w#w-es_18-SCzechM-p1897-s1-w35</LM>
 </w.rf>
-<form>RECH3</form>
+<form>RECH</form>
 <tag>
-<AM lemma="RECH3">X@-------------</AM>
-<AM lemma="RECH3" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>RECH</text>
-</LM>
-</comment>
+<AM lemma="Rech_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 </m><m id="es_18-SCzechM-p1897-s1-w35-sw1">
 <w.rf>
 <LM>w#w-es_18-SCzechM-p1897-s1-w35</LM>
 </w.rf>
-<form>RECH3</form>
+<form>3</form>
 <tag>
-<AM lemma="RECH3">X@-------------</AM>
-<AM lemma="RECH3" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>3</text></LM></comment>
-</m>
+<AM lemma="3" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="es_18-SCzechM-p1897-s1-w36">
 <w.rf>
 <LM>w#w-es_18-SCzechM-p1897-s1-w36</LM>
