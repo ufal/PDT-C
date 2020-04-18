@@ -4071,10 +4071,20 @@
 <AM lemma="RECH3" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: RECH 3</text>
+<LM type="New Form">
+<text>RECH</text>
 </LM>
 </comment>
+</m><m id="mu_18-SCzechM-p1897-s1-w35-sw1">
+<w.rf>
+<LM>w#w-mu_18-SCzechM-p1897-s1-w35</LM>
+</w.rf>
+<form>RECH3</form>
+<tag>
+<AM lemma="RECH3">X@-------------</AM>
+<AM lemma="RECH3" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
 </m>
 <m id="mu_18-SCzechM-p1897-s1-w36">
 <w.rf>

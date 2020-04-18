@@ -314,10 +314,32 @@
 <AM lemma="Weisfeld's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Weisfeld ' s</text>
+<LM type="New Form">
+<text>Weisfeld</text>
 </LM>
 </comment>
+</m><m id="m-wsj0169-001-p1s0W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0169-001-p1s0W22</LM>
+</w.rf>
+<form>Weisfeld's</form>
+<tag>
+<AM lemma="Weisfeld's" src="auto">X@-------------</AM>
+<AM lemma="Weisfeld's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>'</text></LM></comment>
+</m><m id="m-wsj0169-001-p1s0W22-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0169-001-p1s0W22</LM>
+</w.rf>
+<form>Weisfeld's</form>
+<tag>
+<AM lemma="Weisfeld's" src="auto">X@-------------</AM>
+<AM lemma="Weisfeld's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>s</text></LM></comment>
 </m>
 <m id="m-wsj0169-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3955,10 +3955,27 @@
 <AM lemma="30sekundový" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 sekundových</text>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
+</m><m id="m-wsj0443-001-p1s11W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0443-001-p1s11W8</LM>
+</w.rf>
+<form>30sekundových</form>
+<tag>
+<AM lemma="30sekundový" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="30sekundový" src="auto">AAFP6----1A----</AM>
+<AM lemma="30sekundový" src="auto">AAIP2----1A----</AM>
+<AM lemma="30sekundový" src="auto">AAIP6----1A----</AM>
+<AM lemma="30sekundový" src="auto">AAMP2----1A----</AM>
+<AM lemma="30sekundový" src="auto">AAMP6----1A----</AM>
+<AM lemma="30sekundový" src="auto">AANP2----1A----</AM>
+<AM lemma="30sekundový" src="auto">AANP6----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>sekundových</text></LM></comment>
 </m>
 <m id="m-wsj0443-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>

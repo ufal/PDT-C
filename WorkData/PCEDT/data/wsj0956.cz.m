@@ -6173,10 +6173,21 @@
 <AM lemma="Q45" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Q 45</text>
+<LM type="New Form">
+<text>Q</text>
 </LM>
 </comment>
+</m><m id="m-wsj0956-001-p1s20W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0956-001-p1s20W16</LM>
+</w.rf>
+<form>Q45</form>
+<tag>
+<AM lemma="Q45" src="auto">X@-------------</AM>
+<AM lemma="Q45" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>45</text></LM></comment>
 </m>
 <m id="m-wsj0956-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>

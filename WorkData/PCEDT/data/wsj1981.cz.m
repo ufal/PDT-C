@@ -1766,10 +1766,21 @@
 <AM lemma="24měsíční" src="manual" selected="1">AAFP4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 24 měsíční</text>
+<LM type="New Form">
+<text>24</text>
 </LM>
 </comment>
+</m><m id="m-wsj1981-001-p1s5W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1981-001-p1s5W24</LM>
+</w.rf>
+<form>24měsíční</form>
+<tag>
+<AM lemma="24měsíční" src="auto">X@-------------</AM>
+<AM lemma="24měsíční" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>měsíční</text></LM></comment>
 </m>
 <m id="m-wsj1981-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1836,10 +1847,21 @@
 <AM lemma="60měsíční" src="manual" selected="1">AAFP4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 60 měsíční</text>
+<LM type="New Form">
+<text>60</text>
 </LM>
 </comment>
+</m><m id="m-wsj1981-001-p1s5W30-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1981-001-p1s5W30</LM>
+</w.rf>
+<form>60měsíční</form>
+<tag>
+<AM lemma="60měsíční" src="auto">X@-------------</AM>
+<AM lemma="60měsíční" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>měsíční</text></LM></comment>
 </m>
 <m id="m-wsj1981-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>

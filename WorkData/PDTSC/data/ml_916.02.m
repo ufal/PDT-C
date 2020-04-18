@@ -6401,10 +6401,20 @@
 <AM lemma="V1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: V 1</text>
+<LM type="New Form">
+<text>V</text>
 </LM>
 </comment>
+</m><m id="m916-d1t1047-4-sw1">
+<w.rf>
+<LM>w#w-d1t1047-4</LM>
+</w.rf>
+<form>V1</form>
+<tag>
+<AM lemma="V1" src="auto">X@-------------</AM>
+<AM lemma="V1" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>1</text></LM></comment>
 </m>
 <m id="m916-d-id93633">
 <w.rf>
@@ -6443,10 +6453,20 @@
 <AM lemma="V2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: V 2</text>
+<LM type="New Form">
+<text>V</text>
 </LM>
 </comment>
+</m><m id="m916-d1t1047-7-sw1">
+<w.rf>
+<LM>w#w-d1t1047-7</LM>
+</w.rf>
+<form>V2</form>
+<tag>
+<AM lemma="V2" src="auto">X@-------------</AM>
+<AM lemma="V2" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="m916-3370-3373">
 <w.rf>

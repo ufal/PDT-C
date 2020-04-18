@@ -2570,10 +2570,32 @@
 <AM lemma="N.V-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: N . V</text>
+<LM type="New Form">
+<text>N</text>
 </LM>
 </comment>
+</m><m id="m-wsj2163-001-p1s7W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2163-001-p1s7W15</LM>
+</w.rf>
+<form>N.V</form>
+<tag>
+<AM lemma="N.V" src="auto">X@-------------</AM>
+<AM lemma="N.V-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
+</m><m id="m-wsj2163-001-p1s7W15-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2163-001-p1s7W15</LM>
+</w.rf>
+<form>N.V</form>
+<tag>
+<AM lemma="N.V" src="auto">X@-------------</AM>
+<AM lemma="N.V-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>V</text></LM></comment>
 </m>
 <m id="m-wsj2163-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>

@@ -950,10 +950,76 @@
 <AM lemma="G.m.b.H-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>7v1: G . m . b . H</text>
+<LM type="New Form">
+<text>G</text>
 </LM>
 </comment>
+</m><m id="m-wsj2435-001-p1s3W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2435-001-p1s3W9</LM>
+</w.rf>
+<form>G.m.b.H</form>
+<tag>
+<AM lemma="G.m.b.H" src="auto">X@-------------</AM>
+<AM lemma="G.m.b.H-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
+</m><m id="m-wsj2435-001-p1s3W9-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2435-001-p1s3W9</LM>
+</w.rf>
+<form>G.m.b.H</form>
+<tag>
+<AM lemma="G.m.b.H" src="auto">X@-------------</AM>
+<AM lemma="G.m.b.H-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>m</text></LM></comment>
+</m><m id="m-wsj2435-001-p1s3W9-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2435-001-p1s3W9</LM>
+</w.rf>
+<form>G.m.b.H</form>
+<tag>
+<AM lemma="G.m.b.H" src="auto">X@-------------</AM>
+<AM lemma="G.m.b.H-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
+</m><m id="m-wsj2435-001-p1s3W9-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2435-001-p1s3W9</LM>
+</w.rf>
+<form>G.m.b.H</form>
+<tag>
+<AM lemma="G.m.b.H" src="auto">X@-------------</AM>
+<AM lemma="G.m.b.H-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>b</text></LM></comment>
+</m><m id="m-wsj2435-001-p1s3W9-Ta-sw5">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2435-001-p1s3W9</LM>
+</w.rf>
+<form>G.m.b.H</form>
+<tag>
+<AM lemma="G.m.b.H" src="auto">X@-------------</AM>
+<AM lemma="G.m.b.H-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
+</m><m id="m-wsj2435-001-p1s3W9-Ta-sw6">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2435-001-p1s3W9</LM>
+</w.rf>
+<form>G.m.b.H</form>
+<tag>
+<AM lemma="G.m.b.H" src="auto">X@-------------</AM>
+<AM lemma="G.m.b.H-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>H</text></LM></comment>
 </m>
 <m id="m-wsj2435-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>

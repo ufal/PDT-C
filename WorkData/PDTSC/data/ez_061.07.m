@@ -3293,10 +3293,22 @@
 <AM lemma="21letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 21 letého</text>
+<LM type="New Form">
+<text>21</text>
 </LM>
 </comment>
+</m><m id="m061-d1t2541-6-sw1">
+<w.rf>
+<LM>w#w-d1t2541-6</LM>
+</w.rf>
+<form>21letého</form>
+<tag>
+<AM lemma="21letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="21letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="21letý" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="21letý" src="auto">AANS2----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>letého</text></LM></comment>
 </m>
 <m id="m061-d1t2541-5">
 <w.rf>
@@ -4278,10 +4290,24 @@
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: . . .</text>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
+</m><m id="m061-d-id141579-punct-sw1">
+<w.rf>
+<LM>w#w-d-id141579-punct</LM>
+</w.rf>
+<form>...</form>
+<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
+</m><m id="m061-d-id141579-punct-sw2">
+<w.rf>
+<LM>w#w-d-id141579-punct</LM>
+</w.rf>
+<form>...</form>
+<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
 </m>
 </s>
 <s id="m061-41">
@@ -5173,10 +5199,24 @@
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: . . .</text>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
+</m><m id="m061-84-120-sw1">
+<w.rf>
+<LM>w#w-84-120</LM>
+</w.rf>
+<form>...</form>
+<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
+</m><m id="m061-84-120-sw2">
+<w.rf>
+<LM>w#w-84-120</LM>
+</w.rf>
+<form>...</form>
+<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
 </m>
 </s>
 <s id="m061-127">

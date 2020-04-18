@@ -8745,10 +8745,21 @@
 <AM lemma="G7" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: G 7</text>
+<LM type="New Form">
+<text>G</text>
 </LM>
 </comment>
+</m><m id="m-wsj0301-001-p1s26W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0301-001-p1s26W10</LM>
+</w.rf>
+<form>G7</form>
+<tag>
+<AM lemma="G7" src="auto">X@-------------</AM>
+<AM lemma="G7" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>7</text></LM></comment>
 </m>
 <m id="m-wsj0301-001-p1s26W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9330,10 +9341,21 @@
 <AM lemma="G7" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: G 7</text>
+<LM type="New Form">
+<text>G</text>
 </LM>
 </comment>
+</m><m id="m-wsj0301-001-p1s27W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0301-001-p1s27W1</LM>
+</w.rf>
+<form>G7</form>
+<tag>
+<AM lemma="G7" src="auto">X@-------------</AM>
+<AM lemma="G7" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>7</text></LM></comment>
 </m>
 <m id="m-wsj0301-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4627,10 +4627,21 @@
 <AM lemma="A330" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: A 330</text>
+<LM type="New Form">
+<text>A</text>
 </LM>
 </comment>
+</m><m id="m-wsj1432-001-p1s14W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1432-001-p1s14W21</LM>
+</w.rf>
+<form>A330</form>
+<tag>
+<AM lemma="A330" src="auto">X@-------------</AM>
+<AM lemma="A330" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>330</text></LM></comment>
 </m>
 <m id="m-wsj1432-001-p1s14W22-Ta">
 <src.rf>tagger-a</src.rf>

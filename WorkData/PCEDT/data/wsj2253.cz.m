@@ -6901,10 +6901,21 @@
 <AM lemma="M2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: M 2</text>
+<LM type="New Form">
+<text>M</text>
 </LM>
 </comment>
+</m><m id="m-wsj2253-001-p1s21W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2253-001-p1s21W19</LM>
+</w.rf>
+<form>M2</form>
+<tag>
+<AM lemma="m2-1_:B_^(metr_čtvereční)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="M2" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="m-wsj2253-001-p1s21W20-Ta">
 <src.rf>tagger-a</src.rf>

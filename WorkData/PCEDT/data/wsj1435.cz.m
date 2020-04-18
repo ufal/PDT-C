@@ -3630,10 +3630,21 @@
 <AM lemma="15librové" src="manual" selected="1">AANS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 15 librové</text>
+<LM type="New Form">
+<text>15</text>
 </LM>
 </comment>
+</m><m id="m-wsj1435-001-p1s14W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1435-001-p1s14W6</LM>
+</w.rf>
+<form>15librové</form>
+<tag>
+<AM lemma="15librové" src="auto">X@-------------</AM>
+<AM lemma="15librové" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>librové</text></LM></comment>
 </m>
 <m id="m-wsj1435-001-p1s14W7-Ta">
 <src.rf>tagger-a</src.rf>

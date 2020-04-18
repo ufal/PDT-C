@@ -5585,10 +5585,24 @@
 <AM lemma="35letý" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 35 letá</text>
+<LM type="New Form">
+<text>35</text>
 </LM>
 </comment>
+</m><m id="m-wsj2161-001-p1s19W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2161-001-p1s19W4</LM>
+</w.rf>
+<form>35letá</form>
+<tag>
+<AM lemma="35letý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="35letý" src="auto">AAFS5----1A----</AM>
+<AM lemma="35letý" src="auto">AANP1----1A----</AM>
+<AM lemma="35letý" src="auto">AANP4----1A----</AM>
+<AM lemma="35letý" src="auto">AANP5----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>letá</text></LM></comment>
 </m>
 <m id="m-wsj2161-001-p1s19W5-Ta">
 <src.rf>tagger-a</src.rf>

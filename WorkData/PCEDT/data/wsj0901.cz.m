@@ -428,10 +428,21 @@
 <AM lemma="60A" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 60 A</text>
+<LM type="New Form">
+<text>60</text>
 </LM>
 </comment>
+</m><m id="m-wsj0901-001-p1s2W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0901-001-p1s2W9</LM>
+</w.rf>
+<form>60A</form>
+<tag>
+<AM lemma="60A" src="auto">X@-------------</AM>
+<AM lemma="60A" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>A</text></LM></comment>
 </m>
 <m id="m-wsj0901-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -512,10 +523,21 @@
 <AM lemma="60K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 60 K</text>
+<LM type="New Form">
+<text>60</text>
 </LM>
 </comment>
+</m><m id="m-wsj0901-001-p1s2W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0901-001-p1s2W16</LM>
+</w.rf>
+<form>60K</form>
+<tag>
+<AM lemma="60K" src="auto">X@-------------</AM>
+<AM lemma="60K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>K</text></LM></comment>
 </m>
 <m id="m-wsj0901-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>

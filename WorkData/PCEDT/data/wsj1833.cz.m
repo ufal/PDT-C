@@ -385,10 +385,21 @@
 <AM lemma="3M" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 3 M</text>
+<LM type="New Form">
+<text>3</text>
 </LM>
 </comment>
+</m><m id="m-wsj1833-001-p1s1W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1833-001-p1s1W6</LM>
+</w.rf>
+<form>3M</form>
+<tag>
+<AM lemma="3M" src="auto">X@-------------</AM>
+<AM lemma="3M" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>M</text></LM></comment>
 </m>
 <m id="m-wsj1833-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

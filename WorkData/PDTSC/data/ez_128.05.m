@@ -4903,10 +4903,20 @@
 <AM lemma="P1-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: P 1</text>
+<LM type="New Form">
+<text>P</text>
 </LM>
 </comment>
+</m><m id="m128-d1t1545-2-sw1">
+<w.rf>
+<LM>w#w-d1t1545-2</LM>
+</w.rf>
+<form>P1</form>
+<tag>
+<AM lemma="P1" src="auto">X@-------------</AM>
+<AM lemma="P1-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>1</text></LM></comment>
 </m>
 <m id="m128-d-id109977-punct">
 <w.rf>

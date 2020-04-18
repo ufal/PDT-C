@@ -4259,10 +4259,21 @@
 <AM lemma="R2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: R 2</text>
+<LM type="New Form">
+<text>R</text>
 </LM>
 </comment>
+</m><m id="m-wsj1830-001-p1s15W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1830-001-p1s15W22</LM>
+</w.rf>
+<form>R2</form>
+<tag>
+<AM lemma="R2" src="auto">X@-------------</AM>
+<AM lemma="R2" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="m-wsj1830-001-p1s15W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4283,10 +4294,21 @@
 <AM lemma="D2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: D 2</text>
+<LM type="New Form">
+<text>D</text>
 </LM>
 </comment>
+</m><m id="m-wsj1830-001-p1s15W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1830-001-p1s15W24</LM>
+</w.rf>
+<form>D2</form>
+<tag>
+<AM lemma="D2_:B_^(dálnice_v_ČR)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="D2" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="m-wsj1830-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>

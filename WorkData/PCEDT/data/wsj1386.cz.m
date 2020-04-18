@@ -3371,10 +3371,21 @@
 <AM lemma="35mm" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 35 mm</text>
+<LM type="New Form">
+<text>35</text>
 </LM>
 </comment>
+</m><m id="m-wsj1386-001-p1s8W32-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1386-001-p1s8W32</LM>
+</w.rf>
+<form>35mm</form>
+<tag>
+<AM lemma="35mm" src="auto">X@-------------</AM>
+<AM lemma="35mm" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>mm</text></LM></comment>
 </m>
 <m id="m-wsj1386-001-p1s8W33-Ta">
 <src.rf>tagger-a</src.rf>

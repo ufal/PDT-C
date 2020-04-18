@@ -1511,10 +1511,21 @@
 <AM lemma="10K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 K</text>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
+</m><m id="m-wsj2334-001-p1s3W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2334-001-p1s3W9</LM>
+</w.rf>
+<form>10K</form>
+<tag>
+<AM lemma="10K" src="auto">X@-------------</AM>
+<AM lemma="10K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>K</text></LM></comment>
 </m>
 <m id="m-wsj2334-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>

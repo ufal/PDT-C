@@ -2392,10 +2392,21 @@
 <AM lemma="20dolarový" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 20 dolarového</text>
+<LM type="New Form">
+<text>20</text>
 </LM>
 </comment>
+</m><m id="m-wsj2010-001-p1s7W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2010-001-p1s7W13</LM>
+</w.rf>
+<form>20dolarového</form>
+<tag>
+<AM lemma="20dolarového" src="auto">X@-------------</AM>
+<AM lemma="20dolarový" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>dolarového</text></LM></comment>
 </m>
 <m id="m-wsj2010-001-p1s7W14-Ta">
 <src.rf>tagger-a</src.rf>

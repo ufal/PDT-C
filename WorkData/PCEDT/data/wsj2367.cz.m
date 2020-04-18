@@ -5144,10 +5144,21 @@
 <AM lemma="Man´-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Man '</text>
+<LM type="New Form">
+<text>Man</text>
 </LM>
 </comment>
+</m><m id="m-wsj2367-001-p1s20W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2367-001-p1s20W15</LM>
+</w.rf>
+<form>Man´</form>
+<tag>
+<AM lemma="Man´" src="auto">X@-------------</AM>
+<AM lemma="Man´-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>'</text></LM></comment>
 </m>
 <m id="m-wsj2367-001-p1s20W16-Ta">
 <src.rf>tagger-a</src.rf>

@@ -766,10 +766,17 @@
 <form>23.</form>
 <tag lemma="23" src="auto" recommended="1">C=-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 23 .</text>
+<LM type="New Form">
+<text>23</text>
 </LM>
 </comment>
+</m><m id="m062-d1t1772-1-sw1">
+<w.rf>
+<LM>w#w-d1t1772-1</LM>
+</w.rf>
+<form>23.</form>
+<tag lemma="23" src="auto" recommended="1">C=-------------</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
 </m>
 <m id="m062-d1t1772-2">
 <w.rf>

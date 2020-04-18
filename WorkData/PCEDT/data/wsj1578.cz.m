@@ -6971,10 +6971,21 @@
 <AM lemma="20akciový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 20 akciový</text>
+<LM type="New Form">
+<text>20</text>
 </LM>
 </comment>
+</m><m id="m-wsj1578-001-p1s29W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1578-001-p1s29W3</LM>
+</w.rf>
+<form>20akciový</form>
+<tag>
+<AM lemma="20akciový" src="auto">X@-------------</AM>
+<AM lemma="20akciový" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>akciový</text></LM></comment>
 </m>
 <m id="m-wsj1578-001-p1s29W4-Ta">
 <src.rf>tagger-a</src.rf>

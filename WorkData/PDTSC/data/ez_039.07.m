@@ -1599,10 +1599,24 @@
 <form>...</form>
 <tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: . . .</text>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
+</m><m id="m039-d1e2855-x3-481-sw1">
+<w.rf>
+<LM>w#w-d1e2855-x3-481</LM>
+</w.rf>
+<form>...</form>
+<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
+</m><m id="m039-d1e2855-x3-481-sw2">
+<w.rf>
+<LM>w#w-d1e2855-x3-481</LM>
+</w.rf>
+<form>...</form>
+<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
+<comment><LM type="New Form"><text>.</text></LM></comment>
 </m>
 </s>
 <s id="m039-482">

@@ -1285,10 +1285,23 @@
 <AM lemma="39letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 39 letého</text>
+<LM type="New Form">
+<text>39</text>
 </LM>
 </comment>
+</m><m id="m-wsj1725-001-p1s3W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1725-001-p1s3W5</LM>
+</w.rf>
+<form>39letého</form>
+<tag>
+<AM lemma="39letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="39letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="39letý" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="39letý" src="auto">AANS2----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>letého</text></LM></comment>
 </m>
 <m id="m-wsj1725-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>

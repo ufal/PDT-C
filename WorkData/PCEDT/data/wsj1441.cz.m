@@ -2295,10 +2295,22 @@
 <AM lemma="B2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: B 2</text>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
+</m><m id="m-wsj1441-001-p1s7W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1441-001-p1s7W5</LM>
+</w.rf>
+<form>B2</form>
+<tag>
+<AM lemma="B2" src="auto">X@-------------</AM>
+<AM lemma="B2" src="manual">NNXXX-----A----</AM>
+<AM lemma="B2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="m-wsj1441-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>

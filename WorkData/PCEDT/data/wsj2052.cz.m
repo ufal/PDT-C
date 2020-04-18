@@ -5028,10 +5028,21 @@
 <AM lemma="7B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 7 B</text>
+<LM type="New Form">
+<text>7</text>
 </LM>
 </comment>
+</m><m id="m-wsj2052-001-p1s22W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2052-001-p1s22W10</LM>
+</w.rf>
+<form>7B</form>
+<tag>
+<AM lemma="7B" src="auto">X@-------------</AM>
+<AM lemma="7B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>B</text></LM></comment>
 </m>
 <m id="m-wsj2052-001-p1s22W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5220,10 +5231,21 @@
 <AM lemma="23BN" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 23 BN</text>
+<LM type="New Form">
+<text>23</text>
 </LM>
 </comment>
+</m><m id="m-wsj2052-001-p1s22W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2052-001-p1s22W23</LM>
+</w.rf>
+<form>23BN</form>
+<tag>
+<AM lemma="23BN" src="auto">X@-------------</AM>
+<AM lemma="23BN" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>BN</text></LM></comment>
 </m>
 <m id="m-wsj2052-001-p1s22W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5417,10 +5439,21 @@
 <AM lemma="F16" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: F 16</text>
+<LM type="New Form">
+<text>F</text>
 </LM>
 </comment>
+</m><m id="m-wsj2052-001-p1s22W37-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2052-001-p1s22W37</LM>
+</w.rf>
+<form>F16</form>
+<tag>
+<AM lemma="F16" src="auto">X@-------------</AM>
+<AM lemma="F16" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>16</text></LM></comment>
 </m>
 <m id="m-wsj2052-001-p1s22W38-Ta">
 <src.rf>tagger-a</src.rf>

@@ -7155,10 +7155,21 @@
 <AM lemma="A21" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: A 21</text>
+<LM type="New Form">
+<text>A</text>
 </LM>
 </comment>
+</m><m id="m-wsj0781-001-p1s24W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0781-001-p1s24W20</LM>
+</w.rf>
+<form>A21</form>
+<tag>
+<AM lemma="A21" src="auto">X@-------------</AM>
+<AM lemma="A21" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>21</text></LM></comment>
 </m>
 <m id="m-wsj0781-001-p1s24W21-Ta">
 <src.rf>tagger-a</src.rf>

@@ -679,10 +679,22 @@
 <AM lemma="130U" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 130 U</text>
+<LM type="New Form">
+<text>130</text>
 </LM>
 </comment>
+</m><m id="m-wsj0099-001-p1s1W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0099-001-p1s1W23</LM>
+</w.rf>
+<form>130U</form>
+<tag>
+<AM lemma="130U" src="auto">X@-------------</AM>
+<AM lemma="130" src="manual">C=-------------</AM>
+<AM lemma="130U" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>U</text></LM></comment>
 </m>
 <m id="m-wsj0099-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>

@@ -715,10 +715,40 @@
 <AM lemma="8R5151SS" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>4v1: 8 R 5151 SS</text>
+<LM type="New Form">
+<text>8</text>
 </LM>
 </comment>
+</m><m id="jh_06-SCzechM-p0558-s1-w23-sw1">
+<w.rf>
+<LM>w#w-jh_06-SCzechM-p0558-s1-w23</LM>
+</w.rf>
+<form>8R5151SS</form>
+<tag>
+<AM lemma="8R5151SS">X@-------------</AM>
+<AM lemma="8R5151SS" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>R</text></LM></comment>
+</m><m id="jh_06-SCzechM-p0558-s1-w23-sw2">
+<w.rf>
+<LM>w#w-jh_06-SCzechM-p0558-s1-w23</LM>
+</w.rf>
+<form>8R5151SS</form>
+<tag>
+<AM lemma="8R5151SS">X@-------------</AM>
+<AM lemma="8R5151SS" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>5151</text></LM></comment>
+</m><m id="jh_06-SCzechM-p0558-s1-w23-sw3">
+<w.rf>
+<LM>w#w-jh_06-SCzechM-p0558-s1-w23</LM>
+</w.rf>
+<form>8R5151SS</form>
+<tag>
+<AM lemma="8R5151SS">X@-------------</AM>
+<AM lemma="8R5151SS" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>SS</text></LM></comment>
 </m>
 <m id="jh_06-SCzechM-p0558-s1-w24">
 <w.rf>

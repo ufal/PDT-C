@@ -2755,10 +2755,21 @@
 <AM lemma="4kilobitový" src="manual" selected="1">AAFP2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 4 kilobitových</text>
+<LM type="New Form">
+<text>4</text>
 </LM>
 </comment>
+</m><m id="m-wsj1373-001-p1s9W25-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1373-001-p1s9W25</LM>
+</w.rf>
+<form>4kilobitových</form>
+<tag>
+<AM lemma="4kilobitových" src="auto">X@-------------</AM>
+<AM lemma="4kilobitový" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>kilobitových</text></LM></comment>
 </m>
 <m id="m-wsj1373-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8545,10 +8556,21 @@
 <AM lemma="MC88200" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: MC 88200</text>
+<LM type="New Form">
+<text>MC</text>
 </LM>
 </comment>
+</m><m id="m-wsj1373-001-p1s31W32-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1373-001-p1s31W32</LM>
+</w.rf>
+<form>MC88200</form>
+<tag>
+<AM lemma="MC88200" src="auto">X@-------------</AM>
+<AM lemma="MC88200" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>88200</text></LM></comment>
 </m>
 <m id="m-wsj1373-001-p1s31W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9885,10 +9907,21 @@
 <AM lemma="MC68030" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: MC 68030</text>
+<LM type="New Form">
+<text>MC</text>
 </LM>
 </comment>
+</m><m id="m-wsj1373-001-p1s35W26-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1373-001-p1s35W26</LM>
+</w.rf>
+<form>MC68030</form>
+<tag>
+<AM lemma="MC68030" src="auto">X@-------------</AM>
+<AM lemma="MC68030" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>68030</text></LM></comment>
 </m>
 <m id="m-wsj1373-001-p1s35W27-Ta">
 <src.rf>tagger-a</src.rf>

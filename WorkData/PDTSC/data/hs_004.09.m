@@ -2782,10 +2782,32 @@
 <AM lemma="ping-pong_,t" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: ping - pongu</text>
+<LM type="New Form">
+<text>ping</text>
 </LM>
 </comment>
+</m><m id="m004-d1t3740-12-sw1">
+<w.rf>
+<LM>w#w-d1t3740-12</LM>
+</w.rf>
+<form>ping-pongu</form>
+<tag>
+<AM lemma="ping-pong_,t" src="auto">NNIS2-----A----</AM>
+<AM lemma="ping-pong_,t" src="auto">NNIS3-----A----</AM>
+<AM lemma="ping-pong_,t" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>-</text></LM></comment>
+</m><m id="m004-d1t3740-12-sw2">
+<w.rf>
+<LM>w#w-d1t3740-12</LM>
+</w.rf>
+<form>ping-pongu</form>
+<tag>
+<AM lemma="ping-pong_,t" src="auto">NNIS2-----A----</AM>
+<AM lemma="ping-pong_,t" src="auto">NNIS3-----A----</AM>
+<AM lemma="ping-pong_,t" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>pongu</text></LM></comment>
 </m>
 <m id="m004-d1e3713-x2-3474">
 <w.rf>

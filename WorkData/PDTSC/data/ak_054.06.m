@@ -5525,10 +5525,22 @@
 <AM lemma="29letý" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 29 letého</text>
+<LM type="New Form">
+<text>29</text>
 </LM>
 </comment>
+</m><m id="m054-d1t1607-10-sw1">
+<w.rf>
+<LM>w#w-d1t1607-10</LM>
+</w.rf>
+<form>29letého</form>
+<tag>
+<AM lemma="29letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="29letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="29letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="29letý" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>letého</text></LM></comment>
 </m>
 <m id="m054-d1t1607-12">
 <w.rf>

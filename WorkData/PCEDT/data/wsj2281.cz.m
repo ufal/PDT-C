@@ -8532,10 +8532,21 @@
 <AM lemma="12měsíční" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 12 měsíční</text>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
+</m><m id="m-wsj2281-001-p1s22W28-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2281-001-p1s22W28</LM>
+</w.rf>
+<form>12měsíční</form>
+<tag>
+<AM lemma="12měsíční" src="auto">X@-------------</AM>
+<AM lemma="12měsíční" src="manual" selected="1">AANS4----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>měsíční</text></LM></comment>
 </m>
 <m id="m-wsj2281-001-p1s22W29-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4517,10 +4517,20 @@
 <AM lemma="d'-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: d '</text>
+<LM type="New Form">
+<text>d</text>
 </LM>
 </comment>
+</m><m id="m136-d1e2128-x2-456-sw1">
+<w.rf>
+<LM>w#w-d1e2128-x2-456</LM>
+</w.rf>
+<form>d'</form>
+<tag>
+<AM lemma="d'" src="auto">X@-------------</AM>
+<AM lemma="d'-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>'</text></LM></comment>
 </m>
 <m id="m136-d1t2152-2">
 <w.rf>

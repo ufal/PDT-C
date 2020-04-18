@@ -4605,10 +4605,21 @@
 <AM lemma="4krát`4" src="manual" selected="1">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 4 krát</text>
+<LM type="New Form">
+<text>4</text>
 </LM>
 </comment>
+</m><m id="m-wsj1795-001-p1s15W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1795-001-p1s15W11</LM>
+</w.rf>
+<form>4krát</form>
+<tag>
+<AM lemma="4krát" src="auto">X@-------------</AM>
+<AM lemma="4krát`4" src="manual" selected="1">Cv-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>krát</text></LM></comment>
 </m>
 <m id="m-wsj1795-001-p1s15W12-Ta">
 <src.rf>tagger-a</src.rf>

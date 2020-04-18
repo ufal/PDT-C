@@ -2646,10 +2646,32 @@
 <AM lemma="0x00000000" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: 0 x 00000000</text>
+<LM type="New Form">
+<text>0</text>
 </LM>
 </comment>
+</m><m id="es_08-SCzechM-p0796-s1-w11-sw1">
+<w.rf>
+<LM>w#w-es_08-SCzechM-p0796-s1-w11</LM>
+</w.rf>
+<form>0x00000000</form>
+<tag>
+<AM lemma="0x00000000">X@-------------</AM>
+<AM lemma="0x00000000" src="manual">C=-------------</AM>
+<AM lemma="0x00000000" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>x</text></LM></comment>
+</m><m id="es_08-SCzechM-p0796-s1-w11-sw2">
+<w.rf>
+<LM>w#w-es_08-SCzechM-p0796-s1-w11</LM>
+</w.rf>
+<form>0x00000000</form>
+<tag>
+<AM lemma="0x00000000">X@-------------</AM>
+<AM lemma="0x00000000" src="manual">C=-------------</AM>
+<AM lemma="0x00000000" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>00000000</text></LM></comment>
 </m>
 <m id="es_08-SCzechM-p0796-s1-w12">
 <w.rf>

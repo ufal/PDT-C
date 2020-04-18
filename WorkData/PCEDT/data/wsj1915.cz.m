@@ -47518,10 +47518,21 @@
 <AM lemma="3COM-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 3 COM</text>
+<LM type="New Form">
+<text>3</text>
 </LM>
 </comment>
+</m><m id="m-wsj1915-001-p1s114W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1915-001-p1s114W2</LM>
+</w.rf>
+<form>3COM</form>
+<tag>
+<AM lemma="3COM" src="auto">X@-------------</AM>
+<AM lemma="3COM-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>COM</text></LM></comment>
 </m>
 <m id="m-wsj1915-001-p1s114W3-Ta">
 <src.rf>tagger-a</src.rf>

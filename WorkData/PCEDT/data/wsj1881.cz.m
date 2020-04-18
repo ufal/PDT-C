@@ -9952,10 +9952,21 @@
 <AM lemma="13D-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 13 D</text>
+<LM type="New Form">
+<text>13</text>
 </LM>
 </comment>
+</m><m id="m-wsj1881-001-p1s33W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1881-001-p1s33W13</LM>
+</w.rf>
+<form>13D</form>
+<tag>
+<AM lemma="13D" src="auto">X@-------------</AM>
+<AM lemma="13D-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>D</text></LM></comment>
 </m>
 <m id="m-wsj1881-001-p1s33W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -555,10 +555,32 @@
 <AM lemma="Pacific's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pacific ' s</text>
+<LM type="New Form">
+<text>Pacific</text>
 </LM>
 </comment>
+</m><m id="m-wsj2085-001-p1s2W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2085-001-p1s2W10</LM>
+</w.rf>
+<form>Pacific's</form>
+<tag>
+<AM lemma="Pacific's" src="auto">X@-------------</AM>
+<AM lemma="Pacific's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>'</text></LM></comment>
+</m><m id="m-wsj2085-001-p1s2W10-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2085-001-p1s2W10</LM>
+</w.rf>
+<form>Pacific's</form>
+<tag>
+<AM lemma="Pacific's" src="auto">X@-------------</AM>
+<AM lemma="Pacific's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>s</text></LM></comment>
 </m>
 <m id="m-wsj2085-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>

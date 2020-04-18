@@ -5642,10 +5642,22 @@
 <AM lemma="Baa2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Baa 2</text>
+<LM type="New Form">
+<text>Baa</text>
 </LM>
 </comment>
+</m><m id="m-wsj1028-001-p1s14W33-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1028-001-p1s14W33</LM>
+</w.rf>
+<form>Baa2</form>
+<tag>
+<AM lemma="Baa2" src="auto">X@-------------</AM>
+<AM lemma="Baa2" src="manual">NNXXX-----A----</AM>
+<AM lemma="Baa2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="m-wsj1028-001-p1s14W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5671,10 +5683,22 @@
 <AM lemma="Ba3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Ba 3</text>
+<LM type="New Form">
+<text>Ba</text>
 </LM>
 </comment>
+</m><m id="m-wsj1028-001-p1s14W35-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1028-001-p1s14W35</LM>
+</w.rf>
+<form>Ba3</form>
+<tag>
+<AM lemma="Ba3" src="auto">X@-------------</AM>
+<AM lemma="Ba3" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ba3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
 </m>
 <m id="m-wsj1028-001-p1s14W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5927,10 +5951,22 @@
 <AM lemma="Baa3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Baa 3</text>
+<LM type="New Form">
+<text>Baa</text>
 </LM>
 </comment>
+</m><m id="m-wsj1028-001-p1s14W49-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1028-001-p1s14W49</LM>
+</w.rf>
+<form>Baa3</form>
+<tag>
+<AM lemma="Baa3" src="auto">X@-------------</AM>
+<AM lemma="Baa3" src="manual">NNXXX-----A----</AM>
+<AM lemma="Baa3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
 </m>
 <m id="m-wsj1028-001-p1s14W50-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5956,10 +5992,22 @@
 <AM lemma="B2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: B 2</text>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
+</m><m id="m-wsj1028-001-p1s14W51-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1028-001-p1s14W51</LM>
+</w.rf>
+<form>B2</form>
+<tag>
+<AM lemma="B2" src="auto">X@-------------</AM>
+<AM lemma="B2" src="manual">NNXXX-----A----</AM>
+<AM lemma="B2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="m-wsj1028-001-p1s14W52-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6126,10 +6174,22 @@
 <AM lemma="Baa2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Baa 2</text>
+<LM type="New Form">
+<text>Baa</text>
 </LM>
 </comment>
+</m><m id="m-wsj1028-001-p1s15W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1028-001-p1s15W12</LM>
+</w.rf>
+<form>Baa2</form>
+<tag>
+<AM lemma="Baa2" src="auto">X@-------------</AM>
+<AM lemma="Baa2" src="manual">NNXXX-----A----</AM>
+<AM lemma="Baa2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="m-wsj1028-001-p1s15W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6155,10 +6215,22 @@
 <AM lemma="Ba3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Ba 3</text>
+<LM type="New Form">
+<text>Ba</text>
 </LM>
 </comment>
+</m><m id="m-wsj1028-001-p1s15W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1028-001-p1s15W14</LM>
+</w.rf>
+<form>Ba3</form>
+<tag>
+<AM lemma="Ba3" src="auto">X@-------------</AM>
+<AM lemma="Ba3" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ba3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
 </m>
 <m id="m-wsj1028-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>

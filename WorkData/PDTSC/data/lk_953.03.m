@@ -2136,10 +2136,45 @@
 <AM lemma="75procentní" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 75 procentní</text>
+<LM type="New Form">
+<text>75</text>
 </LM>
 </comment>
+</m><m id="m953-d1t1530-2-sw1">
+<w.rf>
+<LM>w#w-d1t1530-2</LM>
+</w.rf>
+<form>75procentní</form>
+<tag>
+<AM lemma="75procentní" src="auto">AAFP1----1A----</AM>
+<AM lemma="75procentní" src="auto">AAFP4----1A----</AM>
+<AM lemma="75procentní" src="auto">AAFP5----1A----</AM>
+<AM lemma="75procentní" src="auto">AAFS1----1A----</AM>
+<AM lemma="75procentní" src="auto">AAFS2----1A----</AM>
+<AM lemma="75procentní" src="auto">AAFS3----1A----</AM>
+<AM lemma="75procentní" src="auto">AAFS4----1A----</AM>
+<AM lemma="75procentní" src="auto">AAFS5----1A----</AM>
+<AM lemma="75procentní" src="auto">AAFS6----1A----</AM>
+<AM lemma="75procentní" src="auto">AAFS7----1A----</AM>
+<AM lemma="75procentní" src="auto">AAIP1----1A----</AM>
+<AM lemma="75procentní" src="auto">AAIP4----1A----</AM>
+<AM lemma="75procentní" src="auto">AAIP5----1A----</AM>
+<AM lemma="75procentní" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="75procentní" src="auto">AAIS4----1A----</AM>
+<AM lemma="75procentní" src="auto">AAIS5----1A----</AM>
+<AM lemma="75procentní" src="auto" selected="1">AAMP1----1A----</AM>
+<AM lemma="75procentní" src="auto">AAMP4----1A----</AM>
+<AM lemma="75procentní" src="auto">AAMP5----1A----</AM>
+<AM lemma="75procentní" src="auto">AAMS1----1A----</AM>
+<AM lemma="75procentní" src="auto">AAMS5----1A----</AM>
+<AM lemma="75procentní" src="auto">AANP1----1A----</AM>
+<AM lemma="75procentní" src="auto">AANP4----1A----</AM>
+<AM lemma="75procentní" src="auto">AANP5----1A----</AM>
+<AM lemma="75procentní" src="auto">AANS1----1A----</AM>
+<AM lemma="75procentní" src="auto">AANS4----1A----</AM>
+<AM lemma="75procentní" src="auto">AANS5----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>procentní</text></LM></comment>
 </m>
 <m id="m953-d1t1532-2">
 <w.rf>

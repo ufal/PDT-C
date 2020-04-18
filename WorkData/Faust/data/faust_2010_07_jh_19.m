@@ -7416,7 +7416,7 @@
 <w.rf>
 <LM>w#w-jh_19-SCzechM-p2080-s1-w7</LM>
 </w.rf>
-<form>></form>
+<form>&gt;</form>
 <tag lemma="&amp;gt;" recommended="1">Z:-------------</tag>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w8">
@@ -7506,10 +7506,20 @@
 <AM lemma="TS03-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: TS 03</text>
+<LM type="New Form">
+<text>TS</text>
 </LM>
 </comment>
+</m><m id="jh_19-SCzechM-p2080-s1-w18-sw1">
+<w.rf>
+<LM>w#w-jh_19-SCzechM-p2080-s1-w18</LM>
+</w.rf>
+<form>TS03</form>
+<tag>
+<AM lemma="TS03">X@-------------</AM>
+<AM lemma="TS03-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>03</text></LM></comment>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w19">
 <w.rf>

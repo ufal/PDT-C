@@ -1122,10 +1122,30 @@
 <AM lemma="d´Ampezzo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: d ' Ampezzo</text>
+<LM type="New Form">
+<text>d</text>
 </LM>
 </comment>
+</m><m id="m148-d1t3655-4-sw1">
+<w.rf>
+<LM>w#w-d1t3655-4</LM>
+</w.rf>
+<form>d´Ampezzo</form>
+<tag>
+<AM lemma="d´Ampezzo" src="auto">X@-------------</AM>
+<AM lemma="d´Ampezzo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>'</text></LM></comment>
+</m><m id="m148-d1t3655-4-sw2">
+<w.rf>
+<LM>w#w-d1t3655-4</LM>
+</w.rf>
+<form>d´Ampezzo</form>
+<tag>
+<AM lemma="d´Ampezzo" src="auto">X@-------------</AM>
+<AM lemma="d´Ampezzo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>Ampezzo</text></LM></comment>
 </m>
 <m id="m148-113-114">
 <w.rf>

@@ -875,10 +875,32 @@
 <AM lemma="Field's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Field ' s</text>
+<LM type="New Form">
+<text>Field</text>
 </LM>
 </comment>
+</m><m id="m-wsj2125-001-p1s2W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2125-001-p1s2W19</LM>
+</w.rf>
+<form>Field's</form>
+<tag>
+<AM lemma="Field's" src="auto">X@-------------</AM>
+<AM lemma="Field's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>'</text></LM></comment>
+</m><m id="m-wsj2125-001-p1s2W19-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2125-001-p1s2W19</LM>
+</w.rf>
+<form>Field's</form>
+<tag>
+<AM lemma="Field's" src="auto">X@-------------</AM>
+<AM lemma="Field's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>s</text></LM></comment>
 </m>
 <m id="m-wsj2125-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

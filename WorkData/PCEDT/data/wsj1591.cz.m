@@ -164,10 +164,21 @@
 <AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: CP 486</text>
+<LM type="New Form">
+<text>CP</text>
 </LM>
 </comment>
+</m><m id="m-wsj1591-001-p1s1W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1591-001-p1s1W12</LM>
+</w.rf>
+<form>CP486</form>
+<tag>
+<AM lemma="CP486" src="auto">X@-------------</AM>
+<AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>486</text></LM></comment>
 </m>
 <m id="m-wsj1591-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -632,10 +643,21 @@
 <AM lemma="486tm" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 486 tm</text>
+<LM type="New Form">
+<text>486</text>
 </LM>
 </comment>
+</m><m id="m-wsj1591-001-p1s2W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1591-001-p1s2W16</LM>
+</w.rf>
+<form>486tm</form>
+<tag>
+<AM lemma="486tm" src="auto">X@-------------</AM>
+<AM lemma="486tm" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>tm</text></LM></comment>
 </m>
 <m id="m-wsj1591-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5607,10 +5629,21 @@
 <AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: CP 486</text>
+<LM type="New Form">
+<text>CP</text>
 </LM>
 </comment>
+</m><m id="m-wsj1591-001-p1s16W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1591-001-p1s16W11</LM>
+</w.rf>
+<form>CP486</form>
+<tag>
+<AM lemma="CP486" src="auto">X@-------------</AM>
+<AM lemma="CP486" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>486</text></LM></comment>
 </m>
 <m id="m-wsj1591-001-p1s16W12-Ta">
 <src.rf>tagger-a</src.rf>

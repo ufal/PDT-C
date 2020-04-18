@@ -197,10 +197,30 @@
 <AM lemma="X1i-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: X 1 i</text>
+<LM type="New Form">
+<text>X</text>
 </LM>
 </comment>
+</m><m id="es_17-SCzechM-p1754-s1-w1-sw1">
+<w.rf>
+<LM>w#w-es_17-SCzechM-p1754-s1-w1</LM>
+</w.rf>
+<form>X1i</form>
+<tag>
+<AM lemma="X1i">X@-------------</AM>
+<AM lemma="X1i-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>1</text></LM></comment>
+</m><m id="es_17-SCzechM-p1754-s1-w1-sw2">
+<w.rf>
+<LM>w#w-es_17-SCzechM-p1754-s1-w1</LM>
+</w.rf>
+<form>X1i</form>
+<tag>
+<AM lemma="X1i">X@-------------</AM>
+<AM lemma="X1i-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>i</text></LM></comment>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w2">
 <w.rf>
@@ -219,10 +239,30 @@
 <AM lemma="X1j-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: X 1 j</text>
+<LM type="New Form">
+<text>X</text>
 </LM>
 </comment>
+</m><m id="es_17-SCzechM-p1754-s1-w3-sw1">
+<w.rf>
+<LM>w#w-es_17-SCzechM-p1754-s1-w3</LM>
+</w.rf>
+<form>X1j</form>
+<tag>
+<AM lemma="X1j">X@-------------</AM>
+<AM lemma="X1j-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>1</text></LM></comment>
+</m><m id="es_17-SCzechM-p1754-s1-w3-sw2">
+<w.rf>
+<LM>w#w-es_17-SCzechM-p1754-s1-w3</LM>
+</w.rf>
+<form>X1j</form>
+<tag>
+<AM lemma="X1j">X@-------------</AM>
+<AM lemma="X1j-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>j</text></LM></comment>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w4">
 <w.rf>

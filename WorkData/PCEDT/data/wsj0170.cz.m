@@ -1085,10 +1085,21 @@
 <AM lemma="11ti" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 11 ti</text>
+<LM type="New Form">
+<text>11</text>
 </LM>
 </comment>
+</m><m id="m-wsj0170-001-p1s3W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0170-001-p1s3W5</LM>
+</w.rf>
+<form>11ti</form>
+<tag>
+<AM lemma="11ti" src="auto">X@-------------</AM>
+<AM lemma="11ti" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>ti</text></LM></comment>
 </m>
 <m id="m-wsj0170-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>

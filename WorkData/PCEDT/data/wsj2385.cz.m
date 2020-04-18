@@ -3613,10 +3613,21 @@
 <AM lemma="1990A" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 1990 A</text>
+<LM type="New Form">
+<text>1990</text>
 </LM>
 </comment>
+</m><m id="m-wsj2385-001-p1s29W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2385-001-p1s29W18</LM>
+</w.rf>
+<form>1990A</form>
+<tag>
+<AM lemma="1990A" src="auto">X@-------------</AM>
+<AM lemma="1990A" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>A</text></LM></comment>
 </m>
 <m id="m-wsj2385-001-p1s29W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4350,10 +4361,21 @@
 <AM lemma="1989A" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 1989 A</text>
+<LM type="New Form">
+<text>1989</text>
 </LM>
 </comment>
+</m><m id="m-wsj2385-001-p1s33W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2385-001-p1s33W19</LM>
+</w.rf>
+<form>1989A</form>
+<tag>
+<AM lemma="1989A" src="auto">X@-------------</AM>
+<AM lemma="1989A" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>A</text></LM></comment>
 </m>
 <m id="m-wsj2385-001-p1s33W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4525,10 +4547,21 @@
 <AM lemma="1989B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 1989 B</text>
+<LM type="New Form">
+<text>1989</text>
 </LM>
 </comment>
+</m><m id="m-wsj2385-001-p1s33W34-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2385-001-p1s33W34</LM>
+</w.rf>
+<form>1989B</form>
+<tag>
+<AM lemma="1989B" src="auto">X@-------------</AM>
+<AM lemma="1989B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>B</text></LM></comment>
 </m>
 <m id="m-wsj2385-001-p1s33W35-Ta">
 <src.rf>tagger-a</src.rf>

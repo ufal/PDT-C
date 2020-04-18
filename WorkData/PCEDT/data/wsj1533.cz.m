@@ -127,10 +127,27 @@
 <AM lemma="10letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 letých</text>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
+</m><m id="m-wsj1533-001-p1s0W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1533-001-p1s0W11</LM>
+</w.rf>
+<form>10letých</form>
+<tag>
+<AM lemma="10letý" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="10letý" src="auto">AAFP6----1A----</AM>
+<AM lemma="10letý" src="auto">AAIP2----1A----</AM>
+<AM lemma="10letý" src="auto">AAIP6----1A----</AM>
+<AM lemma="10letý" src="auto">AAMP2----1A----</AM>
+<AM lemma="10letý" src="auto">AAMP6----1A----</AM>
+<AM lemma="10letý" src="auto">AANP2----1A----</AM>
+<AM lemma="10letý" src="auto">AANP6----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>letých</text></LM></comment>
 </m>
 <m id="m-wsj1533-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>

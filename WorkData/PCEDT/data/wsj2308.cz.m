@@ -12370,10 +12370,21 @@
 <AM lemma="PW4060" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: PW 4060</text>
+<LM type="New Form">
+<text>PW</text>
 </LM>
 </comment>
+</m><m id="m-wsj2308-001-p1s39W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2308-001-p1s39W20</LM>
+</w.rf>
+<form>PW4060</form>
+<tag>
+<AM lemma="PW4060" src="auto">X@-------------</AM>
+<AM lemma="PW4060" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>4060</text></LM></comment>
 </m>
 <m id="m-wsj2308-001-p1s39W21-Ta">
 <src.rf>tagger-a</src.rf>

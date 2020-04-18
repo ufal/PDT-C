@@ -2099,10 +2099,20 @@
 <AM lemma="18a" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 18 a</text>
+<LM type="New Form">
+<text>18</text>
 </LM>
 </comment>
+</m><m id="es_01-SCzechM-p0033-s1-w21-sw1">
+<w.rf>
+<LM>w#w-es_01-SCzechM-p0033-s1-w21</LM>
+</w.rf>
+<form>18a</form>
+<tag>
+<AM lemma="18a">X@-------------</AM>
+<AM lemma="18a" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>a</text></LM></comment>
 </m>
 <m id="es_01-SCzechM-p0033-s1-w22">
 <w.rf>

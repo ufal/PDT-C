@@ -1055,10 +1055,23 @@
 <AM lemma="49členný" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 49 členného</text>
+<LM type="New Form">
+<text>49</text>
 </LM>
 </comment>
+</m><m id="m-wsj1053-001-p1s3W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1053-001-p1s3W17</LM>
+</w.rf>
+<form>49členného</form>
+<tag>
+<AM lemma="49členný" src="auto">AAIS2----1A----</AM>
+<AM lemma="49členný" src="auto">AAMS2----1A----</AM>
+<AM lemma="49členný" src="auto">AAMS4----1A----</AM>
+<AM lemma="49členný" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>členného</text></LM></comment>
 </m>
 <m id="m-wsj1053-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>

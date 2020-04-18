@@ -95,10 +95,21 @@
 <AM lemma="17miliardový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 17 miliardový</text>
+<LM type="New Form">
+<text>17</text>
 </LM>
 </comment>
+</m><m id="m-wsj1696-001-p1s0W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1696-001-p1s0W7</LM>
+</w.rf>
+<form>17miliardový</form>
+<tag>
+<AM lemma="17miliardový" src="auto">X@-------------</AM>
+<AM lemma="17miliardový" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>miliardový</text></LM></comment>
 </m>
 <m id="m-wsj1696-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1253,10 +1253,21 @@
 <AM lemma="B1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: B 1</text>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
+</m><m id="m-wsj0612-001-p1s3W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0612-001-p1s3W5</LM>
+</w.rf>
+<form>B1</form>
+<tag>
+<AM lemma="B1" src="auto">X@-------------</AM>
+<AM lemma="B1" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>1</text></LM></comment>
 </m>
 <m id="m-wsj0612-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2430,10 +2441,21 @@
 <AM lemma="A3" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: A 3</text>
+<LM type="New Form">
+<text>A</text>
 </LM>
 </comment>
+</m><m id="m-wsj0612-001-p1s6W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0612-001-p1s6W5</LM>
+</w.rf>
+<form>A3</form>
+<tag>
+<AM lemma="A3" src="auto">X@-------------</AM>
+<AM lemma="A3" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
 </m>
 <m id="m-wsj0612-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>

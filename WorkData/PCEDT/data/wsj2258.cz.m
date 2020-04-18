@@ -250,10 +250,21 @@
 <AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: i 860</text>
+<LM type="New Form">
+<text>i</text>
 </LM>
 </comment>
+</m><m id="m-wsj2258-001-p1s0W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2258-001-p1s0W23</LM>
+</w.rf>
+<form>i860</form>
+<tag>
+<AM lemma="i860" src="auto">X@-------------</AM>
+<AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>860</text></LM></comment>
 </m>
 <m id="m-wsj2258-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -308,10 +319,21 @@
 <AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: i 860</text>
+<LM type="New Form">
+<text>i</text>
 </LM>
 </comment>
+</m><m id="m-wsj2258-001-p1s1W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2258-001-p1s1W3</LM>
+</w.rf>
+<form>i860</form>
+<tag>
+<AM lemma="i860" src="auto">X@-------------</AM>
+<AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>860</text></LM></comment>
 </m>
 <m id="m-wsj2258-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1726,10 +1748,21 @@
 <AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: i 860</text>
+<LM type="New Form">
+<text>i</text>
 </LM>
 </comment>
+</m><m id="m-wsj2258-001-p1s4W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2258-001-p1s4W29</LM>
+</w.rf>
+<form>i860</form>
+<tag>
+<AM lemma="i860" src="auto">X@-------------</AM>
+<AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>860</text></LM></comment>
 </m>
 <m id="m-wsj2258-001-p1s4W30-Ta">
 <src.rf>tagger-a</src.rf>

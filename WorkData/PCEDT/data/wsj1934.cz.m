@@ -2727,10 +2727,21 @@
 <AM lemma="100krát" src="manual" selected="1">Db-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 krát</text>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
+</m><m id="m-wsj1934-001-p1s10W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1934-001-p1s10W13</LM>
+</w.rf>
+<form>100krát</form>
+<tag>
+<AM lemma="100krát" src="auto">X@-------------</AM>
+<AM lemma="100krát" src="manual" selected="1">Db-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>krát</text></LM></comment>
 </m>
 <m id="m-wsj1934-001-p1s10W14-Ta">
 <src.rf>tagger-a</src.rf>

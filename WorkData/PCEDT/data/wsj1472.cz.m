@@ -1187,10 +1187,21 @@
 <AM lemma="B1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: B 1</text>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
+</m><m id="m-wsj1472-001-p1s3W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1472-001-p1s3W20</LM>
+</w.rf>
+<form>B1</form>
+<tag>
+<AM lemma="B1" src="auto">X@-------------</AM>
+<AM lemma="B1" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>1</text></LM></comment>
 </m>
 <m id="m-wsj1472-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1215,10 +1226,21 @@
 <AM lemma="B3" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: B 3</text>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
+</m><m id="m-wsj1472-001-p1s3W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1472-001-p1s3W22</LM>
+</w.rf>
+<form>B3</form>
+<tag>
+<AM lemma="B3" src="auto">X@-------------</AM>
+<AM lemma="B3" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
 </m>
 <m id="m-wsj1472-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1583,10 +1605,21 @@
 <AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: B 2</text>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
+</m><m id="m-wsj1472-001-p1s4W28-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1472-001-p1s4W28</LM>
+</w.rf>
+<form>B2</form>
+<tag>
+<AM lemma="B2" src="auto">X@-------------</AM>
+<AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="m-wsj1472-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1611,10 +1644,21 @@
 <AM lemma="B3" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: B 3</text>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
+</m><m id="m-wsj1472-001-p1s4W30-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1472-001-p1s4W30</LM>
+</w.rf>
+<form>B3</form>
+<tag>
+<AM lemma="B3" src="auto">X@-------------</AM>
+<AM lemma="B3" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
 </m>
 <m id="m-wsj1472-001-p1s4W31-Ta">
 <src.rf>tagger-a</src.rf>

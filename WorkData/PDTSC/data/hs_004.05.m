@@ -1384,10 +1384,20 @@
 <AM lemma="24krát" src="manual" selected="1">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 24 krát</text>
+<LM type="New Form">
+<text>24</text>
 </LM>
 </comment>
+</m><m id="m004-d1t2042-9-sw1">
+<w.rf>
+<LM>w#w-d1t2042-9</LM>
+</w.rf>
+<form>24krát</form>
+<tag>
+<AM lemma="24krát" src="auto">X@-------------</AM>
+<AM lemma="24krát" src="manual" selected="1">Cv-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>krát</text></LM></comment>
 </m>
 <m id="m004-d-id119519-punct">
 <w.rf>
@@ -3653,10 +3663,24 @@
 <form>V3Sek</form>
 <tag lemma="V3Ska" src="auto" recommended="1">NNFP2-----A----</tag>
 <comment>
-<LM type="Other">
-<text>3v1: V 3 Sek</text>
+<LM type="New Form">
+<text>V</text>
 </LM>
 </comment>
+</m><m id="m004-d1t2198-9-sw1">
+<w.rf>
+<LM>w#w-d1t2198-9</LM>
+</w.rf>
+<form>V3Sek</form>
+<tag lemma="V3Ska" src="auto" recommended="1">NNFP2-----A----</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
+</m><m id="m004-d1t2198-9-sw2">
+<w.rf>
+<LM>w#w-d1t2198-9</LM>
+</w.rf>
+<form>V3Sek</form>
+<tag lemma="V3Ska" src="auto" recommended="1">NNFP2-----A----</tag>
+<comment><LM type="New Form"><text>Sek</text></LM></comment>
 </m>
 <m id="m004-d1e2152-x3-552">
 <w.rf>

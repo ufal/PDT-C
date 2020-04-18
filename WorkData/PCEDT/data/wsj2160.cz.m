@@ -10019,10 +10019,21 @@
 <AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 50 milionové</text>
+<LM type="New Form">
+<text>50</text>
 </LM>
 </comment>
+</m><m id="m-wsj2160-001-p1s25W33-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2160-001-p1s25W33</LM>
+</w.rf>
+<form>50milionové</form>
+<tag>
+<AM lemma="50milionové" src="auto">X@-------------</AM>
+<AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>milionové</text></LM></comment>
 </m>
 <m id="m-wsj2160-001-p1s25W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11149,10 +11160,22 @@
 <AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 50 milionová</text>
+<LM type="New Form">
+<text>50</text>
 </LM>
 </comment>
+</m><m id="m-wsj2160-001-p1s29W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2160-001-p1s29W20</LM>
+</w.rf>
+<form>50milionová</form>
+<tag>
+<AM lemma="50milionová" src="auto">X@-------------</AM>
+<AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual">AAFS1----1A----</AM>
+<AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>milionová</text></LM></comment>
 </m>
 <m id="m-wsj2160-001-p1s29W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11817,10 +11840,21 @@
 <AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 50 milionovou</text>
+<LM type="New Form">
+<text>50</text>
 </LM>
 </comment>
+</m><m id="m-wsj2160-001-p1s31W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2160-001-p1s31W10</LM>
+</w.rf>
+<form>50milionovou</form>
+<tag>
+<AM lemma="50milionovou" src="auto">X@-------------</AM>
+<AM lemma="50milionový_,s_^(^DD**50miliónový)" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>milionovou</text></LM></comment>
 </m>
 <m id="m-wsj2160-001-p1s31W11-Ta">
 <src.rf>tagger-a</src.rf>

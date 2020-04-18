@@ -14094,10 +14094,21 @@
 <AM lemma="10tisícové" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 tisícové</text>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
+</m><m id="m-wsj0633-001-p1s54W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0633-001-p1s54W2</LM>
+</w.rf>
+<form>10tisícové</form>
+<tag>
+<AM lemma="10tisícové" src="auto">X@-------------</AM>
+<AM lemma="10tisícové" src="manual" selected="1">AANS4----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>tisícové</text></LM></comment>
 </m>
 <m id="m-wsj0633-001-p1s54W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18767,10 +18778,21 @@
 <AM lemma="36stránkový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 36 stránkový</text>
+<LM type="New Form">
+<text>36</text>
 </LM>
 </comment>
+</m><m id="m-wsj0633-001-p1s74W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0633-001-p1s74W17</LM>
+</w.rf>
+<form>36stránkový</form>
+<tag>
+<AM lemma="36stránkový" src="auto">X@-------------</AM>
+<AM lemma="36stránkový" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>stránkový</text></LM></comment>
 </m>
 <m id="m-wsj0633-001-p1s74W18-Ta">
 <src.rf>tagger-a</src.rf>

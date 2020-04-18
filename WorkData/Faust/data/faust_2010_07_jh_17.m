@@ -180,10 +180,30 @@
 <AM lemma="X1i" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: X 1 i</text>
+<LM type="New Form">
+<text>X</text>
 </LM>
 </comment>
+</m><m id="jh_17-SCzechM-p1754-s1-w1-sw1">
+<w.rf>
+<LM>w#w-jh_17-SCzechM-p1754-s1-w1</LM>
+</w.rf>
+<form>X1i</form>
+<tag>
+<AM lemma="X1i">X@-------------</AM>
+<AM lemma="X1i" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>1</text></LM></comment>
+</m><m id="jh_17-SCzechM-p1754-s1-w1-sw2">
+<w.rf>
+<LM>w#w-jh_17-SCzechM-p1754-s1-w1</LM>
+</w.rf>
+<form>X1i</form>
+<tag>
+<AM lemma="X1i">X@-------------</AM>
+<AM lemma="X1i" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>i</text></LM></comment>
 </m>
 <m id="jh_17-SCzechM-p1754-s1-w2">
 <w.rf>
@@ -202,10 +222,30 @@
 <AM lemma="X1j" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: X 1 j</text>
+<LM type="New Form">
+<text>X</text>
 </LM>
 </comment>
+</m><m id="jh_17-SCzechM-p1754-s1-w3-sw1">
+<w.rf>
+<LM>w#w-jh_17-SCzechM-p1754-s1-w3</LM>
+</w.rf>
+<form>X1j</form>
+<tag>
+<AM lemma="X1j">X@-------------</AM>
+<AM lemma="X1j" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>1</text></LM></comment>
+</m><m id="jh_17-SCzechM-p1754-s1-w3-sw2">
+<w.rf>
+<LM>w#w-jh_17-SCzechM-p1754-s1-w3</LM>
+</w.rf>
+<form>X1j</form>
+<tag>
+<AM lemma="X1j">X@-------------</AM>
+<AM lemma="X1j" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>j</text></LM></comment>
 </m>
 <m id="jh_17-SCzechM-p1754-s1-w4">
 <w.rf>
@@ -1776,10 +1816,20 @@
 <AM lemma="PT10" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: PT 10</text>
+<LM type="New Form">
+<text>PT</text>
 </LM>
 </comment>
+</m><m id="jh_17-SCzechM-p1769-s1-w12-sw1">
+<w.rf>
+<LM>w#w-jh_17-SCzechM-p1769-s1-w12</LM>
+</w.rf>
+<form>PT10</form>
+<tag>
+<AM lemma="PT10">X@-------------</AM>
+<AM lemma="PT10" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>10</text></LM></comment>
 </m>
 <m id="jh_17-SCzechM-p1769-s1-w13">
 <w.rf>
@@ -1850,10 +1900,20 @@
 <AM lemma="T6" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: T 6</text>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
+</m><m id="jh_17-SCzechM-p1769-s1-w21-sw1">
+<w.rf>
+<LM>w#w-jh_17-SCzechM-p1769-s1-w21</LM>
+</w.rf>
+<form>T6</form>
+<tag>
+<AM lemma="T6">X@-------------</AM>
+<AM lemma="T6" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>6</text></LM></comment>
 </m>
 <m id="jh_17-SCzechM-p1769-s1-w22">
 <w.rf>

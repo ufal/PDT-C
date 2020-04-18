@@ -2005,10 +2005,21 @@
 <AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: CF 6</text>
+<LM type="New Form">
+<text>CF</text>
 </LM>
 </comment>
+</m><m id="m-wsj0682-001-p1s6W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0682-001-p1s6W5</LM>
+</w.rf>
+<form>CF6</form>
+<tag>
+<AM lemma="CF6" src="auto">X@-------------</AM>
+<AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>6</text></LM></comment>
 </m>
 <m id="m-wsj0682-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4464,10 +4475,21 @@
 <AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: CF 6</text>
+<LM type="New Form">
+<text>CF</text>
 </LM>
 </comment>
+</m><m id="m-wsj0682-001-p1s13W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0682-001-p1s13W6</LM>
+</w.rf>
+<form>CF6</form>
+<tag>
+<AM lemma="CF6" src="auto">X@-------------</AM>
+<AM lemma="CF6" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>6</text></LM></comment>
 </m>
 <m id="m-wsj0682-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>

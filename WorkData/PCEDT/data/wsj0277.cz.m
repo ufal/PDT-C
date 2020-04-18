@@ -3729,10 +3729,21 @@
 <AM lemma="53rd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 53 rd</text>
+<LM type="New Form">
+<text>53</text>
 </LM>
 </comment>
+</m><m id="m-wsj0277-001-p1s11W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0277-001-p1s11W21</LM>
+</w.rf>
+<form>53rd</form>
+<tag>
+<AM lemma="53rd" src="auto">X@-------------</AM>
+<AM lemma="53rd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>rd</text></LM></comment>
 </m>
 <m id="m-wsj0277-001-p1s11W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -9808,10 +9808,21 @@
 <AM lemma="AP600" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: AP 600</text>
+<LM type="New Form">
+<text>AP</text>
 </LM>
 </comment>
+</m><m id="m-wsj0560-001-p1s27W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0560-001-p1s27W21</LM>
+</w.rf>
+<form>AP600</form>
+<tag>
+<AM lemma="AP600" src="auto">X@-------------</AM>
+<AM lemma="AP600" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>600</text></LM></comment>
 </m>
 <m id="m-wsj0560-001-p1s27W22-Ta">
 <src.rf>tagger-a</src.rf>

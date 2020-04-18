@@ -824,10 +824,21 @@
 <AM lemma="100akciový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 akciový</text>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
+</m><m id="m-wsj0374-001-p1s2W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0374-001-p1s2W4</LM>
+</w.rf>
+<form>100akciový</form>
+<tag>
+<AM lemma="100akciový" src="auto">X@-------------</AM>
+<AM lemma="100akciový" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>akciový</text></LM></comment>
 </m>
 <m id="m-wsj0374-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1396,10 +1407,21 @@
 <AM lemma="30akciový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 akciový</text>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
+</m><m id="m-wsj0374-001-p1s5W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0374-001-p1s5W1</LM>
+</w.rf>
+<form>30akciový</form>
+<tag>
+<AM lemma="30akciový" src="auto">X@-------------</AM>
+<AM lemma="30akciový" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>akciový</text></LM></comment>
 </m>
 <m id="m-wsj0374-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2396,10 +2418,21 @@
 <AM lemma="100akciovém" src="manual" selected="1">AAIS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 akciovém</text>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
+</m><m id="m-wsj0374-001-p1s8W31-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0374-001-p1s8W31</LM>
+</w.rf>
+<form>100akciovém</form>
+<tag>
+<AM lemma="100akciovém" src="auto">X@-------------</AM>
+<AM lemma="100akciovém" src="manual" selected="1">AAIS6----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>akciovém</text></LM></comment>
 </m>
 <m id="m-wsj0374-001-p1s8W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4396,10 +4429,21 @@
 <AM lemma="100akciového" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 akciového</text>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
+</m><m id="m-wsj0374-001-p1s15W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0374-001-p1s15W19</LM>
+</w.rf>
+<form>100akciového</form>
+<tag>
+<AM lemma="100akciového" src="auto">X@-------------</AM>
+<AM lemma="100akciového" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>akciového</text></LM></comment>
 </m>
 <m id="m-wsj0374-001-p1s15W20-Ta">
 <src.rf>tagger-a</src.rf>

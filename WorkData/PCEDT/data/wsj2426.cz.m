@@ -1278,10 +1278,32 @@
 <AM lemma="T34C" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: T 34 C</text>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
+</m><m id="m-wsj2426-001-p1s3W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2426-001-p1s3W17</LM>
+</w.rf>
+<form>T34C</form>
+<tag>
+<AM lemma="T34C" src="auto">X@-------------</AM>
+<AM lemma="T34C" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>34</text></LM></comment>
+</m><m id="m-wsj2426-001-p1s3W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2426-001-p1s3W17</LM>
+</w.rf>
+<form>T34C</form>
+<tag>
+<AM lemma="T34C" src="auto">X@-------------</AM>
+<AM lemma="T34C" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>C</text></LM></comment>
 </m>
 <m id="m-wsj2426-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
