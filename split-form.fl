@@ -35,8 +35,6 @@ WorkData/PDTSC/data/pk_143.04.m##32.19
 WorkData/PDTSC/data/ez_128.02.m##47.4
 WorkData/PDTSC/data/ep_114.05.m##5.35
 WorkData/PDTSC/data/ep_114.05.m##5.31
-WorkData/PDT/data/tamw/train-7/ln94208_72.m##4.2
-WorkData/PDT/data/tamw/train-8/ln94202_107.m##3.3
 WorkData/PCEDT/data/wsj1696.cz.m##1.7
 WorkData/PDTSC/data/ep_114.06.m##15.10
 WorkData/PDTSC/data/ep_114.06.m##5.28
@@ -296,7 +294,6 @@ WorkData/PCEDT/data/wsj2367.cz.m##21.15
 WorkData/PCEDT/data/wsj1373.cz.m##36.26
 WorkData/PCEDT/data/wsj1373.cz.m##32.32
 WorkData/PCEDT/data/wsj1950.cz.m##18.10
-WorkData/PDT/data/amw/train-2/ln95040_042.m##22.13
 WorkData/PCEDT/data/wsj2163.cz.m##8.15
 WorkData/PDTSC/data/ez_039.02.m##22.5
 WorkData/PDTSC/data/ez_039.05.m##26.6
@@ -332,8 +329,6 @@ WorkData/PDTSC/data/hs_004.09.m##21.30
 WorkData/PCEDT/data/wsj2124.cz.m##13.31
 WorkData/PCEDT/data/wsj2169.cz.m##17.9
 WorkData/PCEDT/data/wsj2169.cz.m##20.5
-WorkData/PDT/data/amw/train-8/mf920901_031.m##6.13
-WorkData/PDT/data/amw/train-8/mf920901_031.m##10.34
 WorkData/Faust/data/faust_2010_07_jh_17.m##11.12
 WorkData/Faust/data/faust_2010_07_mu_17.m##11.10
 WorkData/PCEDT/data/wsj2308.cz.m##40.20
@@ -372,4 +367,3 @@ WorkData/PCEDT/data/wsj1767.cz.m##17.7
 WorkData/PCEDT/data/wsj1767.cz.m##19.24
 WorkData/PCEDT/data/wsj1767.cz.m##25.37
 WorkData/PCEDT/data/wsj1767.cz.m##28.15
-WorkData/PDT/data/tamw/train-8/ln95047_058.m##14.16
