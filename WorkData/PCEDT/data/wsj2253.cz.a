@@ -3333,70 +3333,77 @@
 <m.rf>m#m-wsj2253-001-p1s21W19-Ta</m.rf>
 <afun>Atr</afun>
 <ord>19</ord>
+<children>
+<LM id="m-wsj2253-001-p1s21W19-Ta-sw1-ia">
+<m.rf>m#m-wsj2253-001-p1s21W19-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>20</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj2253-001-p1s21W21-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W21-Ta</m.rf>
 <afun>Atr</afun>
-<ord>21</ord>
+<ord>22</ord>
 <children>
 <LM id="a-wsj2253-001-p1s21W20-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W20-Ta</m.rf>
 <afun>Atr</afun>
-<ord>20</ord>
+<ord>21</ord>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj2253-001-p1s21W22-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W22-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>22</ord>
+<ord>23</ord>
 <children>
 <LM id="a-wsj2253-001-p1s21W23-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W23-Ta</m.rf>
 <afun>Atr</afun>
-<ord>23</ord>
+<ord>24</ord>
 <children>
 <LM id="a-wsj2253-001-p1s21W24-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W24-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>24</ord>
+<ord>25</ord>
 <children>
 <LM id="a-wsj2253-001-p1s21W26-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W26-Ta</m.rf>
 <afun>Coord</afun>
-<ord>26</ord>
+<ord>27</ord>
 <children>
 <LM id="a-wsj2253-001-p1s21W25-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W25-Ta</m.rf>
 <afun>Adv</afun>
 <is_member>1</is_member>
-<ord>25</ord>
+<ord>26</ord>
 </LM>
 <LM id="a-wsj2253-001-p1s21W27-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W27-Ta</m.rf>
 <afun>Obj</afun>
 <is_member>1</is_member>
-<ord>27</ord>
+<ord>28</ord>
 </LM>
 <LM id="a-wsj2253-001-p1s21W28-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W28-Ta</m.rf>
 <afun>Atr</afun>
-<ord>28</ord>
+<ord>29</ord>
 <children>
 <LM id="a-wsj2253-001-p1s21W29-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W29-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>29</ord>
+<ord>30</ord>
 <children>
 <LM id="a-wsj2253-001-p1s21W30-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W30-Ta</m.rf>
 <afun>Atr</afun>
-<ord>30</ord>
+<ord>31</ord>
 <children>
 <LM id="a-wsj2253-001-p1s21W31-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W31-Ta</m.rf>
 <afun>Atr</afun>
-<ord>31</ord>
+<ord>32</ord>
 </LM>
 </children>
 </LM>
@@ -3437,7 +3444,7 @@
 <LM id="a-wsj2253-001-p1s21W32-Ta">
 <m.rf>m#m-wsj2253-001-p1s21W32-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>32</ord>
+<ord>33</ord>
 </LM>
 </children>
 </LM>

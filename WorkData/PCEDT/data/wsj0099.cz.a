@@ -374,6 +374,13 @@
 <afun>ExD</afun>
 <is_member>1</is_member>
 <ord>23</ord>
+<children>
+<LM id="m-wsj0099-001-p1s1W23-Ta-sw1-ia">
+<m.rf>m#m-wsj0099-001-p1s1W23-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -392,7 +399,7 @@
 <LM id="a-wsj0099-001-p1s1W24-Ta">
 <m.rf>m#m-wsj0099-001-p1s1W24-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>24</ord>
+<ord>25</ord>
 </LM>
 </children>
 </LM>

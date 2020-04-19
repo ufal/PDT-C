@@ -4376,37 +4376,44 @@
 <LM id="a-wsj2281-001-p1s22W29-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W29-Ta</m.rf>
 <afun>Atr</afun>
-<ord>29</ord>
+<ord>30</ord>
 <children>
 <LM id="a-wsj2281-001-p1s22W28-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W28-Ta</m.rf>
 <afun>Atr</afun>
 <ord>28</ord>
+<children>
+<LM id="m-wsj2281-001-p1s22W28-Ta-sw1-ia">
+<m.rf>m#m-wsj2281-001-p1s22W28-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>29</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj2281-001-p1s22W31-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W31-Ta</m.rf>
 <afun>Atr</afun>
-<ord>31</ord>
+<ord>32</ord>
 <children>
 <LM id="a-wsj2281-001-p1s22W30-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W30-Ta</m.rf>
 <afun>AuxX</afun>
-<ord>30</ord>
+<ord>31</ord>
 </LM>
 <LM id="a-wsj2281-001-p1s22W34-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W34-Ta</m.rf>
 <afun>Adv</afun>
-<ord>34</ord>
+<ord>35</ord>
 <children>
 <LM id="a-wsj2281-001-p1s22W32-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W32-Ta</m.rf>
 <afun>Atr</afun>
-<ord>32</ord>
+<ord>33</ord>
 <children>
 <LM id="a-wsj2281-001-p1s22W33-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W33-Ta</m.rf>
 <afun>AuxG</afun>
-<ord>33</ord>
+<ord>34</ord>
 </LM>
 </children>
 </LM>
@@ -4421,27 +4428,27 @@
 <LM id="a-wsj2281-001-p1s22W37-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W37-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>37</ord>
+<ord>38</ord>
 <children>
 <LM id="a-wsj2281-001-p1s22W35-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W35-Ta</m.rf>
 <afun>AuxX</afun>
-<ord>35</ord>
+<ord>36</ord>
 </LM>
 <LM id="a-wsj2281-001-p1s22W38-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W38-Ta</m.rf>
 <afun>Adv</afun>
-<ord>38</ord>
+<ord>39</ord>
 <children>
 <LM id="a-wsj2281-001-p1s22W36-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W36-Ta</m.rf>
 <afun>AuxZ</afun>
-<ord>36</ord>
+<ord>37</ord>
 </LM>
 <LM id="a-wsj2281-001-p1s22W39-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W39-Ta</m.rf>
 <afun>AuxG</afun>
-<ord>39</ord>
+<ord>40</ord>
 </LM>
 </children>
 </LM>
@@ -4452,7 +4459,7 @@
 <LM id="a-wsj2281-001-p1s22W40-Ta">
 <m.rf>m#m-wsj2281-001-p1s22W40-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>40</ord>
+<ord>41</ord>
 </LM>
 </children>
 </LM>
