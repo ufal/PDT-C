@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_13.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -5075,13 +5075,16 @@
 </gram>
 <deepord>7</deepord>
 <children>
-<LM id="faust_2010_07_es_13-SCzechT-p1387-s1-w4">
+<LM id="faust_2010_07_es_13-SCzechT-p1387-s1-roota3">
 <a>
-<lex.rf>a#faust_2010_07_es_13-SCzechA-p1387-s1-w4</lex.rf>
+<lex.rf>a#es_13-SCzechM-p1387-s1-w4-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>krát</t_lemma>
 <functor>THO</functor>
+<gram>
+<sempos>adv.denot.ngrad.nneg</sempos>
+</gram>
 <deepord>6</deepord>
 <children>
 <LM id="faust_2010_07_es_13-SCzechT-p1387-s1-roota2">

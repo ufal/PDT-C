@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_jh_17.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -298,9 +298,13 @@
 <LM id="faust_2010_07_jh_17-SCzechT-p1754-s1-w1">
 <a>
 <lex.rf>a#faust_2010_07_jh_17-SCzechA-p1754-s1-w1</lex.rf>
+<aux.rf>
+<LM>a#jh_17-SCzechM-p1754-s1-w1-sw1-ia</LM>
+<LM>a#jh_17-SCzechM-p1754-s1-w1-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>X1i</t_lemma>
+<t_lemma>X_1_i</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -323,9 +327,13 @@
 <LM id="faust_2010_07_jh_17-SCzechT-p1754-s1-w3">
 <a>
 <lex.rf>a#faust_2010_07_jh_17-SCzechA-p1754-s1-w3</lex.rf>
+<aux.rf>
+<LM>a#jh_17-SCzechM-p1754-s1-w3-sw1-ia</LM>
+<LM>a#jh_17-SCzechM-p1754-s1-w3-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>X1j</t_lemma>
+<t_lemma>X_1_j</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -1004,7 +1012,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2)&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz obrázek 4.</text>
+<text>F ($2)&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz obrázek 4.</text>
 </LM>
 </annot_comment>
 </LM>
@@ -2168,17 +2176,13 @@
 <LM>a#faust_2010_07_jh_17-SCzechA-p1769-s1-w15</LM>
 <LM>a#faust_2010_07_jh_17-SCzechA-p1769-s1-w16</LM>
 <LM>a#faust_2010_07_jh_17-SCzechA-p1769-s1-w17</LM>
+<LM>a#jh_17-SCzechM-p1769-s1-w12-sw1-ia</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>PO_PT10_-_001_-_01_1</t_lemma>
+<t_lemma>PO_PT_10_-_001_-_01_1</t_lemma>
 <functor>ID</functor>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma with underscore</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_17-SCzechT-p1769-s1B-roota5">
 <nodetype>list</nodetype>
@@ -2211,7 +2215,7 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>1.5</t_lemma>
+<t_lemma>1_._5</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -2221,9 +2225,12 @@
 <LM id="faust_2010_07_jh_17-SCzechT-p1769-s1-w21">
 <a>
 <lex.rf>a#faust_2010_07_jh_17-SCzechA-p1769-s1-w21</lex.rf>
+<aux.rf>
+<LM>a#jh_17-SCzechM-p1769-s1-w21-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>T6</t_lemma>
+<t_lemma>T_6</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_jh_01.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2356,10 +2356,11 @@
 <aux.rf>
 <LM>a#faust_2010_07_jh_01-SCzechA-p0033-s1-w21</LM>
 <LM>a#faust_2010_07_jh_01-SCzechA-p0033-s1-w22</LM>
+<LM>a#jh_01-SCzechM-p0033-s1-w22-sw1-ia</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>6.18a</t_lemma>
+<t_lemma>6_._18_a</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -2373,7 +2374,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz fig. 6.18a.</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz fig. 6.18a.</text>
 </LM>
 </annot_comment>
 </LM>

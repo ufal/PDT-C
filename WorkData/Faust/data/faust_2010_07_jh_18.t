@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_jh_18.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4476,7 +4476,7 @@
 <lex.rf>a#faust_2010_07_jh_18-SCzechA-p1897-s1-w35</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>RECH3</t_lemma>
+<t_lemma>RECH</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -4485,6 +4485,17 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>27</deepord>
+<children>
+<LM id="faust_2010_07_jh_18-SCzechT-p1897-s1-roota4">
+<a>
+<lex.rf>a#jh_18-SCzechM-p1897-s1-w35-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>3</t_lemma>
+<functor>RSTR</functor>
+<deepord>28</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -4508,7 +4519,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>28</deepord>
+<deepord>29</deepord>
 <children>
 <LM id="faust_2010_07_jh_18-SCzechT-p1897-s1-w38">
 <a>
@@ -4522,7 +4533,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>29</deepord>
+<deepord>30</deepord>
 <children>
 <LM id="faust_2010_07_jh_18-SCzechT-p1897-s1-w40">
 <a>
@@ -4540,7 +4551,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>30</deepord>
+<deepord>31</deepord>
 </LM>
 </children>
 </LM>

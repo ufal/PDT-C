@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0374.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -679,7 +679,7 @@
 <children>
 <LM id="T-wsj0374-001-p1s2a5">
 <a>
-<lex.rf>a#a-wsj0374-001-p1s2W4-Ta</lex.rf>
+<lex.rf>a#m-wsj0374-001-p1s2W4-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akciový</t_lemma>
@@ -1266,7 +1266,7 @@
 <children>
 <LM id="T-wsj0374-001-p1s5a3">
 <a>
-<lex.rf>a#a-wsj0374-001-p1s5W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0374-001-p1s5W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akciový</t_lemma>
@@ -2154,7 +2154,7 @@
 <children>
 <LM id="T-wsj0374-001-p1s8a32">
 <a>
-<lex.rf>a#a-wsj0374-001-p1s8W31-Ta</lex.rf>
+<lex.rf>a#m-wsj0374-001-p1s8W31-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akciový</t_lemma>
@@ -4043,7 +4043,7 @@
 <children>
 <LM id="T-wsj0374-001-p1s15a20">
 <a>
-<lex.rf>a#a-wsj0374-001-p1s15W19-Ta</lex.rf>
+<lex.rf>a#m-wsj0374-001-p1s15W19-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akciový</t_lemma>

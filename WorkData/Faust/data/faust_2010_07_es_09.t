@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_09.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2687,7 +2687,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) viz příloha</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) viz příloha</text>
 </LM>
 </annot_comment>
 </LM>
@@ -7571,9 +7571,15 @@
 <LM id="faust_2010_07_es_09-SCzechT-p0967-s1-w12">
 <a>
 <lex.rf>a#faust_2010_07_es_09-SCzechA-p0967-s1-w12</lex.rf>
+<aux.rf>
+<LM>a#es_09-SCzechM-p0967-s1-w12-sw1-ia</LM>
+<LM>a#es_09-SCzechM-p0967-s1-w12-sw2-ia</LM>
+<LM>a#es_09-SCzechM-p0967-s1-w12-sw3-ia</LM>
+<LM>a#es_09-SCzechM-p0967-s1-w12-sw4-ia</LM>
+</aux.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Fre3s3x</t_lemma>
+<t_lemma>Fre_3_s_3_x</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -7673,9 +7679,12 @@
 <LM id="faust_2010_07_es_09-SCzechT-p0967-s1-w20">
 <a>
 <lex.rf>a#faust_2010_07_es_09-SCzechA-p0967-s1-w20</lex.rf>
+<aux.rf>
+<LM>a#es_09-SCzechM-p0967-s1-w20-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>1e</t_lemma>
+<t_lemma>1_e</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>

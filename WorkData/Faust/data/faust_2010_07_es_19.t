@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_19.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -652,7 +652,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Příklad viz obrázek 3.22.</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Příklad viz obrázek 3.22.</text>
 </LM>
 </annot_comment>
 </LM>
@@ -3971,7 +3971,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz Obrázek 1.</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz Obrázek 1.</text>
 </LM>
 </annot_comment>
 </LM>
@@ -7309,7 +7309,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Podrobnosti viz</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Podrobnosti viz</text>
 </LM>
 </annot_comment>
 </LM>
@@ -9077,7 +9077,7 @@
 <lex.rf>a#faust_2010_07_es_19-SCzechA-p2080-s1-w6</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>&gt;</t_lemma>
+<t_lemma>></t_lemma>
 <functor>FPHR</functor>
 <deepord>7</deepord>
 </LM>
@@ -9171,9 +9171,12 @@
 <LM id="faust_2010_07_es_19-SCzechT-p2080-s1-w17">
 <a>
 <lex.rf>a#faust_2010_07_es_19-SCzechA-p2080-s1-w17</lex.rf>
+<aux.rf>
+<LM>a#es_19-SCzechM-p2080-s1-w17-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>TS03</t_lemma>
+<t_lemma>TS_03</t_lemma>
 <functor>PAR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -9591,7 +9594,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz https://postmaster.yahoo.com/421.html</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz https://postmaster.yahoo.com/421.html</text>
 </LM>
 </annot_comment>
 </LM>
