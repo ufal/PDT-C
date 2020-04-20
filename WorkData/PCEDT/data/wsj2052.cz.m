@@ -5023,9 +5023,9 @@
 <LM>w#w-wsj2052-001-p1s22W10</LM>
 </w.rf>
 <form>7</form>
-<tag>
-<AM lemma="7" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj2052-001-p1s22W10-Ta-sw1">
+<tag lemma="7" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2052-001-p1s22W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2052-001-p1s22W10</LM>
@@ -5037,7 +5037,8 @@
 <AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
-<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj2052-001-p1s22W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5221,16 +5222,15 @@
 <LM>w#w-wsj2052-001-p1s22W23</LM>
 </w.rf>
 <form>23</form>
-<tag>
-<AM lemma="23" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj2052-001-p1s22W23-Ta-sw1">
+<tag lemma="23" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2052-001-p1s22W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2052-001-p1s22W23</LM>
 </w.rf>
 <form>BN</form>
-<tag>
-<AM lemma="BN-88_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
+<tag lemma="BN-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj2052-001-p1s22W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5420,19 +5420,21 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="F-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="f-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="f-88_:B" src="auto">NNXXX-----A----</AM></tag>
-</m><m id="m-wsj2052-001-p1s22W37-Ta-sw1">
+<AM lemma="f-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj2052-001-p1s22W37-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2052-001-p1s22W37</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>16</form>
-<tag>
-<AM lemma="16" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="16" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj2052-001-p1s22W38-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

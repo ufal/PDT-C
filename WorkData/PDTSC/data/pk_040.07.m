@@ -3842,10 +3842,10 @@
 <w.rf>
 <LM>w#w-d1t2037-2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>1.2</form>
-<tag>
-<AM lemma="1.2" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="1.2" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m040-d1t2037-3">
 <w.rf>
 <LM>w#w-d1t2037-3</LM>
@@ -3858,6 +3858,7 @@
 <AM lemma="metrový_:B" src="auto">AAXXX----1A----</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m040-d-id122588-punct">

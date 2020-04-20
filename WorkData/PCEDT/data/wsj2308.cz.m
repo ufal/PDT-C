@@ -12368,16 +12368,20 @@
 <tag>
 <AM lemma="PW-1_:B_,t_^(prisoner_of_war)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="PW-2_:B_,t_^(public_works)" src="auto">NNFPX-----A----</AM>
-<AM lemma="policewoman_:B_,t" src="auto">NNFXX-----A---8</AM></tag>
-</m><m id="m-wsj2308-001-p1s39W20-Ta-sw1">
+<AM lemma="policewoman_:B_,t" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PW-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PW-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj2308-001-p1s39W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2308-001-p1s39W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>4060</form>
-<tag>
-<AM lemma="4060" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="4060" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj2308-001-p1s39W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

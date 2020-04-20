@@ -950,16 +950,19 @@
 <AM lemma="G-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="g-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="g-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="gram" src="auto">NNIXX-----A---8</AM></tag>
-</m><m id="m-wsj2435-001-p1s3W9-Ta-sw1">
+<AM lemma="gram" src="auto">NNIXX-----A---8</AM>
+<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj2435-001-p1s3W9-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2435-001-p1s3W9</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m-wsj2435-001-p1s3W9-Ta-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj2435-001-p1s3W9-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2435-001-p1s3W9</LM>
@@ -971,16 +974,19 @@
 <AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM></tag>
-</m><m id="m-wsj2435-001-p1s3W9-Ta-sw3">
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
+<AM lemma="m-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj2435-001-p1s3W9-Ta-sw3">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2435-001-p1s3W9</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m-wsj2435-001-p1s3W9-Ta-sw4">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj2435-001-p1s3W9-Ta-sw4">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2435-001-p1s3W9</LM>
@@ -990,20 +996,24 @@
 <AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
-<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
-</m><m id="m-wsj2435-001-p1s3W9-Ta-sw5">
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="b-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj2435-001-p1s3W9-Ta-sw5">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2435-001-p1s3W9</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m-wsj2435-001-p1s3W9-Ta-sw6">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj2435-001-p1s3W9-Ta-sw6">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2435-001-p1s3W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>H</form>
 <tag>
 <AM lemma="H-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -1011,8 +1021,10 @@
 <AM lemma="h-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="h-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="hodina" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodinový" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="hodinový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2435-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

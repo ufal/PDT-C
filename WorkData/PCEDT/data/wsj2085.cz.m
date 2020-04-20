@@ -552,20 +552,24 @@
 <form>Pacific</form>
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
-<AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM></tag>
-</m><m id="m-wsj2085-001-p1s2W10-Ta-sw1">
+<AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
+<m id="m-wsj2085-001-p1s2W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2085-001-p1s2W10</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m-wsj2085-001-p1s2W10-Ta-sw2">
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj2085-001-p1s2W10-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2085-001-p1s2W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -579,8 +583,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj2085-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

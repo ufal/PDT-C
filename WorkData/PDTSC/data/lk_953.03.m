@@ -2106,12 +2106,13 @@
 <LM>w#w-d1t1530-2</LM>
 </w.rf>
 <form>75</form>
-<tag>
-<AM lemma="75" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m953-d1t1530-2-sw1">
+<tag lemma="75" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m953-d1t1530-2-sw1">
 <w.rf>
 <LM>w#w-d1t1530-2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>procentní</form>
 <tag>
 <AM lemma="procentní" src="auto">AAFP1----1A----</AM>
@@ -2130,7 +2131,7 @@
 <AM lemma="procentní" src="auto" recommended="1">AAIS1----1A----</AM>
 <AM lemma="procentní" src="auto">AAIS4----1A----</AM>
 <AM lemma="procentní" src="auto">AAIS5----1A----</AM>
-<AM lemma="procentní" src="auto">AAMP1----1A----</AM>
+<AM lemma="procentní" src="auto" selected="1">AAMP1----1A----</AM>
 <AM lemma="procentní" src="auto">AAMP4----1A----</AM>
 <AM lemma="procentní" src="auto">AAMP5----1A----</AM>
 <AM lemma="procentní" src="auto">AAMS1----1A----</AM>
@@ -2140,8 +2141,9 @@
 <AM lemma="procentní" src="auto">AANP5----1A----</AM>
 <AM lemma="procentní" src="auto">AANS1----1A----</AM>
 <AM lemma="procentní" src="auto">AANS4----1A----</AM>
-<AM lemma="procentní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="procentní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m953-d1t1532-2">
 <w.rf>
 <LM>w#w-d1t1532-2</LM>

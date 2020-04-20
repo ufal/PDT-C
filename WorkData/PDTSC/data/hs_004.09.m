@@ -2778,25 +2778,31 @@
 <form>ping</form>
 <tag>
 <AM lemma="ping_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="pingo_;L" src="auto">NNNP2-----A----</AM></tag>
-</m><m id="m004-d1t3740-12-sw1">
+<AM lemma="pingo_;L" src="auto">NNNP2-----A----</AM>
+<AM lemma="ping_^(jen_ve_spojení_ping-pong)" src="manual" selected="1">S2--------A----</AM>
+</tag>
+</m>
+<m id="m004-d1t3740-12-sw1">
 <w.rf>
 <LM>w#w-d1t3740-12</LM>
 </w.rf>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m004-d1t3740-12-sw2">
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m004-d1t3740-12-sw2">
 <w.rf>
 <LM>w#w-d1t3740-12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pongu</form>
 <tag>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS2-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS3-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS5-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="manual" selected="1">SNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m004-d1e3713-x2-3474">
 <w.rf>
 <LM>w#w-d1e3713-x2-3474</LM>
