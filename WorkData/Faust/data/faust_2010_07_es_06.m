@@ -498,7 +498,9 @@
 <AM lemma="Carl_;Y">NNMP7-----A----</AM>
 <AM lemma="Carlo-1_;Y">NNMP4-----A----</AM>
 <AM lemma="Carlo-1_;Y">NNMP7-----A----</AM>
-<AM lemma="Carly_;Y" src="manual" selected="1">NNFS5-----A----</AM>
+<AM lemma="Carly_;Y" src="manual">NNFS5-----A----</AM>
+<AM lemma="Carly_;Y" src="manual">NNFS5-----A---1</AM>
+<AM lemma="Carly_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="es_06-SCzechM-p0558-s1-w3">
@@ -647,35 +649,41 @@
 <LM>w#w-es_06-SCzechM-p0558-s1-w18</LM>
 </w.rf>
 <form>8</form>
-<tag>
-<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="es_06-SCzechM-p0558-s1-w18-sw1">
+<tag lemma="8" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="es_06-SCzechM-p0558-s1-w18-sw1">
 <w.rf>
 <LM>w#w-es_06-SCzechM-p0558-s1-w18</LM>
 </w.rf>
 <form>R</form>
 <tag>
-<AM lemma="R-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="R-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="R-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM></tag>
-</m><m id="es_06-SCzechM-p0558-s1-w18-sw2">
+<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
+</tag>
+</m>
+<m id="es_06-SCzechM-p0558-s1-w18-sw2">
 <w.rf>
 <LM>w#w-es_06-SCzechM-p0558-s1-w18</LM>
 </w.rf>
 <form>5151</form>
-<tag>
-<AM lemma="5151" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="es_06-SCzechM-p0558-s1-w18-sw3">
+<tag lemma="5151" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="es_06-SCzechM-p0558-s1-w18-sw3">
 <w.rf>
 <LM>w#w-es_06-SCzechM-p0558-s1-w18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>SS</form>
 <tag>
 <AM lemma="SS_:B_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="ss" src="auto">II-------------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="ss" src="auto">II-------------</AM>
+<AM lemma="SS-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SS-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
 <m id="es_06-SCzechM-p0558-s1-w19">
 <w.rf>
 <LM>w#w-es_06-SCzechM-p0558-s1-w19</LM>

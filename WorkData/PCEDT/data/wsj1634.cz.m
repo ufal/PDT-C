@@ -16459,18 +16459,21 @@
 <LM>w#w-wsj1634-001-p1s65W30</LM>
 </w.rf>
 <form>20</form>
-<tag>
-<AM lemma="20" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1634-001-p1s65W30-Ta-sw1">
+<tag lemma="20" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1634-001-p1s65W30-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1634-001-p1s65W30</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>th</form>
 <tag>
 <AM lemma="th-77_,t" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="th-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="th-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="th-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1634-001-p1s65W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

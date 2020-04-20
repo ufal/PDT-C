@@ -198,13 +198,14 @@
 <LM>w#w-wsj1848-001-p1s1W1</LM>
 </w.rf>
 <form>46</form>
-<tag>
-<AM lemma="46" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1848-001-p1s1W1-Ta-sw1">
+<tag lemma="46" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1848-001-p1s1W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1848-001-p1s1W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -229,8 +230,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1848-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -342,7 +344,8 @@
 <form>jr</form>
 <tag>
 <AM lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="junior" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="junior" src="manual">NNMXX-----A---8</AM>
+<AM lemma="jr_^(junior)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1848-001-p1s1W12-Ta">

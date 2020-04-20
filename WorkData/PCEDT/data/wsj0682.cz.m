@@ -2003,16 +2003,19 @@
 <tag>
 <AM lemma="CF-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="californium_:B_;H_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="cf-77_:B" src="auto">F%-------------</AM></tag>
-</m><m id="m-wsj0682-001-p1s6W5-Ta-sw1">
+<AM lemma="cf-77_:B" src="auto">F%-------------</AM>
+<AM lemma="CF-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj0682-001-p1s6W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0682-001-p1s6W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>6</form>
-<tag>
-<AM lemma="6" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="6" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0682-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4465,16 +4468,19 @@
 <tag>
 <AM lemma="CF-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="californium_:B_;H_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="cf-77_:B" src="auto">F%-------------</AM></tag>
-</m><m id="m-wsj0682-001-p1s13W6-Ta-sw1">
+<AM lemma="cf-77_:B" src="auto">F%-------------</AM>
+<AM lemma="CF-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj0682-001-p1s13W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0682-001-p1s13W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>6</form>
-<tag>
-<AM lemma="6" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="6" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0682-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

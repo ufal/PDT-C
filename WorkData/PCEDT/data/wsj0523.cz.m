@@ -25,20 +25,24 @@
 </w.rf>
 <form>Weisfield</form>
 <tag>
-<AM lemma="Weisfield" src="auto">X@-------------</AM></tag>
-</m><m id="m-wsj0523-001-p1s0W2-Ta-sw1">
+<AM lemma="Weisfield" src="auto">X@-------------</AM>
+<AM lemma="Weisfield-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
+<m id="m-wsj0523-001-p1s0W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0523-001-p1s0W2</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m-wsj0523-001-p1s0W2-Ta-sw2">
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj0523-001-p1s0W2-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0523-001-p1s0W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -52,8 +56,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0523-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -562,20 +568,24 @@
 </w.rf>
 <form>Weisfield</form>
 <tag>
-<AM lemma="Weisfield" src="auto">X@-------------</AM></tag>
-</m><m id="m-wsj0523-001-p1s2W6-Ta-sw1">
+<AM lemma="Weisfield" src="auto">X@-------------</AM>
+<AM lemma="Weisfield-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
+<m id="m-wsj0523-001-p1s2W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0523-001-p1s2W6</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m-wsj0523-001-p1s2W6-Ta-sw2">
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj0523-001-p1s2W6-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0523-001-p1s2W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -589,8 +599,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0523-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -812,20 +824,24 @@
 </w.rf>
 <form>Weisfield</form>
 <tag>
-<AM lemma="Weisfield" src="auto">X@-------------</AM></tag>
-</m><m id="m-wsj0523-001-p1s4W2-Ta-sw1">
+<AM lemma="Weisfield" src="auto">X@-------------</AM>
+<AM lemma="Weisfield-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
+<m id="m-wsj0523-001-p1s4W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0523-001-p1s4W2</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m-wsj0523-001-p1s4W2-Ta-sw2">
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj0523-001-p1s4W2-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0523-001-p1s4W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -839,8 +855,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0523-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

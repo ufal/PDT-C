@@ -47513,19 +47513,23 @@
 <LM>w#w-wsj1915-001-p1s114W2</LM>
 </w.rf>
 <form>3</form>
-<tag>
-<AM lemma="3" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1915-001-p1s114W2-Ta-sw1">
+<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1915-001-p1s114W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1915-001-p1s114W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>COM</form>
 <tag>
 <AM lemma="COM_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="COM_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Como_;G" src="auto" recommended="1">NNNP2-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Como_;G" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="COM-77" src="manual">F%-------------</AM>
+<AM lemma="Com-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1915-001-p1s114W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -47534,7 +47538,8 @@
 <form>CORP</form>
 <tag>
 <AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="CORP-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="CORP-77" src="manual">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1915-001-p1s114W4-Ta">

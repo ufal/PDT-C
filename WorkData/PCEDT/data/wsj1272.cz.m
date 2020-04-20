@@ -1398,13 +1398,14 @@
 <LM>w#w-wsj1272-001-p1s5W11</LM>
 </w.rf>
 <form>26</form>
-<tag>
-<AM lemma="26" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1272-001-p1s5W11-Ta-sw1">
+<tag lemma="26" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1272-001-p1s5W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1272-001-p1s5W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -1422,15 +1423,16 @@
 <AM lemma="letý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="letý" src="auto">AAMP4----1A---6</AM>
 <AM lemma="letý" src="auto">AAMP5----1A---6</AM>
-<AM lemma="letý" src="auto">AAMS1----1A----</AM>
+<AM lemma="letý" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="letý" src="auto">AAMS5----1A----</AM>
 <AM lemma="letý" src="auto">AANP1----1A---6</AM>
 <AM lemma="letý" src="auto">AANP4----1A---6</AM>
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1272-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1938,13 +1940,14 @@
 <LM>w#w-wsj1272-001-p1s7W13</LM>
 </w.rf>
 <form>98</form>
-<tag>
-<AM lemma="98" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1272-001-p1s7W13-Ta-sw1">
+<tag lemma="98" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1272-001-p1s7W13-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1272-001-p1s7W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>librovým</form>
 <tag>
 <AM lemma="librový" src="auto">AAFP3----1A----</AM>
@@ -1956,8 +1959,9 @@
 <AM lemma="librový" src="auto" recommended="1">AAMS7----1A----</AM>
 <AM lemma="librový" src="auto">AANP3----1A----</AM>
 <AM lemma="librový" src="auto">AANS6----1A---7</AM>
-<AM lemma="librový" src="auto">AANS7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="librový" src="auto">AANS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1272-001-p1s7W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

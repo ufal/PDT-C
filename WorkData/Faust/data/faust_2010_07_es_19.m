@@ -7284,7 +7284,7 @@
 <w.rf>
 <LM>w#w-es_19-SCzechM-p2080-s1-w6</LM>
 </w.rf>
-<form>&gt;</form>
+<form>></form>
 <tag lemma="&amp;gt;" recommended="1">Z:-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w7">
@@ -7370,15 +7370,18 @@
 <form>TS</form>
 <tag>
 <AM lemma="TS-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="ts" src="auto">II-------------</AM></tag>
-</m><m id="es_19-SCzechM-p2080-s1-w17-sw1">
+<AM lemma="ts" src="auto">II-------------</AM>
+<AM lemma="TS-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="es_19-SCzechM-p2080-s1-w17-sw1">
 <w.rf>
 <LM>w#w-es_19-SCzechM-p2080-s1-w17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>03</form>
-<tag>
-<AM lemma="03" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="03" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="es_19-SCzechM-p2080-s1-w18">
 <w.rf>
 <LM>w#w-es_19-SCzechM-p2080-s1-w18</LM>

@@ -1039,16 +1039,19 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFP2-----A----</AM>
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM></tag>
-</m><m id="m-wsj0129-001-p1s2W28-Ta-sw1">
+<AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
+</tag>
+</m>
+<m id="m-wsj0129-001-p1s2W28-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0129-001-p1s2W28</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0129-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

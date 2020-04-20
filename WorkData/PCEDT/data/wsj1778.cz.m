@@ -7997,24 +7997,31 @@
 </w.rf>
 <form>GR</form>
 <tag>
-<AM lemma="GR-88_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
-</m><m id="m-wsj1778-001-p1s61W1-Ta-sw1">
+<AM lemma="GR-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="GR-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj1778-001-p1s61W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1778-001-p1s61W1</LM>
 </w.rf>
 <form>8</form>
-<tag>
-<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1778-001-p1s61W1-Ta-sw2">
+<tag lemma="8" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1778-001-p1s61W1-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1778-001-p1s61W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>FLRED</form>
 <tag>
-<AM lemma="FLRED" src="auto">X@-------------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="FLRED" src="auto">X@-------------</AM>
+<AM lemma="FLRED-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1778-001-p1s61W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16932,24 +16939,31 @@
 </w.rf>
 <form>GR</form>
 <tag>
-<AM lemma="GR-88_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
-</m><m id="m-wsj1778-001-p1s127W1-Ta-sw1">
+<AM lemma="GR-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="GR-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj1778-001-p1s127W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1778-001-p1s127W1</LM>
 </w.rf>
 <form>8</form>
-<tag>
-<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1778-001-p1s127W1-Ta-sw2">
+<tag lemma="8" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1778-001-p1s127W1-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1778-001-p1s127W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>FLRED</form>
 <tag>
-<AM lemma="FLRED" src="auto">X@-------------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="FLRED" src="auto">X@-------------</AM>
+<AM lemma="FLRED-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FLRED-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1778-001-p1s127W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

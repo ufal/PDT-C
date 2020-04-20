@@ -5255,22 +5255,24 @@
 <LM>w#w-wsj0984-001-p1s17W8</LM>
 </w.rf>
 <form>3</form>
-<tag>
-<AM lemma="3" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0984-001-p1s17W8-Ta-sw1">
+<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0984-001-p1s17W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0984-001-p1s17W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>D</form>
 <tag>
 <AM lemma="D-3`500" src="auto">C}-------------</AM>
-<AM lemma="D-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="D-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="d-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-77" src="auto">F%-------------</AM>
-<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0984-001-p1s17W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

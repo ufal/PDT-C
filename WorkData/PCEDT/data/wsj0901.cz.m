@@ -423,16 +423,16 @@
 <LM>w#w-wsj0901-001-p1s2W9</LM>
 </w.rf>
 <form>60</form>
-<tag>
-<AM lemma="60" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0901-001-p1s2W9-Ta-sw1">
+<tag lemma="60" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0901-001-p1s2W9-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0901-001-p1s2W9</LM>
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="A-77_^(př._a_la)" src="auto">F%-------------</AM>
 <AM lemma="A-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="ampér" src="auto">NNIXX-----A---8</AM>
@@ -440,7 +440,8 @@
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -516,13 +517,14 @@
 <LM>w#w-wsj0901-001-p1s2W16</LM>
 </w.rf>
 <form>60</form>
-<tag>
-<AM lemma="60" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0901-001-p1s2W16-Ta-sw1">
+<tag lemma="60" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0901-001-p1s2W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0901-001-p1s2W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>K</form>
 <tag>
 <AM lemma="K-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
@@ -531,8 +533,9 @@
 <AM lemma="k-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="k-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="kůň" src="auto">NNMXX-----A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="kůň" src="auto">NNMXX-----A---8</AM>
+</tag>
+</m>
 <m id="m-wsj0901-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

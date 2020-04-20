@@ -4028,15 +4028,19 @@
 </w.rf>
 <form>RECH</form>
 <tag>
-<AM lemma="Rech_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-</m><m id="jh_18-SCzechM-p1897-s1-w35-sw1">
+<AM lemma="Rech_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="RECH-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="RECH-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="jh_18-SCzechM-p1897-s1-w35-sw1">
 <w.rf>
 <LM>w#w-jh_18-SCzechM-p1897-s1-w35</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>3</form>
-<tag>
-<AM lemma="3" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="jh_18-SCzechM-p1897-s1-w36">
 <w.rf>
 <LM>w#w-jh_18-SCzechM-p1897-s1-w36</LM>

@@ -9808,16 +9808,19 @@
 <AM lemma="Ap-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="Apa_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="ap-99_:B_;S" src="auto">NNXXX-----A----</AM>
-<AM lemma="ap_:B_^(a_podobně)" src="auto">Db-------------</AM></tag>
-</m><m id="m-wsj0560-001-p1s27W21-Ta-sw1">
+<AM lemma="ap_:B_^(a_podobně)" src="auto">Db-------------</AM>
+<AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj0560-001-p1s27W21-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0560-001-p1s27W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>600</form>
-<tag>
-<AM lemma="600" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="600" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0560-001-p1s27W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

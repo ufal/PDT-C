@@ -6178,15 +6178,17 @@
 <AM lemma="metr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM></tag>
-</m><m id="m-wsj0409-001-p1s26W10-Ta-sw1">
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
+<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj0409-001-p1s26W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0409-001-p1s26W10</LM>
 </w.rf>
 <form>8</form>
-<tag>
-<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="8" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0409-001-p1s26W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6202,17 +6204,22 @@
 <LM>w#w-wsj0409-001-p1s26W12</LM>
 </w.rf>
 <form>7</form>
-<tag>
-<AM lemma="7" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0409-001-p1s26W12-Ta-sw1">
+<tag lemma="7" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0409-001-p1s26W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0409-001-p1s26W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>sp</form>
 <tag>
-<AM lemma="speciální_:B_,x" src="auto" recommended="1">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="speciální_:B_,x" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="sp-77" src="manual">F%-------------</AM>
+<AM lemma="sp-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="sp-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0409-001-p1s26W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

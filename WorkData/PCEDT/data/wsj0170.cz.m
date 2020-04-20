@@ -1080,18 +1080,21 @@
 <LM>w#w-wsj0170-001-p1s3W5</LM>
 </w.rf>
 <form>11</form>
-<tag>
-<AM lemma="11" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0170-001-p1s3W5-Ta-sw1">
+<tag lemma="11" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0170-001-p1s3W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0170-001-p1s3W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>ti</form>
 <tag>
 <AM lemma="ten" src="auto" recommended="1">PDMP1----------</AM>
-<AM lemma="ty" src="auto">PH-S3--2-------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="ty" src="auto">PH-S3--2-------</AM>
+<AM lemma="ti_^(10-ti)" src="manual" selected="1">Sn-XX----------</AM>
+</tag>
+</m>
 <m id="m-wsj0170-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

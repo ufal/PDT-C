@@ -673,21 +673,23 @@
 <LM>w#w-wsj0099-001-p1s1W23</LM>
 </w.rf>
 <form>130</form>
-<tag>
-<AM lemma="130" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0099-001-p1s1W23-Ta-sw1">
+<tag lemma="130" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0099-001-p1s1W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0099-001-p1s1W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>U</form>
 <tag>
-<AM lemma="U-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="U-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="U-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="u-1" src="auto">RR--2----------</AM>
 <AM lemma="u-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0099-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

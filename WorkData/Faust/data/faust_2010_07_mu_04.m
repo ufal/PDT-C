@@ -1933,25 +1933,27 @@
 <LM>w#w-mu_04-SCzechM-p0335-s1-w11</LM>
 </w.rf>
 <form>0</form>
-<tag>
-<AM lemma="0" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="mu_04-SCzechM-p0335-s1-w11-sw1">
+<tag lemma="0" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="mu_04-SCzechM-p0335-s1-w11-sw1">
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0335-s1-w11</LM>
 </w.rf>
 <form>x</form>
 <tag>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
-<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM></tag>
-</m><m id="mu_04-SCzechM-p0335-s1-w11-sw2">
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="mu_04-SCzechM-p0335-s1-w11-sw2">
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0335-s1-w11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>00000000</form>
-<tag>
-<AM lemma="00000000" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="00000000" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="mu_04-SCzechM-p0335-s1-w12">
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0335-s1-w12</LM>

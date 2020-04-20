@@ -2100,20 +2100,22 @@
 <LM>w#w-mu_01-SCzechM-p0033-s1-w22</LM>
 </w.rf>
 <form>18</form>
-<tag>
-<AM lemma="18" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="mu_01-SCzechM-p0033-s1-w22-sw1">
+<tag lemma="18" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="mu_01-SCzechM-p0033-s1-w22-sw1">
 <w.rf>
 <LM>w#w-mu_01-SCzechM-p0033-s1-w22</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="mu_01-SCzechM-p0033-s1-w23">
 <w.rf>
 <LM>w#w-mu_01-SCzechM-p0033-s1-w23</LM>

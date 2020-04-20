@@ -1761,9 +1761,9 @@
 <LM>w#w-wsj1981-001-p1s5W24</LM>
 </w.rf>
 <form>24</form>
-<tag>
-<AM lemma="24" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1981-001-p1s5W24-Ta-sw1">
+<tag lemma="24" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1981-001-p1s5W24-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1981-001-p1s5W24</LM>
@@ -1798,7 +1798,8 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
-<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1981-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1860,17 +1861,18 @@
 <LM>w#w-wsj1981-001-p1s5W30</LM>
 </w.rf>
 <form>60</form>
-<tag>
-<AM lemma="60" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1981-001-p1s5W30-Ta-sw1">
+<tag lemma="60" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1981-001-p1s5W30-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1981-001-p1s5W30</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>měsíční</form>
 <tag>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP5----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAFS2----1A----</AM>
@@ -1897,8 +1899,9 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
-<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1981-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
