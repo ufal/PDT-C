@@ -799,6 +799,7 @@
 <tag>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Time-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0039-001-p1s3W20-Ta">
@@ -882,13 +883,14 @@
 <LM>w#w-wsj0039-001-p1s3W27</LM>
 </w.rf>
 <form>36</form>
-<tag>
-<AM lemma="36" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0039-001-p1s3W27-Ta-sw1">
+<tag lemma="36" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0039-001-p1s3W27-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0039-001-p1s3W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>minutový</form>
 <tag>
 <AM lemma="minutový" src="auto">AAFP1----1A---6</AM>
@@ -913,8 +915,9 @@
 <AM lemma="minutový" src="auto">AANP5----1A---6</AM>
 <AM lemma="minutový" src="auto">AANS1----1A---6</AM>
 <AM lemma="minutový" src="auto">AANS4----1A---6</AM>
-<AM lemma="minutový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="minutový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0039-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

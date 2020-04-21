@@ -2213,7 +2213,11 @@
 <LM>w#w-wsj1549-001-p1s8W20</LM>
 </w.rf>
 <form>talk</form>
-<tag lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="talk-77" src="manual">F%-------------</AM>
+<AM lemma="talk" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1549-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2221,7 +2225,11 @@
 <LM>w#w-wsj1549-001-p1s8W21</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="show-77" src="manual">F%-------------</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1549-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>

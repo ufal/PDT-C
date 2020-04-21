@@ -23036,7 +23036,8 @@
 <form>Remic</form>
 <tag>
 <AM lemma="Remic" src="auto">X@-------------</AM>
-<AM lemma="Remic_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Remic_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Remic_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1624-001-p1s77W19-Ta">
@@ -23433,7 +23434,8 @@
 <form>Remic</form>
 <tag>
 <AM lemma="Remic" src="auto">X@-------------</AM>
-<AM lemma="Remic_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Remic_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Remic_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1624-001-p1s78W11-Ta">

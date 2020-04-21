@@ -1161,6 +1161,7 @@
 <tag>
 <AM lemma="Newsweek_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newsweek_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newsweek_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0012-001-p1s2W29-Ta">

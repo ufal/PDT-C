@@ -7078,6 +7078,7 @@
 <tag>
 <AM lemma="Merck_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Merck_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Merck_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2093-001-p1s27W4-Ta">

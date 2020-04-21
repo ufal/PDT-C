@@ -369,7 +369,9 @@
 <form>NASDAQ</form>
 <tag>
 <AM lemma="NASDAQ_:B_;K_,t_^(National_Assoc._of_Secur._Dealers_Aut...)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="NASDAQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NASDAQ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="NASDAQ-77" src="manual">F%-------------</AM>
+<AM lemma="Nasdaq-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1537-s1-w3">
@@ -756,7 +758,8 @@
 <form>FreeLotto</form>
 <tag>
 <AM lemma="FreeLotto">X@-------------</AM>
-<AM lemma="FreeLotto_;R" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="FreeLotto_;R" src="manual">NNNS1-----A----</AM>
+<AM lemma="FreeLotto_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1539-s1-w2">

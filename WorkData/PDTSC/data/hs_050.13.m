@@ -1921,7 +1921,10 @@
 <LM>w#w-d1t3695-8</LM>
 </w.rf>
 <form>Srí</form>
-<tag lemma="Srí_;G" src="auto" recommended="1">AAFXX----1A----</tag>
+<tag>
+<AM lemma="Srí_;G" src="auto" recommended="1">AAFXX----1A----</AM>
+<AM lemma="Srí-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m050-d1t3695-9">
 <w.rf>

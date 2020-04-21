@@ -5541,7 +5541,8 @@
 <form>Halls</form>
 <tag>
 <AM lemma="Halls" src="auto">X@-------------</AM>
-<AM lemma="Halls_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Halls_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Halls_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2007-001-p1s18W20-Ta">

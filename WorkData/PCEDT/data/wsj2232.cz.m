@@ -2068,7 +2068,10 @@
 <LM>w#w-wsj2232-001-p1s6W3</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -25732,7 +25735,10 @@
 <LM>w#w-wsj2232-001-p1s87W35</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s87W36-Ta">
 <src.rf>tagger-a</src.rf>

@@ -10072,7 +10072,8 @@
 <tag>
 <AM lemma="Pepsi_;R" src="auto">AAXXX----1A----</AM>
 <AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Pepsi-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1193-001-p1s39W3-Ta">

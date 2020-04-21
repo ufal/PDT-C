@@ -4231,7 +4231,10 @@
 <LM>w#w-wsj2432-001-p1s17W2</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2432-001-p1s17W3-Ta">
 <src.rf>tagger-a</src.rf>

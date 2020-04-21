@@ -947,13 +947,15 @@
 <w.rf>
 <LM>w#w-wsj0739-001-p1s2W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>týdeníku</form>
 <tag>
 <AM lemma="týdeník" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="týdeník" src="auto">NNIS3-----A----</AM>
 <AM lemma="týdeník" src="auto">NNIS5-----A----</AM>
-<AM lemma="týdeník" src="auto">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="týdeník" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0739-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -961,9 +963,10 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-77" src="auto" recommended="1" selected="1">F%-------------</AM>
+<AM lemma="Science-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="science-77" src="auto">F%-------------</AM>
 <AM lemma="Science_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Science_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0739-001-p1s2W25-Ta">

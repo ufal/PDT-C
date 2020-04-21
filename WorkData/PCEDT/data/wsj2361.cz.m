@@ -3176,7 +3176,10 @@
 <LM>w#w-wsj2361-001-p1s9W16</LM>
 </w.rf>
 <form>talk</form>
-<tag lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="talk" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2361-001-p1s9W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3186,7 +3189,8 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-2" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-2" src="manual">NNFXX-----A----</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2361-001-p1s9W18-Ta">
@@ -13602,7 +13606,11 @@
 <LM>w#w-wsj2361-001-p1s43W16</LM>
 </w.rf>
 <form>talk</form>
-<tag lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="talk-77" src="manual">F%-------------</AM>
+<AM lemma="talk" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2361-001-p1s43W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13612,7 +13620,9 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-2" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-2" src="manual">NNFXX-----A----</AM>
+<AM lemma="show-77" src="manual">F%-------------</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2361-001-p1s43W18-Ta">
