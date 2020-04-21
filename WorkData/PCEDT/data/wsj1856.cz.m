@@ -7136,6 +7136,7 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Coca-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1856-001-p1s30W2-Ta">
@@ -7153,6 +7154,7 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1856-001-p1s30W3-Ta">
@@ -7177,7 +7179,8 @@
 <tag>
 <AM lemma="Pepsi_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="pepsi_;R" src="auto">NNFSX-----A----</AM>
-<AM lemma="Pepsi-2_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1856-001-p1s30W5-Ta">

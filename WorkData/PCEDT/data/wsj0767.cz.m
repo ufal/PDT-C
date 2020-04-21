@@ -3248,7 +3248,8 @@
 <form>Tariff</form>
 <tag>
 <AM lemma="Tariff" src="auto">X@-------------</AM>
-<AM lemma="Tariff-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tariff-77" src="manual">F%-------------</AM>
+<AM lemma="Tariff_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0767-001-p1s8W20-Ta">
@@ -4779,7 +4780,8 @@
 <form>Tariff</form>
 <tag>
 <AM lemma="Tariff" src="auto">X@-------------</AM>
-<AM lemma="Tariff-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tariff-77" src="manual">F%-------------</AM>
+<AM lemma="Tariff_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0767-001-p1s12W26-Ta">
@@ -6481,7 +6483,8 @@
 <form>Tariffu</form>
 <tag>
 <AM lemma="Tariffu" src="auto">X@-------------</AM>
-<AM lemma="Tariff_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Tariff_;R" src="manual">NNIS2-----A----</AM>
+<AM lemma="Tariff_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0767-001-p1s18W12-Ta">
@@ -6933,7 +6936,8 @@
 <form>Tariffu</form>
 <tag>
 <AM lemma="Tariffu" src="auto">X@-------------</AM>
-<AM lemma="Tariff_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Tariff_;R" src="manual">NNIS2-----A----</AM>
+<AM lemma="Tariff_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0767-001-p1s19W24-Ta">
@@ -9104,7 +9108,7 @@
 <AM lemma="Philadelphia_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Philadelphia_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Philadelphia_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="	Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual">NNFS2-----A----</AM>
+<AM lemma=" Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual">NNFS2-----A----</AM>
 <AM lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

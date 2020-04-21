@@ -15888,6 +15888,7 @@
 <tag>
 <AM lemma="coca" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1705-001-p1s58W4-Ta">
@@ -16325,6 +16326,7 @@
 <tag>
 <AM lemma="coca" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1705-001-p1s60W11-Ta">

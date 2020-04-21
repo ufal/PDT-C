@@ -278,7 +278,10 @@
 <LM>w#w-d1t1079-26</LM>
 </w.rf>
 <form>Manche</form>
-<tag lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Manche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m111-123-124">
 <w.rf>

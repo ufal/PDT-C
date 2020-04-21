@@ -8420,6 +8420,7 @@
 <AM lemma="kok" src="auto">NNIS3-----A----</AM>
 <AM lemma="kok" src="auto">NNIS5-----A----</AM>
 <AM lemma="kok" src="auto">NNIS6-----A----</AM>
+<AM lemma="koka-2" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0764-001-p1s36W22-Ta">

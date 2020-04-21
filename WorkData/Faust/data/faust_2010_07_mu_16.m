@@ -1391,7 +1391,8 @@
 <AM lemma="Coca_;R" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca">A2--------A----</AM>
 <AM lemma="coca_;L_,t">AAXXX----1A----</AM>
-<AM lemma="Coca-2_^(Coca-Cola)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Coca-2_^(Coca-Cola)" src="manual">S2--------A----</AM>
+<AM lemma="Coca-1_^(Coca-Cola)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1650-s1-w2">
@@ -1415,6 +1416,7 @@
 <AM lemma="Colo_;K">NNNP5-----A----</AM>
 <AM lemma="Colo_;K">NNNS2-----A----</AM>
 <AM lemma="cola">NNFS1-----A----</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>

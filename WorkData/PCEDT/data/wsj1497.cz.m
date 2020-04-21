@@ -635,7 +635,10 @@
 <LM>w#w-wsj1497-001-p1s1W7</LM>
 </w.rf>
 <form>Manche</form>
-<tag lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Manche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1497-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1408,7 +1411,10 @@
 <LM>w#w-wsj1497-001-p1s3W27</LM>
 </w.rf>
 <form>Manche</form>
-<tag lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Manche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1497-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1464,11 +1470,12 @@
 <tag>
 <AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Man-2_;G" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Man-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Man-3_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="man" src="auto">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
+<AM lemma="Man-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1497-001-p1s3W33-Ta">
