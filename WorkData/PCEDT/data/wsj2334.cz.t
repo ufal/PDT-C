@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2334.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1388,12 +1388,23 @@
 <lex.rf>a#a-wsj2334-001-p1s3W9-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>10K</t_lemma>
+<t_lemma>10</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+<children>
+<LM id="T-wsj2334-001-p1s3a30">
+<a>
+<lex.rf>a#m-wsj2334-001-p1s3W9-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>K</t_lemma>
+<functor>RSTR</functor>
+<deepord>11</deepord>
+</LM>
+</children>
 </LM>
 </children>
 <coref_text>
@@ -1427,14 +1438,14 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>13</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="T-wsj2334-001-p1s3a29">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
 <functor>ADDR</functor>
-<deepord>11</deepord>
+<deepord>12</deepord>
 </LM>
 <LM id="T-wsj2334-001-p1s3a28">
 <nodetype>complex</nodetype>
@@ -1444,7 +1455,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>12</deepord>
+<deepord>13</deepord>
 <coref_text>
 <LM>
 <target-node.rf>T-wsj2334-001-p1s3a27</target-node.rf>
@@ -1463,7 +1474,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>14</deepord>
+<deepord>15</deepord>
 <children>
 <LM id="T-wsj2334-001-p1s3a15">
 <a>
@@ -1476,7 +1487,7 @@
 <gram>
 <sempos>n.denot.neg</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>18</deepord>
 <children>
 <LM id="T-wsj2334-001-p1s3a16">
 <a>
@@ -1491,7 +1502,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>15</deepord>
+<deepord>16</deepord>
 </LM>
 <LM id="T-wsj2334-001-p1s3a17">
 <a>
@@ -1503,7 +1514,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>16</deepord>
+<deepord>17</deepord>
 </LM>
 </children>
 <annot_comment>
@@ -1529,7 +1540,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>18</deepord>
+<deepord>19</deepord>
 <children>
 <LM id="T-wsj2334-001-p1s3a22">
 <a>
@@ -1541,7 +1552,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>19</deepord>
+<deepord>20</deepord>
 </LM>
 <LM id="T-wsj2334-001-p1s3a21">
 <a>
@@ -1553,7 +1564,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>21</deepord>
+<deepord>22</deepord>
 <children>
 <LM id="T-wsj2334-001-p1s3a23">
 <a>
@@ -1565,7 +1576,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>20</deepord>
+<deepord>21</deepord>
 <coref_text>
 <LM>
 <target-node.rf>T-wsj2334-001-p1s3a16</target-node.rf>

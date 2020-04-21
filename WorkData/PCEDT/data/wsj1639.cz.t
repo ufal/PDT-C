@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1639.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -456,12 +456,23 @@
 <lex.rf>a#a-wsj1639-001-p1s0W40-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>B2</t_lemma>
+<t_lemma>B</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>34</deepord>
+<children>
+<LM id="T-wsj1639-001-p1s0a45">
+<a>
+<lex.rf>a#m-wsj1639-001-p1s0W40-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>2</t_lemma>
+<functor>RSTR</functor>
+<deepord>35</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1098,7 +1109,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>22</deepord>
+<deepord>21</deepord>
 </LM>
 </children>
 <coref_text>
@@ -1122,7 +1133,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>23</deepord>
+<deepord>22</deepord>
 <children>
 <LM id="T-wsj1639-001-p1s3a25">
 <a>
@@ -1134,7 +1145,7 @@
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
-<deepord>28</deepord>
+<deepord>30</deepord>
 <children>
 <LM id="T-wsj1639-001-p1s3a23">
 <a>
@@ -1172,7 +1183,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>29</deepord>
+<deepord>31</deepord>
 </LM>
 </children>
 </LM>
@@ -1199,12 +1210,23 @@
 <lex.rf>a#a-wsj1639-001-p1s3W28-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>B2</t_lemma>
+<t_lemma>B</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
-<deepord>21</deepord>
+<deepord>23</deepord>
+<children>
+<LM id="T-wsj1639-001-p1s3a38">
+<a>
+<lex.rf>a#m-wsj1639-001-p1s3W28-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>2</t_lemma>
+<functor>RSTR</functor>
+<deepord>28</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1225,12 +1247,23 @@
 <lex.rf>a#a-wsj1639-001-p1s3W30-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Ba3</t_lemma>
+<t_lemma>Ba</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>27</deepord>
+<children>
+<LM id="T-wsj1639-001-p1s3a39">
+<a>
+<lex.rf>a#m-wsj1639-001-p1s3W30-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>3</t_lemma>
+<functor>RSTR</functor>
+<deepord>29</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

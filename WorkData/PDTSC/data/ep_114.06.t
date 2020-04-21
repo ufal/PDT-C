@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ep_114.06.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -774,7 +774,7 @@
 <lex.rf>a#ep_114.06-SCzechA-m-d1t1738-4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>184,37</t_lemma>
+<t_lemma>184.37</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -974,7 +974,7 @@
 <lex.rf>a#ep_114.06-SCzechA-m-d1t1745-9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>9,37</t_lemma>
+<t_lemma>9.37</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2144,7 +2144,7 @@
 <lex.rf>a#ep_114.06-SCzechA-m-d1t1791-11</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>1,20</t_lemma>
+<t_lemma>1.20</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2776,7 +2776,7 @@
 <lex.rf>a#ep_114.06-SCzechA-m-d1t1806-17</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>1,60</t_lemma>
+<t_lemma>1.60</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -3080,7 +3080,7 @@
 <lex.rf>a#ep_114.06-SCzechA-m-d1t1811-3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>1,80</t_lemma>
+<t_lemma>1.80</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -8525,12 +8525,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ep_114.06-SCzechT-m-d1t1953-14</target-node.rf>
@@ -8538,6 +8532,12 @@
 <src>mark</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="ep_114.06-SCzechT-m-d1t1953-23">
 <a>
@@ -9657,12 +9657,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ep_114.06-SCzechT-m-d1t1981-4</target-node.rf>
@@ -9670,6 +9664,12 @@
 <src>mark</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="ep_114.06-SCzechT-m-d1t1987-4">
 <a>

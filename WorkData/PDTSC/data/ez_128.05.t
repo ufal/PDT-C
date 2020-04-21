@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ez_128.05.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -7036,7 +7036,7 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <is_member>1</is_member>
-<deepord>16</deepord>
+<deepord>17</deepord>
 <children>
 <LM id="ez_128.05-SCzechT-m-d1t1543-1">
 <a>
@@ -7134,7 +7134,7 @@
 <lex.rf>a#ez_128.05-SCzechA-m-d1t1545-2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>P1</t_lemma>
+<t_lemma>P</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -7143,6 +7143,17 @@
 <negation>neg0</negation>
 </gram>
 <deepord>15</deepord>
+<children>
+<LM id="ez_128.05-SCzechT-ez_128-13-roota4">
+<a>
+<lex.rf>a#m128-d1t1545-2-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>1</t_lemma>
+<functor>RSTR</functor>
+<deepord>16</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -7175,7 +7186,7 @@
 <person>1</person>
 <negation>neg0</negation>
 </gram>
-<deepord>17</deepord>
+<deepord>18</deepord>
 <children>
 <LM id="ez_128.05-SCzechT-m-d1t1545-8">
 <a>
@@ -7190,7 +7201,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>18</deepord>
+<deepord>19</deepord>
 <children>
 <LM id="ez_128.05-SCzechT-m-d1t1545-10">
 <a>
@@ -7208,7 +7219,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>19</deepord>
+<deepord>20</deepord>
 </LM>
 </children>
 </LM>

@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0781.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -6969,12 +6969,21 @@
 <lex.rf>a#a-wsj0781-001-p1s24W20-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>A21</t_lemma>
+<t_lemma>A</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
+<LM id="T-wsj0781-001-p1s24a30">
+<a>
+<lex.rf>a#m-wsj0781-001-p1s24W20-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>21</t_lemma>
+<functor>FPHR</functor>
+<deepord>22</deepord>
 </LM>
 </children>
 </LM>
@@ -6995,7 +7004,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>22</deepord>
+<deepord>23</deepord>
 <children>
 <LM id="T-wsj0781-001-p1s24a23">
 <a>
@@ -7007,7 +7016,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>23</deepord>
+<deepord>24</deepord>
 </LM>
 </children>
 </LM>
@@ -7024,7 +7033,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>24</deepord>
+<deepord>25</deepord>
 </LM>
 </children>
 </LM>

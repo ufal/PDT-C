@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="jg_017.02.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2434,12 +2434,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>jg_017.02-SCzechT-m-d1t636-18</target-node.rf>
@@ -2447,6 +2441,12 @@
 <src>mark</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="jg_017.02-SCzechT-m-d1t638-10">
 <a>
@@ -4099,7 +4099,7 @@
 <lex.rf>a#jg_017.02-SCzechA-m-d1t721-8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>6,20</t_lemma>
+<t_lemma>6.20</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

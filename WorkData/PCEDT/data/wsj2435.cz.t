@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2435.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -988,12 +988,66 @@
 <lex.rf>a#a-wsj2435-001-p1s3W9-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>G.m.b.H</t_lemma>
+<t_lemma>G</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
+<LM id="T-wsj2435-001-p1s3a11">
+<a>
+<lex.rf>a#m-wsj2435-001-p1s3W9-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
+<deepord>9</deepord>
+</LM>
+<LM id="T-wsj2435-001-p1s3a12">
+<a>
+<lex.rf>a#m-wsj2435-001-p1s3W9-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>m</t_lemma>
+<functor>FPHR</functor>
+<deepord>10</deepord>
+</LM>
+<LM id="T-wsj2435-001-p1s3a13">
+<a>
+<lex.rf>a#m-wsj2435-001-p1s3W9-Ta-sw3-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
+<deepord>11</deepord>
+</LM>
+<LM id="T-wsj2435-001-p1s3a14">
+<a>
+<lex.rf>a#m-wsj2435-001-p1s3W9-Ta-sw4-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>b</t_lemma>
+<functor>FPHR</functor>
+<deepord>12</deepord>
+</LM>
+<LM id="T-wsj2435-001-p1s3a15">
+<a>
+<lex.rf>a#m-wsj2435-001-p1s3W9-Ta-sw5-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
+<deepord>13</deepord>
+</LM>
+<LM id="T-wsj2435-001-p1s3a16">
+<a>
+<lex.rf>a#m-wsj2435-001-p1s3W9-Ta-sw6-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>H</t_lemma>
+<functor>FPHR</functor>
+<deepord>14</deepord>
 </LM>
 </children>
 </LM>

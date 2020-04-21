@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="dk_110.09.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -3585,7 +3585,7 @@
 <lex.rf>a#dk_110.09-SCzechA-m-d1t2489-15</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>8.</t_lemma>
+<t_lemma>8</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>

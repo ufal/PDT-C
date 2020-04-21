@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1833.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1833-001-p1s0">
 <atree.rf>a#a-wsj1833-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1833-001-p1s0a1">
+<children>
+<LM id="T-wsj1833-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1833-001-p1s0a26">
+<children>
+<LM id="T-wsj1833-001-p1s0a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -79,6 +81,7 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1833-001-p1s0a7">
@@ -109,7 +112,9 @@
 <a>
 <lex.rf>a#a-wsj1833-001-p1s0W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1833-001-p1s0a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1833-001-p1s0a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -145,7 +150,9 @@
 <LM id="T-wsj1833-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1833-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1833-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výroba</t_lemma>
@@ -154,7 +161,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1833-001-p1s0a14">
+<children>
+<LM id="T-wsj1833-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -165,6 +173,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -180,7 +189,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1833-001-p1s0a27">
+<children>
+<LM id="T-wsj1833-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -245,12 +255,15 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1833-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1833-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1833-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -289,16 +302,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Control Data Corp. agreed to sell its idle supercomputer manufacturing plant here to Minnesota Mining &amp; Manufacturing Co. for $5.8 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1833-001-p1s1">
 <atree.rf>a#a-wsj1833-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1833-001-p1s1a7">
+<children>
+<LM id="T-wsj1833-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1833-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1833-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8533f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -307,12 +324,14 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>5</deepord>
+<deepord>6</deepord>
 <children>
 <LM id="T-wsj1833-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1833-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1833-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dohoda</t_lemma>
@@ -321,7 +340,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1833-001-p1s1a4">
+<children>
+<LM id="T-wsj1833-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -332,6 +352,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1833-001-p1s1a5">
@@ -345,22 +366,37 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1833-001-p1s1a6">
+<children>
+<LM id="T-wsj1833-001-p1s1a6">
 <a>
-<lex.rf>a#a-wsj1833-001-p1s1W6-Ta</lex.rf>
+<lex.rf>a#m-wsj1833-001-p1s1W6-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>3M</t_lemma>
+<t_lemma>M</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+<children>
+<LM id="T-wsj1833-001-p1s1a20">
+<a>
+<lex.rf>a#a-wsj1833-001-p1s1W6-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>3</t_lemma>
+<functor>RSTR</functor>
+<deepord>5</deepord>
+</LM>
+</children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1833-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1833-001-p1s1a13">
@@ -370,7 +406,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>9</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="T-wsj1833-001-p1s1a8">
 <a>
@@ -383,11 +419,14 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>6</deepord>
-<children id="T-wsj1833-001-p1s1a10">
+<deepord>7</deepord>
+<children>
+<LM id="T-wsj1833-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1833-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1833-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stopa</t_lemma>
@@ -395,7 +434,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>8</deepord>
+<deepord>9</deepord>
 <children>
 <LM id="T-wsj1833-001-p1s1a12">
 <a>
@@ -407,7 +446,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>7</deepord>
+<deepord>8</deepord>
 </LM>
 <LM id="T-wsj1833-001-p1s1a11">
 <a>
@@ -419,14 +458,17 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>10</deepord>
+<deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1833-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1833-001-p1s1a15">
@@ -440,7 +482,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>12</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="T-wsj1833-001-p1s1a14">
 <a>
@@ -452,7 +494,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>11</deepord>
+<deepord>12</deepord>
 </LM>
 <LM id="T-wsj1833-001-p1s1a16">
 <a>
@@ -464,7 +506,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>13</deepord>
+<deepord>14</deepord>
 </LM>
 </children>
 </LM>
@@ -473,7 +515,9 @@
 <LM id="T-wsj1833-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1833-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1833-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>laboratoř</t_lemma>
@@ -481,8 +525,9 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>15</deepord>
-<children id="T-wsj1833-001-p1s1a19">
+<deepord>16</deepord>
+<children>
+<LM id="T-wsj1833-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -492,17 +537,20 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>14</deepord>
+<deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The tentative agreement calls for 3M to use the 115,000-square-foot plant and 19 acres of land for research laboratories.</eng_sentence>
 </LM>
 <LM id="T-wsj1833-001-p1s2">
 <atree.rf>a#a-wsj1833-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1833-001-p1s2a1">
+<children>
+<LM id="T-wsj1833-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -526,7 +574,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1833-001-p1s2a19">
+<children>
+<LM id="T-wsj1833-001-p1s2a19">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -558,11 +607,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1833-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1833-001-p1s2a8">
@@ -576,10 +628,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1833-001-p1s2a3">
+<children>
+<LM id="T-wsj1833-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1833-001-p1s2W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1833-001-p1s2W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zařízení</t_lemma>
@@ -588,7 +643,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1833-001-p1s2a4">
+<children>
+<LM id="T-wsj1833-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -599,22 +655,30 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1833-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1833-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1833-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1833-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2894f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -635,9 +699,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1833-001-p1s2a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1833-001-p1s2a11">
@@ -656,7 +722,9 @@
 <a>
 <lex.rf>a#a-wsj1833-001-p1s2W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1833-001-p1s2a20</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1833-001-p1s2a20</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -727,7 +795,9 @@
 <LM id="T-wsj1833-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1833-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1833-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1833-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>duben</t_lemma>
@@ -739,11 +809,14 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Control Data has been seeking a buyer for the facility since it folded its ETA Systems Inc. supercomputer unit this past April.</eng_sentence>
 </LM>

@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0638.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -3425,7 +3425,7 @@
 </LM>
 <LM id="T-wsj0638-001-p1s8a13">
 <a>
-<lex.rf>a#a-wsj0638-001-p1s8W12-Ta</lex.rf>
+<lex.rf>a#m-wsj0638-001-p1s8W12-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>librový</t_lemma>
@@ -3472,7 +3472,7 @@
 <children>
 <LM id="T-wsj0638-001-p1s8a16">
 <a>
-<lex.rf>a#a-wsj0638-001-p1s8W15-Ta</lex.rf>
+<lex.rf>a#m-wsj0638-001-p1s8W15-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>megabytový</t_lemma>
@@ -3496,7 +3496,7 @@
 </LM>
 <LM id="T-wsj0638-001-p1s8a18">
 <a>
-<lex.rf>a#a-wsj0638-001-p1s8W17-Ta</lex.rf>
+<lex.rf>a#m-wsj0638-001-p1s8W17-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>megabytový</t_lemma>
@@ -4302,7 +4302,7 @@
 <children>
 <LM id="T-wsj0638-001-p1s11a17">
 <a>
-<lex.rf>a#a-wsj0638-001-p1s11W15-Ta</lex.rf>
+<lex.rf>a#m-wsj0638-001-p1s11W15-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>megabytový</t_lemma>
@@ -5474,7 +5474,7 @@
 <children>
 <LM id="T-wsj0638-001-p1s15a15">
 <a>
-<lex.rf>a#a-wsj0638-001-p1s15W16-Ta</lex.rf>
+<lex.rf>a#m-wsj0638-001-p1s15W16-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>megabytový</t_lemma>
@@ -5555,7 +5555,7 @@
 <children>
 <LM id="T-wsj0638-001-p1s15a24">
 <a>
-<lex.rf>a#a-wsj0638-001-p1s15W23-Ta</lex.rf>
+<lex.rf>a#m-wsj0638-001-p1s15W23-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>megabytový</t_lemma>

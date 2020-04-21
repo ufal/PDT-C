@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1103.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2462,12 +2462,23 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>AA3</t_lemma>
+<t_lemma>AA</t_lemma>
 <functor>ORIG</functor>
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>32</deepord>
+<children>
+<LM id="T-wsj1103-001-p1s6a53">
+<a>
+<lex.rf>a#m-wsj1103-001-p1s6W31-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>3</t_lemma>
+<functor>RSTR</functor>
+<deepord>33</deepord>
+</LM>
+</children>
 </LM>
 <LM id="T-wsj1103-001-p1s6a33">
 <a>
@@ -2477,12 +2488,23 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>A1</t_lemma>
+<t_lemma>A</t_lemma>
 <functor>EFF</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>33</deepord>
+<deepord>34</deepord>
+<children>
+<LM id="T-wsj1103-001-p1s6a54">
+<a>
+<lex.rf>a#m-wsj1103-001-p1s6W33-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>1</t_lemma>
+<functor>RSTR</functor>
+<deepord>35</deepord>
+</LM>
+</children>
 </LM>
 <LM id="T-wsj1103-001-p1s6a46">
 <a>
@@ -2491,7 +2513,7 @@
 <nodetype>atom</nodetype>
 <t_lemma>údajně</t_lemma>
 <functor>ATT</functor>
-<deepord>34</deepord>
+<deepord>36</deepord>
 </LM>
 <LM id="T-wsj1103-001-p1s6a36">
 <a>
@@ -2506,7 +2528,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>35</deepord>
+<deepord>37</deepord>
 <children>
 <LM id="T-wsj1103-001-p1s6a37">
 <a>
@@ -2518,7 +2540,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>36</deepord>
+<deepord>38</deepord>
 <coref_text>
 <LM>
 <target-node.rf>T-wsj1103-001-p1s6a16</target-node.rf>
@@ -2540,7 +2562,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>39</deepord>
+<deepord>41</deepord>
 <children>
 <LM id="T-wsj1103-001-p1s6a41">
 <a>
@@ -2552,7 +2574,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>38</deepord>
+<deepord>40</deepord>
 <children>
 <LM id="T-wsj1103-001-p1s6a42">
 <a>
@@ -2564,7 +2586,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>37</deepord>
+<deepord>39</deepord>
 </LM>
 </children>
 </LM>
@@ -2578,7 +2600,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>41</deepord>
+<deepord>43</deepord>
 <children>
 <LM id="T-wsj1103-001-p1s6a44">
 <a>
@@ -2590,7 +2612,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>40</deepord>
+<deepord>42</deepord>
 </LM>
 </children>
 </LM>

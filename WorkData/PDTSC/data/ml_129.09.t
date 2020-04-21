@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ml_129.09.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2690,12 +2690,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ml_129.09-SCzechT-m-d1t2215-7</target-node.rf>
@@ -2703,6 +2697,12 @@
 <src>lenk</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2808,12 +2808,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ml_129.09-SCzechT-m-d1t2244-3</target-node.rf>
@@ -2821,6 +2815,12 @@
 <src>lenk</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4063,7 +4063,7 @@
 <lex.rf>a#ml_129.09-SCzechA-m-d1t2280-6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>2,5</t_lemma>
+<t_lemma>2.5</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -6577,12 +6577,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ml_129.09-SCzechT-m-d1t2340-2</target-node.rf>
@@ -6590,6 +6584,12 @@
 <src>lenk</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -6864,12 +6864,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ml_129.09-SCzechT-m-d1t2360-1</target-node.rf>
@@ -6877,6 +6871,12 @@
 <src>lenk</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>

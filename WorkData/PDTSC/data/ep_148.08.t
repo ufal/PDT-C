@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ep_148.08.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1489,7 +1489,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Comma</t_lemma>
 <functor>APPS</functor>
-<deepord>5</deepord>
+<deepord>8</deepord>
 <children>
 <LM id="ep_148.08-SCzechT-m-d1t3652-1">
 <a>
@@ -1554,20 +1554,47 @@
 </gram>
 <deepord>3</deepord>
 <children>
+<LM id="ep_148.08-SCzechT-ep_148-113-roota2">
+<nodetype>list</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Forn</t_lemma>
+<functor>ID</functor>
+<deepord>4</deepord>
+<children>
+<LM id="ep_148.08-SCzechT-ep_148-113-roota3">
+<a>
+<lex.rf>a#m148-d1t3655-4-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>'</t_lemma>
+<functor>FPHR</functor>
+<deepord>5</deepord>
+</LM>
+<LM id="ep_148.08-SCzechT-ep_148-113-roota4">
+<a>
+<lex.rf>a#m148-d1t3655-4-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>Ampezzo</t_lemma>
+<functor>FPHR</functor>
+<deepord>6</deepord>
+</LM>
 <LM id="ep_148.08-SCzechT-m-d1t3655-4">
 <a>
 <lex.rf>a#ep_148.08-SCzechA-m-d1t3655-4</lex.rf>
 </a>
-<nodetype>complex</nodetype>
-<t_lemma>d´Ampezzo</t_lemma>
-<functor>ID</functor>
+<nodetype>fphr</nodetype>
+<t_lemma>d</t_lemma>
+<functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>nr</gender>
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>4</deepord>
+<deepord>7</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1599,7 +1626,7 @@
 <person>1</person>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="ep_148.08-SCzechT-ep_148-113-n11">
 <coref_special>exoph</coref_special>
@@ -1610,7 +1637,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>6</deepord>
+<deepord>9</deepord>
 </LM>
 <LM id="ep_148.08-SCzechT-m-d1t3663-4">
 <a>
@@ -1622,7 +1649,7 @@
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
-<deepord>8</deepord>
+<deepord>11</deepord>
 <coref_text>
 <LM>
 <target-node.rf>ep_148.08-SCzechT-m-d1t3652-2</target-node.rf>
@@ -1644,7 +1671,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>11</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="ep_148.08-SCzechT-m-d1t3665-3">
 <a>
@@ -1659,7 +1686,7 @@
 <number>pl</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>10</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="ep_148.08-SCzechT-m-d1t3665-2">
 <a>
@@ -1672,7 +1699,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 <negation>neg0</negation>
 </gram>
-<deepord>9</deepord>
+<deepord>12</deepord>
 </LM>
 </children>
 </LM>

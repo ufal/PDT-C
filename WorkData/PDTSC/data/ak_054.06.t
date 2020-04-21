@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ak_054.06.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -8153,11 +8153,11 @@
 <children>
 <LM id="ak_054.06-SCzechT-ak_054-802-roota6">
 <a>
-<lex.rf>a#ak_054.06-SCzechA-m-d1t1607-10</lex.rf>
+<lex.rf>a#m054-d1t1607-10-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>29letý</t_lemma>
+<t_lemma>letý</t_lemma>
 <functor>RSTR</functor>
 <is_member>1</is_member>
 <deepord>6</deepord>
@@ -8181,7 +8181,7 @@
 </LM>
 <LM id="ak_054.06-SCzechT-m-d1t1607-10">
 <a>
-<lex.rf>a#ak_054.06-SCzechA-m-d1t1607-10</lex.rf>
+<lex.rf>a#m054-d1t1607-10-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

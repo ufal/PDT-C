@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ez_039.07.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1978,6 +1978,10 @@
 <LM id="ez_039.07-SCzechT-ez_039-d1e2855-x3-roota4">
 <a>
 <lex.rf>a#ez_039.07-SCzechA-m-d1e2855-x3-481</lex.rf>
+<aux.rf>
+<LM>a#m039-d1e2855-x3-481-sw1-ia</LM>
+<LM>a#m039-d1e2855-x3-481-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Period3</t_lemma>
@@ -6428,12 +6432,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ez_039.07-SCzechT-m-d1t3175-5</target-node.rf>
@@ -6441,6 +6439,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="ez_039.07-SCzechT-m-d1t3190-6">
 <a>

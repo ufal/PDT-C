@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1795.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4161,13 +4161,13 @@
 <children>
 <LM id="T-wsj1795-001-p1s15a8">
 <a>
-<lex.rf>a#a-wsj1795-001-p1s15W11-Ta</lex.rf>
+<lex.rf>a#m-wsj1795-001-p1s15W11-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>krát</t_lemma>
 <functor>DIFF</functor>
 <gram>
-<sempos>n.denot</sempos>
+<sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>12</deepord>
 <children>

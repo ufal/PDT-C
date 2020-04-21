@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2426.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1304,18 +1304,6 @@
 <functor>PAT</functor>
 <deepord>14</deepord>
 <children>
-<LM id="T-wsj2426-001-p1s3a16">
-<a>
-<lex.rf>a#a-wsj2426-001-p1s3W17-Ta</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>T34C</t_lemma>
-<functor>ID</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
-<deepord>16</deepord>
-<children>
 <LM id="T-wsj2426-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj2426-001-p1s3W16-Ta</lex.rf>
@@ -1334,6 +1322,22 @@
 <src>PCEDT</src>
 </LM>
 </coref_text>
+</LM>
+<LM id="T-wsj2426-001-p1s3a16">
+<a>
+<lex.rf>a#a-wsj2426-001-p1s3W17-Ta</lex.rf>
+<aux.rf>
+<LM>a#m-wsj2426-001-p1s3W17-Ta-sw1-ia</LM>
+<LM>a#m-wsj2426-001-p1s3W17-Ta-sw2-ia</LM>
+</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>T_34_C</t_lemma>
+<functor>ID</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>16</deepord>
 </LM>
 <LM id="T-wsj2426-001-p1s3a18">
 <a>
@@ -1455,8 +1459,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

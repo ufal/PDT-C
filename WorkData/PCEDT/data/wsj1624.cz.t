@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1624.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -10981,7 +10981,7 @@
 </LM>
 <LM id="T-wsj1624-001-p1s39a34">
 <a>
-<lex.rf>a#a-wsj1624-001-p1s39W2-Ta</lex.rf>
+<lex.rf>a#m-wsj1624-001-p1s39W2-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -11371,7 +11371,7 @@
 </LM>
 <LM id="T-wsj1624-001-p1s40a32">
 <a>
-<lex.rf>a#a-wsj1624-001-p1s40W2-Ta</lex.rf>
+<lex.rf>a#m-wsj1624-001-p1s40W2-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -12129,7 +12129,7 @@
 </LM>
 <LM id="T-wsj1624-001-p1s43a14">
 <a>
-<lex.rf>a#a-wsj1624-001-p1s43W6-Ta</lex.rf>
+<lex.rf>a#m-wsj1624-001-p1s43W6-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týdenní</t_lemma>
@@ -12441,7 +12441,7 @@
 <children>
 <LM id="T-wsj1624-001-p1s44a20">
 <a>
-<lex.rf>a#a-wsj1624-001-p1s44W19-Ta</lex.rf>
+<lex.rf>a#m-wsj1624-001-p1s44W19-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týdenní</t_lemma>
@@ -21144,7 +21144,7 @@
 </LM>
 <LM id="T-wsj1624-001-p1s76a35">
 <a>
-<lex.rf>a#a-wsj1624-001-p1s76W22-Ta</lex.rf>
+<lex.rf>a#m-wsj1624-001-p1s76W22-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

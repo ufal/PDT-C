@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0633.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -13286,9 +13286,9 @@
 <children>
 <LM id="T-wsj0633-001-p1s54a3">
 <a>
-<lex.rf>a#a-wsj0633-001-p1s54W2-Ta</lex.rf>
+<lex.rf>a#m-wsj0633-001-p1s54W2-Ta-sw1-ia</lex.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>atom</nodetype>
 <t_lemma>tisícový</t_lemma>
 <functor>RSTR</functor>
 <gram>
@@ -17929,7 +17929,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>16</deepord>
+<deepord>17</deepord>
 <children>
 <LM id="T-wsj0633-001-p1s74a17">
 <a>
@@ -17956,6 +17956,18 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
+<deepord>16</deepord>
+<children>
+<LM id="T-wsj0633-001-p1s74a22">
+<a>
+<lex.rf>a#m-wsj0633-001-p1s74W17-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>stránkový</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
 <deepord>15</deepord>
 <children>
 <LM id="T-wsj0633-001-p1s74a19">
@@ -17963,12 +17975,14 @@
 <lex.rf>a#a-wsj0633-001-p1s74W17-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>36stránkový</t_lemma>
+<t_lemma>36</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -17982,7 +17996,7 @@
 <gram>
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>18</deepord>
 </LM>
 </children>
 </LM>

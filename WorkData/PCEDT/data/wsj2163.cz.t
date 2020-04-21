@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2163.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2317,7 +2317,7 @@
 </LM>
 <LM id="T-wsj2163-001-p1s7a43">
 <a>
-<lex.rf>a#a-wsj2163-001-p1s7W15-Ta</lex.rf>
+<lex.rf>a#m-wsj2163-001-p1s7W15-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
 <t_lemma>.</t_lemma>
@@ -2326,7 +2326,7 @@
 </LM>
 <LM id="T-wsj2163-001-p1s7a44">
 <a>
-<lex.rf>a#a-wsj2163-001-p1s7W15-Ta</lex.rf>
+<lex.rf>a#m-wsj2163-001-p1s7W15-Ta-sw2-ia</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
 <t_lemma>V</t_lemma>

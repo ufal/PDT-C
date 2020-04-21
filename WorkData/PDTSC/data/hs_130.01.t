@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="hs_130.01.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1018,6 +1018,10 @@
 <LM id="hs_130.01-SCzechT-hs_130-d1e204-x2-roota1">
 <a>
 <lex.rf>a#hs_130.01-SCzechA-m-d-m-d1e204-x2-punct-punct</lex.rf>
+<aux.rf>
+<LM>a#m130-d-m-d1e204-x2-punct-punct-sw1-ia</LM>
+<LM>a#m130-d-m-d1e204-x2-punct-punct-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Period3</t_lemma>

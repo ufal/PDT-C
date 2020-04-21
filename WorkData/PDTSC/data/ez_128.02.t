@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ez_128.02.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -7014,7 +7014,7 @@
 <lex.rf>a#ez_128.02-SCzechA-m-d1t805-12</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>170V</t_lemma>
+<t_lemma>170</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -7023,6 +7023,17 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
+<children>
+<LM id="ez_128.02-SCzechT-ez_128-405-roota1">
+<a>
+<lex.rf>a#m128-d1t805-12-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>V</t_lemma>
+<functor>RSTR</functor>
+<deepord>5</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

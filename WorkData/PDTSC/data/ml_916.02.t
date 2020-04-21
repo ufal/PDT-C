@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ml_916.02.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -8401,7 +8401,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
-<deepord>19</deepord>
+<deepord>20</deepord>
 <children>
 <LM id="ml-12941_06.02-SCzechT-ml-12941_06-3370-roota4">
 <a>
@@ -8421,7 +8421,7 @@
 <lex.rf>a#ml-12941_06.02-SCzechA-m-d1t1047-4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>V1</t_lemma>
+<t_lemma>V</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -8430,6 +8430,17 @@
 <negation>neg0</negation>
 </gram>
 <deepord>18</deepord>
+<children>
+<LM id="ml-12941_06.02-SCzechT-ml-12941_06-3370-roota7">
+<a>
+<lex.rf>a#m916-d1t1047-4-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>1</t_lemma>
+<functor>RSTR</functor>
+<deepord>19</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -8444,14 +8455,14 @@
 <t_lemma>#Idph</t_lemma>
 <functor>PAT</functor>
 <is_member>1</is_member>
-<deepord>20</deepord>
+<deepord>21</deepord>
 <children>
 <LM id="ml-12941_06.02-SCzechT-m-d1t1047-7">
 <a>
 <lex.rf>a#ml-12941_06.02-SCzechA-m-d1t1047-7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>V2</t_lemma>
+<t_lemma>V</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -8459,7 +8470,18 @@
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>21</deepord>
+<deepord>22</deepord>
+<children>
+<LM id="ml-12941_06.02-SCzechT-ml-12941_06-3370-roota8">
+<a>
+<lex.rf>a#m916-d1t1047-7-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>2</t_lemma>
+<functor>RSTR</functor>
+<deepord>23</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

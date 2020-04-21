@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0984.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4979,7 +4979,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>13</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="T-wsj0984-001-p1s17a8">
 <a>
@@ -5065,6 +5065,15 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
+<deepord>8</deepord>
+<children>
+<LM id="T-wsj0984-001-p1s17a22">
+<a>
+<lex.rf>a#m-wsj0984-001-p1s17W8-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>D</t_lemma>
+<functor>ID</functor>
 <deepord>7</deepord>
 <children>
 <LM id="T-wsj0984-001-p1s17a9">
@@ -5072,12 +5081,14 @@
 <lex.rf>a#a-wsj0984-001-p1s17W8-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>3D</t_lemma>
+<t_lemma>3</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
+</children>
 </LM>
 <LM id="T-wsj0984-001-p1s17a11">
 <a>
@@ -5089,7 +5100,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>8</deepord>
+<deepord>9</deepord>
 <children>
 <LM id="T-wsj0984-001-p1s17a13">
 <a>
@@ -5098,7 +5109,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>či</t_lemma>
 <functor>DISJ</functor>
-<deepord>10</deepord>
+<deepord>11</deepord>
 <children>
 <LM id="T-wsj0984-001-p1s17a12">
 <a>
@@ -5111,7 +5122,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>9</deepord>
+<deepord>10</deepord>
 </LM>
 <LM id="T-wsj0984-001-p1s17a14">
 <a>
@@ -5124,7 +5135,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>12</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="T-wsj0984-001-p1s17a15">
 <a>
@@ -5136,7 +5147,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>11</deepord>
+<deepord>12</deepord>
 </LM>
 </children>
 </LM>
@@ -5154,7 +5165,7 @@
 <t_lemma>#EmpVerb</t_lemma>
 <functor>PRED</functor>
 <is_member>1</is_member>
-<deepord>14</deepord>
+<deepord>15</deepord>
 <children>
 <LM id="T-wsj0984-001-p1s17a20">
 <a>
@@ -5169,7 +5180,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>15</deepord>
+<deepord>16</deepord>
 <coref_text>
 <LM>
 <target-node.rf>T-wsj0984-001-p1s17a10</target-node.rf>
@@ -5188,7 +5199,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>18</deepord>
 <children>
 <LM id="T-wsj0984-001-p1s17a18">
 <a>
@@ -5200,7 +5211,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>16</deepord>
+<deepord>17</deepord>
 </LM>
 </children>
 </LM>

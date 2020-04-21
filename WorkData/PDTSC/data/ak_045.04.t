@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ak_045.04.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4321,7 +4321,7 @@
 </LM>
 <LM id="ak_045.04-SCzechT-m-717-102">
 <a>
-<lex.rf>a#ak_045.04-SCzechA-m-717-102</lex.rf>
+<lex.rf>a#m045-717-102-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -4472,7 +4472,7 @@
 <children>
 <LM id="ak_045.04-SCzechT-m-725-104">
 <a>
-<lex.rf>a#ak_045.04-SCzechA-m-725-104</lex.rf>
+<lex.rf>a#m045-725-104-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -4877,7 +4877,7 @@
 <children>
 <LM id="ak_045.04-SCzechT-m-d1e1342-x2-106">
 <a>
-<lex.rf>a#ak_045.04-SCzechA-m-d1e1342-x2-106</lex.rf>
+<lex.rf>a#m045-d1e1342-x2-106-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
