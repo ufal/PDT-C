@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0465.cz.a" />
-<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
+<reffile id="v" name="vallex" href="vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -6110,7 +6110,7 @@
 <annot_comment>
 <LM>
 <type>Translation</type>
-<text>po tom co -> potom, co</text>
+<text>po tom co -&gt; potom, co</text>
 </LM>
 </annot_comment>
 <eng_sentence>Mr. Quinlan, 30 years old, knew he carried a damaged gene, having lost an eye to the rare tumor when he was only two months old -- after his mother had suffered the same fate when she was a baby.</eng_sentence>
