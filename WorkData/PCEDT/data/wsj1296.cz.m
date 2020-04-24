@@ -13223,7 +13223,10 @@
 <LM>w#w-wsj1296-001-p1s43W15</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1296-001-p1s43W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13437,7 +13440,10 @@
 <LM>w#w-wsj1296-001-p1s43W31</LM>
 </w.rf>
 <form>Hutton</form>
-<tag lemma="Hutton_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hutton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hutton_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1296-001-p1s43W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13761,7 +13767,10 @@
 <LM>w#w-wsj1296-001-p1s44W7</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1296-001-p1s44W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14514,7 +14523,10 @@
 <LM>w#w-wsj1296-001-p1s47W14</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1296-001-p1s47W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14664,7 +14676,10 @@
 <LM>w#w-wsj1296-001-p1s47W30</LM>
 </w.rf>
 <form>Indiana</form>
-<tag lemma="Indiana_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Indiana_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Indiana-1_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1296-001-p1s47W31-Ta">
 <src.rf>tagger-a</src.rf>

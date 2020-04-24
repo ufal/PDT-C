@@ -389,7 +389,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s1W14-Ta">
@@ -1140,7 +1141,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s4W11-Ta">
@@ -2241,7 +2243,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s7W3-Ta">
@@ -3124,6 +3127,7 @@
 <w.rf>
 <LM>w#w-wsj2314-001-p1s10W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -3137,8 +3141,9 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2314-001-p1s10W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3473,7 +3478,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s11W18-Ta">
@@ -3593,7 +3599,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s13W5-Ta">
@@ -4259,14 +4266,14 @@
 <LM>w#w-wsj2314-001-p1s15W1</LM>
 </w.rf>
 <form>59</form>
-<tag>
-<AM lemma="59" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="59" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2314-001-p1s15W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2314-001-p1s15W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -4291,8 +4298,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj2314-001-p1s15W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4562,7 +4570,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s15W28-Ta">
@@ -4674,7 +4683,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s16W4-Ta">
@@ -5104,7 +5114,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s17W8-Ta">
@@ -5847,7 +5858,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s19W16-Ta">
@@ -6794,7 +6806,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s23W5-Ta">
@@ -7902,6 +7915,7 @@
 <AM lemma="Dow-1_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="Dow_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dowa_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Dow-1_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s27W9-Ta">
@@ -9683,7 +9697,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s37W7-Ta">
@@ -10581,7 +10596,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s40W3-Ta">
@@ -12397,7 +12413,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s45W13-Ta">
@@ -12637,7 +12654,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s46W7-Ta">
@@ -13498,7 +13516,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s50W14-Ta">
@@ -14013,7 +14032,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s52W17-Ta">
@@ -15186,7 +15206,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s57W2-Ta">
@@ -15671,7 +15692,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s58W21-Ta">
@@ -15745,7 +15767,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s59W7-Ta">
@@ -16260,7 +16283,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s62W2-Ta">
@@ -16628,7 +16652,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s63W16-Ta">
@@ -17080,7 +17105,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s65W11-Ta">
@@ -17150,7 +17176,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s66W5-Ta">
@@ -17833,7 +17860,8 @@
 <form>Quantum</form>
 <tag>
 <AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="Quantum_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Quantum_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quantum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s69W10-Ta">

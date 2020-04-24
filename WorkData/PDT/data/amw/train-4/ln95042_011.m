@@ -1097,7 +1097,8 @@
 <AM lemma="Spiegel-3_;R_,t" src="orig">NNIS2-----A----</AM>
 <AM lemma="Spiegel-2_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Spiegel-2_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Spiegel-1_;K_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Spiegel-1_;K_;R" src="manual">NNIS2-----A----</AM>
+<AM lemma="Spiegel-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p2s6w34">
@@ -1746,7 +1747,8 @@
 <AM lemma="Spiegel-3_;R_,t" src="orig">NNIS2-----A----</AM>
 <AM lemma="Spiegel-2_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Spiegel-2_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Spiegel-1_;K_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Spiegel-1_;K_;R" src="manual">NNIS2-----A----</AM>
+<AM lemma="Spiegel-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p3s1w4">
@@ -2066,7 +2068,8 @@
 <tag>
 <AM lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Spiegel-77" src="manual">F%-------------</AM>
-<AM lemma="Spiegel-1_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Spiegel-1_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Spiegel-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p3s3w2">
@@ -2389,7 +2392,10 @@
 <LM>w#w-ln95042-011-p3s5w7</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-011-p3s5w8">
 <src.rf>manual</src.rf>
@@ -3116,7 +3122,8 @@
 <tag>
 <AM lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Spiegel-77" src="manual">F%-------------</AM>
-<AM lemma="Spiegel-1_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Spiegel-1_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Spiegel-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p4s1w8">
@@ -3498,7 +3505,8 @@
 <AM lemma="Spiegel-3_;R_,t" src="orig">NNIS2-----A----</AM>
 <AM lemma="Spiegel-2_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Spiegel-2_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Spiegel-1_;K_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Spiegel-1_;K_;R" src="manual">NNIS2-----A----</AM>
+<AM lemma="Spiegel-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p5s1w3">
@@ -3695,7 +3703,8 @@
 <AM lemma="Spiegel-3_;R_,t" src="orig">NNIS6-----A----</AM>
 <AM lemma="Spiegel-2_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Spiegel-2_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="Spiegel-1_;K_;R" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Spiegel-1_;K_;R" src="manual">NNIS6-----A----</AM>
+<AM lemma="Spiegel-1_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p5s2w9">
@@ -4097,7 +4106,8 @@
 <form>Wochenpost</form>
 <tag>
 <AM lemma="Wochenpost_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Wochenpost-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Wochenpost-77" src="manual">F%-------------</AM>
+<AM lemma="Wochenpost_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p6s2w22">
@@ -6764,7 +6774,10 @@
 <LM>w#w-ln95042-011-p6s14Bw4</LM>
 </w.rf>
 <form>Café</form>
-<tag lemma="café_,t_^(kavárna)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="café_,t_^(kavárna)" src="orig">NNNXX-----A----</AM>
+<AM lemma="café_^(kavárna)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-011-p6s14Bw5">
 <src.rf>manual</src.rf>

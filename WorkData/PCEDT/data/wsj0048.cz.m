@@ -4184,7 +4184,8 @@
 <tag>
 <AM lemma="Stamford_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stamford_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stamford_;G_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Stamford_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0048-001-p1s15W3-Ta">
@@ -4652,7 +4653,8 @@
 <tag>
 <AM lemma="Wilton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Wilton-2_;K" src="manual">NNIS1-----A----</AM>
-<AM lemma="Wilton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Wilton-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Wilton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0048-001-p1s16W8-Ta">
@@ -8729,7 +8731,8 @@
 <form>Weisfield</form>
 <tag>
 <AM lemma="Weisfield" src="auto">X@-------------</AM>
-<AM lemma="Weisfield-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Weisfield-77" src="manual">F%-------------</AM>
+<AM lemma="Weisfield_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0048-001-p1s29W4-Ta">
@@ -9237,7 +9240,8 @@
 <form>Ratners</form>
 <tag>
 <AM lemma="Ratners" src="auto">X@-------------</AM>
-<AM lemma="Ratners-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ratners-77" src="manual">F%-------------</AM>
+<AM lemma="Ratners_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0048-001-p1s30W17-Ta">
@@ -9362,7 +9366,8 @@
 <form>Weisfield</form>
 <tag>
 <AM lemma="Weisfield" src="auto">X@-------------</AM>
-<AM lemma="Weisfield-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Weisfield-77" src="manual">F%-------------</AM>
+<AM lemma="Weisfield_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0048-001-p1s30W26-Ta">

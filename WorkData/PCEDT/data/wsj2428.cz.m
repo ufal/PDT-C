@@ -3470,7 +3470,8 @@
 <form>Goldman</form>
 <tag>
 <AM lemma="Goldman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Goldman-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Goldman-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Goldman-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2428-001-p1s10W4-Ta">
@@ -4296,7 +4297,8 @@
 <form>Campeau</form>
 <tag>
 <AM lemma="Campeau" src="auto">X@-------------</AM>
-<AM lemma="Campeau_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Campeau_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Campeau_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2428-001-p1s13W2-Ta">
@@ -4624,7 +4626,8 @@
 <form>Bloomingdales</form>
 <tag>
 <AM lemma="Bloomingdales" src="auto">X@-------------</AM>
-<AM lemma="Bloomingdales_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bloomingdales_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Bloomingdales_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2428-001-p1s13W24-Ta">
@@ -11905,7 +11908,10 @@
 <LM>w#w-wsj2428-001-p1s36W19</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2428-001-p1s36W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14847,7 +14853,8 @@
 <form>iota</form>
 <tag>
 <AM lemma="iota" src="auto">X@-------------</AM>
-<AM lemma="iota-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="iota-77" src="manual">F%-------------</AM>
+<AM lemma="iota" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2428-001-p1s46W10-Ta">
@@ -17160,7 +17167,8 @@
 <form>Southmark</form>
 <tag>
 <AM lemma="Southmark" src="auto">X@-------------</AM>
-<AM lemma="Southmark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Southmark_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Southmark_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2428-001-p1s54W18-Ta">

@@ -2523,7 +2523,8 @@
 <form>bungee</form>
 <tag>
 <AM lemma="bungee_,t_^(bungee_jumping)" src="auto">AAXXX----1A----</AM>
-<AM lemma="bungee-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="bungee-77" src="manual">F%-------------</AM>
+<AM lemma="bungee-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-58-p5s5w33">
@@ -2534,7 +2535,8 @@
 <form>jumping</form>
 <tag>
 <AM lemma="jumping_,h" src="orig">NNIS4-----A----</AM>
-<AM lemma="jumping-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="jumping-77" src="manual">F%-------------</AM>
+<AM lemma="jumping_,h" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-58-p5s5w34">
