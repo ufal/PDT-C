@@ -1382,6 +1382,7 @@
 <AM lemma="Boeing_;K_;R_^(letadlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Boeing_;m_^(letadlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2308-001-p1s2W8-Ta">
@@ -1831,6 +1832,7 @@
 <AM lemma="nonstop-1" src="auto">Db-------------</AM>
 <AM lemma="nonstop-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="nonstop-2" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="nonstop-3" src="manual">AAXXX----1A----</AM>
 <AM lemma="nonstop-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
@@ -1871,6 +1873,8 @@
 <AM lemma="Phoenix-1_;G_;K_;R" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Phoenix-1_;G_;K_;R" src="auto">NNIS3-----A----</AM>
 <AM lemma="Phoenix-1_;G_;K_;R" src="auto">NNIS6-----A----</AM>
+<AM lemma="	Phoenix-1_;G_;m" src="manual">NNIS2-----A----</AM>
+<AM lemma="Phoenix-1_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2308-001-p1s2W53-Ta">
@@ -2770,6 +2774,7 @@
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Antonius_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Antonius_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Antonio-2_;G" src="manual">NNNS6-----A----</AM>
 <AM lemma="Antonio-2_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>

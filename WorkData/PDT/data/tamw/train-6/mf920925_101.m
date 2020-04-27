@@ -373,7 +373,8 @@
 <form>pepsi</form>
 <tag>
 <AM lemma="pepsi_;R" src="orig">AAXXX----1A----</AM>
-<AM lemma="pepsi_;R" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
+<AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="pepsi-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-101-p4s1w13">
@@ -400,7 +401,8 @@
 <form>coca</form>
 <tag>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="coca" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="coca" src="manual">A2--------A----</AM>
+<AM lemma="coca-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-101-p4s1w16">

@@ -1190,7 +1190,8 @@
 <form>Navrátilové</form>
 <tag>
 <AM lemma="Navrátilová_;S_;w" src="orig">NNFS2-----A----</AM>
-<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Navrátilová_;S" src="manual">NNFS2-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-084-p2s6w19">

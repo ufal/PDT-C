@@ -655,7 +655,10 @@
 <LM>w#w-lnd92255-062-p2s4w16</LM>
 </w.rf>
 <form>Nessie</form>
-<tag lemma="Nessie_;S" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Nessie_;S" src="auto">NNFS1-----A----</AM>
+<AM lemma="Nessie_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-062-p2s4w17">
 <src.rf>manual</src.rf>

@@ -272,7 +272,8 @@
 <tag>
 <AM lemma="Henderson_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Henderson_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Henderson-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Henderson-2_;G" src="manual">NNIS6-----A----</AM>
+<AM lemma="Henderson-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0641-001-p1s0W25-Ta">

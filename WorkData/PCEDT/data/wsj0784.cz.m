@@ -953,13 +953,14 @@
 <LM>w#w-wsj0784-001-p1s3W17</LM>
 </w.rf>
 <form>53</form>
-<tag>
-<AM lemma="53" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0784-001-p1s3W17-Ta-sw1">
+<tag lemma="53" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0784-001-p1s3W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0784-001-p1s3W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>patrový</form>
 <tag>
 <AM lemma="patrový" src="auto">AAFP1----1A---6</AM>
@@ -984,8 +985,9 @@
 <AM lemma="patrový" src="auto">AANP5----1A---6</AM>
 <AM lemma="patrový" src="auto">AANS1----1A---6</AM>
 <AM lemma="patrový" src="auto">AANS4----1A---6</AM>
-<AM lemma="patrový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="patrový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0784-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2601,7 +2603,8 @@
 <AM lemma="Stanley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Stanley_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Stanley_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Stanley_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stanley_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Stanley_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0784-001-p1s7W17-Ta">
@@ -3334,6 +3337,7 @@
 <tag>
 <AM lemma="Exxon_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Exxon_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Exxon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0784-001-p1s10W13-Ta">
@@ -4077,13 +4081,14 @@
 <LM>w#w-wsj0784-001-p1s12W10</LM>
 </w.rf>
 <form>132</form>
-<tag>
-<AM lemma="132" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0784-001-p1s12W10-Ta-sw1">
+<tag lemma="132" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0784-001-p1s12W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0784-001-p1s12W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>akrové</form>
 <tag>
 <AM lemma="akrový" src="auto">AAFP1----1A----</AM>
@@ -4101,8 +4106,9 @@
 <AM lemma="akrový" src="auto">AANP5----1A---6</AM>
 <AM lemma="akrový" src="auto">AANS1----1A----</AM>
 <AM lemma="akrový" src="auto">AANS4----1A----</AM>
-<AM lemma="akrový" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="akrový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0784-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4270,6 +4276,7 @@
 <AM lemma="Irving-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Irving-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Irving-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Irving-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0784-001-p1s12W23-Ta">
@@ -6390,9 +6397,9 @@
 <LM>w#w-wsj0784-001-p1s19W30</LM>
 </w.rf>
 <form>40</form>
-<tag>
-<AM lemma="40" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0784-001-p1s19W30-Ta-sw1">
+<tag lemma="40" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0784-001-p1s19W30-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0784-001-p1s19W30</LM>
@@ -6421,7 +6428,8 @@
 <AM lemma="hodinový" src="auto">AANP5----1A---6</AM>
 <AM lemma="hodinový" src="auto">AANS1----1A---6</AM>
 <AM lemma="hodinový" src="auto">AANS4----1A---6</AM>
-<AM lemma="hodinový" src="auto">AANS5----1A---6</AM></tag>
+<AM lemma="hodinový" src="auto">AANS5----1A---6</AM>
+</tag>
 </m>
 <m id="m-wsj0784-001-p1s19W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6492,13 +6500,14 @@
 <LM>w#w-wsj0784-001-p1s19W35</LM>
 </w.rf>
 <form>35</form>
-<tag>
-<AM lemma="35" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0784-001-p1s19W35-Ta-sw1">
+<tag lemma="35" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0784-001-p1s19W35-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0784-001-p1s19W35</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>hodinový</form>
 <tag>
 <AM lemma="hodinový" src="auto">AAFP1----1A---6</AM>
@@ -6523,8 +6532,9 @@
 <AM lemma="hodinový" src="auto">AANP5----1A---6</AM>
 <AM lemma="hodinový" src="auto">AANS1----1A---6</AM>
 <AM lemma="hodinový" src="auto">AANS4----1A---6</AM>
-<AM lemma="hodinový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="hodinový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0784-001-p1s19W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

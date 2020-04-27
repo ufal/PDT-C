@@ -1003,6 +1003,7 @@
 <w.rf>
 <LM>w#w-wsj1622-001-p1s3W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vlastnosti</form>
 <tag>
 <AM lemma="vlastnost" src="auto">NNFP1-----A----</AM>
@@ -1011,8 +1012,9 @@
 <AM lemma="vlastnost" src="auto">NNFS2-----A----</AM>
 <AM lemma="vlastnost" src="auto">NNFS3-----A----</AM>
 <AM lemma="vlastnost" src="auto">NNFS5-----A----</AM>
-<AM lemma="vlastnost" src="auto">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="vlastnost" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1622-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6374,6 +6376,7 @@
 <AM lemma="micra_;R_^(vozidlo)" src="auto">NNFS5-----A----</AM>
 <AM lemma="mikro" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mikro_,h" src="auto">AAXXX----1A----</AM>
+<AM lemma="mikro-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1622-001-p1s24W20-Ta">

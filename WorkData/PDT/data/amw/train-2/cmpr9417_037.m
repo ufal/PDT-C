@@ -3674,7 +3674,10 @@
 <LM>w#w-cmpr9417-037-p17s2w9</LM>
 </w.rf>
 <form>Phare</form>
-<tag lemma="Phare_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-037-p17s2w10">
 <src.rf>manual</src.rf>

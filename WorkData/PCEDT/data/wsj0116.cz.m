@@ -62,7 +62,8 @@
 <tag>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto" recommended="1">NNIS4-----A---1</AM>
-<AM lemma="Buick_;K_;R" src="manual" selected="1">NNIS4-----A---1</AM>
+<AM lemma="Buick_;K_;R" src="manual">NNIS4-----A---1</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s0W7-Ta">
@@ -366,6 +367,7 @@
 <AM lemma="Buick_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s2W10-Ta">
@@ -623,6 +625,7 @@
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s2W28-Ta">
@@ -854,6 +857,7 @@
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s3W11-Ta">
@@ -1377,6 +1381,7 @@
 <AM lemma="Buick_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s6W2-Ta">
@@ -1923,6 +1928,7 @@
 <AM lemma="Buick_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s8W2-Ta">
@@ -2617,6 +2623,7 @@
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s10W18-Ta">
@@ -3295,6 +3302,7 @@
 <tag>
 <AM lemma="Buick_;K_;R" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS7-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s13W16-Ta">
@@ -5130,6 +5138,7 @@
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s17W5-Ta">
@@ -5553,7 +5562,8 @@
 <tag>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto" recommended="1">NNIS4-----A---1</AM>
-<AM lemma="Buick_;K_;R" src="manual" selected="1">NNIS4-----A---1</AM>
+<AM lemma="Buick_;K_;R" src="manual">NNIS4-----A---1</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s18W12-Ta">
@@ -5793,6 +5803,7 @@
 <AM lemma="Buick_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s19W2-Ta">
@@ -6277,6 +6288,7 @@
 <AM lemma="Buick_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s20W25-Ta">
@@ -7923,6 +7935,7 @@
 <tag>
 <AM lemma="Buick_;K_;R" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS7-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s25W31-Ta">
@@ -8064,6 +8077,7 @@
 <tag>
 <AM lemma="Buick_;K_;R" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS7-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s26W6-Ta">
@@ -9816,10 +9830,11 @@
 </w.rf>
 <form>Buick</form>
 <tag>
-<AM lemma="Buick_;K_;R" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Buick_;K_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="Buick_;K_;R" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s31W18-Ta">
@@ -9968,6 +9983,7 @@
 <tag>
 <AM lemma="Buick_;K_;R" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS7-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s32W7-Ta">
@@ -10140,6 +10156,7 @@
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s33W7-Ta">
@@ -10318,7 +10335,8 @@
 <form>Riviera</form>
 <tag>
 <AM lemma="Riviera_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Riviera_;G_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Riviera_;G_;R" src="manual">NNFS1-----A----</AM>
+<AM lemma="Riviera_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s34W12-Ta">
@@ -10486,6 +10504,7 @@
 <AM lemma="Buick_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="buick_;R_,x_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Buick_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s35W2-Ta">
@@ -10647,7 +10666,8 @@
 <AM lemma="Riviera_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Riviera_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Riviera_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Riviera_;G_;R" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Riviera_;G_;R" src="manual">NNFS2-----A----</AM>
+<AM lemma="Riviera_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0116-001-p1s35W15-Ta">
