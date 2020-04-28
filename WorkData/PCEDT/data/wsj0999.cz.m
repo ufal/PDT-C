@@ -600,13 +600,15 @@
 <w.rf>
 <LM>w#w-wsj0999-001-p1s2W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>středního</form>
 <tag>
 <AM lemma="střední" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="střední" src="auto">AAMS2----1A----</AM>
 <AM lemma="střední" src="auto">AAMS4----1A----</AM>
-<AM lemma="střední" src="auto">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="střední" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0999-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7366,6 +7368,7 @@
 <tag>
 <AM lemma="Turner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="turner" src="auto">NNMS1-----A----</AM>
+<AM lemma="Turner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0999-001-p1s29W3-Ta">

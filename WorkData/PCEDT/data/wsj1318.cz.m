@@ -2841,7 +2841,8 @@
 <tag>
 <AM lemma="Turner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="turner" src="auto">NNMS1-----A----</AM>
-<AM lemma="Turner-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Turner-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Turner-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1318-001-p1s7W3-Ta">

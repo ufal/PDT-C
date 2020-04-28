@@ -1981,7 +1981,8 @@
 <form>pop</form>
 <tag>
 <AM lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig">AAXXX----1A----</AM>
-<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual">AAXXX----1A----</AM>
+<AM lemma="pop-4" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-072-p1s12w10">

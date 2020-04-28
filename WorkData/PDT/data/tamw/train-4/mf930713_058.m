@@ -2445,7 +2445,8 @@
 <tag>
 <AM lemma="sub-7_^(předpona,_sam.)" src="orig">A2--------A----</AM>
 <AM lemma="sub" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="sub-2" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="sub-2" src="manual">A2--------A----</AM>
+<AM lemma="sub-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-058-p10s2w6">

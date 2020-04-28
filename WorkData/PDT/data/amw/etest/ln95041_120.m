@@ -307,7 +307,8 @@
 <AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
 <AM lemma="Phare-77" src="manual">F%-------------</AM>
 <AM lemma="Phare_;m" src="manual">NNIXX-----A----</AM>
-<AM lemma="Phare_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-120-p3s1Bw25">

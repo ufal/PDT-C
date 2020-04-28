@@ -572,7 +572,8 @@
 <AM lemma="Bartoli_;S" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bartoli_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bartoli_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bartoli_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bartoli_;S" src="manual">NNFS1-----A----</AM>
+<AM lemma="Bartoli-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p6s1w4">
@@ -966,8 +967,8 @@
 </w.rf>
 <form>Rudnicki</form>
 <tag>
-<AM lemma="Rudnický_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Rudnicki_;S" src="manual" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Rudnický_;S" src="orig" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Rudnicki_;S" src="manual">NNMS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p8s1w8">
@@ -1575,7 +1576,8 @@
 <form>PAXu</form>
 <tag>
 <AM lemma="PAX_:B_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="PAX-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PAX-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Pax-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p10s1w23">
@@ -1626,7 +1628,8 @@
 <form>Benny</form>
 <tag>
 <AM lemma="Benny_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Benny-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Benny-77" src="manual">F%-------------</AM>
+<AM lemma="Benny_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p10s1w29">
@@ -1636,8 +1639,8 @@
 </w.rf>
 <form>Hill</form>
 <tag>
-<AM lemma="Hill_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hill-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hill_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hill-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p10s1w30">
@@ -1808,8 +1811,8 @@
 <AM lemma="Oro_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Oro_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Oro_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Ora-77" src="manual">F%-------------</AM>
-<AM lemma="ora-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ora-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="ora-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p13s1w7">
@@ -2795,7 +2798,10 @@
 <LM>w#w-mf930703-119-p17s1w32</LM>
 </w.rf>
 <form>Wimbledon</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Wimbledon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-119-p17s1w33">
 <src.rf>manual</src.rf>
@@ -2852,8 +2858,8 @@
 </w.rf>
 <form>Zappa</form>
 <tag>
-<AM lemma="Zappa_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zappa-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zappa_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zappa-2_;R" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p17s1w40">
@@ -3810,7 +3816,10 @@
 <LM>w#w-mf930703-119-p24s1w6</LM>
 </w.rf>
 <form>Lindenstrasse</form>
-<tag lemma="Lindenstrasse_;G" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Lindenstrasse_;G" src="orig">NNFXX-----A----</AM>
+<AM lemma="Lindenstrasse_;G" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-119-p24s1w7">
 <src.rf>manual</src.rf>
@@ -3888,7 +3897,10 @@
 <LM>w#w-mf930703-119-p24s1w14</LM>
 </w.rf>
 <form>Techtlemechtle</form>
-<tag lemma="techtlemechtle" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="techtlemechtle" src="orig">NNFP1-----A----</AM>
+<AM lemma="techtlemechtle_,h" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-119-p24s1w15">
 <src.rf>manual</src.rf>
@@ -5098,7 +5110,10 @@
 <LM>w#w-mf930703-119-p31s1w15</LM>
 </w.rf>
 <form>Juhnke</form>
-<tag lemma="Juhnke_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Juhnke_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Juhnke-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-119-p31s1w16">
 <src.rf>manual</src.rf>
@@ -5648,7 +5663,8 @@
 <form>Teleexpres</form>
 <tag>
 <AM lemma="Teleexpres_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Teleexpres_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Teleexpres_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Teleexpres_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p35s1w7">

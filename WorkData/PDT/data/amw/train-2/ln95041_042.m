@@ -3440,7 +3440,8 @@
 <tag>
 <AM lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig">AAXXX----1A----</AM>
 <AM lemma="pop-77" src="manual">F%-------------</AM>
-<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual">AAXXX----1A----</AM>
+<AM lemma="pop-4" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-042-p8s2w10">
@@ -3452,7 +3453,8 @@
 <tag>
 <AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
 <AM lemma="music-77" src="manual">F%-------------</AM>
-<AM lemma="music_^(př._pop_music)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="music_^(př._pop_music)" src="manual">NNFXX-----A----</AM>
+<AM lemma="music-1_^(př._pop_music)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-042-p8s2w11">

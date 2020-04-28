@@ -5298,7 +5298,8 @@
 <form>PHARE</form>
 <tag>
 <AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Phare_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-003-p13s3w13">

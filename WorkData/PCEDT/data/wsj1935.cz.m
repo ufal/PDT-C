@@ -9079,7 +9079,10 @@
 <LM>w#w-wsj1935-001-p1s42W4</LM>
 </w.rf>
 <form>Rush</form>
-<tag lemma="Rush_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rush_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-wsj1935-001-p1s43">

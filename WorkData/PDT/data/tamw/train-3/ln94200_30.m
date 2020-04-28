@@ -144,8 +144,9 @@
 </w.rf>
 <form>Pinda</form>
 <tag>
-<AM lemma="Pinda_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pinda_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="pinda_,h" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Pinda_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -196,7 +197,10 @@
 <LM>w#w-ln94200-30-p2s1Cw6</LM>
 </w.rf>
 <form>CzechInvest</form>
-<tag lemma="Czechinvest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Czechinvest_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Czechinvest_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-30-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -614,7 +618,10 @@
 <LM>w#w-ln94200-30-p3s1w15</LM>
 </w.rf>
 <form>PHARE</form>
-<tag lemma="Phare_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-30-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1004,7 +1011,8 @@
 <form>know</form>
 <tag>
 <AM lemma="know_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
-<AM lemma="know-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="know-77" src="manual">F%-------------</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-30-p4s2w22">
@@ -1023,7 +1031,8 @@
 <form>how</form>
 <tag>
 <AM lemma="how_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
-<AM lemma="how-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="how-77" src="manual">F%-------------</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-30-p4s2w24">

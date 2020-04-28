@@ -59,7 +59,8 @@
 <tag>
 <AM lemma="holliday_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Holliday_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Holliday-2_;G_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Holliday-2_;G_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Holliday-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-144-p2s1w4">
@@ -238,7 +239,10 @@
 <LM>w#w-mf930701-144-p3s1w2</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-144-p4s1">

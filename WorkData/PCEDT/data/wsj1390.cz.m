@@ -840,14 +840,14 @@
 <LM>w#w-wsj1390-001-p1s2W23</LM>
 </w.rf>
 <form>52</form>
-<tag>
-<AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="52" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s2W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1390-001-p1s2W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -872,8 +872,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1390-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2417,7 +2418,8 @@
 <form>Maidenform</form>
 <tag>
 <AM lemma="Maidenform" src="auto">X@-------------</AM>
-<AM lemma="Maidenform_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Maidenform_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Maidenform_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1390-001-p1s9W3-Ta">
@@ -2483,7 +2485,8 @@
 <AM lemma="pop-1_^(círk.)" src="auto">NNMS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto">NNIS4-----A----</AM>
-<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual">AAXXX----1A----</AM>
+<AM lemma="pop-4" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1390-001-p1s9W8-Ta">
@@ -5218,7 +5221,8 @@
 <form>Warners</form>
 <tag>
 <AM lemma="Warners" src="auto">X@-------------</AM>
-<AM lemma="Warners_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Warners_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Warners_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1390-001-p1s17W7-Ta">
@@ -5567,14 +5571,14 @@
 <LM>w#w-wsj1390-001-p1s19W14</LM>
 </w.rf>
 <form>48</form>
-<tag>
-<AM lemma="48" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="48" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s19W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1390-001-p1s19W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -5599,8 +5603,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1390-001-p1s19W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5858,14 +5863,14 @@
 <LM>w#w-wsj1390-001-p1s20W16</LM>
 </w.rf>
 <form>45</form>
-<tag>
-<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="45" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s20W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1390-001-p1s20W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -5890,8 +5895,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1390-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9030,10 +9036,10 @@
 <w.rf>
 <LM>w#w-wsj1390-001-p1s35W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>tří</form>
-<tag>
-<AM lemma="tři`3" src="auto" recommended="1">ClXP2----------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="tři`3" src="auto" recommended="1">ClXP2----------</tag>
+</m>
 <m id="m-wsj1390-001-p1s35W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
