@@ -2854,7 +2854,7 @@
 <tag>
 <AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual">NNXXX-----A----</AM>
-<AM lemma="	ČT_;m_^(Česká_televize)" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -8482,7 +8482,7 @@
 <tag>
 <AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual">NNXXX-----A----</AM>
-<AM lemma="	ME_^(mistrovství_Evropy)" src="manual">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual">BNXXX-----A----</AM>
 <AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

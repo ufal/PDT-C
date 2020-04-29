@@ -6086,7 +6086,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="	ČT_;m_^(Česká_televize)" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -10222,7 +10222,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="	ČT_;m_^(Česká_televize)" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

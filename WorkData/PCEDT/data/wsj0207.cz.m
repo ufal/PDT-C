@@ -6118,7 +6118,7 @@
 <AM lemma="dvouhlasý_,x" src="auto">AAMP6----1A----</AM>
 <AM lemma="dvouhlasý_,x" src="auto">AANP2----1A----</AM>
 <AM lemma="dvouhlasý_,x" src="auto">AANP6----1A----</AM>
-<AM lemma=" dvouhlasý_,s_^(^DD**dvojhlasý)" src="manual">AAFP6----1A----</AM>
+<AM lemma="dvouhlasý_,s_^(^DD**dvojhlasý)" src="manual">AAFP6----1A----</AM>
 <AM lemma="dvouhlasý_,s_^(^DD**dvojhlasý)" src="manual" selected="1">AAFP6----1A----</AM>
 </tag>
 </m>

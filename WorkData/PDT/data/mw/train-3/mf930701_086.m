@@ -5233,7 +5233,7 @@
 <tag>
 <AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual">NNXXX-----A----</AM>
-<AM lemma="	CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

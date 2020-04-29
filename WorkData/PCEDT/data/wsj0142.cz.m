@@ -5636,7 +5636,7 @@
 <form>Philadelphia</form>
 <tag>
 <AM lemma="Philadelphia_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
-<AM lemma=" Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual">NNFS1-----A---1</AM>
+<AM lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual">NNFS1-----A---1</AM>
 <AM lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>

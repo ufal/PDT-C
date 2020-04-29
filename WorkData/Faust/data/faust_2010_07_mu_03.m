@@ -3081,7 +3081,7 @@
 <form>dalo</form>
 <tag>
 <AM lemma="dát" recommended="1">VpNS----R-AAP--</AM>
-<AM lemma=" dát-2_^(dá_se_očekávat)" src="manual">VpNS----R-AAI--</AM>
+<AM lemma="dát-2_^(dá_se_očekávat)" src="manual">VpNS----R-AAI--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>

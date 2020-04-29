@@ -1873,7 +1873,7 @@
 <AM lemma="Phoenix-1_;G_;K_;R" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Phoenix-1_;G_;K_;R" src="auto">NNIS3-----A----</AM>
 <AM lemma="Phoenix-1_;G_;K_;R" src="auto">NNIS6-----A----</AM>
-<AM lemma="	Phoenix-1_;G_;m" src="manual">NNIS2-----A----</AM>
+<AM lemma="Phoenix-1_;G_;m" src="manual">NNIS2-----A----</AM>
 <AM lemma="Phoenix-1_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

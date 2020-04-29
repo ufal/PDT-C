@@ -4023,7 +4023,7 @@
 <tag>
 <AM lemma="Francisko_;G_,s_^(^DD**Francisco-2)" src="auto">NNNS3-----A----</AM>
 <AM lemma="Francisko_;G_,s_^(^DD**Francisco-2)" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="	Francisko-2_;G_,s_^(^DD**Francisco-2)" src="manual">NNNS6-----A----</AM>
+<AM lemma="Francisko-2_;G_,s_^(^DD**Francisco-2)" src="manual">NNNS6-----A----</AM>
 <AM lemma="Francisko-2_;G_,s_^(^DD**Francisco-2)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
