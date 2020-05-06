@@ -6964,7 +6964,8 @@
 <form>katamaranu</form>
 <tag>
 <AM lemma="katamaran" src="orig">NNIS6-----A----</AM>
-<AM lemma="katamaran_,s_^(^DD** katamarán)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="katamaran_,s_^(^DD** katamarán)" src="manual">NNIS6-----A----</AM>
+<AM lemma="katamaran_,s_^(^DD**katamarán)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p15s2w4">
