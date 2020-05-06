@@ -1622,7 +1622,10 @@
 <LM>w#w-ln95041-080-p3s13w5</LM>
 </w.rf>
 <form>Country</form>
-<tag lemma="country" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="country" src="orig">NNFXX-----A----</AM>
+<AM lemma="country-1" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s13w6">
 <src.rf>manual</src.rf>

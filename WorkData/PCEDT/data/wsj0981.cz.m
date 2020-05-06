@@ -1195,7 +1195,8 @@
 <form>Tropicana</form>
 <tag>
 <AM lemma="Tropicana" src="auto">X@-------------</AM>
-<AM lemma="Tropicana_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tropicana_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tropicana-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0981-001-p1s2W6-Ta">
@@ -1206,7 +1207,8 @@
 <form>country</form>
 <tag>
 <AM lemma="country" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="country-2" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="country-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="country-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0981-001-p1s2W7-Ta">

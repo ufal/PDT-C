@@ -2205,7 +2205,10 @@
 <LM>w#w-mf930701-088-p3s2w23</LM>
 </w.rf>
 <form>Country</form>
-<tag lemma="country" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="country" src="orig">NNFXX-----A----</AM>
+<AM lemma="country-2" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-088-p3s2w24">
 <src.rf>manual</src.rf>

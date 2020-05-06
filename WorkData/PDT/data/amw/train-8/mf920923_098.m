@@ -45,7 +45,8 @@
 <form>country</form>
 <tag>
 <AM lemma="country" src="orig">NNFXX-----A----</AM>
-<AM lemma="country-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="country-77" src="manual">F%-------------</AM>
+<AM lemma="country-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-098-p1s1w5">
@@ -56,7 +57,8 @@
 <form>manager</form>
 <tag>
 <AM lemma="manažer" src="orig">NNMS1-----A----</AM>
-<AM lemma="manager-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="manager-77" src="manual">F%-------------</AM>
+<AM lemma="manager-1_,s_^(^DD**manažer-1)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-098-p1s1w6">

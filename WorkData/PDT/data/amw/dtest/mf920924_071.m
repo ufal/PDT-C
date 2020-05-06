@@ -2534,7 +2534,10 @@
 <LM>w#w-mf920924-071-p25s1w16</LM>
 </w.rf>
 <form>country</form>
-<tag lemma="country" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="country" src="orig">NNFXX-----A----</AM>
+<AM lemma="country-2" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-071-p25s1w17">
 <src.rf>manual</src.rf>

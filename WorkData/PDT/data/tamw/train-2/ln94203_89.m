@@ -1045,7 +1045,10 @@
 <LM>w#w-ln94203-89-p3s2w26</LM>
 </w.rf>
 <form>country</form>
-<tag lemma="country" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="country" src="orig">NNFXX-----A----</AM>
+<AM lemma="country-1" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-89-p3s2w27">
 <src.rf>manual</src.rf>
