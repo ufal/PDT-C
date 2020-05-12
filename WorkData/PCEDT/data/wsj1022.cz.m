@@ -1351,7 +1351,10 @@
 <LM>w#w-wsj1022-001-p1s2W14</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1022-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5020,7 +5023,10 @@
 <LM>w#w-wsj1022-001-p1s12W28</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1022-001-p1s12W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7122,7 +7128,10 @@
 <LM>w#w-wsj1022-001-p1s20W4</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1022-001-p1s20W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7216,6 +7225,7 @@
 <w.rf>
 <LM>w#w-wsj1022-001-p1s20W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>klíčovým</form>
 <tag>
 <AM lemma="klíčový" src="auto">AAFP3----1A----</AM>
@@ -7227,8 +7237,9 @@
 <AM lemma="klíčový" src="auto">AAMS7----1A----</AM>
 <AM lemma="klíčový" src="auto">AANP3----1A----</AM>
 <AM lemma="klíčový" src="auto">AANS6----1A---7</AM>
-<AM lemma="klíčový" src="auto">AANS7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="klíčový" src="auto">AANS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1022-001-p1s20W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7478,7 +7489,10 @@
 <LM>w#w-wsj1022-001-p1s21W17</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1022-001-p1s21W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7840,7 +7854,10 @@
 <LM>w#w-wsj1022-001-p1s22W7</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1022-001-p1s22W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8324,7 +8341,10 @@
 <LM>w#w-wsj1022-001-p1s23W37</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1022-001-p1s23W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8417,7 +8437,10 @@
 <LM>w#w-wsj1022-001-p1s24W2</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1022-001-p1s24W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8844,7 +8867,10 @@
 <LM>w#w-wsj1022-001-p1s24W37</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1022-001-p1s24W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12781,10 +12807,10 @@
 <w.rf>
 <LM>w#w-wsj1022-001-p1s38W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Bidenem</form>
-<tag>
-<AM lemma="Biden_;S" src="auto" recommended="1">NNMS7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="Biden_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+</m>
 <m id="m-wsj1022-001-p1s38W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

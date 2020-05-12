@@ -2285,7 +2285,10 @@
 <LM>w#w-wsj0142-001-p1s5W39</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0142-001-p1s5W40-Ta">
 <src.rf>tagger-a</src.rf>

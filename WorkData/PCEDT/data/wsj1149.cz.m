@@ -4801,7 +4801,10 @@
 <LM>w#w-wsj1149-001-p1s15W24</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1149-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5041,7 +5044,10 @@
 <LM>w#w-wsj1149-001-p1s16W2</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1149-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5403,7 +5409,10 @@
 <LM>w#w-wsj1149-001-p1s17W4</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1149-001-p1s17W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5608,7 +5617,10 @@
 <LM>w#w-wsj1149-001-p1s18W15</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1149-001-p1s18W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7740,7 +7752,10 @@
 <LM>w#w-wsj1149-001-p1s25W10</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1149-001-p1s25W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7764,7 +7779,8 @@
 <form>Milken</form>
 <tag>
 <AM lemma="Milken" src="auto">X@-------------</AM>
-<AM lemma="Milken_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Milken_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Milken-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1149-001-p1s25W13-Ta">

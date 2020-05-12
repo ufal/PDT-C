@@ -224,7 +224,8 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="StB-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="StB_;m_^(Státní_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-047-p2s1w21">
@@ -359,7 +360,8 @@
 <form>PLAY</form>
 <tag>
 <AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="PLAY-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="PLAY-77" src="manual">F%-------------</AM>
+<AM lemma="Play-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>

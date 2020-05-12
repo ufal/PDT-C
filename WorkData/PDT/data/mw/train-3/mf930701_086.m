@@ -3741,7 +3741,8 @@
 <form>kHz</form>
 <tag>
 <AM lemma="kHz-1`kilohertz_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilohertz" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilohertz" src="manual">NNIXX-----A---8</AM>
+<AM lemma="kilohertz" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p74s1w8">
@@ -3776,7 +3777,8 @@
 <form>kHz</form>
 <tag>
 <AM lemma="kHz-1`kilohertz_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilohertz" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilohertz" src="manual">NNIXX-----A---8</AM>
+<AM lemma="kilohertz" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p74s1w12">
@@ -3836,7 +3838,8 @@
 <form>MHz</form>
 <tag>
 <AM lemma="MHz-1`megahertz_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="megahertz" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="megahertz" src="manual">NNIXX-----A---8</AM>
+<AM lemma="megahertz" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p74s1w18">
@@ -4109,7 +4112,10 @@
 <LM>w#w-mf930701-086-p81s1w2</LM>
 </w.rf>
 <form>Radiožurnál</form>
-<tag lemma="Radiožurnál_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Radiožurnál_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Radiožurnál_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-086-p82s1">

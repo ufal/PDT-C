@@ -395,7 +395,8 @@
 <AM lemma="Apple_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Apple_;K_;R" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Apple_;K_;R" src="manual">NNIS4-----A----</AM>
+<AM lemma="Apple_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W10-Ta">
@@ -452,7 +453,8 @@
 <AM lemma="Apple_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Apple_;K_;R" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Apple_;K_;R" src="manual">AAXXX----1A----</AM>
+<AM lemma="Apple_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W14-Ta">
@@ -485,7 +487,8 @@
 <form>hard</form>
 <tag>
 <AM lemma="hard_,t_^(tvrdý,_pevný)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="hard-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="hard-77" src="manual">F%-------------</AM>
+<AM lemma="hard-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W17-Ta">

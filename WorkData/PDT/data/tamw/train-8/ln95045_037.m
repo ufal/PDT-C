@@ -631,10 +631,11 @@
 </w.rf>
 <form>Folk</form>
 <tag>
-<AM lemma="folk-2" src="orig" selected="1">A2--------A----</AM>
+<AM lemma="folk-2" src="orig">A2--------A----</AM>
 <AM lemma="Folk_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="folk" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="folk" src="auto">NNIS4-----A----</AM>
+<AM lemma="folk-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-037-p2s3w14">

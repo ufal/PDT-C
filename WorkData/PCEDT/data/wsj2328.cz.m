@@ -88,7 +88,8 @@
 <AM lemma="Barbaro_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="barbar" src="auto">NNMP4-----A----</AM>
 <AM lemma="barbar" src="auto">NNMP7-----A----</AM>
-<AM lemma="Barbara-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Barbara-2_;G" src="manual">NNFS2-----A----</AM>
+<AM lemma="Barbara_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2328-001-p1s0W8-Ta">
@@ -217,7 +218,8 @@
 <tag>
 <AM lemma="Ivan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ivana_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ivan-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ivan-77" src="manual">F%-------------</AM>
+<AM lemma="Ivan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2328-001-p1s0W18-Ta">
@@ -248,10 +250,10 @@
 </w.rf>
 <form>Boesky</form>
 <tag>
-<AM lemma="Boesky_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Boesky_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Boesky_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Boesky_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Boesky-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Boesky-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2328-001-p1s0W21-Ta">
@@ -1713,7 +1715,8 @@
 <tag>
 <AM lemma="Drexel_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Drexel_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Drexel-2_;K" src="manual" selected="1">NNIS3-----A---1</AM>
+<AM lemma="Drexel-2_;K" src="manual">NNIS3-----A---1</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2328-001-p1s4W3-Ta">

@@ -4850,7 +4850,8 @@
 <form>Wynn</form>
 <tag>
 <AM lemma="Wynn_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Wynn_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wynn_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Wynn_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s18W5-Ta">
@@ -13624,7 +13625,8 @@
 <AM lemma="van-1_,a_^(vánek)" src="auto">NNIS4-----A----</AM>
 <AM lemma="van-77_,t" src="auto">F%-------------</AM>
 <AM lemma="vana" src="auto">NNFP2-----A----</AM>
-<AM lemma="Van-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Van-77" src="manual">F%-------------</AM>
+<AM lemma="Van_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s48W21-Ta">
