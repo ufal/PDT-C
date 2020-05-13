@@ -1112,7 +1112,8 @@
 <form>know</form>
 <tag>
 <AM lemma="know_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
-<AM lemma="know-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="know-77" src="manual">F%-------------</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-035-p3s5w5">
@@ -1131,7 +1132,8 @@
 <form>how</form>
 <tag>
 <AM lemma="how_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
-<AM lemma="how-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="how-77" src="manual">F%-------------</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-035-p3s5w7">

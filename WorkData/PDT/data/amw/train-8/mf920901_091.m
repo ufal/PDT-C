@@ -43,7 +43,10 @@
 <LM>w#w-mf920901-091-p1s1w4</LM>
 </w.rf>
 <form>LUCERNĚ</form>
-<tag lemma="lucerna" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="lucerna" src="orig">NNFS6-----A----</AM>
+<AM lemma="Lucerna_;m" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920901-091-p2s1">
@@ -273,7 +276,10 @@
 <LM>w#w-mf920901-091-p2s1w27</LM>
 </w.rf>
 <form>Lucerně</form>
-<tag lemma="lucerna" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="lucerna" src="orig">NNFS6-----A----</AM>
+<AM lemma="Lucerna_;m" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-091-p2s1w28">
 <src.rf>manual</src.rf>

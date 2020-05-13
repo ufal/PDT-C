@@ -355,7 +355,8 @@
 <AM lemma="Melodia_;K" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="melodie" src="auto">NNFS3-----A----</AM>
 <AM lemma="melodie" src="auto">NNFS4-----A----</AM>
-<AM lemma="melodie" src="auto" selected="1">NNFS6-----A----</AM>
+<AM lemma="melodie" src="auto">NNFS6-----A----</AM>
+<AM lemma="Melodia_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-94-p2s3w20">

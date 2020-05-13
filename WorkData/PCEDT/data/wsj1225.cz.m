@@ -782,6 +782,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s2W11-Ta">
@@ -1354,6 +1355,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s4W11-Ta">
@@ -2736,6 +2738,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s8W14-Ta">
@@ -2789,6 +2792,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s9W4-Ta">
@@ -2891,7 +2895,8 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s9W13-Ta">
@@ -3175,7 +3180,8 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s10W8-Ta">
@@ -3214,6 +3220,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s10W11-Ta">
@@ -3803,7 +3810,9 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s11W20-Ta">
@@ -3842,6 +3851,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s11W23-Ta">
@@ -3923,6 +3933,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s12W7-Ta">
@@ -4032,7 +4043,9 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s12W15-Ta">
@@ -4298,6 +4311,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s12W35-Ta">
@@ -4669,6 +4683,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s13W15-Ta">
@@ -4806,6 +4821,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s14W8-Ta">
@@ -5139,7 +5155,9 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s15W7-Ta">
@@ -5595,6 +5613,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s16W4-Ta">
@@ -5982,7 +6001,9 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s18W4-Ta">
@@ -6166,6 +6187,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s18W19-Ta">
@@ -6292,6 +6314,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s19W11-Ta">
@@ -6693,6 +6716,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s20W13-Ta">
@@ -6936,6 +6960,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s21W14-Ta">
@@ -7154,6 +7179,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s22W15-Ta">
@@ -7428,6 +7454,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s23W6-Ta">
@@ -7633,6 +7660,7 @@
 <AM lemma="Ford-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ford-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s24W3-Ta">
@@ -7656,7 +7684,9 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s24W5-Ta">
@@ -7992,6 +8022,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s25W6-Ta">
@@ -8192,7 +8223,8 @@
 <form>know</form>
 <tag>
 <AM lemma="know_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="know_^(know_how)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="know_^(know_how)" src="manual">S2--------A----</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s25W23-Ta">
@@ -8211,7 +8243,8 @@
 <form>how</form>
 <tag>
 <AM lemma="how_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="how_^(know_how)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="how_^(know_how)" src="manual">NNNXX-----A----</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s25W25-Ta">
@@ -8327,7 +8360,8 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s26W11-Ta">
@@ -8401,7 +8435,8 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s26W18-Ta">
@@ -8477,6 +8512,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s26W25-Ta">
@@ -8576,6 +8612,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s27W8-Ta">
@@ -8825,7 +8862,8 @@
 <AM lemma="Merkur_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="merkur" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="merkur" src="auto">NNIS4-----A----</AM>
-<AM lemma="Merkur-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Merkur-77" src="manual">F%-------------</AM>
+<AM lemma="Merkur-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s27W28-Ta">
@@ -8841,7 +8879,8 @@
 <AM lemma="scorpio_;R_^(vozidlo)" src="auto">NNNS1-----A----</AM>
 <AM lemma="scorpio_;R_^(vozidlo)" src="auto">NNNS4-----A----</AM>
 <AM lemma="scorpio_;R_^(vozidlo)" src="auto">NNNS5-----A----</AM>
-<AM lemma="Scorpio-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Scorpio-77" src="manual">F%-------------</AM>
+<AM lemma="Scorpio_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s27W29-Ta">
@@ -9238,7 +9277,8 @@
 <AM lemma="Saab_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="saab_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="saab_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Saab-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Saab-77" src="manual">F%-------------</AM>
+<AM lemma="Saab_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s28W15-Ta">
@@ -9258,7 +9298,8 @@
 <tag>
 <AM lemma="Scania_;K" src="auto">NNFS1-----A---1</AM>
 <AM lemma="Scania_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Scania-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Scania-77" src="manual">F%-------------</AM>
+<AM lemma="Scania_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s28W17-Ta">
@@ -9321,7 +9362,8 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s29W4-Ta">
@@ -9361,6 +9403,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s29W7-Ta">
@@ -9825,6 +9868,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s30W20-Ta">
@@ -9875,7 +9919,8 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s31W4-Ta">
@@ -9988,6 +10033,7 @@
 <AM lemma="Jaguar_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s31W12-Ta">
@@ -10038,7 +10084,8 @@
 <form>know</form>
 <tag>
 <AM lemma="know_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="know_^(know_how)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="know_^(know_how)" src="manual">S2--------A----</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s31W15-Ta">
@@ -10057,7 +10104,8 @@
 <form>how</form>
 <tag>
 <AM lemma="how_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="how_^(know_how)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="how_^(know_how)" src="manual">NNNXX-----A----</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s31W17-Ta">
@@ -10275,7 +10323,8 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1225-001-p1s31W34-Ta">

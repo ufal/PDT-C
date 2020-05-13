@@ -3560,7 +3560,8 @@
 <form>know</form>
 <tag>
 <AM lemma="know_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="know_^(know_how)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="know_^(know_how)" src="manual">S2--------A----</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0765-001-p1s13W9-Ta">
@@ -3579,7 +3580,8 @@
 <form>how</form>
 <tag>
 <AM lemma="how_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="how_^(know_how)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="how_^(know_how)" src="manual">NNNXX-----A----</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0765-001-p1s13W11-Ta">
@@ -8493,14 +8495,14 @@
 <LM>w#w-wsj0765-001-p1s31W31</LM>
 </w.rf>
 <form>12</form>
-<tag>
-<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="12" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0765-001-p1s31W31-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0765-001-p1s31W31</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letým</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP3----1A----</AM>
@@ -8512,8 +8514,9 @@
 <AM lemma="letý" src="auto">AAMS7----1A----</AM>
 <AM lemma="letý" src="auto">AANP3----1A----</AM>
 <AM lemma="letý" src="auto">AANS6----1A---7</AM>
-<AM lemma="letý" src="auto">AANS7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0765-001-p1s31W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11349,21 +11352,22 @@
 <LM>w#w-wsj0765-001-p1s40W9</LM>
 </w.rf>
 <form>33</form>
-<tag>
-<AM lemma="33" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="33" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0765-001-p1s40W9-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0765-001-p1s40W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>bodového</form>
 <tag>
 <AM lemma="bodový" src="auto">AAIS2----1A----</AM>
 <AM lemma="bodový" src="auto">AAMS2----1A----</AM>
 <AM lemma="bodový" src="auto">AAMS4----1A----</AM>
-<AM lemma="bodový" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="bodový" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0765-001-p1s40W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

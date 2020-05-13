@@ -2063,7 +2063,8 @@
 <form>know</form>
 <tag>
 <AM lemma="know_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
-<AM lemma="know-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="know-77" src="manual">F%-------------</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-026-p4s1w17">
@@ -2082,7 +2083,8 @@
 <form>how</form>
 <tag>
 <AM lemma="how_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
-<AM lemma="how-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="how-77" src="manual">F%-------------</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-026-p4s1w19">
@@ -2134,7 +2136,8 @@
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual">NNFXX-----A----</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-026-p4s1w25">

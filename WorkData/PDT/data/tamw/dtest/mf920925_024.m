@@ -177,7 +177,10 @@
 <LM>w#w-mf920925-024-p4s1w9</LM>
 </w.rf>
 <form>Vokalíza</form>
-<tag lemma="vokalíza" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="vokalíza" src="orig">NNFS1-----A----</AM>
+<AM lemma="Vokalíza_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p4s1w10">
 <src.rf>manual</src.rf>
@@ -486,7 +489,10 @@
 <LM>w#w-mf920925-024-p4s2w15</LM>
 </w.rf>
 <form>Jazz</form>
-<tag lemma="Jazz_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Jazz_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="jazz-2" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p4s2w16">
 <src.rf>manual</src.rf>
@@ -595,7 +601,10 @@
 <LM>w#w-mf920925-024-p5s1w4</LM>
 </w.rf>
 <form>Vokalízy</form>
-<tag lemma="vokalíza" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="vokalíza" src="orig">NNFS2-----A----</AM>
+<AM lemma="Vokalíza_;m" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1735,7 +1744,10 @@
 <LM>w#w-mf920925-024-p6s5w5</LM>
 </w.rf>
 <form>nebrání</form>
-<tag lemma="bránit_:T_^(klást_překážky)" src="auto" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="bránit_:T_^(klást_překážky)" src="auto">VB-P---3P-NA---</AM>
+<AM lemma="bránit" src="manual" selected="1">VB-P---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p6s5w6">
 <src.rf>manual</src.rf>

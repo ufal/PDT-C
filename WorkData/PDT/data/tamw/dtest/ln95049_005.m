@@ -497,7 +497,10 @@
 <LM>w#w-ln95049-005-p3s2w11</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Telecom_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Telecom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-005-p3s2w12">
 <src.rf>manual</src.rf>
@@ -616,7 +619,10 @@
 <LM>w#w-ln95049-005-p3s2w23</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Telecom_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Telecom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-005-p3s2w24">
 <src.rf>manual</src.rf>
@@ -709,7 +715,10 @@
 <LM>w#w-ln95049-005-p3s2w33</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Telecom_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Telecom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-005-p3s2w34">
 <src.rf>manual</src.rf>
@@ -727,7 +736,8 @@
 <form>Ameritech</form>
 <tag>
 <AM lemma="Ameritech_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ameritech_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ameritech_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ameritech_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p3s2w36">
@@ -918,7 +928,8 @@
 <form>know</form>
 <tag>
 <AM lemma="know_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
-<AM lemma="know-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="know-77" src="manual">F%-------------</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p4s1w19">
@@ -929,7 +940,8 @@
 <form>how</form>
 <tag>
 <AM lemma="how_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
-<AM lemma="how-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="how-77" src="manual">F%-------------</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p4s1w20">
@@ -962,7 +974,10 @@
 <LM>w#w-ln95049-005-p4s1w23</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_^(a_podobně)" src="manual" selected="1">Bb-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-005-p4s1w24">
 <src.rf>manual</src.rf>

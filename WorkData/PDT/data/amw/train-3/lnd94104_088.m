@@ -1086,7 +1086,8 @@
 <tag>
 <AM lemma="Sinner_;K_,t" src="orig">NNMPX-----A----</AM>
 <AM lemma="Sinner_;K" src="manual">NNMPX-----A----</AM>
-<AM lemma="Sinner_;Km" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Sinner_;Km" src="manual">NNMXX-----A----</AM>
+<AM lemma="Sinner_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-088-p1s8w17">

@@ -625,7 +625,8 @@
 <form>Jazz</form>
 <tag>
 <AM lemma="Jazz_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="jazz" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="jazz" src="manual">NNIS1-----A----</AM>
+<AM lemma="jazz-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-045-p4s1w12">
@@ -642,7 +643,10 @@
 <LM>w#w-ln95045-045-p4s1w13</LM>
 </w.rf>
 <form>Reduta</form>
-<tag lemma="reduta" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="reduta" src="orig">NNFS1-----A----</AM>
+<AM lemma="Reduta_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-045-p4s1w14">
 <src.rf>manual</src.rf>

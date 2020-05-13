@@ -3692,7 +3692,8 @@
 <form>know</form>
 <tag>
 <AM lemma="know_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="know_^(know_how)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="know_^(know_how)" src="manual">S2--------A----</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1860-001-p1s12W32-Ta">
@@ -3711,7 +3712,8 @@
 <form>how</form>
 <tag>
 <AM lemma="how_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="how_^(know_how)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="how_^(know_how)" src="manual">NNNXX-----A----</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1860-001-p1s12W34-Ta">

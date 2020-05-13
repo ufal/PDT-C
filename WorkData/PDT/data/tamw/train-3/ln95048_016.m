@@ -162,7 +162,8 @@
 <form>Hurricanea</form>
 <tag>
 <AM lemma="Hurricane_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Hurricane_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hurricane_;S_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Hurricane_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-016-p2s1w14">
@@ -832,7 +833,8 @@
 <AM lemma="strongman_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Strongman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="strongman_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Strongman-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Strongman-77" src="manual">F%-------------</AM>
+<AM lemma="Strongman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-016-p3s1w28">
@@ -1295,7 +1297,8 @@
 <form>stop</form>
 <tag>
 <AM lemma="stop-4_,t_^(angl.,_jako_sloveso)" src="auto">Vf--------A----</AM>
-<AM lemma="stop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="stop-77" src="manual">F%-------------</AM>
+<AM lemma="stop-2" src="manual" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-016-p3s2w44">
@@ -3660,7 +3663,8 @@
 <form>Promotion</form>
 <tag>
 <AM lemma="Promotion_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Promotion-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Promotion-77" src="manual">F%-------------</AM>
+<AM lemma="Promotion_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-016-p5s5w7">

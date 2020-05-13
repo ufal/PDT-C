@@ -5815,9 +5815,10 @@
 <tag>
 <AM lemma="Jazz_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jazz_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="jazz" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="jazz" src="auto">NNIS1-----A----</AM>
 <AM lemma="jazz" src="auto">NNIS4-----A----</AM>
 <AM lemma="Jazz-77" src="manual">F%-------------</AM>
+<AM lemma="jazz-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1327-001-p1s25W3-Ta">
@@ -9761,6 +9762,7 @@
 <AM lemma="Jazz_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="jazz" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jazz" src="auto">NNIS4-----A----</AM>
+<AM lemma="jazz-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1327-001-p1s38W21-Ta">
