@@ -5903,16 +5903,34 @@
 <w.rf>
 <LM>w#w-wsj1767-001-p1s16W7</LM>
 </w.rf>
-<form>XR4Ti</form>
+<form>XR</form>
 <tag>
-<AM lemma="XR4Ti" src="auto">X@-------------</AM>
-<AM lemma="XR4Ti" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XR" src="auto">X@-------------</AM>
+<AM lemma="XR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="XR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: XR 4 Ti</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj1767-001-p1s16W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1767-001-p1s16W7</LM>
+</w.rf>
+<form>4</form>
+<tag lemma="4" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1767-001-p1s16W7-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1767-001-p1s16W7</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>Ti</form>
+<tag>
+<AM lemma="ten" src="auto" recommended="1">PDMP1----------</AM>
+<AM lemma="ty" src="auto">PH-S3--2-------</AM>
+<AM lemma="Ti-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ti-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1767-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6584,16 +6602,34 @@
 <w.rf>
 <LM>w#w-wsj1767-001-p1s18W24</LM>
 </w.rf>
-<form>XR4Ti</form>
+<form>XR</form>
 <tag>
-<AM lemma="XR4Ti" src="auto">X@-------------</AM>
-<AM lemma="XR4Ti" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XR" src="auto">X@-------------</AM>
+<AM lemma="XR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="XR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: XR 4 Ti</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj1767-001-p1s18W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1767-001-p1s18W24</LM>
+</w.rf>
+<form>4</form>
+<tag lemma="4" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1767-001-p1s18W24-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1767-001-p1s18W24</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>Ti</form>
+<tag>
+<AM lemma="ten" src="auto" recommended="1">PDMP1----------</AM>
+<AM lemma="ty" src="auto">PH-S3--2-------</AM>
+<AM lemma="Ti-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ti-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1767-001-p1s18W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7944,16 +7980,34 @@
 <w.rf>
 <LM>w#w-wsj1767-001-p1s24W37</LM>
 </w.rf>
-<form>XR4Ti</form>
+<form>XR</form>
 <tag>
-<AM lemma="XR4Ti" src="auto">X@-------------</AM>
-<AM lemma="XR4Ti" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XR" src="auto">X@-------------</AM>
+<AM lemma="XR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="XR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: XR 4 Ti</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj1767-001-p1s24W37-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1767-001-p1s24W37</LM>
+</w.rf>
+<form>4</form>
+<tag lemma="4" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1767-001-p1s24W37-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1767-001-p1s24W37</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>Ti</form>
+<tag>
+<AM lemma="ten" src="auto" recommended="1">PDMP1----------</AM>
+<AM lemma="ty" src="auto">PH-S3--2-------</AM>
+<AM lemma="Ti-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ti-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1767-001-p1s24W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8670,16 +8724,34 @@
 <w.rf>
 <LM>w#w-wsj1767-001-p1s27W15</LM>
 </w.rf>
-<form>XR4Ti</form>
+<form>XR</form>
 <tag>
-<AM lemma="XR4Ti" src="auto">X@-------------</AM>
-<AM lemma="XR4Ti" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XR" src="auto">X@-------------</AM>
+<AM lemma="XR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="XR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: XR 4 Ti</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj1767-001-p1s27W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1767-001-p1s27W15</LM>
+</w.rf>
+<form>4</form>
+<tag lemma="4" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1767-001-p1s27W15-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1767-001-p1s27W15</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>Ti</form>
+<tag>
+<AM lemma="ten" src="auto" recommended="1">PDMP1----------</AM>
+<AM lemma="ty" src="auto">PH-S3--2-------</AM>
+<AM lemma="Ti-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ti-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1767-001-p1s27W16-Ta">
 <src.rf>tagger-a</src.rf>

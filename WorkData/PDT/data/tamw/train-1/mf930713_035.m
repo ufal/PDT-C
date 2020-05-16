@@ -280,7 +280,10 @@
 <LM>w#w-mf930713-035-p3s1w24</LM>
 </w.rf>
 <form>Waltonovi</form>
-<tag lemma="Waltonův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag>
+<AM lemma="Waltonův_;S_^(*2)" src="orig">AUMP1M---------</AM>
+<AM lemma="Waltonův-1_;Y_^(*4-1)" src="manual" selected="1">AUMP1M---------</AM>
+</tag>
 </m>
 <m id="m-mf930713-035-p3s1w25">
 <src.rf>manual</src.rf>
@@ -341,7 +344,8 @@
 <AM lemma="on-1" src="auto" recommended="1">P5ZS6--3-------</AM>
 <AM lemma="německy_:B" src="auto">Dg-------1A---8</AM>
 <AM lemma="německý_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="německý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="německý" src="manual">AAXXX----1A---8</AM>
+<AM lemma="německý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-035-p3s1w32">
@@ -541,7 +545,8 @@
 <AM lemma="Animo_;R_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="Anima_;K" src="auto" recommended="1">NNFS5-----A----</AM>
 <AM lemma="Animo_;R" src="manual">NNNS1-----A----</AM>
-<AM lemma="Animo_;K_;R" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Animo_;K_;R" src="manual">NNNS1-----A----</AM>
+<AM lemma="Animo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-035-p3s1w56">
@@ -566,7 +571,10 @@
 <LM>w#w-mf930713-035-p3s1w58</LM>
 </w.rf>
 <form>Ono</form>
-<tag lemma="on-1" src="orig" selected="1">PPNS1--3-------</tag>
+<tag>
+<AM lemma="on-1" src="orig">PPNS1--3-------</AM>
+<AM lemma="Ono_;m" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-035-p3s1w59">
 <src.rf>manual</src.rf>
@@ -1010,7 +1018,8 @@
 <AM lemma="Animo_;R_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="Anima_;K" src="auto" recommended="1">NNFS5-----A----</AM>
 <AM lemma="Animo_;R" src="manual">NNNS1-----A----</AM>
-<AM lemma="Animo_;K_;R" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Animo_;K_;R" src="manual">NNNS1-----A----</AM>
+<AM lemma="Animo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-035-p5s1w20">

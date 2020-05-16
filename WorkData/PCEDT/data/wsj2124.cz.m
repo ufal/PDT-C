@@ -4021,16 +4021,42 @@
 <w.rf>
 <LM>w#w-wsj2124-001-p1s12W31</LM>
 </w.rf>
-<form>Poor's</form>
+<form>Poor</form>
 <tag>
-<AM lemma="Poor's" src="auto">X@-------------</AM>
-<AM lemma="Poor's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Poor" src="auto">X@-------------</AM>
+<AM lemma="Poor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: Poor ' s</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj2124-001-p1s12W31-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2124-001-p1s12W31</LM>
+</w.rf>
+<form>'</form>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj2124-001-p1s12W31-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2124-001-p1s12W31</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>s</form>
+<tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2124-001-p1s12W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7355,6 +7381,7 @@
 <tag>
 <AM lemma="Unisys_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Unisys_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Unisys_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2124-001-p1s26W10-Ta">
@@ -7576,7 +7603,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2124-001-p1s26W32-Ta">
@@ -7602,7 +7630,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2124-001-p1s26W34-Ta">

@@ -763,14 +763,17 @@
 <w.rf>
 <LM>w#w-d1t1772-1</LM>
 </w.rf>
-<form>23.</form>
-<tag lemma="23" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 23 .</text>
-</LM>
-</comment>
-</m>
+<form>23</form>
+<tag>
+<AM lemma="23" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m062-d1t1772-1-sw1">
+<w.rf>
+<LM>w#w-d1t1772-1</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m062-d1t1772-2">
 <w.rf>
 <LM>w#w-d1t1772-2</LM>

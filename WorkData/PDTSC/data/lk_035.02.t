@@ -7320,7 +7320,7 @@
 <lex.rf>a#lk_035.02-SCzechA-m-400-401</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>2,50</t_lemma>
+<t_lemma>2.50</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

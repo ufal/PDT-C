@@ -6965,16 +6965,41 @@
 <w.rf>
 <LM>w#w-wsj1578-001-p1s29W3</LM>
 </w.rf>
-<form>20akciový</form>
+<form>20</form>
+<tag lemma="20" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1578-001-p1s29W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1578-001-p1s29W3</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>akciový</form>
 <tag>
-<AM lemma="20akciový" src="auto">X@-------------</AM>
-<AM lemma="20akciový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="akciový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="akciový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="akciový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="akciový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="akciový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="akciový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="akciový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="akciový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="akciový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="akciový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="akciový" src="auto">AAIS4----1A----</AM>
+<AM lemma="akciový" src="auto">AAIS5----1A----</AM>
+<AM lemma="akciový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="akciový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="akciový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="akciový" src="auto">AAMS1----1A----</AM>
+<AM lemma="akciový" src="auto">AAMS5----1A----</AM>
+<AM lemma="akciový" src="auto">AANP1----1A---6</AM>
+<AM lemma="akciový" src="auto">AANP4----1A---6</AM>
+<AM lemma="akciový" src="auto">AANP5----1A---6</AM>
+<AM lemma="akciový" src="auto">AANS1----1A---6</AM>
+<AM lemma="akciový" src="auto">AANS4----1A---6</AM>
+<AM lemma="akciový" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 20 akciový</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1578-001-p1s29W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16324,7 +16349,8 @@
 <form>Chubb</form>
 <tag>
 <AM lemma="Chubb" src="auto">X@-------------</AM>
-<AM lemma="Chubb_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Chubb_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Chubb_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1578-001-p1s54W54-Ta">
@@ -16778,7 +16804,8 @@
 <AM lemma="Tonka_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Tonko_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Tonko_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Tonka_;K_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tonka_;K_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Tonka_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1578-001-p1s56W16-Ta">

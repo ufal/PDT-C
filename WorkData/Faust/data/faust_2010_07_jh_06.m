@@ -709,16 +709,41 @@
 <w.rf>
 <LM>w#w-jh_06-SCzechM-p0558-s1-w23</LM>
 </w.rf>
-<form>8R5151SS</form>
+<form>8</form>
+<tag lemma="8" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="jh_06-SCzechM-p0558-s1-w23-sw1">
+<w.rf>
+<LM>w#w-jh_06-SCzechM-p0558-s1-w23</LM>
+</w.rf>
+<form>R</form>
 <tag>
-<AM lemma="8R5151SS">X@-------------</AM>
-<AM lemma="8R5151SS" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="R-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="R-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>4v1: 8 R 5151 SS</text>
-</LM>
-</comment>
+</m>
+<m id="jh_06-SCzechM-p0558-s1-w23-sw2">
+<w.rf>
+<LM>w#w-jh_06-SCzechM-p0558-s1-w23</LM>
+</w.rf>
+<form>5151</form>
+<tag lemma="5151" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="jh_06-SCzechM-p0558-s1-w23-sw3">
+<w.rf>
+<LM>w#w-jh_06-SCzechM-p0558-s1-w23</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>SS</form>
+<tag>
+<AM lemma="SS_:B_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="ss" src="auto">II-------------</AM>
+<AM lemma="SS-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SS-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="jh_06-SCzechM-p0558-s1-w24">
 <w.rf>

@@ -114,7 +114,7 @@
 <children>
 <LM id="T-wsj1696-001-p1s0a46">
 <a>
-<lex.rf>a#a-wsj1696-001-p1s0W7-Ta</lex.rf>
+<lex.rf>a#m-wsj1696-001-p1s0W7-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliardový</t_lemma>

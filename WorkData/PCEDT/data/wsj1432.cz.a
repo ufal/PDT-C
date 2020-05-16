@@ -2435,19 +2435,26 @@
 <LM id="a-wsj1432-001-p1s14W22-Ta">
 <m.rf>m#m-wsj1432-001-p1s14W22-Ta</m.rf>
 <afun>Coord</afun>
-<ord>22</ord>
+<ord>23</ord>
 <children>
 <LM id="a-wsj1432-001-p1s14W21-Ta">
 <m.rf>m#m-wsj1432-001-p1s14W21-Ta</m.rf>
 <afun>ExD</afun>
 <is_member>1</is_member>
 <ord>21</ord>
+<children>
+<LM id="m-wsj1432-001-p1s14W21-Ta-sw1-ia">
+<m.rf>m#m-wsj1432-001-p1s14W21-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>22</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj1432-001-p1s14W23-Ta">
 <m.rf>m#m-wsj1432-001-p1s14W23-Ta</m.rf>
 <afun>Atr</afun>
 <is_member>1</is_member>
-<ord>23</ord>
+<ord>24</ord>
 </LM>
 </children>
 </LM>
@@ -2466,7 +2473,7 @@
 <LM id="a-wsj1432-001-p1s14W24-Ta">
 <m.rf>m#m-wsj1432-001-p1s14W24-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>24</ord>
+<ord>25</ord>
 </LM>
 </children>
 </LM>

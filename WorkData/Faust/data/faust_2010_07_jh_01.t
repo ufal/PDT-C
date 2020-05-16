@@ -2356,10 +2356,11 @@
 <aux.rf>
 <LM>a#faust_2010_07_jh_01-SCzechA-p0033-s1-w21</LM>
 <LM>a#faust_2010_07_jh_01-SCzechA-p0033-s1-w22</LM>
+<LM>a#jh_01-SCzechM-p0033-s1-w22-sw1-ia</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>6.18a</t_lemma>
+<t_lemma>6_._18_a</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>

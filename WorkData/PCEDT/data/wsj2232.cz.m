@@ -2068,7 +2068,10 @@
 <LM>w#w-wsj2232-001-p1s6W3</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13547,7 +13550,8 @@
 <form>Shearson</form>
 <tag>
 <AM lemma="Shearson" src="auto">X@-------------</AM>
-<AM lemma="Shearson_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Shearson_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Shearson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2232-001-p1s49W11-Ta">
@@ -13556,7 +13560,10 @@
 <LM>w#w-wsj2232-001-p1s49W11</LM>
 </w.rf>
 <form>Lehman</form>
-<tag lemma="Lehman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lehman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lehman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s49W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13564,7 +13571,10 @@
 <LM>w#w-wsj2232-001-p1s49W12</LM>
 </w.rf>
 <form>Hutton</form>
-<tag lemma="Hutton_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hutton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hutton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s49W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -21427,7 +21437,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-2_^(Coca-Cola)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Coca-2_^(Coca-Cola)" src="manual">S2--------A----</AM>
+<AM lemma="Coca-1_^(Coca-Cola)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2232-001-p1s75W8-Ta">
@@ -21453,7 +21464,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola_;R_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Cola_;R_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2232-001-p1s75W10-Ta">
@@ -25730,7 +25742,10 @@
 <LM>w#w-wsj2232-001-p1s87W35</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2232-001-p1s87W36-Ta">
 <src.rf>tagger-a</src.rf>

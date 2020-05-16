@@ -1,8 +1,6 @@
 #!btred -NTe ws()
 # -*- mode: cperl -*-
 
-package pdt_c_m;
-
 sub ws {
     ChangingFile(0);
     my $tag_outer = $this->attr('tag');

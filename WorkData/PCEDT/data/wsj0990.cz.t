@@ -12077,7 +12077,7 @@
 <children>
 <LM id="T-wsj0990-001-p1s40a4">
 <a>
-<lex.rf>a#a-wsj0990-001-p1s40W4-Ta</lex.rf>
+<lex.rf>a#m-wsj0990-001-p1s40W4-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

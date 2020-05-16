@@ -6308,14 +6308,10 @@
 <w.rf>
 <LM>w#w-d1t280-4</LM>
 </w.rf>
-<form>2,5</form>
-<tag lemma="2,5" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>2.5</text>
-</LM>
-</comment>
-</m>
+<form>2.5</form>
+<tag>
+<AM lemma="2.5" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m114-d1t280-7">
 <w.rf>
 <LM>w#w-d1t280-7</LM>

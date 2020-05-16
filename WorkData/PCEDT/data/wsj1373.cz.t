@@ -2681,7 +2681,7 @@
 <children>
 <LM id="T-wsj1373-001-p1s9a26">
 <a>
-<lex.rf>a#a-wsj1373-001-p1s9W25-Ta</lex.rf>
+<lex.rf>a#m-wsj1373-001-p1s9W25-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kilobitový</t_lemma>
@@ -7995,12 +7995,23 @@
 <lex.rf>a#a-wsj1373-001-p1s31W32-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>MC88200</t_lemma>
+<t_lemma>MC</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>29</deepord>
+<children>
+<LM id="T-wsj1373-001-p1s31a39">
+<a>
+<lex.rf>a#m-wsj1373-001-p1s31W32-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>88200</t_lemma>
+<functor>RSTR</functor>
+<deepord>30</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -9340,12 +9351,23 @@
 <lex.rf>a#a-wsj1373-001-p1s35W26-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>MC68030</t_lemma>
+<t_lemma>MC</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>22</deepord>
+<children>
+<LM id="T-wsj1373-001-p1s35a34">
+<a>
+<lex.rf>a#m-wsj1373-001-p1s35W26-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>68030</t_lemma>
+<functor>RSTR</functor>
+<deepord>23</deepord>
+</LM>
+</children>
 </LM>
 <LM id="T-wsj1373-001-p1s35a26">
 <a>
@@ -9357,7 +9379,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>23</deepord>
+<deepord>24</deepord>
 <children>
 <LM id="T-wsj1373-001-p1s35a28">
 <a>
@@ -9369,7 +9391,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>24</deepord>
+<deepord>25</deepord>
 </LM>
 </children>
 <coref_text>

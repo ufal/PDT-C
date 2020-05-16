@@ -6395,16 +6395,24 @@
 <w.rf>
 <LM>w#w-d1t1047-4</LM>
 </w.rf>
-<form>V1</form>
+<form>V</form>
 <tag>
-<AM lemma="V1" src="auto">X@-------------</AM>
-<AM lemma="V1" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: V 1</text>
-</LM>
-</comment>
+<AM lemma="V-3`5" src="auto">C}-------------</AM>
+<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="V-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="volt" src="auto">NNIXX-----A---8</AM>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
+</m><m id="m916-d1t1047-4-sw1">
+<w.rf>
+<LM>w#w-d1t1047-4</LM>
+</w.rf>
+<form>1</form>
+<tag>
+<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
 </m>
 <m id="m916-d-id93633">
 <w.rf>
@@ -6437,17 +6445,25 @@
 <w.rf>
 <LM>w#w-d1t1047-7</LM>
 </w.rf>
-<form>V2</form>
+<form>V</form>
 <tag>
-<AM lemma="V2" src="auto">X@-------------</AM>
-<AM lemma="V2" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: V 2</text>
-</LM>
-</comment>
-</m>
+<AM lemma="V-3`5" src="auto">C}-------------</AM>
+<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="V-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="volt" src="auto">NNIXX-----A---8</AM>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
+</m><m id="m916-d1t1047-7-sw1">
+<w.rf>
+<LM>w#w-d1t1047-7</LM>
+</w.rf>
+<form>2</form>
+<tag>
+<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m916-3370-3373">
 <w.rf>
 <LM>w#w-3370-3373</LM>

@@ -9600,7 +9600,7 @@
 <children>
 <LM id="T-wsj2160-001-p1s25a35">
 <a>
-<lex.rf>a#a-wsj2160-001-p1s25W33-Ta</lex.rf>
+<lex.rf>a#m-wsj2160-001-p1s25W33-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milionový</t_lemma>
@@ -10713,7 +10713,7 @@
 <children>
 <LM id="T-wsj2160-001-p1s29a23">
 <a>
-<lex.rf>a#a-wsj2160-001-p1s29W20-Ta</lex.rf>
+<lex.rf>a#m-wsj2160-001-p1s29W20-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milionový</t_lemma>
@@ -11326,7 +11326,7 @@
 <children>
 <LM id="T-wsj2160-001-p1s31a11">
 <a>
-<lex.rf>a#a-wsj2160-001-p1s31W10-Ta</lex.rf>
+<lex.rf>a#m-wsj2160-001-p1s31W10-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milionový</t_lemma>

@@ -5242,7 +5242,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>16</deepord>
+<deepord>17</deepord>
 <children>
 <LM id="T-wsj0956-001-p1s20a6">
 <a>
@@ -5404,12 +5404,21 @@
 <lex.rf>a#a-wsj0956-001-p1s20W16-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Q45</t_lemma>
+<t_lemma>Q</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
+<LM id="T-wsj0956-001-p1s20a34">
+<a>
+<lex.rf>a#m-wsj0956-001-p1s20W16-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>45</t_lemma>
+<functor>FPHR</functor>
+<deepord>16</deepord>
 </LM>
 </children>
 </LM>
@@ -5432,7 +5441,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>21</deepord>
+<deepord>22</deepord>
 <children>
 <LM id="T-wsj0956-001-p1s20a19">
 <a>
@@ -5444,7 +5453,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>18</deepord>
 <children>
 <LM id="T-wsj0956-001-p1s20a20">
 <a>
@@ -5456,7 +5465,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>18</deepord>
+<deepord>19</deepord>
 </LM>
 <LM id="T-wsj0956-001-p1s20a21">
 <a>
@@ -5468,7 +5477,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>19</deepord>
+<deepord>20</deepord>
 <children>
 <LM id="T-wsj0956-001-p1s20a22">
 <a>
@@ -5480,7 +5489,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>20</deepord>
+<deepord>21</deepord>
 </LM>
 </children>
 <coref_text>
@@ -5506,7 +5515,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>22</deepord>
+<deepord>23</deepord>
 </LM>
 <LM id="T-wsj0956-001-p1s20a27">
 <a>
@@ -5521,7 +5530,7 @@
 <gram>
 <sempos>n.denot.neg</sempos>
 </gram>
-<deepord>24</deepord>
+<deepord>25</deepord>
 <children>
 <LM id="T-wsj0956-001-p1s20a28">
 <a>
@@ -5533,7 +5542,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>23</deepord>
+<deepord>24</deepord>
 </LM>
 </children>
 <coref_text>
@@ -5560,7 +5569,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>26</deepord>
+<deepord>27</deepord>
 <children>
 <LM id="T-wsj0956-001-p1s20a30">
 <a>
@@ -5572,7 +5581,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>25</deepord>
+<deepord>26</deepord>
 </LM>
 </children>
 </LM>

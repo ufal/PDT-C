@@ -3451,17 +3451,21 @@
 <w.rf>
 <LM>w#w-d1t3190-1</LM>
 </w.rf>
-<form>600hektarová</form>
+<form>600</form>
 <tag>
-<AM lemma="600hektarová" src="auto">X@-------------</AM>
-<AM lemma="600hektarový" src="manual" selected="1">AAFS1----1A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 600 hektarová</text>
-</LM>
-</comment>
-</m>
+<AM lemma="600" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m044-d1t3190-1-sw1">
+<w.rf>
+<LM>w#w-d1t3190-1</LM>
+</w.rf>
+<form>hektarová</form>
+<tag>
+<AM lemma="hektarový" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="hektarový" src="auto">AAFS5----1A----</AM>
+<AM lemma="hektarový" src="auto">AANP1----1A----</AM>
+<AM lemma="hektarový" src="auto">AANP4----1A----</AM>
+<AM lemma="hektarový" src="auto">AANP5----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m044-d1t3188-9">
 <w.rf>
 <LM>w#w-d1t3188-9</LM>

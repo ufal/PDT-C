@@ -1851,14 +1851,24 @@
 <w.rf>
 <LM>w#w-d1e3304-x2-316</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>3v1: . . .</text>
-</LM>
-</comment>
-</m>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-d1e3304-x2-316-sw1">
+<w.rf>
+<LM>w#w-d1e3304-x2-316</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-d1e3304-x2-316-sw2">
+<w.rf>
+<LM>w#w-d1e3304-x2-316</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 </s>
 <s id="m061-d1e3329-x2">
 <m id="m061-d1t3336-1">
@@ -3100,14 +3110,24 @@
 <w.rf>
 <LM>w#w-d1e3398-x2-547</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>3v1: . . .</text>
-</LM>
-</comment>
-</m>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-d1e3398-x2-547-sw1">
+<w.rf>
+<LM>w#w-d1e3398-x2-547</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-d1e3398-x2-547-sw2">
+<w.rf>
+<LM>w#w-d1e3398-x2-547</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 </s>
 <s id="m061-d1e3421-x3">
 <m id="m061-d1t3418-17">
@@ -3582,14 +3602,24 @@
 <w.rf>
 <LM>w#w-552-556</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>3v1: . . .</text>
-</LM>
-</comment>
-</m>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-552-556-sw1">
+<w.rf>
+<LM>w#w-552-556</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-552-556-sw2">
+<w.rf>
+<LM>w#w-552-556</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m061-552-557">
 <w.rf>
 <LM>w#w-552-557</LM>
@@ -3919,14 +3949,24 @@
 <w.rf>
 <LM>w#w-d1e3431-x3-515</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>3v1: . . .</text>
-</LM>
-</comment>
-</m>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-d1e3431-x3-515-sw1">
+<w.rf>
+<LM>w#w-d1e3431-x3-515</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-d1e3431-x3-515-sw2">
+<w.rf>
+<LM>w#w-d1e3431-x3-515</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 </s>
 <s id="m061-493">
 <m id="m061-d1t3458-2">

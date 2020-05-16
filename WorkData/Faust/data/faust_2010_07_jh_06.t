@@ -844,9 +844,14 @@
 <LM id="faust_2010_07_jh_06-SCzechT-p0558-s1-w23">
 <a>
 <lex.rf>a#faust_2010_07_jh_06-SCzechA-p0558-s1-w23</lex.rf>
+<aux.rf>
+<LM>a#jh_06-SCzechM-p0558-s1-w23-sw1-ia</LM>
+<LM>a#jh_06-SCzechM-p0558-s1-w23-sw2-ia</LM>
+<LM>a#jh_06-SCzechM-p0558-s1-w23-sw3-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>8R5151SS</t_lemma>
+<t_lemma>8_R_5151_SS</t_lemma>
 <functor>ID</functor>
 <is_member>1</is_member>
 <gram>

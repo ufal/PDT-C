@@ -2891,7 +2891,7 @@
 </LM>
 <LM id="T-wsj0683-001-p1s7a41">
 <a>
-<lex.rf>a#a-wsj0683-001-p1s7W38-Ta</lex.rf>
+<lex.rf>a#m-wsj0683-001-p1s7W38-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

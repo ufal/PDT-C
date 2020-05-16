@@ -5075,13 +5075,16 @@
 </gram>
 <deepord>7</deepord>
 <children>
-<LM id="faust_2010_07_es_13-SCzechT-p1387-s1-w4">
+<LM id="faust_2010_07_es_13-SCzechT-p1387-s1-roota3">
 <a>
-<lex.rf>a#faust_2010_07_es_13-SCzechA-p1387-s1-w4</lex.rf>
+<lex.rf>a#es_13-SCzechM-p1387-s1-w4-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>krát</t_lemma>
 <functor>THO</functor>
+<gram>
+<sempos>adv.denot.ngrad.nneg</sempos>
+</gram>
 <deepord>6</deepord>
 <children>
 <LM id="faust_2010_07_es_13-SCzechT-p1387-s1-roota2">

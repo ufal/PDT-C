@@ -952,16 +952,41 @@
 <w.rf>
 <LM>w#w-wsj0784-001-p1s3W17</LM>
 </w.rf>
-<form>53patrový</form>
+<form>53</form>
+<tag lemma="53" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0784-001-p1s3W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0784-001-p1s3W17</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>patrový</form>
 <tag>
-<AM lemma="53patrový" src="auto">X@-------------</AM>
-<AM lemma="53patrový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="patrový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="patrový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="patrový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="patrový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="patrový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="patrový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="patrový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="patrový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="patrový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="patrový" src="auto">AAIS1----1A----</AM>
+<AM lemma="patrový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="patrový" src="auto">AAIS5----1A----</AM>
+<AM lemma="patrový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="patrový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="patrový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="patrový" src="auto">AAMS1----1A----</AM>
+<AM lemma="patrový" src="auto">AAMS5----1A----</AM>
+<AM lemma="patrový" src="auto">AANP1----1A---6</AM>
+<AM lemma="patrový" src="auto">AANP4----1A---6</AM>
+<AM lemma="patrový" src="auto">AANP5----1A---6</AM>
+<AM lemma="patrový" src="auto">AANS1----1A---6</AM>
+<AM lemma="patrový" src="auto">AANS4----1A---6</AM>
+<AM lemma="patrový" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 53 patrový</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0784-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2578,7 +2603,8 @@
 <AM lemma="Stanley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Stanley_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Stanley_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Stanley_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stanley_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Stanley_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0784-001-p1s7W17-Ta">
@@ -3311,6 +3337,7 @@
 <tag>
 <AM lemma="Exxon_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Exxon_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Exxon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0784-001-p1s10W13-Ta">
@@ -4053,16 +4080,34 @@
 <w.rf>
 <LM>w#w-wsj0784-001-p1s12W10</LM>
 </w.rf>
-<form>132akrové</form>
+<form>132</form>
+<tag lemma="132" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0784-001-p1s12W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0784-001-p1s12W10</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>akrové</form>
 <tag>
-<AM lemma="132akrové" src="auto">X@-------------</AM>
-<AM lemma="132akrový" src="manual" selected="1">AAFS6----1A----</AM>
+<AM lemma="akrový" src="auto">AAFP1----1A----</AM>
+<AM lemma="akrový" src="auto">AAFP4----1A----</AM>
+<AM lemma="akrový" src="auto">AAFP5----1A----</AM>
+<AM lemma="akrový" src="auto">AAFS2----1A----</AM>
+<AM lemma="akrový" src="auto">AAFS3----1A----</AM>
+<AM lemma="akrový" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="akrový" src="auto">AAIP1----1A----</AM>
+<AM lemma="akrový" src="auto">AAIP4----1A----</AM>
+<AM lemma="akrový" src="auto">AAIP5----1A----</AM>
+<AM lemma="akrový" src="auto">AAMP4----1A----</AM>
+<AM lemma="akrový" src="auto">AANP1----1A---6</AM>
+<AM lemma="akrový" src="auto">AANP4----1A---6</AM>
+<AM lemma="akrový" src="auto">AANP5----1A---6</AM>
+<AM lemma="akrový" src="auto">AANS1----1A----</AM>
+<AM lemma="akrový" src="auto">AANS4----1A----</AM>
+<AM lemma="akrový" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 132 akrové</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0784-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4231,6 +4276,7 @@
 <AM lemma="Irving-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Irving-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Irving-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Irving-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0784-001-p1s12W23-Ta">
@@ -6350,16 +6396,40 @@
 <w.rf>
 <LM>w#w-wsj0784-001-p1s19W30</LM>
 </w.rf>
-<form>40hodinový</form>
+<form>40</form>
+<tag lemma="40" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0784-001-p1s19W30-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0784-001-p1s19W30</LM>
+</w.rf>
+<form>hodinový</form>
 <tag>
-<AM lemma="40hodinový" src="auto">X@-------------</AM>
-<AM lemma="40hodinový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="hodinový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIS1----1A----</AM>
+<AM lemma="hodinový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="hodinový" src="auto">AAIS5----1A----</AM>
+<AM lemma="hodinový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAMS1----1A----</AM>
+<AM lemma="hodinový" src="auto">AAMS5----1A----</AM>
+<AM lemma="hodinový" src="auto">AANP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANS1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANS4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 40 hodinový</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0784-001-p1s19W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6429,16 +6499,41 @@
 <w.rf>
 <LM>w#w-wsj0784-001-p1s19W35</LM>
 </w.rf>
-<form>35hodinový</form>
+<form>35</form>
+<tag lemma="35" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0784-001-p1s19W35-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0784-001-p1s19W35</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>hodinový</form>
 <tag>
-<AM lemma="35hodinový" src="auto">X@-------------</AM>
-<AM lemma="35hodinový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="hodinový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIS1----1A----</AM>
+<AM lemma="hodinový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="hodinový" src="auto">AAIS5----1A----</AM>
+<AM lemma="hodinový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAMS1----1A----</AM>
+<AM lemma="hodinový" src="auto">AAMS5----1A----</AM>
+<AM lemma="hodinový" src="auto">AANP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANS1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANS4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 35 hodinový</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0784-001-p1s19W36-Ta">
 <src.rf>tagger-a</src.rf>

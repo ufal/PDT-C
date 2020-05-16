@@ -3585,7 +3585,7 @@
 <lex.rf>a#dk_110.09-SCzechA-m-d1t2489-15</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>8.</t_lemma>
+<t_lemma>8</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>

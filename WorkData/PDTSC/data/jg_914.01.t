@@ -3246,7 +3246,7 @@
 <children>
 <LM id="jg-12941_04.01-SCzechT-m-d1t500-9">
 <a>
-<lex.rf>a#jg-12941_04.01-SCzechA-m-d1t500-9</lex.rf>
+<lex.rf>a#m914-d1t500-9-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>krát</t_lemma>
@@ -4275,12 +4275,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>jg-12941_04.01-SCzechT-m-d1t511-10</target-node.rf>
@@ -4288,6 +4282,12 @@
 <src>hana</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="jg-12941_04.01-SCzechT-jg-12941_04-4108-roota1">
 <nodetype>qcomplex</nodetype>

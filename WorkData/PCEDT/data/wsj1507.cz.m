@@ -3027,17 +3027,44 @@
 <w.rf>
 <LM>w#w-wsj1507-001-p1s11W16</LM>
 </w.rf>
-<form>120denní</form>
+<form>120</form>
 <tag>
-<AM lemma="120denní" src="auto">X@-------------</AM>
-<AM lemma="120denní" src="manual" selected="1">AAFS4----1A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 120 denní</text>
-</LM>
-</comment>
-</m>
+<AM lemma="120" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj1507-001-p1s11W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1507-001-p1s11W16</LM>
+</w.rf>
+<form>denní</form>
+<tag>
+<AM lemma="denní" src="auto">AAFP1----1A----</AM>
+<AM lemma="denní" src="auto">AAFP4----1A----</AM>
+<AM lemma="denní" src="auto">AAFP5----1A----</AM>
+<AM lemma="denní" src="auto">AAFS1----1A----</AM>
+<AM lemma="denní" src="auto">AAFS2----1A----</AM>
+<AM lemma="denní" src="auto">AAFS3----1A----</AM>
+<AM lemma="denní" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="denní" src="auto">AAFS5----1A----</AM>
+<AM lemma="denní" src="auto">AAFS6----1A----</AM>
+<AM lemma="denní" src="auto">AAFS7----1A----</AM>
+<AM lemma="denní" src="auto">AAIP1----1A----</AM>
+<AM lemma="denní" src="auto">AAIP4----1A----</AM>
+<AM lemma="denní" src="auto">AAIP5----1A----</AM>
+<AM lemma="denní" src="auto">AAIS1----1A----</AM>
+<AM lemma="denní" src="auto">AAIS4----1A----</AM>
+<AM lemma="denní" src="auto">AAIS5----1A----</AM>
+<AM lemma="denní" src="auto">AAMP1----1A----</AM>
+<AM lemma="denní" src="auto">AAMP4----1A----</AM>
+<AM lemma="denní" src="auto">AAMP5----1A----</AM>
+<AM lemma="denní" src="auto">AAMS1----1A----</AM>
+<AM lemma="denní" src="auto">AAMS5----1A----</AM>
+<AM lemma="denní" src="auto">AANP1----1A----</AM>
+<AM lemma="denní" src="auto">AANP4----1A----</AM>
+<AM lemma="denní" src="auto">AANP5----1A----</AM>
+<AM lemma="denní" src="auto">AANS1----1A----</AM>
+<AM lemma="denní" src="auto">AANS4----1A----</AM>
+<AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1507-001-p1s11W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

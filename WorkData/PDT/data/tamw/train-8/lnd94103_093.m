@@ -772,7 +772,8 @@
 <form>pop</form>
 <tag>
 <AM lemma="pop-1_^(círk.)" src="orig">NNMS1-----A----</AM>
-<AM lemma="pop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="pop-77" src="manual">F%-------------</AM>
+<AM lemma="pop-4" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-093-p1s5w6">
@@ -783,7 +784,8 @@
 <form>music</form>
 <tag>
 <AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
-<AM lemma="music-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="music-77" src="manual">F%-------------</AM>
+<AM lemma="music-1_^(př._pop_music)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-093-p1s5w7">
@@ -850,7 +852,8 @@
 <form>Gramy</form>
 <tag>
 <AM lemma="gram" src="orig">NNIP1-----A----</AM>
-<AM lemma="Gramy_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gramy_;R" src="manual">NNFS1-----A----</AM>
+<AM lemma="Gramy_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-093-p1s5w15">
@@ -975,7 +978,8 @@
 <form>Gramy</form>
 <tag>
 <AM lemma="gram" src="orig">NNIP1-----A----</AM>
-<AM lemma="Gramy_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gramy_;R" src="manual">NNFS1-----A----</AM>
+<AM lemma="Gramy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-093-p1s6w8">
@@ -1087,7 +1091,10 @@
 <LM>w#w-lnd94103-093-p1s8w4</LM>
 </w.rf>
 <form>Gramy</form>
-<tag lemma="gram" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="gram" src="orig">NNIP1-----A----</AM>
+<AM lemma="Gramy_;m" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-093-p1s8w5">
 <src.rf>manual</src.rf>
@@ -3722,7 +3729,8 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

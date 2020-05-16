@@ -1382,6 +1382,7 @@
 <AM lemma="Boeing_;K_;R_^(letadlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Boeing_;m_^(letadlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2308-001-p1s2W8-Ta">
@@ -1831,6 +1832,7 @@
 <AM lemma="nonstop-1" src="auto">Db-------------</AM>
 <AM lemma="nonstop-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="nonstop-2" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="nonstop-3" src="manual">AAXXX----1A----</AM>
 <AM lemma="nonstop-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
@@ -1871,6 +1873,8 @@
 <AM lemma="Phoenix-1_;G_;K_;R" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Phoenix-1_;G_;K_;R" src="auto">NNIS3-----A----</AM>
 <AM lemma="Phoenix-1_;G_;K_;R" src="auto">NNIS6-----A----</AM>
+<AM lemma="Phoenix-1_;G_;m" src="manual">NNIS2-----A----</AM>
+<AM lemma="Phoenix-1_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2308-001-p1s2W53-Ta">
@@ -2770,6 +2774,7 @@
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Antonius_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Antonius_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Antonio-2_;G" src="manual">NNNS6-----A----</AM>
 <AM lemma="Antonio-2_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
@@ -12364,16 +12369,23 @@
 <w.rf>
 <LM>w#w-wsj2308-001-p1s39W20</LM>
 </w.rf>
-<form>PW4060</form>
+<form>PW</form>
 <tag>
-<AM lemma="PW4060" src="auto">X@-------------</AM>
-<AM lemma="PW4060" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PW-1_:B_,t_^(prisoner_of_war)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="PW-2_:B_,t_^(public_works)" src="auto">NNFPX-----A----</AM>
+<AM lemma="policewoman_:B_,t" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PW-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: PW 4060</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj2308-001-p1s39W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2308-001-p1s39W20</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>4060</form>
+<tag lemma="4060" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2308-001-p1s39W21-Ta">
 <src.rf>tagger-a</src.rf>

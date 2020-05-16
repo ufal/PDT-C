@@ -191,7 +191,8 @@
 <form>heavy</form>
 <tag>
 <AM lemma="heavy_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="heavy-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="heavy-77" src="manual">F%-------------</AM>
+<AM lemma="heavy" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p2s1Bw17">
@@ -221,7 +222,8 @@
 <AM lemma="Pixies_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pixies_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Pixies_;K_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Pixies_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pixies_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pixies_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p2s1Bw20">
@@ -438,7 +440,10 @@
 <LM>w#w-ln94204-106-p2s2w6</LM>
 </w.rf>
 <form>grunge</form>
-<tag lemma="grunge_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="grunge_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="grunge" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-106-p2s2w7">
 <src.rf>manual</src.rf>
@@ -929,7 +934,8 @@
 <tag>
 <AM lemma="Teenager_;K_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="teenager" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="TEENAGER-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="TEENAGER-77" src="manual">F%-------------</AM>
+<AM lemma="Teenager-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p3s1w29">
@@ -940,7 +946,8 @@
 <form>OF</form>
 <tag>
 <AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
-<AM lemma="OF-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="OF-77" src="manual">F%-------------</AM>
+<AM lemma="Of-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p3s1w30">
@@ -951,7 +958,8 @@
 <form>THE</form>
 <tag>
 <AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="THE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="THE-77" src="manual">F%-------------</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p3s1w31">
@@ -962,7 +970,8 @@
 <form>YEAR</form>
 <tag>
 <AM lemma="Year_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="YEAR-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="YEAR-77" src="manual">F%-------------</AM>
+<AM lemma="Year-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p3s1w32">
@@ -1007,7 +1016,8 @@
 <form>Sounds</form>
 <tag>
 <AM lemma="Sound_;R_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Sounds-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sounds-77" src="manual">F%-------------</AM>
+<AM lemma="Sound_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p3s2w5">
@@ -1596,7 +1606,10 @@
 <LM>w#w-ln94204-106-p3s4w15</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Marie-1_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Marie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-106-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1614,7 +1627,8 @@
 <form>Superabound</form>
 <tag>
 <AM lemma="superabound_,t" src="orig">Vf--------A----</AM>
-<AM lemma="Superabound-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Superabound-77" src="manual">F%-------------</AM>
+<AM lemma="Superabound_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p3s4w18">
@@ -1921,7 +1935,8 @@
 <form>Calistan</form>
 <tag>
 <AM lemma="calistan_;m_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Calistan-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Calistan-77" src="manual">F%-------------</AM>
+<AM lemma="Calistan_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p4s1w36">
@@ -2565,7 +2580,8 @@
 <form>Clash</form>
 <tag>
 <AM lemma="Clash_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Clash-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Clash-77" src="manual">F%-------------</AM>
+<AM lemma="Clash_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p4s4w10">
@@ -2950,7 +2966,8 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual">NNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p4s8w2">

@@ -810,7 +810,8 @@
 <form>Unocal</form>
 <tag>
 <AM lemma="Unocal" src="auto">X@-------------</AM>
-<AM lemma="Unocal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Unocal_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Unocal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0341-001-p1s1W33-Ta">
@@ -839,7 +840,8 @@
 <form>Unocal</form>
 <tag>
 <AM lemma="Unocal" src="auto">X@-------------</AM>
-<AM lemma="Unocal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Unocal_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Unocal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0341-001-p1s2W3-Ta">

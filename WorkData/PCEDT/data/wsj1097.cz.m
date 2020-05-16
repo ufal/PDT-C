@@ -1070,11 +1070,13 @@
 <w.rf>
 <LM>w#w-wsj1097-001-p1s4W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Connecticut</form>
 <tag>
 <AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Connecticut_;G" src="auto">NNIS4-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Connecticut_;G" src="auto">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1097-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3257,7 +3259,10 @@
 <LM>w#w-wsj1097-001-p1s10W4</LM>
 </w.rf>
 <form>McDonald</form>
-<tag lemma="McDonald_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="McDonald_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="McDonald-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1097-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>

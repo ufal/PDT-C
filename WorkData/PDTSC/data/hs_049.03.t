@@ -2152,7 +2152,7 @@
 <lex.rf>a#hs_049.03-SCzechA-m-d1t926-15</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>18,8</t_lemma>
+<t_lemma>18.8</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

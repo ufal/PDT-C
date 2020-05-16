@@ -4378,20 +4378,31 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
-<deepord>22</deepord>
+<deepord>23</deepord>
 <children>
 <LM id="T-wsj1432-001-p1s14a22">
 <a>
 <lex.rf>a#a-wsj1432-001-p1s14W21-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>A330</t_lemma>
+<t_lemma>A</t_lemma>
 <functor>RSTR</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>21</deepord>
+<children>
+<LM id="T-wsj1432-001-p1s14a29">
+<a>
+<lex.rf>a#m-wsj1432-001-p1s14W21-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>330</t_lemma>
+<functor>RSTR</functor>
+<deepord>22</deepord>
+</LM>
+</children>
 </LM>
 <LM id="T-wsj1432-001-p1s14a23">
 <a>
@@ -4404,7 +4415,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>23</deepord>
+<deepord>24</deepord>
 </LM>
 </children>
 </LM>

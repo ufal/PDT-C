@@ -26,16 +26,24 @@
 <w.rf>
 <LM>w#w-wsj0556-001-p1s0W2</LM>
 </w.rf>
-<form>R.</form>
+<form>R</form>
 <tag>
-<AM lemma="R." src="auto">X@-------------</AM>
-<AM lemma="R.-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="R-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: R .</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0556-001-p1s0W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0556-001-p1s0W2</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>.</form>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0556-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1726,7 +1734,10 @@
 <LM>w#w-wsj0556-001-p1s5W16</LM>
 </w.rf>
 <form>Magnin</form>
-<tag lemma="Magnin_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Magnin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Magnin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0556-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1741,16 +1752,42 @@
 <w.rf>
 <LM>w#w-wsj0556-001-p1s5W18</LM>
 </w.rf>
-<form>Bullock's</form>
+<form>Bullock</form>
 <tag>
-<AM lemma="Bullock's" src="auto">X@-------------</AM>
-<AM lemma="Bullock's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bullock_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bullock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: Bullock ' s</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0556-001-p1s5W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0556-001-p1s5W18</LM>
+</w.rf>
+<form>'</form>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj0556-001-p1s5W18-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0556-001-p1s5W18</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>s</form>
+<tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0556-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3858,16 +3895,24 @@
 <w.rf>
 <LM>w#w-wsj0556-001-p1s14W9</LM>
 </w.rf>
-<form>R.</form>
+<form>R</form>
 <tag>
-<AM lemma="R." src="auto">X@-------------</AM>
-<AM lemma="R.-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="R-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: R .</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0556-001-p1s14W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0556-001-p1s14W9</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>.</form>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0556-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5747,16 +5792,42 @@
 <w.rf>
 <LM>w#w-wsj0556-001-p1s20W6</LM>
 </w.rf>
-<form>Bloomingdale's</form>
+<form>Bloomingdale</form>
 <tag>
-<AM lemma="Bloomingdale's" src="auto">X@-------------</AM>
-<AM lemma="Bloomingdale's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bloomingdale" src="auto">X@-------------</AM>
+<AM lemma="Bloomingdale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: Bloomingdale ' s</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0556-001-p1s20W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0556-001-p1s20W6</LM>
+</w.rf>
+<form>'</form>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj0556-001-p1s20W6-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0556-001-p1s20W6</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>s</form>
+<tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0556-001-p1s20W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5820,7 +5891,8 @@
 <form>Campeau</form>
 <tag>
 <AM lemma="Campeau" src="auto">X@-------------</AM>
-<AM lemma="Campeau-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Campeau-77" src="manual">F%-------------</AM>
+<AM lemma="Campeau_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0556-001-p1s20W12-Ta">

@@ -8101,7 +8101,7 @@
 <children>
 <LM id="T-wsj2281-001-p1s22a29">
 <a>
-<lex.rf>a#a-wsj2281-001-p1s22W28-Ta</lex.rf>
+<lex.rf>a#m-wsj2281-001-p1s22W28-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíční</t_lemma>

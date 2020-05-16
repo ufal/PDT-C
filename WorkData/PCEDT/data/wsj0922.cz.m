@@ -1714,7 +1714,10 @@
 <LM>w#w-wsj0922-001-p1s3W26</LM>
 </w.rf>
 <form>know</form>
-<tag lemma="know_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="know_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-wsj0922-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1730,7 +1733,10 @@
 <LM>w#w-wsj0922-001-p1s3W28</LM>
 </w.rf>
 <form>how</form>
-<tag lemma="how_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="how_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0922-001-p1s3W29-Ta">
 <src.rf>tagger-a</src.rf>

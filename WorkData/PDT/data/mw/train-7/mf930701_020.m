@@ -116,7 +116,10 @@
 <LM>w#w-mf930701-020-p2s1w8</LM>
 </w.rf>
 <form>Phare</form>
-<tag lemma="Phare_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-020-p2s1w9">
 <src.rf>manual</src.rf>
@@ -442,7 +445,10 @@
 <LM>w#w-mf930701-020-p2s3w9</LM>
 </w.rf>
 <form>Týn</form>
-<tag lemma="týn" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="týn" src="orig">NNIS1-----A----</AM>
+<AM lemma="Týn_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-020-p2s3w10">
 <src.rf>manual</src.rf>
@@ -530,7 +536,10 @@
 <LM>w#w-mf930701-020-p2s3w20</LM>
 </w.rf>
 <form>Pomezí</form>
-<tag lemma="pomezí" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="pomezí" src="orig">NNNS1-----A----</AM>
+<AM lemma="Pomezí_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-020-p2s3w21">
 <src.rf>manual</src.rf>
@@ -655,7 +664,10 @@
 <LM>w#w-mf930701-020-p2s4w9</LM>
 </w.rf>
 <form>Phare</form>
-<tag lemma="Phare_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-020-p2s4w10">
 <src.rf>manual</src.rf>

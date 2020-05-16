@@ -7225,7 +7225,7 @@
 <lex.rf>a#ml_031.09-SCzechA-m-d1t3468-1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>3,97</t_lemma>
+<t_lemma>3.97</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

@@ -7875,7 +7875,7 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>2,5</t_lemma>
+<t_lemma>2.5</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

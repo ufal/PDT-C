@@ -1032,16 +1032,25 @@
 <w.rf>
 <LM>w#w-wsj0129-001-p1s2W28</LM>
 </w.rf>
-<form>č.</form>
+<form>č</form>
 <tag>
-<AM lemma="č." src="auto">X@-------------</AM>
-<AM lemma="č.-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="č-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="č-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="ča_^(ča-ča)" src="auto">NNFP2-----A----</AM>
+<AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: č .</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0129-001-p1s2W28-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0129-001-p1s2W28</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>.</form>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0129-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>

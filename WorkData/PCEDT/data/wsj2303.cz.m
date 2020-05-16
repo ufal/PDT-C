@@ -536,22 +536,23 @@
 <LM>w#w-wsj2303-001-p1s1W7</LM>
 </w.rf>
 <form>409</form>
-<tag>
-<AM lemma="409" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="409" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2303-001-p1s1W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2303-001-p1s1W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>milionová</form>
 <tag>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFS5----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP1----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP4----1A----</AM>
-<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2303-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1989,7 +1990,8 @@
 <AM lemma="Hooker_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hooker_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hooker_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hooker-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2303-001-p1s5W4-Ta">
@@ -3107,22 +3109,23 @@
 <LM>w#w-wsj2303-001-p1s10W6</LM>
 </w.rf>
 <form>409</form>
-<tag>
-<AM lemma="409" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="409" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2303-001-p1s10W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2303-001-p1s10W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>milionová</form>
 <tag>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFS5----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP1----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP4----1A----</AM>
-<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2303-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3219,7 +3222,8 @@
 <AM lemma="Hooker_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hooker_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hooker_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hooker-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2303-001-p1s10W16-Ta">
@@ -4619,7 +4623,8 @@
 <AM lemma="Hooker_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hooker_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hooker_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hooker-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2303-001-p1s14W5-Ta">
@@ -4639,14 +4644,16 @@
 <w.rf>
 <LM>w#w-wsj2303-001-p1s14W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>dvacetipatrová</form>
 <tag>
 <AM lemma="dvacetipatrový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="dvacetipatrový" src="auto">AAFS5----1A----</AM>
 <AM lemma="dvacetipatrový" src="auto">AANP1----1A----</AM>
 <AM lemma="dvacetipatrový" src="auto">AANP4----1A----</AM>
-<AM lemma="dvacetipatrový" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="dvacetipatrový" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2303-001-p1s14W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7192,7 +7199,8 @@
 <AM lemma="Hooker_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Hooker_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hooker_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hooker-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2303-001-p1s20W26-Ta">
@@ -8761,7 +8769,8 @@
 <AM lemma="Hooker_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hooker_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hooker_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hooker-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2303-001-p1s24W19-Ta">
@@ -9203,7 +9212,8 @@
 <AM lemma="Hooker_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hooker_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hooker_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hooker-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hooker-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2303-001-p1s26W20-Ta">

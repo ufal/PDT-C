@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml" />
+<schema href="adata_schema.xml"/>
 <references>
-<reffile id="m" name="mdata" href="hs_049.03.m" />
-<reffile id="w" name="wdata" href="hs_049.03.w" />
+<reffile id="m" name="mdata" href="hs_049.03.m"/>
+<reffile id="w" name="wdata" href="hs_049.03.w"/>
 </references>
 </head>
 <trees>

@@ -9946,17 +9946,23 @@
 <w.rf>
 <LM>w#w-wsj1881-001-p1s33W13</LM>
 </w.rf>
-<form>13D</form>
+<form>13</form>
 <tag>
-<AM lemma="13D" src="auto">X@-------------</AM>
-<AM lemma="13D-88" src="manual" selected="1">BNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 13 D</text>
-</LM>
-</comment>
-</m>
+<AM lemma="13" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj1881-001-p1s33W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1881-001-p1s33W13</LM>
+</w.rf>
+<form>D</form>
+<tag>
+<AM lemma="D-3`500" src="auto">C}-------------</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="D-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="d-77" src="auto">F%-------------</AM>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1881-001-p1s33W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

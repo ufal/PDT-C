@@ -1967,7 +1967,7 @@
 </LM>
 <LM id="hs_120.00-SCzechT-m-d1t80-3">
 <a>
-<lex.rf>a#hs_120.00-SCzechA-m-d1t80-3</lex.rf>
+<lex.rf>a#m120-d1t80-3-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

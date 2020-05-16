@@ -103,7 +103,8 @@
 <AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Coke-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coke-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Coke-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s0W9-Ta">
@@ -212,7 +213,8 @@
 <AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Coke-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coke-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Coke-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s1W3-Ta">
@@ -1142,7 +1144,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s4W13-Ta">
@@ -1168,7 +1171,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s4W15-Ta">
@@ -2289,7 +2293,8 @@
 <tag>
 <AM lemma="Pepsi_;R" src="auto">AAXXX----1A----</AM>
 <AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Pepsi-2_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s9W12-Ta">
@@ -2452,7 +2457,8 @@
 <tag>
 <AM lemma="Pepsi_;R" src="auto">AAXXX----1A----</AM>
 <AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Pepsi-2_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pepsi-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s9W25-Ta">

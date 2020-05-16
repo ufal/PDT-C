@@ -5401,33 +5401,55 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Dash</t_lemma>
 <functor>OPER</functor>
-<deepord>23</deepord>
+<deepord>24</deepord>
 <children>
 <LM id="T-wsj0553-001-p1s18a22">
 <a>
 <lex.rf>a#a-wsj0553-001-p1s18W24-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>M1</t_lemma>
+<t_lemma>M</t_lemma>
 <functor>ID</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>22</deepord>
+<children>
+<LM id="T-wsj0553-001-p1s18a31">
+<a>
+<lex.rf>a#m-wsj0553-001-p1s18W24-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>1</t_lemma>
+<functor>RSTR</functor>
+<deepord>23</deepord>
+</LM>
+</children>
 </LM>
 <LM id="T-wsj0553-001-p1s18a23">
 <a>
 <lex.rf>a#a-wsj0553-001-p1s18W26-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>M5</t_lemma>
+<t_lemma>M</t_lemma>
 <functor>ID</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>24</deepord>
+<deepord>25</deepord>
+<children>
+<LM id="T-wsj0553-001-p1s18a32">
+<a>
+<lex.rf>a#m-wsj0553-001-p1s18W26-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>5</t_lemma>
+<functor>RSTR</functor>
+<deepord>26</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -10635,7 +10657,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>nebo</t_lemma>
 <functor>DISJ</functor>
-<deepord>17</deepord>
+<deepord>19</deepord>
 <children>
 <LM id="T-wsj0553-001-p1s39a9">
 <a>
@@ -10730,33 +10752,55 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Dash</t_lemma>
 <functor>OPER</functor>
-<deepord>15</deepord>
+<deepord>16</deepord>
 <children>
 <LM id="T-wsj0553-001-p1s39a18">
 <a>
 <lex.rf>a#a-wsj0553-001-p1s39W16-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>M1</t_lemma>
+<t_lemma>M</t_lemma>
 <functor>ID</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>14</deepord>
+<children>
+<LM id="T-wsj0553-001-p1s39a27">
+<a>
+<lex.rf>a#m-wsj0553-001-p1s39W16-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>1</t_lemma>
+<functor>RSTR</functor>
+<deepord>15</deepord>
+</LM>
+</children>
 </LM>
 <LM id="T-wsj0553-001-p1s39a19">
 <a>
 <lex.rf>a#a-wsj0553-001-p1s39W18-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>M5</t_lemma>
+<t_lemma>M</t_lemma>
 <functor>ID</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>16</deepord>
+<deepord>17</deepord>
+<children>
+<LM id="T-wsj0553-001-p1s39a28">
+<a>
+<lex.rf>a#m-wsj0553-001-p1s39W18-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>5</t_lemma>
+<functor>RSTR</functor>
+<deepord>18</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -10786,7 +10830,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>19</deepord>
+<deepord>21</deepord>
 <children>
 <LM id="T-wsj0553-001-p1s39a23">
 <a>
@@ -10795,7 +10839,7 @@
 <nodetype>atom</nodetype>
 <t_lemma>snad</t_lemma>
 <functor>MOD</functor>
-<deepord>18</deepord>
+<deepord>20</deepord>
 </LM>
 <LM id="T-wsj0553-001-p1s39a22">
 <a>
@@ -10807,7 +10851,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>20</deepord>
+<deepord>22</deepord>
 <children>
 <LM id="T-wsj0553-001-p1s39a24">
 <a>
@@ -10819,7 +10863,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>22</deepord>
+<deepord>24</deepord>
 <children>
 <LM id="T-wsj0553-001-p1s39a25">
 <a>
@@ -10831,7 +10875,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>21</deepord>
+<deepord>23</deepord>
 </LM>
 </children>
 </LM>

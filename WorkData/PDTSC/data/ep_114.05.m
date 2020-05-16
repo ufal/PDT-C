@@ -988,13 +988,9 @@
 <w.rf>
 <LM>w#w-d1t1422-15</LM>
 </w.rf>
-<form>175,20</form>
-<tag lemma="175,20" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>175.20</text>
-</LM>
-</comment>
+<form>175.20</form>
+<tag>
+<AM lemma="175.20" src="auto" recommended="1">C=-------------</AM></tag>
 </m>
 <m id="m114-281-857">
 <w.rf>
@@ -1029,14 +1025,10 @@
 <w.rf>
 <LM>w#w-d1t1424-3</LM>
 </w.rf>
-<form>174,90</form>
-<tag lemma="174,90" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>174.90</text>
-</LM>
-</comment>
-</m>
+<form>174.90</form>
+<tag>
+<AM lemma="174.90" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m114-281-858">
 <w.rf>
 <LM>w#w-281-858</LM>

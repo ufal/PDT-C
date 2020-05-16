@@ -244,16 +244,22 @@
 <w.rf>
 <LM>w#w-wsj2258-001-p1s0W23</LM>
 </w.rf>
-<form>i860</form>
+<form>i</form>
 <tag>
-<AM lemma="i860" src="auto">X@-------------</AM>
-<AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: i 860</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj2258-001-p1s0W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2258-001-p1s0W23</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>860</form>
+<tag lemma="860" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2258-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -302,16 +308,22 @@
 <w.rf>
 <LM>w#w-wsj2258-001-p1s1W3</LM>
 </w.rf>
-<form>i860</form>
+<form>i</form>
 <tag>
-<AM lemma="i860" src="auto">X@-------------</AM>
-<AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: i 860</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj2258-001-p1s1W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2258-001-p1s1W3</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>860</form>
+<tag lemma="860" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2258-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1720,16 +1732,22 @@
 <w.rf>
 <LM>w#w-wsj2258-001-p1s4W29</LM>
 </w.rf>
-<form>i860</form>
+<form>i</form>
 <tag>
-<AM lemma="i860" src="auto">X@-------------</AM>
-<AM lemma="i860" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: i 860</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj2258-001-p1s4W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2258-001-p1s4W29</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>860</form>
+<tag lemma="860" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2258-001-p1s4W30-Ta">
 <src.rf>tagger-a</src.rf>

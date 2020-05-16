@@ -108,7 +108,7 @@
 <children>
 <LM id="T-wsj1224-001-p1s0a18">
 <a>
-<lex.rf>a#a-wsj1224-001-p1s0W6-Ta</lex.rf>
+<lex.rf>a#m-wsj1224-001-p1s0W6-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -439,7 +439,7 @@
 <children>
 <LM id="T-wsj1224-001-p1s1a6">
 <a>
-<lex.rf>a#a-wsj1224-001-p1s1W3-Ta</lex.rf>
+<lex.rf>a#m-wsj1224-001-p1s1W3-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

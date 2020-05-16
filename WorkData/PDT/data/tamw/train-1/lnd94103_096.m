@@ -3348,7 +3348,8 @@
 <form>pop</form>
 <tag>
 <AM lemma="pop-1_^(círk.)" src="orig">NNMS1-----A----</AM>
-<AM lemma="pop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="pop-77" src="manual">F%-------------</AM>
+<AM lemma="pop-4" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-096-p1s17w16">
@@ -3359,7 +3360,8 @@
 <form>music</form>
 <tag>
 <AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
-<AM lemma="music-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="music-77" src="manual">F%-------------</AM>
+<AM lemma="music-1_^(př._pop_music)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-096-p1s17w17">
@@ -3424,7 +3426,11 @@
 <LM>w#w-lnd94103-096-p1s17w24</LM>
 </w.rf>
 <form>MARS</form>
-<tag lemma="mars" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="mars" src="orig">NNIS1-----A----</AM>
+<AM lemma="MARS-77" src="manual">F%-------------</AM>
+<AM lemma="Mars-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-096-p1s17w25">
 <src.rf>manual</src.rf>

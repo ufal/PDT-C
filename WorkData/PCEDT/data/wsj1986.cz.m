@@ -5913,6 +5913,7 @@
 <tag>
 <AM lemma="Salomon-77_,t" src="auto">F%-------------</AM>
 <AM lemma="Salomon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Salomon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1986-001-p1s20W4-Ta">
@@ -6144,6 +6145,7 @@
 <tag>
 <AM lemma="Salomon-77_,t" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="Salomon_;S" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Salomon-2_;m" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1986-001-p1s20W26-Ta">
@@ -7131,7 +7133,11 @@
 <LM>w#w-wsj1986-001-p1s22W48</LM>
 </w.rf>
 <form>Lehman</form>
-<tag lemma="Lehman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lehman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lehman-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Lehman-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1986-001-p1s22W49-Ta">
 <src.rf>tagger-a</src.rf>

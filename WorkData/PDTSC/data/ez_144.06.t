@@ -226,6 +226,10 @@
 <LM id="ez_144.06-SCzechT-ez_144-183-roota3">
 <a>
 <lex.rf>a#ez_144.06-SCzechA-m-183-185</lex.rf>
+<aux.rf>
+<LM>a#m144-183-185-sw1-ia</LM>
+<LM>a#m144-183-185-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Period3</t_lemma>
@@ -1289,12 +1293,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ez_144.06-SCzechT-m-d1t1325-2</target-node.rf>
@@ -1302,6 +1300,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2387,12 +2391,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ez_144.06-SCzechT-m-d1t1335-7</target-node.rf>
@@ -2400,6 +2398,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>

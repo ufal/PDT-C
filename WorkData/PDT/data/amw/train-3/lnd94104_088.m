@@ -985,7 +985,8 @@
 <form>hard</form>
 <tag>
 <AM lemma="hard_,t_^(tvrdý,_pevný)" src="auto">AAXXX----1A----</AM>
-<AM lemma="hard-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="hard-77" src="manual">F%-------------</AM>
+<AM lemma="hard-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-088-p1s8w5">
@@ -1084,7 +1085,9 @@
 <form>Sinner</form>
 <tag>
 <AM lemma="Sinner_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Sinner_;K" src="manual" selected="1">NNMPX-----A----</AM>
+<AM lemma="Sinner_;K" src="manual">NNMPX-----A----</AM>
+<AM lemma="Sinner_;Km" src="manual">NNMXX-----A----</AM>
+<AM lemma="Sinner_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-088-p1s8w17">

@@ -3948,14 +3948,24 @@
 <w.rf>
 <LM>w#w-1049-1052</LM>
 </w.rf>
-<form>...</form>
-<tag lemma="..." src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>3v1: . . .</text>
-</LM>
-</comment>
-</m>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-1049-1052-sw1">
+<w.rf>
+<LM>w#w-1049-1052</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+</m><m id="m061-1049-1052-sw2">
+<w.rf>
+<LM>w#w-1049-1052</LM>
+</w.rf>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<form_change>spell</form_change></m>
 </s>
 <s id="m061-1051">
 <m id="m061-d1t3761-1">

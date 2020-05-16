@@ -641,7 +641,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s1W14-Ta">
@@ -667,7 +668,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s1W16-Ta">
@@ -1045,7 +1047,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s3W12-Ta">
@@ -1071,7 +1074,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s3W14-Ta">
@@ -1377,7 +1381,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s4W12-Ta">
@@ -1403,7 +1408,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s4W14-Ta">
@@ -1624,7 +1630,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s5W10-Ta">
@@ -1650,7 +1657,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s5W12-Ta">
@@ -2590,7 +2598,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s7W25-Ta">
@@ -2623,6 +2632,7 @@
 <AM lemma="cola" src="auto">NNFP4-----A----</AM>
 <AM lemma="cola" src="auto">NNFP5-----A----</AM>
 <AM lemma="cola" src="auto">NNFS2-----A----</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s7W27-Ta">
@@ -2724,7 +2734,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s8W4-Ta">
@@ -2750,7 +2761,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s8W6-Ta">
@@ -3080,7 +3092,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s9W8-Ta">
@@ -3106,7 +3119,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s9W10-Ta">
@@ -3249,7 +3263,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s10W6-Ta">
@@ -3275,7 +3290,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s10W8-Ta">
@@ -3698,7 +3714,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s11W10-Ta">
@@ -3724,7 +3741,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s11W12-Ta">
@@ -4096,7 +4114,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s12W26-Ta">
@@ -4122,7 +4141,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s12W28-Ta">
@@ -4495,7 +4515,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s14W13-Ta">
@@ -4521,7 +4542,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s14W15-Ta">
@@ -4719,7 +4741,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s14W31-Ta">
@@ -4745,7 +4768,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s14W33-Ta">
@@ -5053,7 +5077,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s15W24-Ta">
@@ -5079,7 +5104,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s15W26-Ta">
@@ -5273,7 +5299,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s16W3-Ta">
@@ -5299,7 +5326,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s16W5-Ta">
@@ -5511,7 +5539,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s17W4-Ta">
@@ -5537,7 +5566,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s17W6-Ta">
@@ -5692,7 +5722,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s18W3-Ta">
@@ -5718,7 +5749,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s18W5-Ta">

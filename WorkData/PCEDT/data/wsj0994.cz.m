@@ -1701,6 +1701,7 @@
 <AM lemma="Mirage_;R" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Mirage_;R" src="auto">NNFS2-----A----</AM>
 <AM lemma="Mirage_;R" src="auto">NNFS5-----A----</AM>
+<AM lemma="Mirage_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s8W4-Ta">
@@ -2190,6 +2191,7 @@
 <AM lemma="Las-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="las-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="laso" src="auto">NNNP2-----A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s9W9-Ta">
@@ -2776,7 +2778,8 @@
 <tag>
 <AM lemma="Excalibur_;R_,t_^(film;;meč)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Excalibur_;R_,t_^(film;;meč)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Excalibur_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Excalibur_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Excalibur_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s12W8-Ta">
@@ -4847,7 +4850,8 @@
 <form>Wynn</form>
 <tag>
 <AM lemma="Wynn_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Wynn_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wynn_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Wynn_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s18W5-Ta">
@@ -8153,6 +8157,7 @@
 <AM lemma="McCarranův_;S_^(*2)" src="auto">AUNP4M---------</AM>
 <AM lemma="McCarranův_;S_^(*2)" src="auto">AUNP5M---------</AM>
 <AM lemma="McCarranův_;S_^(*2)" src="auto" recommended="1">AUNS2M---------</AM>
+<AM lemma="McCarranův_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s29W20-Ta">
@@ -9903,7 +9908,8 @@
 <tag>
 <AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Palace-1_;G_;K_^(př._hotel_Palace)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Palace-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Palace-2_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Palace-1_;m_^(př._hotel_Palace)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s35W3-Ta">
@@ -10268,7 +10274,8 @@
 <tag>
 <AM lemma="frontier_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="frontier_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Frontier_,G_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Frontier_,G_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Frontier_,G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s36W11-Ta">
@@ -11152,7 +11159,8 @@
 <form>Drexel</form>
 <tag>
 <AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Drexel-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Drexel-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s38W37-Ta">
@@ -13617,7 +13625,8 @@
 <AM lemma="van-1_,a_^(vánek)" src="auto">NNIS4-----A----</AM>
 <AM lemma="van-77_,t" src="auto">F%-------------</AM>
 <AM lemma="vana" src="auto">NNFP2-----A----</AM>
-<AM lemma="Van-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Van-77" src="manual">F%-------------</AM>
+<AM lemma="Van_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s48W21-Ta">
@@ -16411,7 +16420,8 @@
 <form>Dunes</form>
 <tag>
 <AM lemma="Dunes_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Dunes-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dunes-77" src="manual">F%-------------</AM>
+<AM lemma="Dunes_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s59W5-Ta">
@@ -16430,7 +16440,8 @@
 <form>Aladdin</form>
 <tag>
 <AM lemma="Aladin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Aladdin-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Aladdin-77" src="manual">F%-------------</AM>
+<AM lemma="Aladdin_;Y_,s_^(^DD**Aladin)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s59W7-Ta">
@@ -19048,7 +19059,8 @@
 <form>Tropicana</form>
 <tag>
 <AM lemma="Tropicana" src="auto">X@-------------</AM>
-<AM lemma="Tropicana_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tropicana_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tropicana_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s68W49-Ta">
@@ -20755,8 +20767,8 @@
 <form>Grand</form>
 <tag>
 <AM lemma="Grand-1_;K_,t_^(v_názvech)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Grand-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Grand_;G_;K" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Grand-77" src="auto" recommended="1" selected="1">F%-------------</AM>
+<AM lemma="Grand_;G_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Grand_;G_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="grand" src="auto">NNMS1-----A----</AM>
 <AM lemma="grand-77_,t" src="auto">F%-------------</AM>
@@ -23736,6 +23748,7 @@
 <tag>
 <AM lemma="Caesars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Caesars_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Caesars_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s91W3-Ta">
@@ -24599,7 +24612,8 @@
 <form>MarCor</form>
 <tag>
 <AM lemma="MarCor" src="auto">X@-------------</AM>
-<AM lemma="MarCor_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="MarCor_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="MarCor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s94W3-Ta">
@@ -24668,6 +24682,7 @@
 <AM lemma="Rio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Rio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Rio_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Rio-1_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s94W9-Ta">

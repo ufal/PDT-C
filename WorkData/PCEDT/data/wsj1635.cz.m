@@ -6165,6 +6165,7 @@
 <w.rf>
 <LM>w#w-wsj1635-001-p1s30W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>minimální</form>
 <tag>
 <AM lemma="minimální" src="auto">AAFP1----1A----</AM>
@@ -6193,8 +6194,9 @@
 <AM lemma="minimální" src="auto">AANP5----1A----</AM>
 <AM lemma="minimální" src="auto">AANS1----1A----</AM>
 <AM lemma="minimální" src="auto">AANS4----1A----</AM>
-<AM lemma="minimální" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="minimální" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1635-001-p1s30W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6682,7 +6684,10 @@
 <LM>w#w-wsj1635-001-p1s32W9</LM>
 </w.rf>
 <form>Citibank</form>
-<tag lemma="Citibank_;K" src="auto" recommended="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Citibank_;K" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Citibank_;m" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1635-001-p1s32W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8903,7 +8908,10 @@
 <LM>w#w-wsj1635-001-p1s38W17</LM>
 </w.rf>
 <form>Citibank</form>
-<tag lemma="Citibank_;K" src="auto" recommended="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Citibank_;K" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Citibank_;m" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1635-001-p1s38W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9004,7 +9012,9 @@
 <tag>
 <AM lemma="AAA-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aaa_,x" src="auto">II-------------</AM>
-<AM lemma="AAA-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="AAA-33_^(označení_pomocí_písmen)" src="manual">NNNXX-----A----</AM>
+<AM lemma="AAA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="AAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1635-001-p1s39W5-Ta">

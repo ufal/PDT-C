@@ -109,7 +109,7 @@
 <lex.rf>a#hg-13808_03.03-SCzechA-m-d1t1262-4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>1,6</t_lemma>
+<t_lemma>1.6</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

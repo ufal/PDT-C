@@ -5296,7 +5296,11 @@
 <LM>w#w-lnd92254-003-p13s3w12</LM>
 </w.rf>
 <form>PHARE</form>
-<tag lemma="Phare_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-003-p13s3w13">
 <src.rf>manual</src.rf>

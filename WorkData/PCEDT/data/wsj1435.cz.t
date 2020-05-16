@@ -3299,7 +3299,7 @@
 <children>
 <LM id="T-wsj1435-001-p1s14a8">
 <a>
-<lex.rf>a#a-wsj1435-001-p1s14W6-Ta</lex.rf>
+<lex.rf>a#m-wsj1435-001-p1s14W6-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>librový</t_lemma>

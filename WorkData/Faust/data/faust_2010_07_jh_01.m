@@ -2065,16 +2065,22 @@
 <w.rf>
 <LM>w#w-jh_01-SCzechM-p0033-s1-w22</LM>
 </w.rf>
-<form>18a</form>
+<form>18</form>
+<tag lemma="18" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="jh_01-SCzechM-p0033-s1-w22-sw1">
+<w.rf>
+<LM>w#w-jh_01-SCzechM-p0033-s1-w22</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>a</form>
 <tag>
-<AM lemma="18a">X@-------------</AM>
-<AM lemma="18a" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="a-77_,t" src="auto">F%-------------</AM>
+<AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 18 a</text>
-</LM>
-</comment>
 </m>
 <m id="jh_01-SCzechM-p0033-s1-w23">
 <w.rf>

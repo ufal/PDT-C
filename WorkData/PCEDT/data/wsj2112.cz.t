@@ -8689,7 +8689,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>36</deepord>
+<deepord>37</deepord>
 <children>
 <LM id="T-wsj2112-001-p1s30a51">
 <nodetype>list</nodetype>
@@ -8697,7 +8697,7 @@
 <t_lemma>#Idph</t_lemma>
 <functor>PAT</functor>
 <is_member>1</is_member>
-<deepord>35</deepord>
+<deepord>36</deepord>
 <children>
 <LM id="T-wsj2112-001-p1s30a32">
 <a>
@@ -8719,12 +8719,23 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>5B</t_lemma>
+<t_lemma>5</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
+<children>
+<LM id="T-wsj2112-001-p1s30a54">
+<a>
+<lex.rf>a#m-wsj2112-001-p1s30W30-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>B</t_lemma>
+<functor>RSTR</functor>
+<deepord>31</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -8736,7 +8747,7 @@
 <t_lemma>#Idph</t_lemma>
 <functor>PAT</functor>
 <is_member>1</is_member>
-<deepord>37</deepord>
+<deepord>38</deepord>
 <children>
 <LM id="T-wsj2112-001-p1s30a31">
 <a>
@@ -8748,7 +8759,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>31</deepord>
+<deepord>32</deepord>
 <children>
 <LM id="T-wsj2112-001-p1s30a34">
 <a>
@@ -8763,7 +8774,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>32</deepord>
+<deepord>33</deepord>
 </LM>
 </children>
 </LM>
@@ -8775,7 +8786,7 @@
 <t_lemma>#Idph</t_lemma>
 <functor>PAT</functor>
 <is_member>1</is_member>
-<deepord>38</deepord>
+<deepord>39</deepord>
 <children>
 <LM id="T-wsj2112-001-p1s30a37">
 <a>
@@ -8787,7 +8798,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>33</deepord>
+<deepord>34</deepord>
 <children>
 <LM id="T-wsj2112-001-p1s30a38">
 <a>
@@ -8802,7 +8813,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>34</deepord>
+<deepord>35</deepord>
 </LM>
 </children>
 </LM>
@@ -8819,7 +8830,7 @@
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
-<deepord>39</deepord>
+<deepord>40</deepord>
 <children>
 <LM id="T-wsj2112-001-p1s30a41">
 <a>
@@ -8831,7 +8842,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>41</deepord>
+<deepord>42</deepord>
 <children>
 <LM id="T-wsj2112-001-p1s30a42">
 <a>
@@ -8843,7 +8854,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>40</deepord>
+<deepord>41</deepord>
 </LM>
 </children>
 </LM>
@@ -8861,7 +8872,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>42</deepord>
+<deepord>43</deepord>
 <coref_text>
 <LM>
 <target-node.rf>T-wsj2112-001-p1s19a26</target-node.rf>

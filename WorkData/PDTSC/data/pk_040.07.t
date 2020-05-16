@@ -6053,7 +6053,7 @@
 <lex.rf>a#pk_040.07-SCzechA-m-d1t2037-2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>1,2</t_lemma>
+<t_lemma>1.2</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

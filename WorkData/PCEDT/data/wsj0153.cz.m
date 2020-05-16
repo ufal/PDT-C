@@ -2126,17 +2126,23 @@
 <w.rf>
 <LM>w#w-wsj0153-001-p1s6W12</LM>
 </w.rf>
-<form>1B</form>
+<form>1</form>
 <tag>
-<AM lemma="1B" src="auto">X@-------------</AM>
-<AM lemma="1B" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 1 B</text>
-</LM>
-</comment>
-</m>
+<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj0153-001-p1s6W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0153-001-p1s6W12</LM>
+</w.rf>
+<form>B</form>
+<tag>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0153-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4366,17 +4372,23 @@
 <w.rf>
 <LM>w#w-wsj0153-001-p1s14W27</LM>
 </w.rf>
-<form>1B</form>
+<form>1</form>
 <tag>
-<AM lemma="1B" src="auto">X@-------------</AM>
-<AM lemma="1B" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 1 B</text>
-</LM>
-</comment>
-</m>
+<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj0153-001-p1s14W27-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0153-001-p1s14W27</LM>
+</w.rf>
+<form>B</form>
+<tag>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0153-001-p1s14W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

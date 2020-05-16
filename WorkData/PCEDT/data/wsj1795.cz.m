@@ -4599,16 +4599,20 @@
 <w.rf>
 <LM>w#w-wsj1795-001-p1s15W11</LM>
 </w.rf>
-<form>4krát</form>
+<form>4</form>
+<tag lemma="4" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1795-001-p1s15W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1795-001-p1s15W11</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>krát</form>
 <tag>
-<AM lemma="4krát" src="auto">X@-------------</AM>
-<AM lemma="4krát`4" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="krát-2" src="auto" selected="1">Db-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 4 krát</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1795-001-p1s15W12-Ta">
 <src.rf>tagger-a</src.rf>

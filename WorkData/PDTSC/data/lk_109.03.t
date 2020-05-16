@@ -2440,7 +2440,7 @@
 <lex.rf>a#lk_109.03-SCzechA-m-602-603</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>1,5</t_lemma>
+<t_lemma>1.5</t_lemma>
 <functor>RSTR</functor>
 <is_member>1</is_member>
 <gram>

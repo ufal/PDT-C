@@ -89,17 +89,40 @@
 <w.rf>
 <LM>w#w-wsj1696-001-p1s0W7</LM>
 </w.rf>
-<form>17miliardový</form>
+<form>17</form>
 <tag>
-<AM lemma="17miliardový" src="auto">X@-------------</AM>
-<AM lemma="17miliardový" src="manual" selected="1">AAIS4----1A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 17 miliardový</text>
-</LM>
-</comment>
-</m>
+<AM lemma="17" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj1696-001-p1s0W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1696-001-p1s0W7</LM>
+</w.rf>
+<form>miliardový</form>
+<tag>
+<AM lemma="miliardový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAIS1----1A----</AM>
+<AM lemma="miliardový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="miliardový" src="auto">AAIS5----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAMS1----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMS5----1A----</AM>
+<AM lemma="miliardový" src="auto">AANP1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANP4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANP5----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANS1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANS4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANS5----1A---6</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1696-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

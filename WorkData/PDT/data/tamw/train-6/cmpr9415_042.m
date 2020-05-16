@@ -3598,7 +3598,8 @@
 <tag>
 <AM lemma="know_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
 <AM lemma="know-77" src="manual">F%-------------</AM>
-<AM lemma="know_^(know_how)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="know_^(know_how)" src="manual">A2--------A----</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p18s1w22">
@@ -3618,7 +3619,8 @@
 <tag>
 <AM lemma="how_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
 <AM lemma="how-77" src="manual">F%-------------</AM>
-<AM lemma="how_^(know_how)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="how_^(know_how)" src="manual">NNNXX-----A----</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p18s1w24">

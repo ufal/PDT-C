@@ -1932,9 +1932,12 @@
 <LM id="T-wsj0682-001-p1s6a6">
 <a>
 <lex.rf>a#a-wsj0682-001-p1s6W5-Ta</lex.rf>
+<aux.rf>
+<LM>a#m-wsj0682-001-p1s6W5-Ta-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>CF6</t_lemma>
+<t_lemma>CF_6</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
@@ -4133,9 +4136,12 @@
 <LM id="T-wsj0682-001-p1s13a8">
 <a>
 <lex.rf>a#a-wsj0682-001-p1s13W6-Ta</lex.rf>
+<aux.rf>
+<LM>a#m-wsj0682-001-p1s13W6-Ta-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>CF6</t_lemma>
+<t_lemma>CF_6</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>adj.quant.def</sempos>

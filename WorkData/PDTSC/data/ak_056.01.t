@@ -4453,7 +4453,7 @@
 <lex.rf>a#ak_056.01-SCzechA-m-d1t520-4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>3,6</t_lemma>
+<t_lemma>3.6</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

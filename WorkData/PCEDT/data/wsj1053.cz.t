@@ -1020,7 +1020,7 @@
 <children>
 <LM id="T-wsj1053-001-p1s3a18">
 <a>
-<lex.rf>a#a-wsj1053-001-p1s3W17-Ta</lex.rf>
+<lex.rf>a#m-wsj1053-001-p1s3W17-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>členný</t_lemma>

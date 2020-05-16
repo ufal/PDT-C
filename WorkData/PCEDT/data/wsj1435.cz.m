@@ -3624,17 +3624,33 @@
 <w.rf>
 <LM>w#w-wsj1435-001-p1s14W6</LM>
 </w.rf>
-<form>15librové</form>
+<form>15</form>
 <tag>
-<AM lemma="15librové" src="auto">X@-------------</AM>
-<AM lemma="15librové" src="manual" selected="1">AANS1----1A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 15 librové</text>
-</LM>
-</comment>
-</m>
+<AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj1435-001-p1s14W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1435-001-p1s14W6</LM>
+</w.rf>
+<form>librové</form>
+<tag>
+<AM lemma="librový" src="auto">AAFP1----1A----</AM>
+<AM lemma="librový" src="auto">AAFP4----1A----</AM>
+<AM lemma="librový" src="auto">AAFP5----1A----</AM>
+<AM lemma="librový" src="auto">AAFS2----1A----</AM>
+<AM lemma="librový" src="auto">AAFS3----1A----</AM>
+<AM lemma="librový" src="auto">AAFS6----1A----</AM>
+<AM lemma="librový" src="auto">AAIP1----1A----</AM>
+<AM lemma="librový" src="auto">AAIP4----1A----</AM>
+<AM lemma="librový" src="auto">AAIP5----1A----</AM>
+<AM lemma="librový" src="auto">AAMP4----1A----</AM>
+<AM lemma="librový" src="auto">AANP1----1A---6</AM>
+<AM lemma="librový" src="auto">AANP4----1A---6</AM>
+<AM lemma="librový" src="auto">AANP5----1A---6</AM>
+<AM lemma="librový" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="librový" src="auto">AANS4----1A----</AM>
+<AM lemma="librový" src="auto">AANS5----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1435-001-p1s14W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

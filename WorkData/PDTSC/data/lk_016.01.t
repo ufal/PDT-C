@@ -5358,7 +5358,7 @@
 <lex.rf>a#lk_016.01-SCzechA-m-d1t748-5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>4,5</t_lemma>
+<t_lemma>4.5</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -7407,12 +7407,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>lk_016.01-SCzechT-m-d1t881-1</target-node.rf>
@@ -7420,6 +7414,12 @@
 <src>anna</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>

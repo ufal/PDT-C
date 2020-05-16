@@ -9553,7 +9553,7 @@
 </LM>
 <LM id="T-wsj1099-001-p1s33a4">
 <a>
-<lex.rf>a#a-wsj1099-001-p1s33W2-Ta</lex.rf>
+<lex.rf>a#m-wsj1099-001-p1s33W2-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

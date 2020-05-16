@@ -8633,17 +8633,23 @@
 <w.rf>
 <LM>w#w-wsj2112-001-p1s30W30</LM>
 </w.rf>
-<form>5B</form>
+<form>5</form>
 <tag>
-<AM lemma="5B" src="auto">X@-------------</AM>
-<AM lemma="5B" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 5 B</text>
-</LM>
-</comment>
-</m>
+<AM lemma="5" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj2112-001-p1s30W30-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2112-001-p1s30W30</LM>
+</w.rf>
+<form>B</form>
+<tag>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj2112-001-p1s30W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1532,7 +1532,10 @@
 <LM>w#w-wsj0578-001-p1s3W41</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s3W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1946,7 +1949,10 @@
 <LM>w#w-wsj0578-001-p1s5W24</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2163,7 +2169,10 @@
 <LM>w#w-wsj0578-001-p1s6W1</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3215,7 +3224,10 @@
 <LM>w#w-wsj0578-001-p1s9W16</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s9W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4224,7 +4236,10 @@
 <LM>w#w-wsj0578-001-p1s12W40</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s12W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4347,7 +4362,10 @@
 <LM>w#w-wsj0578-001-p1s13W10</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s13W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5703,7 +5721,10 @@
 <LM>w#w-wsj0578-001-p1s17W36</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s17W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5830,7 +5851,10 @@
 <LM>w#w-wsj0578-001-p1s18W2</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s18W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6643,7 +6667,11 @@
 <LM>w#w-wsj0578-001-p1s21W23</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;S" src="manual">NNIS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s21W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7441,7 +7469,10 @@
 <LM>w#w-wsj0578-001-p1s22W28</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s22W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7714,7 +7745,10 @@
 <LM>w#w-wsj0578-001-p1s23W13</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s23W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8127,7 +8161,10 @@
 <LM>w#w-wsj0578-001-p1s24W16</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s24W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8629,7 +8666,11 @@
 <LM>w#w-wsj0578-001-p1s25W1</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s25W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9280,7 +9321,10 @@
 <LM>w#w-wsj0578-001-p1s27W11</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s27W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9437,7 +9481,10 @@
 <LM>w#w-wsj0578-001-p1s27W25</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s27W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9822,7 +9869,10 @@
 <LM>w#w-wsj0578-001-p1s28W22</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s28W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11949,7 +11999,10 @@
 <LM>w#w-wsj0578-001-p1s36W5</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s36W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12644,7 +12697,10 @@
 <LM>w#w-wsj0578-001-p1s39W11</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s39W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13094,7 +13150,10 @@
 <LM>w#w-wsj0578-001-p1s40W21</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s40W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13728,7 +13787,10 @@
 <LM>w#w-wsj0578-001-p1s41W15</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s41W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14393,7 +14455,10 @@
 <LM>w#w-wsj0578-001-p1s43W14</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s43W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15082,7 +15147,10 @@
 <LM>w#w-wsj0578-001-p1s45W31</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s45W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15811,7 +15879,10 @@
 <LM>w#w-wsj0578-001-p1s47W23</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s47W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16382,7 +16453,10 @@
 <LM>w#w-wsj0578-001-p1s48W51</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s48W52-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16762,7 +16836,10 @@
 <LM>w#w-wsj0578-001-p1s49W28</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s49W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17468,7 +17545,10 @@
 <LM>w#w-wsj0578-001-p1s52W10</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s52W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17873,7 +17953,10 @@
 <LM>w#w-wsj0578-001-p1s53W17</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s53W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18051,7 +18134,10 @@
 <LM>w#w-wsj0578-001-p1s54W7</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s54W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18423,7 +18509,10 @@
 <LM>w#w-wsj0578-001-p1s55W5</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s55W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18738,7 +18827,10 @@
 <LM>w#w-wsj0578-001-p1s56W6</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s56W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19048,7 +19140,10 @@
 <LM>w#w-wsj0578-001-p1s57W12</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s57W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19427,7 +19522,10 @@
 <LM>w#w-wsj0578-001-p1s59W17</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s59W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19631,7 +19729,10 @@
 <LM>w#w-wsj0578-001-p1s60W7</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s60W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19794,7 +19895,10 @@
 <LM>w#w-wsj0578-001-p1s60W23</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0578-001-p1s60W24-Ta">
 <src.rf>tagger-a</src.rf>

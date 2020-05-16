@@ -308,6 +308,7 @@
 <AM lemma="Las-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="las-77" src="auto">F%-------------</AM>
 <AM lemma="laso" src="auto">NNNP2-----A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0981-001-p1s0W29-Ta">
@@ -1194,7 +1195,8 @@
 <form>Tropicana</form>
 <tag>
 <AM lemma="Tropicana" src="auto">X@-------------</AM>
-<AM lemma="Tropicana_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tropicana_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tropicana-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0981-001-p1s2W6-Ta">
@@ -1205,7 +1207,8 @@
 <form>country</form>
 <tag>
 <AM lemma="country" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="country-2" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="country-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="country-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0981-001-p1s2W7-Ta">
@@ -3261,6 +3264,7 @@
 <AM lemma="Las-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="las-77" src="auto">F%-------------</AM>
 <AM lemma="laso" src="auto">NNNP2-----A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0981-001-p1s7W18-Ta">

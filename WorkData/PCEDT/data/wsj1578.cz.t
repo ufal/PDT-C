@@ -6714,7 +6714,7 @@
 <children>
 <LM id="T-wsj1578-001-p1s29a4">
 <a>
-<lex.rf>a#a-wsj1578-001-p1s29W3-Ta</lex.rf>
+<lex.rf>a#m-wsj1578-001-p1s29W3-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akciový</t_lemma>

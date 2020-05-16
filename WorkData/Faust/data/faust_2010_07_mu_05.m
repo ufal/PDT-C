@@ -1180,7 +1180,8 @@
 <tag>
 <AM lemma="fosílie" src="auto">NNFP2-----A----</AM>
 <AM lemma="fosílie" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="fosílie_,h _^(^GC**fosilie)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="fosílie_,h _^(^GC**fosilie)" src="manual">NNFS7-----A----</AM>
+<AM lemma="fosílie_,h_^(^GC**fosilie)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0454-s1-w14">

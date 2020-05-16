@@ -5252,7 +5252,8 @@
 <AM lemma="micra_;R_^(vozidlo)" src="auto">NNFS5-----A----</AM>
 <AM lemma="mikro" src="auto">NNNXX-----A----</AM>
 <AM lemma="mikro_,h" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="mikro-2_,h" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="mikro-2_,h" src="manual">AAXXX----1A----</AM>
+<AM lemma="mikro-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2111-001-p1s20W21-Ta">

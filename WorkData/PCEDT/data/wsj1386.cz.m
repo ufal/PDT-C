@@ -3365,16 +3365,20 @@
 <w.rf>
 <LM>w#w-wsj1386-001-p1s8W32</LM>
 </w.rf>
-<form>35mm</form>
+<form>35</form>
+<tag lemma="35" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1386-001-p1s8W32-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1386-001-p1s8W32</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>mm</form>
 <tag>
-<AM lemma="35mm" src="auto">X@-------------</AM>
-<AM lemma="35mm" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="milimetr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="milimetrový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 35 mm</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1386-001-p1s8W33-Ta">
 <src.rf>tagger-a</src.rf>

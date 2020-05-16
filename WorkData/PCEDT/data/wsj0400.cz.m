@@ -4651,6 +4651,7 @@
 <w.rf>
 <LM>w#w-wsj0400-001-p1s14W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Třicetileté</form>
 <tag>
 <AM lemma="třicetiletý" src="auto">AAFP1----1A----</AM>
@@ -4668,8 +4669,9 @@
 <AM lemma="třicetiletý" src="auto">AANP5----1A---6</AM>
 <AM lemma="třicetiletý" src="auto">AANS1----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AANS4----1A----</AM>
-<AM lemma="třicetiletý" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="třicetiletý" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0400-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6544,6 +6546,7 @@
 <w.rf>
 <LM>w#w-wsj0400-001-p1s21W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>třicetiletých</form>
 <tag>
 <AM lemma="třicetiletý" src="auto" recommended="1">AAFP2----1A----</AM>
@@ -6553,8 +6556,9 @@
 <AM lemma="třicetiletý" src="auto">AAMP2----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AAMP6----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AANP2----1A----</AM>
-<AM lemma="třicetiletý" src="auto">AANP6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="třicetiletý" src="auto">AANP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0400-001-p1s21W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8121,6 +8125,7 @@
 <w.rf>
 <LM>w#w-wsj0400-001-p1s27W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>třicetileté</form>
 <tag>
 <AM lemma="třicetiletý" src="auto">AAFP1----1A----</AM>
@@ -8138,8 +8143,9 @@
 <AM lemma="třicetiletý" src="auto">AANP5----1A---6</AM>
 <AM lemma="třicetiletý" src="auto">AANS1----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AANS4----1A----</AM>
-<AM lemma="třicetiletý" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="třicetiletý" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0400-001-p1s27W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8486,6 +8492,7 @@
 <w.rf>
 <LM>w#w-wsj0400-001-p1s28W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>desetileté</form>
 <tag>
 <AM lemma="desetiletý" src="auto">AAFP1----1A----</AM>
@@ -8503,8 +8510,9 @@
 <AM lemma="desetiletý" src="auto">AANP5----1A---6</AM>
 <AM lemma="desetiletý" src="auto">AANS1----1A----</AM>
 <AM lemma="desetiletý" src="auto">AANS4----1A----</AM>
-<AM lemma="desetiletý" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="desetiletý" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0400-001-p1s28W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -20571,7 +20579,8 @@
 <form>Remic</form>
 <tag>
 <AM lemma="Remic" src="auto">X@-------------</AM>
-<AM lemma="Remic-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Remic-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Remic_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0400-001-p1s69W16-Ta">

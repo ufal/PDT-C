@@ -1018,6 +1018,10 @@
 <LM id="hs_130.01-SCzechT-hs_130-d1e204-x2-roota1">
 <a>
 <lex.rf>a#hs_130.01-SCzechA-m-d-m-d1e204-x2-punct-punct</lex.rf>
+<aux.rf>
+<LM>a#m130-d-m-d1e204-x2-punct-punct-sw1-ia</LM>
+<LM>a#m130-d-m-d1e204-x2-punct-punct-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Period3</t_lemma>

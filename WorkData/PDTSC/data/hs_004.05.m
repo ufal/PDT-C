@@ -1378,16 +1378,19 @@
 <w.rf>
 <LM>w#w-d1t2042-9</LM>
 </w.rf>
-<form>24krát</form>
+<form>24</form>
+<tag lemma="24" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m004-d1t2042-9-sw1">
+<w.rf>
+<LM>w#w-d1t2042-9</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>krát</form>
 <tag>
-<AM lemma="24krát" src="auto">X@-------------</AM>
-<AM lemma="24krát" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="krát-2" src="auto" selected="1">Db-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 24 krát</text>
-</LM>
-</comment>
 </m>
 <m id="m004-d-id119519-punct">
 <w.rf>
@@ -3650,13 +3653,40 @@
 <w.rf>
 <LM>w#w-d1t2198-9</LM>
 </w.rf>
-<form>V3Sek</form>
-<tag lemma="V3Ska" src="auto" recommended="1">NNFP2-----A----</tag>
-<comment>
-<LM type="Other">
-<text>3v1: V 3 Sek</text>
-</LM>
-</comment>
+<form>V</form>
+<tag>
+<AM lemma="V-3`5" src="auto">C}-------------</AM>
+<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="V-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="volt" src="auto">NNIXX-----A---8</AM>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
+<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m004-d1t2198-9-sw1">
+<w.rf>
+<LM>w#w-d1t2198-9</LM>
+</w.rf>
+<form>3</form>
+<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m004-d1t2198-9-sw2">
+<w.rf>
+<LM>w#w-d1t2198-9</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>Sek</form>
+<tag>
+<AM lemma="sek" src="auto">NNIS1-----A----</AM>
+<AM lemma="sek" src="auto">NNIS4-----A----</AM>
+<AM lemma="sek_:B_^(sekunda)" src="auto" recommended="1">Xx-------------</AM>
+<AM lemma="seknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="ska-2" src="manual" selected="1">SNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m004-d1e2152-x3-552">
 <w.rf>

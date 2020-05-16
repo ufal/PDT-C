@@ -1098,7 +1098,7 @@
 <lex.rf>a#ak_062.08-SCzechA-m-d1t1772-1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>23.</t_lemma>
+<t_lemma>23</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>

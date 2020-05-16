@@ -4505,22 +4505,27 @@
 <AM lemma="Cortina_;G" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="Cortina_;S" src="auto">NNMS7-----A----</AM>
 <AM lemma="Cortina_;R_,x_^(značka_automobilu_Ford_Mondeo)" src="auto">NNFS7-----A----</AM>
+<AM lemma="Cortina-2_;G" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m136-d1e2128-x2-456">
 <w.rf>
 <LM>w#w-d1e2128-x2-456</LM>
 </w.rf>
-<form>d'</form>
+<form>d</form>
 <tag>
-<AM lemma="d'" src="auto">X@-------------</AM>
-<AM lemma="d'-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="d-77" src="auto" selected="1">F%-------------</AM>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: d '</text>
-</LM>
-</comment>
+</m>
+<m id="m136-d1e2128-x2-456-sw1">
+<w.rf>
+<LM>w#w-d1e2128-x2-456</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>'</form>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m136-d1t2152-2">
 <w.rf>

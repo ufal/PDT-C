@@ -3723,16 +3723,20 @@
 <w.rf>
 <LM>w#w-wsj0277-001-p1s11W21</LM>
 </w.rf>
-<form>53rd</form>
+<form>53</form>
+<tag lemma="53" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0277-001-p1s11W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0277-001-p1s11W21</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>rd</form>
 <tag>
-<AM lemma="53rd" src="auto">X@-------------</AM>
-<AM lemma="53rd-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="rd" src="auto">X@-------------</AM>
+<AM lemma="rd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 53 rd</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0277-001-p1s11W22-Ta">
 <src.rf>tagger-a</src.rf>

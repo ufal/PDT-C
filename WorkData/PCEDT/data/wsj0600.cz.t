@@ -296,7 +296,7 @@
 <children>
 <LM id="T-wsj0600-001-p1s1a3">
 <a>
-<lex.rf>a#a-wsj0600-001-p1s1W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0600-001-p1s1W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

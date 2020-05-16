@@ -4508,7 +4508,8 @@
 <tag>
 <AM lemma="Science-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="science-77" src="auto">F%-------------</AM>
-<AM lemma="Science_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Science_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Science_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0446-001-p1s16W25-Ta">
@@ -14293,6 +14294,7 @@
 <w.rf>
 <LM>w#w-wsj0446-001-p1s44W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>jež</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFP1----------</AM>
@@ -14304,8 +14306,9 @@
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP4----------</AM>
 <AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
 <AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
-<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM>
+</tag>
+</m>
 <m id="m-wsj0446-001-p1s44W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

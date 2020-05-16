@@ -9041,7 +9041,7 @@
 <lex.rf>a#ep_114.02-SCzechA-m-d1t781-3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>1,20</t_lemma>
+<t_lemma>1.20</t_lemma>
 <functor>RSTR</functor>
 <is_member>1</is_member>
 <gram>

@@ -1067,20 +1067,17 @@
 <LM id="T-wsj0170-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj0170-001-p1s3W5-Ta</lex.rf>
+<aux.rf>
+<LM>a#m-wsj0170-001-p1s3W5-Ta-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>11</t_lemma>
+<t_lemma>11_ti</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>správně bez "ti"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

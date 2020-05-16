@@ -524,7 +524,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
-<deepord>11</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="T-wsj2085-001-p1s2a9">
 <a>
@@ -543,9 +543,27 @@
 <lex.rf>a#a-wsj2085-001-p1s2W10-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Pacific's</t_lemma>
+<t_lemma>Pacific</t_lemma>
 <functor>FPHR</functor>
 <deepord>10</deepord>
+</LM>
+<LM id="T-wsj2085-001-p1s2a16">
+<a>
+<lex.rf>a#m-wsj2085-001-p1s2W10-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>'</t_lemma>
+<functor>FPHR</functor>
+<deepord>11</deepord>
+</LM>
+<LM id="T-wsj2085-001-p1s2a17">
+<a>
+<lex.rf>a#m-wsj2085-001-p1s2W10-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>s</t_lemma>
+<functor>FPHR</functor>
+<deepord>12</deepord>
 </LM>
 <LM id="T-wsj2085-001-p1s2a12">
 <a>
@@ -554,7 +572,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>National</t_lemma>
 <functor>FPHR</functor>
-<deepord>12</deepord>
+<deepord>14</deepord>
 </LM>
 <LM id="T-wsj2085-001-p1s2a13">
 <a>
@@ -563,7 +581,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Southwest</t_lemma>
 <functor>FPHR</functor>
-<deepord>13</deepord>
+<deepord>15</deepord>
 </LM>
 <LM id="T-wsj2085-001-p1s2a14">
 <a>
@@ -572,7 +590,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Capital</t_lemma>
 <functor>FPHR</functor>
-<deepord>14</deepord>
+<deepord>16</deepord>
 </LM>
 <LM id="T-wsj2085-001-p1s2a10">
 <a>
@@ -581,7 +599,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Group</t_lemma>
 <functor>FPHR</functor>
-<deepord>15</deepord>
+<deepord>17</deepord>
 </LM>
 </children>
 </LM>

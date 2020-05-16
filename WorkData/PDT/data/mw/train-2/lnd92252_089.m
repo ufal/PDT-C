@@ -27,7 +27,10 @@
 <LM>w#w-lnd92252-089-p1s1w2</LM>
 </w.rf>
 <form>Rush</form>
-<tag lemma="Rush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rush_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92252-089-p2s1">
@@ -53,7 +56,10 @@
 <LM>w#w-lnd92252-089-p2s1w3</LM>
 </w.rf>
 <form>Rush</form>
-<tag lemma="Rush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rush_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s1w4">
 <src.rf>manual</src.rf>
@@ -177,7 +183,8 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual">NNXXX-----A----</AM>
+<AM lemma="MS-1_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-089-p2s2w8">
@@ -287,7 +294,10 @@
 <LM>w#w-lnd92252-089-p2s3w1</LM>
 </w.rf>
 <form>Rushovi</form>
-<tag lemma="Rush_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="Rush_;S" src="orig">NNMS3-----A---1</AM>
+<AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s3w2">
 <src.rf>manual</src.rf>
@@ -808,7 +818,10 @@
 <LM>w#w-lnd92252-089-p2s5w26</LM>
 </w.rf>
 <form>Rush</form>
-<tag lemma="Rush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rush_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s5w27">
 <src.rf>manual</src.rf>
@@ -893,7 +906,10 @@
 <LM>w#w-lnd92252-089-p2s6w6</LM>
 </w.rf>
 <form>Rush</form>
-<tag lemma="Rush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rush_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s6w7">
 <src.rf>manual</src.rf>

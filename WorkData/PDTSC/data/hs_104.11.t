@@ -3770,7 +3770,7 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>18</deepord>
+<deepord>19</deepord>
 <children>
 <LM id="hs_104.11-SCzechT-m-d1t1265-29">
 <a>
@@ -3866,7 +3866,7 @@
 <lex.rf>a#hs_104.11-SCzechA-m-d1t1267-4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>A4</t_lemma>
+<t_lemma>A</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -3875,6 +3875,17 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
+<children>
+<LM id="hs_104.11-SCzechT-hs_104-124-roota4">
+<a>
+<lex.rf>a#m104-d1t1267-4-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>4</t_lemma>
+<functor>RSTR</functor>
+<deepord>18</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -3894,7 +3905,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>19</deepord>
+<deepord>20</deepord>
 </LM>
 <LM id="hs_104.11-SCzechT-m-d1t1267-12">
 <a>
@@ -3909,7 +3920,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>22</deepord>
+<deepord>23</deepord>
 <children>
 <LM id="hs_104.11-SCzechT-m-d1t1267-10">
 <a>
@@ -3925,7 +3936,7 @@
 <indeftype>indef1</indeftype>
 <person>3</person>
 </gram>
-<deepord>20</deepord>
+<deepord>21</deepord>
 </LM>
 <LM id="hs_104.11-SCzechT-m-d1t1267-11">
 <a>
@@ -3939,7 +3950,7 @@
 <gender>inan</gender>
 <number>sg</number>
 </gram>
-<deepord>21</deepord>
+<deepord>22</deepord>
 </LM>
 </children>
 </LM>

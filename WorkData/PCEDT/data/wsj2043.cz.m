@@ -2910,7 +2910,8 @@
 <AM lemma="Fiorini_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Fiorini_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Fiorini_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Fiorini-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Fiorini-2_;S" src="manual">NNFXX-----A----</AM>
+<AM lemma="Fiorini_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2043-001-p1s10W20-Ta">

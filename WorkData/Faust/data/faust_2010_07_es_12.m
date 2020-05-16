@@ -1336,7 +1336,8 @@
 <AM lemma="PROXY">X@-------------</AM>
 <AM lemma="PROXY-77" src="manual">F%-------------</AM>
 <AM lemma="proxy" src="manual">NNXXX-----A----</AM>
-<AM lemma="proxy" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="proxy" src="manual">AAXXX----1A----</AM>
+<AM lemma="proxy-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1222-s1-w9">

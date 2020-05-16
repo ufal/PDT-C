@@ -14088,17 +14088,33 @@
 <w.rf>
 <LM>w#w-wsj0633-001-p1s54W2</LM>
 </w.rf>
-<form>10tisícové</form>
+<form>10</form>
 <tag>
-<AM lemma="10tisícové" src="auto">X@-------------</AM>
-<AM lemma="10tisícové" src="manual" selected="1">AANS4----1A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 10 tisícové</text>
-</LM>
-</comment>
-</m>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj0633-001-p1s54W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0633-001-p1s54W2</LM>
+</w.rf>
+<form>tisícové</form>
+<tag>
+<AM lemma="tisícový" src="auto">AAFP1----1A----</AM>
+<AM lemma="tisícový" src="auto">AAFP4----1A----</AM>
+<AM lemma="tisícový" src="auto">AAFP5----1A----</AM>
+<AM lemma="tisícový" src="auto">AAFS2----1A----</AM>
+<AM lemma="tisícový" src="auto">AAFS3----1A----</AM>
+<AM lemma="tisícový" src="auto">AAFS6----1A----</AM>
+<AM lemma="tisícový" src="auto">AAIP1----1A----</AM>
+<AM lemma="tisícový" src="auto">AAIP4----1A----</AM>
+<AM lemma="tisícový" src="auto">AAIP5----1A----</AM>
+<AM lemma="tisícový" src="auto">AAMP4----1A----</AM>
+<AM lemma="tisícový" src="auto">AANP1----1A---6</AM>
+<AM lemma="tisícový" src="auto">AANP4----1A---6</AM>
+<AM lemma="tisícový" src="auto">AANP5----1A---6</AM>
+<AM lemma="tisícový" src="auto">AANS1----1A----</AM>
+<AM lemma="tisícový" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="tisícový" src="auto">AANS5----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0633-001-p1s54W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -18761,17 +18777,40 @@
 <w.rf>
 <LM>w#w-wsj0633-001-p1s74W17</LM>
 </w.rf>
-<form>36stránkový</form>
+<form>36</form>
 <tag>
-<AM lemma="36stránkový" src="auto">X@-------------</AM>
-<AM lemma="36stránkový" src="manual" selected="1">AAIS4----1A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 36 stránkový</text>
-</LM>
-</comment>
-</m>
+<AM lemma="36" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj0633-001-p1s74W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0633-001-p1s74W17</LM>
+</w.rf>
+<form>stránkový</form>
+<tag>
+<AM lemma="stránkový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAIS1----1A----</AM>
+<AM lemma="stránkový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="stránkový" src="auto">AAIS5----1A----</AM>
+<AM lemma="stránkový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAMS1----1A----</AM>
+<AM lemma="stránkový" src="auto">AAMS5----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANP5----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANS1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANS4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANS5----1A---6</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0633-001-p1s74W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

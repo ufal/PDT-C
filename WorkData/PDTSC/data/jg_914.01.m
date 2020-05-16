@@ -2385,17 +2385,18 @@
 <w.rf>
 <LM>w#w-d1t500-9</LM>
 </w.rf>
-<form>99krát</form>
+<form>99</form>
 <tag>
-<AM lemma="99krát" src="auto">X@-------------</AM>
-<AM lemma="99krát`99" src="manual" selected="1">Cv-------------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 99 krát</text>
-</LM>
-</comment>
-</m>
+<AM lemma="99" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m914-d1t500-9-sw1">
+<w.rf>
+<LM>w#w-d1t500-9</LM>
+</w.rf>
+<form>krát</form>
+<tag>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto">J*-------------</AM>
+<AM lemma="krát-2" src="auto" recommended="1">Db-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m914-d1t500-10">
 <w.rf>
 <LM>w#w-d1t500-10</LM>

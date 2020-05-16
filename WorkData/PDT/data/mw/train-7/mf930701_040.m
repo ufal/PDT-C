@@ -430,7 +430,10 @@
 <LM>w#w-mf930701-040-p2s3w9</LM>
 </w.rf>
 <form>Agharta</form>
-<tag lemma="Agharta_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Agharta_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="Agharta_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-040-p2s3w10">
 <src.rf>manual</src.rf>
@@ -440,7 +443,8 @@
 <form>jazz</form>
 <tag>
 <AM lemma="jazz" src="orig">NNIS1-----A----</AM>
-<AM lemma="jazz-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="jazz-77" src="manual">F%-------------</AM>
+<AM lemma="jazz-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s3w11">

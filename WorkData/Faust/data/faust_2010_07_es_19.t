@@ -9171,9 +9171,12 @@
 <LM id="faust_2010_07_es_19-SCzechT-p2080-s1-w17">
 <a>
 <lex.rf>a#faust_2010_07_es_19-SCzechA-p2080-s1-w17</lex.rf>
+<aux.rf>
+<LM>a#es_19-SCzechM-p2080-s1-w17-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>TS03</t_lemma>
+<t_lemma>TS_03</t_lemma>
 <functor>PAR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

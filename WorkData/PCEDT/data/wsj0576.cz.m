@@ -17260,7 +17260,8 @@
 <AM lemma="lanko" src="auto">NNNP4-----A----</AM>
 <AM lemma="lanko" src="auto">NNNP5-----A----</AM>
 <AM lemma="lanko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Lanka-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Lanka-77" src="manual">F%-------------</AM>
+<AM lemma="Lanka_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0576-001-p1s53W3-Ta">

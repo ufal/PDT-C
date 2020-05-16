@@ -293,7 +293,8 @@
 <tag>
 <AM lemma="Pepsi_;R" src="auto">AAXXX----1A----</AM>
 <AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Pepsi-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pepsi-77" src="manual">F%-------------</AM>
+<AM lemma="Pepsi-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1167-001-p1s0W24-Ta">
@@ -319,7 +320,8 @@
 <AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual">F%-------------</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1167-001-p1s0W26-Ta">
@@ -829,7 +831,8 @@
 <AM lemma="Pepsi_;R" src="auto">AAXXX----1A----</AM>
 <AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="Pepsi-2_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Pepsi-2_;K_;R" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Pepsi-2_;K_;R" src="manual">NNFXX-----A----</AM>
+<AM lemma="Pepsi-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1167-001-p1s3W10-Ta">

@@ -1459,7 +1459,8 @@
 <form>proxy</form>
 <tag>
 <AM lemma="proxy">X@-------------</AM>
-<AM lemma="proxy" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="proxy" src="manual">NNNXX-----A----</AM>
+<AM lemma="proxy-1" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_12-SCzechM-p1222-s1-w8">

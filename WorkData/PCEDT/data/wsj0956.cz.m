@@ -6167,17 +6167,21 @@
 <w.rf>
 <LM>w#w-wsj0956-001-p1s20W16</LM>
 </w.rf>
-<form>Q45</form>
+<form>Q</form>
 <tag>
-<AM lemma="Q45" src="auto">X@-------------</AM>
-<AM lemma="Q45" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: Q 45</text>
-</LM>
-</comment>
-</m>
+<AM lemma="Q-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Q-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="q-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="q-88_:B" src="auto">NNXXX-----A----</AM></tag>
+</m><m id="m-wsj0956-001-p1s20W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0956-001-p1s20W16</LM>
+</w.rf>
+<form>45</form>
+<tag>
+<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0956-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

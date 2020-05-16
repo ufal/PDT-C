@@ -13984,7 +13984,10 @@
 <LM>w#w-lnd92255-083-p1s2Gw19</LM>
 </w.rf>
 <form>Ešerami</form>
-<tag lemma="Ešery_;G" src="orig" selected="1">NNFP7-----A----</tag>
+<tag>
+<AM lemma="Ešery_;G" src="orig">NNFP7-----A----</AM>
+<AM lemma="Ešera_;G" src="manual" selected="1">NNFP7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-083-p1s2Gw20">
 <src.rf>manual</src.rf>
@@ -15849,8 +15852,9 @@
 </w.rf>
 <form>Ešer</form>
 <tag>
-<AM lemma="Ešery_;G" src="orig" selected="1">NNFP2-----A----</AM>
+<AM lemma="Ešery_;G" src="orig">NNFP2-----A----</AM>
 <AM lemma="Ešer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ešera_;G" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-083-p3s3Bw4">

@@ -283,7 +283,8 @@
 <form>minimal</form>
 <tag>
 <AM lemma="minimal_;u_,t_^(pouze_ve_spojení_minimal_art)" src="auto">AAXXX----1A----</AM>
-<AM lemma="minimal-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="minimal-77" src="manual">F%-------------</AM>
+<AM lemma="minimal" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-041-p2s3w12">

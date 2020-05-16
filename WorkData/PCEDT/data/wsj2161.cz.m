@@ -5576,20 +5576,22 @@
 <w.rf>
 <LM>w#w-wsj2161-001-p1s19W4</LM>
 </w.rf>
-<form>35letá</form>
+<form>35</form>
 <tag>
-<AM lemma="35letý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="35letý" src="auto">AAFS5----1A----</AM>
-<AM lemma="35letý" src="auto">AANP1----1A----</AM>
-<AM lemma="35letý" src="auto">AANP4----1A----</AM>
-<AM lemma="35letý" src="auto">AANP5----1A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 35 letá</text>
-</LM>
-</comment>
-</m>
+<AM lemma="35" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj2161-001-p1s19W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2161-001-p1s19W4</LM>
+</w.rf>
+<form>letá</form>
+<tag>
+<AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="letý" src="auto">AAFS5----1A----</AM>
+<AM lemma="letý" src="auto">AANP1----1A----</AM>
+<AM lemma="letý" src="auto">AANP4----1A----</AM>
+<AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj2161-001-p1s19W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

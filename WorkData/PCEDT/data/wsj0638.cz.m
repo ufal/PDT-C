@@ -3624,16 +3624,33 @@
 <w.rf>
 <LM>w#w-wsj0638-001-p1s8W12</LM>
 </w.rf>
-<form>14librové</form>
+<form>14</form>
+<tag lemma="14" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0638-001-p1s8W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0638-001-p1s8W12</LM>
+</w.rf>
+<form>librové</form>
 <tag>
-<AM lemma="14librové" src="auto">X@-------------</AM>
-<AM lemma="14librový" src="manual" selected="1">AAIP4----1A----</AM>
+<AM lemma="librový" src="auto">AAFP1----1A----</AM>
+<AM lemma="librový" src="auto">AAFP4----1A----</AM>
+<AM lemma="librový" src="auto">AAFP5----1A----</AM>
+<AM lemma="librový" src="auto">AAFS2----1A----</AM>
+<AM lemma="librový" src="auto">AAFS3----1A----</AM>
+<AM lemma="librový" src="auto">AAFS6----1A----</AM>
+<AM lemma="librový" src="auto">AAIP1----1A----</AM>
+<AM lemma="librový" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="librový" src="auto">AAIP5----1A----</AM>
+<AM lemma="librový" src="auto">AAMP4----1A----</AM>
+<AM lemma="librový" src="auto">AANP1----1A---6</AM>
+<AM lemma="librový" src="auto">AANP4----1A---6</AM>
+<AM lemma="librový" src="auto">AANP5----1A---6</AM>
+<AM lemma="librový" src="auto">AANS1----1A----</AM>
+<AM lemma="librový" src="auto">AANS4----1A----</AM>
+<AM lemma="librový" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 14 librové</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0638-001-p1s8W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3674,16 +3691,27 @@
 <w.rf>
 <LM>w#w-wsj0638-001-p1s8W15</LM>
 </w.rf>
-<form>20megabytovým</form>
+<form>20</form>
+<tag lemma="20" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0638-001-p1s8W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0638-001-p1s8W15</LM>
+</w.rf>
+<form>megabytovým</form>
 <tag>
-<AM lemma="20megabytovým" src="auto">X@-------------</AM>
-<AM lemma="20megabytový" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AAFP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIS6----1A---7</AM>
+<AM lemma="megabytový" src="auto" selected="1">AAIS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMS6----1A---7</AM>
+<AM lemma="megabytový" src="auto">AAMS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AANP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AANS6----1A---7</AM>
+<AM lemma="megabytový" src="auto" recommended="1">AANS7----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 20 megabytovým</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0638-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3704,16 +3732,28 @@
 <w.rf>
 <LM>w#w-wsj0638-001-p1s8W17</LM>
 </w.rf>
-<form>40megabytovým</form>
+<form>40</form>
+<tag lemma="40" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0638-001-p1s8W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0638-001-p1s8W17</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>megabytovým</form>
 <tag>
-<AM lemma="40megabytovým" src="auto">X@-------------</AM>
-<AM lemma="40megabytový" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AAFP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIS6----1A---7</AM>
+<AM lemma="megabytový" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMS6----1A---7</AM>
+<AM lemma="megabytový" src="auto">AAMS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AANP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AANS6----1A---7</AM>
+<AM lemma="megabytový" src="auto">AANS7----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 40 megabytovým</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0638-001-p1s8W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4566,16 +4606,41 @@
 <w.rf>
 <LM>w#w-wsj0638-001-p1s11W15</LM>
 </w.rf>
-<form>20megabytový</form>
+<form>20</form>
+<tag lemma="20" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0638-001-p1s11W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0638-001-p1s11W15</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>megabytový</form>
 <tag>
-<AM lemma="20megabytový" src="auto">X@-------------</AM>
-<AM lemma="20megabytový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="megabytový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAIS1----1A----</AM>
+<AM lemma="megabytový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIS5----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAMS1----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMS5----1A----</AM>
+<AM lemma="megabytový" src="auto">AANP1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANP4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANP5----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANS1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANS4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 20 megabytový</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0638-001-p1s11W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5774,16 +5839,27 @@
 <w.rf>
 <LM>w#w-wsj0638-001-p1s15W16</LM>
 </w.rf>
-<form>20megabytovým</form>
+<form>20</form>
+<tag lemma="20" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0638-001-p1s15W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0638-001-p1s15W16</LM>
+</w.rf>
+<form>megabytovým</form>
 <tag>
-<AM lemma="20megabytovým" src="auto">X@-------------</AM>
-<AM lemma="20megabytový" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AAFP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIS6----1A---7</AM>
+<AM lemma="megabytový" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMS6----1A---7</AM>
+<AM lemma="megabytový" src="auto">AAMS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AANP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AANS6----1A---7</AM>
+<AM lemma="megabytový" src="auto">AANS7----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 20 megabytovým</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0638-001-p1s15W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5863,16 +5939,41 @@
 <w.rf>
 <LM>w#w-wsj0638-001-p1s15W23</LM>
 </w.rf>
-<form>40megabytový</form>
+<form>40</form>
+<tag lemma="40" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0638-001-p1s15W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0638-001-p1s15W23</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>megabytový</form>
 <tag>
-<AM lemma="40megabytový" src="auto">X@-------------</AM>
-<AM lemma="40megabytový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="megabytový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="megabytový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="megabytový" src="auto" selected="1">AAIS4----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIS5----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="megabytový" src="auto">AAMS1----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMS5----1A----</AM>
+<AM lemma="megabytový" src="auto">AANP1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANP4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANP5----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANS1----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANS4----1A---6</AM>
+<AM lemma="megabytový" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 40 megabytový</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0638-001-p1s15W24-Ta">
 <src.rf>tagger-a</src.rf>

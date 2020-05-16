@@ -2665,9 +2665,13 @@
 <LM id="faust_2010_07_mu_04-SCzechT-p0335-s1-w11">
 <a>
 <lex.rf>a#faust_2010_07_mu_04-SCzechA-p0335-s1-w11</lex.rf>
+<aux.rf>
+<LM>a#mu_04-SCzechM-p0335-s1-w11-sw1-ia</LM>
+<LM>a#mu_04-SCzechM-p0335-s1-w11-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>0x00000000</t_lemma>
+<t_lemma>0_x_00000000</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.quant.def</sempos>

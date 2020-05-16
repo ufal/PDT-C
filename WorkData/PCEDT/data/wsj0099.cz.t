@@ -651,6 +651,15 @@
 </gram>
 <deepord>22</deepord>
 </LM>
+<LM id="T-wsj0099-001-p1s1a27">
+<a>
+<lex.rf>a#m-wsj0099-001-p1s1W23-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>U</t_lemma>
+<functor>FPHR</functor>
+<deepord>23</deepord>
+</LM>
 </children>
 </LM>
 </children>

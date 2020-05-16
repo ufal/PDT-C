@@ -11,7 +11,8 @@
 <LM id="T-wsj1785-001-p1s0">
 <atree.rf>a#a-wsj1785-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1785-001-p1s0a1">
+<children>
+<LM id="T-wsj1785-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1785-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -151,7 +152,9 @@
 <LM id="T-wsj1785-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1785-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1785-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1785-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w732f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -172,9 +175,11 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1785-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1785-001-p1s0a11">
@@ -188,7 +193,9 @@
 <children>
 <LM id="T-wsj1785-001-p1s0a51">
 <a>
-<aux.rf>a#a-wsj1785-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1785-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -223,7 +230,9 @@
 <LM id="T-wsj1785-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1785-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1785-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1785-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
@@ -233,10 +242,13 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1785-001-p1s0a14">
+<children>
+<LM id="T-wsj1785-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1785-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1785-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1785-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -295,6 +307,7 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -314,7 +327,9 @@
 <LM id="T-wsj1785-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1785-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1785-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1785-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letadlo</t_lemma>
@@ -384,9 +399,18 @@
 <lex.rf>a#a-wsj1785-001-p1s0W33-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>340B</t_lemma>
+<t_lemma>340</t_lemma>
 <functor>FPHR</functor>
 <deepord>32</deepord>
+</LM>
+<LM id="T-wsj1785-001-p1s0a53">
+<a>
+<lex.rf>a#m-wsj1785-001-p1s0W33-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>B</t_lemma>
+<functor>FPHR</functor>
+<deepord>33</deepord>
 </LM>
 </children>
 </LM>
@@ -400,12 +424,14 @@
 <t_lemma>#Bracket</t_lemma>
 <functor>APPS</functor>
 <is_parenthesis>1</is_parenthesis>
-<deepord>37</deepord>
+<deepord>38</deepord>
 <children>
 <LM id="T-wsj1785-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj1785-001-p1s0W36-Ta</lex.rf>
-<aux.rf>a#a-wsj1785-001-p1s0W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1785-001-p1s0W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -414,7 +440,7 @@
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
-<deepord>34</deepord>
+<deepord>35</deepord>
 <children>
 <LM id="T-wsj1785-001-p1s0a35">
 <a>
@@ -426,7 +452,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>33</deepord>
+<deepord>34</deepord>
 </LM>
 <LM id="T-wsj1785-001-p1s0a38">
 <a>
@@ -438,8 +464,9 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>36</deepord>
-<children id="T-wsj1785-001-p1s0a39">
+<deepord>37</deepord>
+<children>
+<LM id="T-wsj1785-001-p1s0a39">
 <a>
 <lex.rf>a#a-wsj1785-001-p1s0W38-Ta</lex.rf>
 </a>
@@ -449,7 +476,8 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>35</deepord>
+<deepord>36</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -457,7 +485,9 @@
 <LM id="T-wsj1785-001-p1s0a43">
 <a>
 <lex.rf>a#a-wsj1785-001-p1s0W43-Ta</lex.rf>
-<aux.rf>a#a-wsj1785-001-p1s0W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1785-001-p1s0W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -467,7 +497,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>39</deepord>
+<deepord>40</deepord>
 <children>
 <LM id="T-wsj1785-001-p1s0a42">
 <a>
@@ -480,7 +510,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>38</deepord>
+<deepord>39</deepord>
 </LM>
 <LM id="T-wsj1785-001-p1s0a44">
 <a>
@@ -493,7 +523,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>40</deepord>
+<deepord>41</deepord>
 </LM>
 </children>
 </LM>
@@ -504,10 +534,13 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Translation</type>
 <text>##Vymazat: / /</text>
+</LM>
 </annot_comment>
 <eng_sentence>Swedish auto and aerospace concern Saab-Scania AB said it received a 250 million krona ($39 million) order from Swiss Crossair, one of Europe's leading regional air companies, for five Saab 340B turboprop commuter aircraft.</eng_sentence>
 </LM>

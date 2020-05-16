@@ -950,7 +950,7 @@
 <children>
 <LM id="T-wsj0784-001-p1s3a18">
 <a>
-<lex.rf>a#a-wsj0784-001-p1s3W17-Ta</lex.rf>
+<lex.rf>a#m-wsj0784-001-p1s3W17-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>patrový</t_lemma>
@@ -3892,9 +3892,9 @@
 <children>
 <LM id="T-wsj0784-001-p1s12a11">
 <a>
-<lex.rf>a#a-wsj0784-001-p1s12W10-Ta</lex.rf>
+<lex.rf>a#m-wsj0784-001-p1s12W10-Ta-sw1-ia</lex.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>atom</nodetype>
 <t_lemma>akrový</t_lemma>
 <functor>RSTR</functor>
 <gram>
@@ -6046,7 +6046,7 @@
 <children>
 <LM id="T-wsj0784-001-p1s19a30">
 <a>
-<lex.rf>a#a-wsj0784-001-p1s19W30-Ta</lex.rf>
+<lex.rf>a#m-wsj0784-001-p1s19W30-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodinový</t_lemma>
@@ -6105,7 +6105,7 @@
 <children>
 <LM id="T-wsj0784-001-p1s19a33">
 <a>
-<lex.rf>a#a-wsj0784-001-p1s19W35-Ta</lex.rf>
+<lex.rf>a#m-wsj0784-001-p1s19W35-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodinový</t_lemma>

@@ -188,16 +188,20 @@
 <w.rf>
 <LM>w#w-wsj2267-001-p1s1W18</LM>
 </w.rf>
-<form>Dunkin´</form>
+<form>Dunkin</form>
 <tag>
-<AM lemma="Dunkin´" src="auto">X@-------------</AM>
-<AM lemma="Dunkin´-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dunkin" src="auto">X@-------------</AM>
+<AM lemma="Dunkin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: Dunkin '</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj2267-001-p1s1W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2267-001-p1s1W18</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>'</form>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2267-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -833,16 +837,20 @@
 <w.rf>
 <LM>w#w-wsj2267-001-p1s4W11</LM>
 </w.rf>
-<form>Dunkin´</form>
+<form>Dunkin</form>
 <tag>
-<AM lemma="Dunkin´" src="auto">X@-------------</AM>
-<AM lemma="Dunkin´-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dunkin" src="auto">X@-------------</AM>
+<AM lemma="Dunkin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: Dunkin '</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj2267-001-p1s4W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2267-001-p1s4W11</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>'</form>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2267-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1642,16 +1650,20 @@
 <w.rf>
 <LM>w#w-wsj2267-001-p1s6W2</LM>
 </w.rf>
-<form>Dunkin´</form>
+<form>Dunkin</form>
 <tag>
-<AM lemma="Dunkin´" src="auto">X@-------------</AM>
-<AM lemma="Dunkin´-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dunkin" src="auto">X@-------------</AM>
+<AM lemma="Dunkin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: Dunkin '</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj2267-001-p1s6W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2267-001-p1s6W2</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>'</form>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2267-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

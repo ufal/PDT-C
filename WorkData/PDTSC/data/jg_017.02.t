@@ -2434,12 +2434,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>jg_017.02-SCzechT-m-d1t636-18</target-node.rf>
@@ -2447,6 +2441,12 @@
 <src>mark</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="jg_017.02-SCzechT-m-d1t638-10">
 <a>
@@ -4099,7 +4099,7 @@
 <lex.rf>a#jg_017.02-SCzechA-m-d1t721-8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>6,20</t_lemma>
+<t_lemma>6.20</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

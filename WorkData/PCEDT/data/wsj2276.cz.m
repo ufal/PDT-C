@@ -15872,7 +15872,8 @@
 <form>Lehman</form>
 <tag>
 <AM lemma="Lehman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lehman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lehman_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lehman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2276-001-p1s59W9-Ta">
@@ -15881,7 +15882,10 @@
 <LM>w#w-wsj2276-001-p1s59W9</LM>
 </w.rf>
 <form>Hutton</form>
-<tag lemma="Hutton_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hutton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hutton_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2276-001-p1s59W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16178,6 +16182,7 @@
 <AM lemma="Reuters_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Reuters_;K" src="auto">NNIXX-----A----</AM>
 <AM lemma="reuters_;K_,i_^(^DS**Reuters)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Reuters_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2276-001-p1s61W10-Ta">
@@ -16196,7 +16201,8 @@
 <form>Quatron</form>
 <tag>
 <AM lemma="Quatron" src="auto">X@-------------</AM>
-<AM lemma="Quatron_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Quatron_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Quatron_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2276-001-p1s61W12-Ta">
@@ -16221,7 +16227,8 @@
 <form>Telerate</form>
 <tag>
 <AM lemma="Telerate" src="auto">X@-------------</AM>
-<AM lemma="Telerate_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Telerate_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Telerate_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2276-001-p1s61W14-Ta">

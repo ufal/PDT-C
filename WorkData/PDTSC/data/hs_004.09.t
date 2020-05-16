@@ -3550,7 +3550,7 @@
 <children>
 <LM id="hs_004.09-SCzechT-hs_004-2338-roota2">
 <a>
-<lex.rf>a#hs_004.09-SCzechA-m-d1t3740-12</lex.rf>
+<lex.rf>a#m004-d1t3740-12-sw2-ia</lex.rf>
 <aux.rf>
 <LM>a#hs_004.09-SCzechA-m-d1t3740-10</LM>
 </aux.rf>
@@ -3566,6 +3566,9 @@
 <LM id="hs_004.09-SCzechT-hs_004-2338-roota3">
 <a>
 <lex.rf>a#hs_004.09-SCzechA-m-d1t3740-12</lex.rf>
+<aux.rf>
+<LM>a#m004-d1t3740-12-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>dphr</nodetype>
 <t_lemma>ping</t_lemma>

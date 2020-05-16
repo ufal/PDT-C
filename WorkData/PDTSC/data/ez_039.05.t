@@ -5133,12 +5133,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ez_039.05-SCzechT-m-d1t2194-3</target-node.rf>
@@ -5146,6 +5140,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="ez_039.05-SCzechT-m-d1t2205-4x3">
 <nodetype>complex</nodetype>
@@ -5232,6 +5232,10 @@
 <LM id="ez_039.05-SCzechT-ez_039-d1e2206-x2-roota1">
 <a>
 <lex.rf>a#ez_039.05-SCzechA-m-d-m-d1e2206-x2-punct-punct</lex.rf>
+<aux.rf>
+<LM>a#m039-d-m-d1e2206-x2-punct-punct-sw1-ia</LM>
+<LM>a#m039-d-m-d1e2206-x2-punct-punct-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Period3</t_lemma>
@@ -8084,12 +8088,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ez_039.05-SCzechT-m-d1t2380-11</target-node.rf>
@@ -8097,6 +8095,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="ez_039.05-SCzechT-m-d1t2389-6">
 <a>

@@ -3501,7 +3501,7 @@
 <lex.rf>a#ep_114.03-SCzechA-m-d1t924-3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>4,5</t_lemma>
+<t_lemma>4.5</t_lemma>
 <functor>RSTR</functor>
 <is_member>1</is_member>
 <gram>
@@ -8862,7 +8862,7 @@
 <lex.rf>a#ep_114.03-SCzechA-m-d1t1090-7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>2,5</t_lemma>
+<t_lemma>2.5</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>

@@ -8884,12 +8884,23 @@
 <lex.rf>a#a-wsj0560-001-p1s27W21-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>AP600</t_lemma>
+<t_lemma>AP</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
+<children>
+<LM id="T-wsj0560-001-p1s27a31">
+<a>
+<lex.rf>a#m-wsj0560-001-p1s27W21-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>600</t_lemma>
+<functor>RSTR</functor>
+<deepord>19</deepord>
+</LM>
+</children>
 </LM>
 <LM id="T-wsj0560-001-p1s27a25">
 <a>
@@ -8905,7 +8916,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>21</deepord>
+<deepord>22</deepord>
 <children>
 <LM id="T-wsj0560-001-p1s27a26">
 <a>
@@ -8920,7 +8931,7 @@
 <gram>
 <sempos>n.pron.indef</sempos>
 </gram>
-<deepord>19</deepord>
+<deepord>20</deepord>
 </LM>
 <LM id="T-wsj0560-001-p1s27a24">
 <a>
@@ -8932,14 +8943,14 @@
 <gram>
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
-<deepord>20</deepord>
+<deepord>21</deepord>
 </LM>
 <LM id="T-wsj0560-001-p1s27a30">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
 <functor>ACT</functor>
-<deepord>22</deepord>
+<deepord>23</deepord>
 </LM>
 </children>
 </LM>

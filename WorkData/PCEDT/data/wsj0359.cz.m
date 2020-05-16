@@ -699,21 +699,22 @@
 <LM>w#w-wsj0359-001-p1s2W11</LM>
 </w.rf>
 <form>52</form>
-<tag>
-<AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="52" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0359-001-p1s2W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0359-001-p1s2W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>týdenního</form>
 <tag>
 <AM lemma="týdenní" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="týdenní" src="auto">AAMS2----1A----</AM>
 <AM lemma="týdenní" src="auto">AAMS4----1A----</AM>
-<AM lemma="týdenní" src="auto">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="týdenní" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0359-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6593,7 +6594,8 @@
 <form>Wachtel</form>
 <tag>
 <AM lemma="Wachtel" src="auto">X@-------------</AM>
-<AM lemma="Wachtel_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wachtel_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Wachtel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0359-001-p1s26W2-Ta">
@@ -6849,19 +6851,20 @@
 <LM>w#w-wsj0359-001-p1s26W24</LM>
 </w.rf>
 <form>22</form>
-<tag>
-<AM lemma="22" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="22" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0359-001-p1s26W24-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0359-001-p1s26W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>násobek</form>
 <tag>
 <AM lemma="násobek" src="auto">NNIS1-----A----</AM>
-<AM lemma="násobek" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="násobek" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0359-001-p1s26W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7412,19 +7415,20 @@
 <LM>w#w-wsj0359-001-p1s28W14</LM>
 </w.rf>
 <form>14</form>
-<tag>
-<AM lemma="14" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="14" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0359-001-p1s28W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0359-001-p1s28W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>násobek</form>
 <tag>
 <AM lemma="násobek" src="auto">NNIS1-----A----</AM>
-<AM lemma="násobek" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="násobek" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0359-001-p1s28W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8908,14 +8912,14 @@
 <LM>w#w-wsj0359-001-p1s36W5</LM>
 </w.rf>
 <form>12</form>
-<tag>
-<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="12" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0359-001-p1s36W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0359-001-p1s36W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>měsíční</form>
 <tag>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
@@ -8946,8 +8950,9 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
-<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0359-001-p1s36W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

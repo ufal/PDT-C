@@ -4764,7 +4764,7 @@
 <lex.rf>a#faust_2010_07_es_18-SCzechA-p1897-s1-w35</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>RECH3</t_lemma>
+<t_lemma>RECH</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -4773,6 +4773,17 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>30</deepord>
+<children>
+<LM id="faust_2010_07_es_18-SCzechT-p1897-s1-roota9">
+<a>
+<lex.rf>a#es_18-SCzechM-p1897-s1-w35-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>3</t_lemma>
+<functor>RSTR</functor>
+<deepord>31</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -4796,7 +4807,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>31</deepord>
+<deepord>32</deepord>
 <children>
 <LM id="faust_2010_07_es_18-SCzechT-p1897-s1-w38">
 <a>
@@ -4810,7 +4821,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>32</deepord>
+<deepord>33</deepord>
 <children>
 <LM id="faust_2010_07_es_18-SCzechT-p1897-s1-w41">
 <a>
@@ -4828,7 +4839,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>33</deepord>
+<deepord>34</deepord>
 <children>
 <LM id="faust_2010_07_es_18-SCzechT-p1897-s1-w40">
 <a>
@@ -4842,7 +4853,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>34</deepord>
+<deepord>35</deepord>
 </LM>
 </children>
 </LM>

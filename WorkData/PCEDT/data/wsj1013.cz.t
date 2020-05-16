@@ -3159,7 +3159,7 @@
 <children>
 <LM id="T-wsj1013-001-p1s10a8">
 <a>
-<lex.rf>a#a-wsj1013-001-p1s10W6-Ta</lex.rf>
+<lex.rf>a#m-wsj1013-001-p1s10W6-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milionový</t_lemma>

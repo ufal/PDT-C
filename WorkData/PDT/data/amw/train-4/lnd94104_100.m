@@ -3503,7 +3503,10 @@
 <LM>w#w-lnd94104-100-p1s17w15</LM>
 </w.rf>
 <form>Ladu</form>
-<tag lemma="Lada-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFS4-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-100-p1s17w16">
 <src.rf>manual</src.rf>
@@ -3516,7 +3519,8 @@
 <AM lemma="Togliatti_;G_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Togliatti_;G_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Togliatti-2_;K" src="manual">NNNXX-----A----</AM>
-<AM lemma="Togliatti-2_;G_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Togliatti-2_;G_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Togliatti-2_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-100-p1s17w17">

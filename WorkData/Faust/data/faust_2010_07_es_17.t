@@ -287,9 +287,13 @@
 <LM id="faust_2010_07_es_17-SCzechT-p1754-s1-w1">
 <a>
 <lex.rf>a#faust_2010_07_es_17-SCzechA-p1754-s1-w1</lex.rf>
+<aux.rf>
+<LM>a#es_17-SCzechM-p1754-s1-w1-sw1-ia</LM>
+<LM>a#es_17-SCzechM-p1754-s1-w1-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>X1i</t_lemma>
+<t_lemma>X_1_i</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -312,9 +316,13 @@
 <LM id="faust_2010_07_es_17-SCzechT-p1754-s1-w3">
 <a>
 <lex.rf>a#faust_2010_07_es_17-SCzechA-p1754-s1-w3</lex.rf>
+<aux.rf>
+<LM>a#es_17-SCzechM-p1754-s1-w3-sw1-ia</LM>
+<LM>a#es_17-SCzechM-p1754-s1-w3-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>X1j</t_lemma>
+<t_lemma>X_1_j</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>

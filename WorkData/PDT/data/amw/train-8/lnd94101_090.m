@@ -484,7 +484,10 @@
 <LM>w#w-lnd94101-090-p1s2w21</LM>
 </w.rf>
 <form>Pietro</form>
-<tag lemma="Pietro_;Y_,t" src="orig" selected="1">NNMS5-----A----</tag>
+<tag>
+<AM lemma="Pietro_;Y_,t" src="orig">NNMS5-----A----</AM>
+<AM lemma="Pietro_;Y" src="manual" selected="1">NNMS5-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-090-p1s2w22">
 <src.rf>manual</src.rf>
@@ -1313,7 +1316,10 @@
 <LM>w#w-lnd94101-090-p1s9w8</LM>
 </w.rf>
 <form>Silvia</form>
-<tag lemma="Silvio_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Silvio_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Silvio_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-090-p1s9w9">
 <src.rf>manual</src.rf>
@@ -1417,7 +1423,10 @@
 <LM>w#w-lnd94101-090-p1s10w8</LM>
 </w.rf>
 <form>Kamenskij</form>
-<tag lemma="Kamenskij_;S" src="orig" selected="1">NNMS1-----A---1</tag>
+<tag>
+<AM lemma="Kamenskij_;S" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Kamenský_;Y" src="manual" selected="1">NNMS1-----A---2</AM>
+</tag>
 </m>
 <m id="m-lnd94101-090-p1s10w9">
 <src.rf>manual</src.rf>
@@ -1625,9 +1634,10 @@
 </w.rf>
 <form>Dubého</form>
 <tag>
-<AM lemma="Dubé_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Dubé_;S" src="orig">NNMS2-----A----</AM>
 <AM lemma="Dubý_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Dubý_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Dubý_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-090-p1s12w10">
@@ -2190,7 +2200,10 @@
 <LM>w#w-lnd94101-090-p1s15w4</LM>
 </w.rf>
 <form>Tvardovskij</form>
-<tag lemma="Tvardovský_;S" src="orig" selected="1">NNMS1-----A---1</tag>
+<tag>
+<AM lemma="Tvardovský_;S" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Tvardovský_;Y" src="manual" selected="1">NNMS1-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd94101-090-p1s15w5">
 <src.rf>manual</src.rf>

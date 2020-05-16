@@ -4793,7 +4793,8 @@
 <form>Remic</form>
 <tag>
 <AM lemma="Remic" src="auto">X@-------------</AM>
-<AM lemma="Remic-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Remic-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Remic_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1676-001-p1s16W18-Ta">
@@ -5169,7 +5170,8 @@
 <form>Remic</form>
 <tag>
 <AM lemma="Remic" src="auto">X@-------------</AM>
-<AM lemma="Remic-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Remic-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Remic_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1676-001-p1s18W10-Ta">
@@ -6036,7 +6038,8 @@
 <form>Remic</form>
 <tag>
 <AM lemma="Remic" src="auto">X@-------------</AM>
-<AM lemma="Remic-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Remic-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Remic_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1676-001-p1s21W8-Ta">

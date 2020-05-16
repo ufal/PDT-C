@@ -3464,7 +3464,7 @@
 </LM>
 <LM id="T-wsj0443-001-p1s11a10">
 <a>
-<lex.rf>a#a-wsj0443-001-p1s11W8-Ta</lex.rf>
+<lex.rf>a#m-wsj0443-001-p1s11W8-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sekundový</t_lemma>

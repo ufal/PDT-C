@@ -2022,12 +2022,6 @@
 <deepord>19</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>pk_018.00-SCzechT-m-d1t60-9</target-node.rf>
@@ -2035,6 +2029,12 @@
 <src>hana</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2986,7 +2986,7 @@
 <lex.rf>a#pk_018.00-SCzechA-m-d1t109-6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>23.</t_lemma>
+<t_lemma>23</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -4334,12 +4334,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>pk_018.00-SCzechT-m-d1t123-27</target-node.rf>
@@ -4347,6 +4341,12 @@
 <src>hana</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4555,12 +4555,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>pk_018.00-SCzechT-m-d1t131-9</target-node.rf>
@@ -4568,6 +4562,12 @@
 <src>hana</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>

@@ -149,7 +149,10 @@
 <LM>w#w-ln95043-035-p2s1w12</LM>
 </w.rf>
 <form>country</form>
-<tag lemma="country" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="country" src="orig">NNFXX-----A----</AM>
+<AM lemma="country-1" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-035-p2s1w13">
 <src.rf>manual</src.rf>
@@ -887,7 +890,10 @@
 <LM>w#w-ln95043-035-p2s6w8</LM>
 </w.rf>
 <form>Fleret</form>
-<tag lemma="fleret" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="fleret" src="orig">NNIS1-----A----</AM>
+<AM lemma="Fleret_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-035-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1193,7 +1199,10 @@
 <LM>w#w-ln95043-035-p3s1w20</LM>
 </w.rf>
 <form>country</form>
-<tag lemma="country" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="country" src="orig">NNFXX-----A----</AM>
+<AM lemma="country-1" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-035-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1339,7 +1348,10 @@
 <LM>w#w-ln95043-035-p3s2w6</LM>
 </w.rf>
 <form>Kamelot</form>
-<tag lemma="kamelot" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kamelot" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamelot_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-035-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1615,7 +1627,10 @@
 <LM>w#w-ln95043-035-p3s4w12</LM>
 </w.rf>
 <form>Kamelot</form>
-<tag lemma="kamelot" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kamelot" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamelot_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-035-p3s4w13">
 <src.rf>manual</src.rf>

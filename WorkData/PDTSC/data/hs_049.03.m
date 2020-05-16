@@ -1516,14 +1516,10 @@
 <w.rf>
 <LM>w#w-d1t926-15</LM>
 </w.rf>
-<form>18,8</form>
-<tag lemma="18,8" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>18.8</text>
-</LM>
-</comment>
-</m>
+<form>18.8</form>
+<tag>
+<AM lemma="18.8" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m049-d1e891-x4-214">
 <w.rf>
 <LM>w#w-d1e891-x4-214</LM>

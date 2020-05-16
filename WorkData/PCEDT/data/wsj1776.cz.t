@@ -187,7 +187,7 @@
 </LM>
 <LM id="T-wsj1776-001-p1s0a16">
 <a>
-<lex.rf>a#a-wsj1776-001-p1s0W14-Ta</lex.rf>
+<lex.rf>a#m-wsj1776-001-p1s0W14-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>palcový</t_lemma>

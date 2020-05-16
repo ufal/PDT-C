@@ -4024,16 +4024,19 @@
 <w.rf>
 <LM>w#w-es_13-SCzechM-p1387-s1-w4</LM>
 </w.rf>
-<form>2krát</form>
+<form>2</form>
+<tag lemma="2" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="es_13-SCzechM-p1387-s1-w4-sw1">
+<w.rf>
+<LM>w#w-es_13-SCzechM-p1387-s1-w4</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>krát</form>
 <tag>
-<AM lemma="2krát">X@-------------</AM>
-<AM lemma="2krát`2" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="krát-2" src="auto" selected="1">Db-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 2 krát</text>
-</LM>
-</comment>
 </m>
 <m id="es_13-SCzechM-p1387-s1-w5">
 <w.rf>

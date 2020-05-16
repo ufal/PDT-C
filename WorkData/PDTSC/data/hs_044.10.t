@@ -4804,12 +4804,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>hs_044.10-SCzechT-m-d1t3103-2</target-node.rf>
@@ -4817,6 +4811,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="hs_044.10-SCzechT-m-d1t3165-21">
 <a>
@@ -4982,12 +4982,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>hs_044.10-SCzechT-m-d1t3165-23</target-node.rf>
@@ -4995,6 +4989,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="hs_044.10-SCzechT-m-d1t3174-6">
 <a>
@@ -5268,10 +5268,10 @@
 <children>
 <LM id="hs_044.10-SCzechT-m-d1t3190-1">
 <a>
-<lex.rf>a#hs_044.10-SCzechA-m-d1t3190-1</lex.rf>
+<lex.rf>a#m044-d1t3190-1-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>hektarová</t_lemma>
+<t_lemma>hektarový</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -5543,12 +5543,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>hs_044.10-SCzechT-m-d1t3184-4</target-node.rf>
@@ -5556,6 +5550,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="hs_044.10-SCzechT-m-d1t3197-10">
 <a>

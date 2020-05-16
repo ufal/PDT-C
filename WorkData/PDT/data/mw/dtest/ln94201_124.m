@@ -1516,7 +1516,10 @@
 <LM>w#w-ln94201-124-p4s4w7</LM>
 </w.rf>
 <form>belgicko</form>
-<tag lemma="belgický" src="orig" selected="1">A2--------A----</tag>
+<tag>
+<AM lemma="belgický" src="orig">A2--------A----</AM>
+<AM lemma="belgicko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-124-p4s4w8">
 <src.rf>manual</src.rf>

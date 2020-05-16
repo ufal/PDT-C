@@ -3704,12 +3704,30 @@
 <lex.rf>a#a-wsj2124-001-p1s12W31-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Poor's</t_lemma>
+<t_lemma>Poor</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
+<LM id="T-wsj2124-001-p1s12a38">
+<a>
+<lex.rf>a#m-wsj2124-001-p1s12W31-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>'</t_lemma>
+<functor>FPHR</functor>
+<deepord>27</deepord>
+</LM>
+<LM id="T-wsj2124-001-p1s12a39">
+<a>
+<lex.rf>a#m-wsj2124-001-p1s12W31-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>s</t_lemma>
+<functor>FPHR</functor>
+<deepord>28</deepord>
 </LM>
 <LM id="T-wsj2124-001-p1s12a32">
 <a>
@@ -3721,7 +3739,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>27</deepord>
+<deepord>29</deepord>
 </LM>
 </children>
 </LM>

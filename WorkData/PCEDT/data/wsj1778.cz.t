@@ -7866,12 +7866,32 @@
 <lex.rf>a#a-wsj1778-001-p1s61W1-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>GR8FLRED</t_lemma>
+<t_lemma>GR</t_lemma>
 <functor>DENOM</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+<children>
+<LM id="T-wsj1778-001-p1s61a2">
+<a>
+<lex.rf>a#m-wsj1778-001-p1s61W1-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>8</t_lemma>
+<functor>RSTR</functor>
+<deepord>2</deepord>
+</LM>
+<LM id="T-wsj1778-001-p1s61a3">
+<a>
+<lex.rf>a#m-wsj1778-001-p1s61W1-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>FLRED</t_lemma>
+<functor>RSTR</functor>
+<deepord>3</deepord>
+</LM>
+</children>
 </LM>
 </children>
 <eng_sentence>GR8FLRED:</eng_sentence>
@@ -16778,12 +16798,32 @@
 <lex.rf>a#a-wsj1778-001-p1s127W1-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>GR8FLRED</t_lemma>
+<t_lemma>GR</t_lemma>
 <functor>DENOM</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+<children>
+<LM id="T-wsj1778-001-p1s127a2">
+<a>
+<lex.rf>a#m-wsj1778-001-p1s127W1-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>8</t_lemma>
+<functor>RSTR</functor>
+<deepord>2</deepord>
+</LM>
+<LM id="T-wsj1778-001-p1s127a3">
+<a>
+<lex.rf>a#m-wsj1778-001-p1s127W1-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>FLRED</t_lemma>
+<functor>RSTR</functor>
+<deepord>3</deepord>
+</LM>
+</children>
 <coref_text>
 <LM>
 <target-node.rf>T-wsj1778-001-p1s62a12</target-node.rf>

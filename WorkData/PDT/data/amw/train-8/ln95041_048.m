@@ -1723,7 +1723,8 @@
 <tag>
 <AM lemma="Mersey_;K_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Mersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Mersey-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mersey-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mersey_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-048-p3s2w12">
@@ -1740,7 +1741,10 @@
 <LM>w#w-ln95041-048-p3s2w13</LM>
 </w.rf>
 <form>Tesař</form>
-<tag lemma="tesař" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="tesař" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tesař_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-048-p3s2w14">
 <src.rf>manual</src.rf>
@@ -2216,7 +2220,8 @@
 <form>Cranberries</form>
 <tag>
 <AM lemma="Cranberry_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Cranberries-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cranberries-77" src="manual">F%-------------</AM>
+<AM lemma="Cranberries_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-048-p3s4w17">
@@ -2362,7 +2367,10 @@
 <LM>w#w-ln95041-048-p3s6w2</LM>
 </w.rf>
 <form>Tesař</form>
-<tag lemma="tesař" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="tesař" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tesař_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-048-p3s6w3">
 <src.rf>manual</src.rf>
@@ -2410,7 +2418,10 @@
 <LM>w#w-ln95041-048-p3s6w8</LM>
 </w.rf>
 <form>Pepsi</form>
-<tag lemma="Pepsi_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pepsi_;R" src="orig">AAXXX----1A----</AM>
+<AM lemma="Pepsi-3" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-048-p3s6w9">
 <src.rf>manual</src.rf>
@@ -2418,7 +2429,10 @@
 <LM>w#w-ln95041-048-p3s6w9</LM>
 </w.rf>
 <form>Colou</form>
-<tag lemma="Cola_;R" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="Cola_;R" src="orig">NNFS7-----A----</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-048-p3s6w10">
 <src.rf>manual</src.rf>
@@ -2702,7 +2716,10 @@
 <LM>w#w-ln95041-048-p3s8w28</LM>
 </w.rf>
 <form>Tesař</form>
-<tag lemma="tesař" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="tesař" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tesař_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-048-p3s8w29">
 <src.rf>manual</src.rf>
@@ -2830,7 +2847,10 @@
 <LM>w#w-ln95041-048-p4s2w1</LM>
 </w.rf>
 <form>Tesařova</form>
-<tag lemma="tesařův_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag>
+<AM lemma="tesařův_^(*2)" src="orig">AUFS1M---------</AM>
+<AM lemma="Tesařův_;Y_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
+</tag>
 </m>
 <m id="m-ln95041-048-p4s2w2">
 <src.rf>manual</src.rf>
@@ -3496,7 +3516,10 @@
 <LM>w#w-ln95041-048-p5s1w2</LM>
 </w.rf>
 <form>Tesař</form>
-<tag lemma="tesař" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="tesař" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tesař_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-048-p5s1w3">
 <src.rf>manual</src.rf>
@@ -3875,7 +3898,10 @@
 <LM>w#w-ln95041-048-p5s2w2</LM>
 </w.rf>
 <form>Rotwelsch</form>
-<tag lemma="Rotwelsch_;m_,t" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Rotwelsch_;m_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="Rotwelsch_;m" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-048-p5s2w3">
 <src.rf>manual</src.rf>
@@ -3971,7 +3997,10 @@
 <LM>w#w-ln95041-048-p5s2w14</LM>
 </w.rf>
 <form>Tesař</form>
-<tag lemma="tesař" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="tesař" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tesař_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-048-p5s2w15">
 <src.rf>manual</src.rf>

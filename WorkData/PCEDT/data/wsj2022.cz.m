@@ -538,7 +538,8 @@
 <AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual">F%-------------</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2022-001-p1s1W5-Ta">
@@ -565,12 +566,13 @@
 <AM lemma="Cola_;R" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Cola_;R" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cola_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="Cola_;R" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="Cola_;R" src="auto">NNFS2-----A----</AM>
 <AM lemma="Colo_;K" src="auto">NNNP7-----A----</AM>
 <AM lemma="cola" src="auto">NNFP1-----A----</AM>
 <AM lemma="cola" src="auto">NNFP4-----A----</AM>
 <AM lemma="cola" src="auto">NNFP5-----A----</AM>
 <AM lemma="cola" src="auto">NNFS2-----A----</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2022-001-p1s1W7-Ta">

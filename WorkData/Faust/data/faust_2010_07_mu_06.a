@@ -407,51 +407,72 @@
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w27">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w27</m.rf>
 <afun>AuxG</afun>
-<ord>27</ord>
+<ord>30</ord>
 </LM>
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w28">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w28</m.rf>
 <afun>Atr</afun>
-<ord>28</ord>
+<ord>31</ord>
 <children>
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w26">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w26</m.rf>
 <afun>Atr</afun>
 <ord>26</ord>
+<children>
+<LM id="mu_06-SCzechM-p0558-s1-w26-sw1-ia">
+<m.rf>m#mu_06-SCzechM-p0558-s1-w26-sw1</m.rf>
+<afun>ExD</afun>
+<ord>27</ord>
+<children>
+<LM id="mu_06-SCzechM-p0558-s1-w26-sw2-ia">
+<m.rf>m#mu_06-SCzechM-p0558-s1-w26-sw2</m.rf>
+<afun>ExD</afun>
+<ord>28</ord>
+<children>
+<LM id="mu_06-SCzechM-p0558-s1-w26-sw3-ia">
+<m.rf>m#mu_06-SCzechM-p0558-s1-w26-sw3</m.rf>
+<afun>ExD</afun>
+<ord>29</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w29">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w29</m.rf>
 <afun>AuxG</afun>
-<ord>29</ord>
+<ord>32</ord>
 </LM>
 </children>
 </LM>
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w32">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w32</m.rf>
 <afun>Atr</afun>
-<ord>32</ord>
+<ord>35</ord>
 <children>
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w31">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w31</m.rf>
 <afun>Adv</afun>
-<ord>31</ord>
+<ord>34</ord>
 </LM>
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w34">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w34</m.rf>
 <afun>AuxP</afun>
-<ord>34</ord>
+<ord>37</ord>
 <children>
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w33">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w33</m.rf>
 <afun>AuxG</afun>
-<ord>33</ord>
+<ord>36</ord>
 </LM>
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w35">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w35</m.rf>
 <afun>ExD</afun>
-<ord>35</ord>
+<ord>38</ord>
 </LM>
 </children>
 </LM>
@@ -472,7 +493,7 @@
 <LM id="faust_2010_07_mu_06-SCzechA-p0558-s1-w30">
 <m.rf>m#mu_06-SCzechM-p0558-s1-w30</m.rf>
 <afun>Coord</afun>
-<ord>30</ord>
+<ord>33</ord>
 </LM>
 </children>
 </LM>

@@ -4725,14 +4725,10 @@
 <w.rf>
 <LM>w#w-d1t3468-1</LM>
 </w.rf>
-<form>3,97</form>
-<tag lemma="3,97" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>3.97</text>
-</LM>
-</comment>
-</m>
+<form>3.97</form>
+<tag>
+<AM lemma="3.97" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m031-d1e3459-x2-722">
 <w.rf>
 <LM>w#w-d1e3459-x2-722</LM>

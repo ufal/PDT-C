@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml" />
+<schema href="adata_schema.xml"/>
 <references>
-<reffile id="m" name="mdata" href="hs_002.00.m" />
-<reffile id="w" name="wdata" href="hs_002.00.w" />
+<reffile id="m" name="mdata" href="hs_002.00.m"/>
+<reffile id="w" name="wdata" href="hs_002.00.w"/>
 </references>
 </head>
 <trees>
@@ -3577,6 +3577,20 @@
 <m.rf>m#m002-d-id2586048</m.rf>
 <afun>AuxK</afun>
 <ord>5</ord>
+<children>
+<LM id="m002-d-id2586048-sw1-ia">
+<m.rf>m#m002-d-id2586048-sw1</m.rf>
+<afun>ExD</afun>
+<ord>6</ord>
+<children>
+<LM id="m002-d-id2586048-sw2-ia">
+<m.rf>m#m002-d-id2586048-sw2</m.rf>
+<afun>ExD</afun>
+<ord>7</ord>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

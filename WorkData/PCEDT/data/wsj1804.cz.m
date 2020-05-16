@@ -1136,7 +1136,8 @@
 <form>Laphroaig</form>
 <tag>
 <AM lemma="Laphroaig" src="auto">X@-------------</AM>
-<AM lemma="Laphroaig_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Laphroaig_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Laphroaig_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1804-001-p1s3W21-Ta">
@@ -1740,7 +1741,8 @@
 <tag>
 <AM lemma="Beefeater_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="Beefeater_;R" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Beefeater_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Beefeater_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Beefeater_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1804-001-p1s6W6-Ta">
@@ -3254,6 +3256,7 @@
 <tag>
 <AM lemma="Beefeater_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Beefeater_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Beefeater_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1804-001-p1s13W6-Ta">
@@ -9449,7 +9452,8 @@
 <tag>
 <AM lemma="Heineken_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Heineken-2_;R" src="manual">NNIS1-----A----</AM>
-<AM lemma="Heineken-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Heineken-2_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Heineken-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1804-001-p1s38W11-Ta">

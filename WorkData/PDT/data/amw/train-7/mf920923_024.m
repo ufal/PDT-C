@@ -334,7 +334,10 @@
 <LM>w#w-mf920923-024-p2s2w6</LM>
 </w.rf>
 <form>noise</form>
-<tag lemma="noise_,t" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="noise_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="noise" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-024-p2s2w7">
 <src.rf>manual</src.rf>

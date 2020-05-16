@@ -3475,16 +3475,21 @@
 <w.rf>
 <LM>w#w-wsj0286-001-p1s10W48</LM>
 </w.rf>
-<form>300ZX</form>
+<form>300</form>
+<tag lemma="300" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0286-001-p1s10W48-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0286-001-p1s10W48</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>ZX</form>
 <tag>
-<AM lemma="300ZX" src="auto">X@-------------</AM>
-<AM lemma="300ZX" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZX" src="auto">X@-------------</AM>
+<AM lemma="ZX-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ZX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 300 ZX</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0286-001-p1s10W49-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11504,16 +11509,20 @@
 <w.rf>
 <LM>w#w-wsj0286-001-p1s42W15</LM>
 </w.rf>
-<form>240SX</form>
+<form>240</form>
+<tag lemma="240" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0286-001-p1s42W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0286-001-p1s42W15</LM>
+</w.rf>
+<form>SX</form>
 <tag>
-<AM lemma="240SX" src="auto">X@-------------</AM>
-<AM lemma="240SX" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SX" src="auto">X@-------------</AM>
+<AM lemma="SX-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 240 SX</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0286-001-p1s42W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11588,16 +11597,21 @@
 <w.rf>
 <LM>w#w-wsj0286-001-p1s42W22</LM>
 </w.rf>
-<form>300ZX</form>
+<form>300</form>
+<tag lemma="300" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0286-001-p1s42W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0286-001-p1s42W22</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>ZX</form>
 <tag>
-<AM lemma="300ZX" src="auto">X@-------------</AM>
-<AM lemma="300ZX" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZX" src="auto">X@-------------</AM>
+<AM lemma="ZX-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ZX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 300 ZX</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0286-001-p1s42W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11657,16 +11671,21 @@
 <w.rf>
 <LM>w#w-wsj0286-001-p1s43W3</LM>
 </w.rf>
-<form>300ZX</form>
+<form>300</form>
+<tag lemma="300" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0286-001-p1s43W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0286-001-p1s43W3</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>ZX</form>
 <tag>
-<AM lemma="300ZX" src="auto">X@-------------</AM>
-<AM lemma="300ZX" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZX" src="auto">X@-------------</AM>
+<AM lemma="ZX-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ZX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 300 ZX</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0286-001-p1s43W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -21286,16 +21305,22 @@
 <w.rf>
 <LM>w#w-wsj0286-001-p1s77W11</LM>
 </w.rf>
-<form>Q45</form>
+<form>Q</form>
 <tag>
-<AM lemma="Q45" src="auto">X@-------------</AM>
-<AM lemma="Q45" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Q-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Q-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="q-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="q-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: Q 45</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0286-001-p1s77W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0286-001-p1s77W11</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>45</form>
+<tag lemma="45" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0286-001-p1s77W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -21595,16 +21620,20 @@
 <w.rf>
 <LM>w#w-wsj0286-001-p1s78W11</LM>
 </w.rf>
-<form>LS400</form>
+<form>LS</form>
 <tag>
-<AM lemma="LS400" src="auto">X@-------------</AM>
-<AM lemma="LS400" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LS_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="LS" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: LS 400</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0286-001-p1s78W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0286-001-p1s78W11</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>400</form>
+<tag lemma="400" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0286-001-p1s78W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3322,7 +3322,8 @@
 <form>know</form>
 <tag>
 <AM lemma="know_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="know_^(know_how)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="know_^(know_how)" src="manual">NNNXX-----A----</AM>
+<AM lemma="know-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0404-001-p1s8W24-Ta">
@@ -3341,7 +3342,8 @@
 <form>how</form>
 <tag>
 <AM lemma="how_,t_^(know_how)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="how_^(know_how)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="how_^(know_how)" src="manual">NNNXX-----A----</AM>
+<AM lemma="how-1" src="manual" selected="1">SNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0404-001-p1s8W26-Ta">
@@ -4499,10 +4501,10 @@
 <w.rf>
 <LM>w#w-wsj0404-001-p1s13W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společnostech</form>
-<tag>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</tag>
+</m>
 <m id="m-wsj0404-001-p1s13W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

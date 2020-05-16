@@ -3217,7 +3217,7 @@
 <children>
 <LM id="lk-28105_03.03-SCzechT-m-d1t1530-2">
 <a>
-<lex.rf>a#lk-28105_03.03-SCzechA-m-d1t1530-2</lex.rf>
+<lex.rf>a#m953-d1t1530-2-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>procentní</t_lemma>

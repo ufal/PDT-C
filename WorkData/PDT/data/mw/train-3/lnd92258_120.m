@@ -416,7 +416,8 @@
 <form>pop</form>
 <tag>
 <AM lemma="pop-1_^(círk.)" src="orig">NNMS1-----A----</AM>
-<AM lemma="pop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="pop-77" src="manual">F%-------------</AM>
+<AM lemma="pop-4" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-120-p2s4w7">
@@ -427,7 +428,8 @@
 <form>music</form>
 <tag>
 <AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
-<AM lemma="music-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="music-77" src="manual">F%-------------</AM>
+<AM lemma="music-1_^(př._pop_music)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-120-p2s4w8">
@@ -574,7 +576,10 @@
 <LM>w#w-lnd92258-120-p2s5w5</LM>
 </w.rf>
 <form>Foru</form>
-<tag lemma="fórum" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="fórum" src="orig">NNNS6-----A----</AM>
+<AM lemma="forum_,s_^(^DD**fórum)" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-120-p2s5w6">
 <src.rf>manual</src.rf>
@@ -582,7 +587,11 @@
 <LM>w#w-lnd92258-120-p2s5w6</LM>
 </w.rf>
 <form>Nordiku</form>
-<tag lemma="Nordikum_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Nordikum_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nordikum" src="manual">NNNS6-----A----</AM>
+<AM lemma="Nordikum_;m" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-120-p2s5w7">
 <src.rf>manual</src.rf>

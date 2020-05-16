@@ -677,7 +677,10 @@
 <LM>w#w-d1t758-14</LM>
 </w.rf>
 <form>country</form>
-<tag lemma="country" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="country" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="country-2" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m134-d1t758-15">
 <w.rf>

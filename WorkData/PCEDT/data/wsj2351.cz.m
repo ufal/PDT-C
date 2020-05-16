@@ -3724,22 +3724,23 @@
 <LM>w#w-wsj2351-001-p1s12W11</LM>
 </w.rf>
 <form>34</form>
-<tag>
-<AM lemma="34" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="34" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2351-001-p1s12W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2351-001-p1s12W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letá</form>
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="letý" src="auto">AAFS5----1A----</AM>
 <AM lemma="letý" src="auto">AANP1----1A----</AM>
 <AM lemma="letý" src="auto">AANP4----1A----</AM>
-<AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2351-001-p1s12W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10981,7 +10982,11 @@
 <LM>w#w-wsj2351-001-p1s36W8</LM>
 </w.rf>
 <form>talk</form>
-<tag lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="talk-77" src="manual">F%-------------</AM>
+<AM lemma="talk" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2351-001-p1s36W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10989,7 +10994,11 @@
 <LM>w#w-wsj2351-001-p1s36W9</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="show-77" src="manual">F%-------------</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2351-001-p1s36W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11075,7 +11084,8 @@
 <form>Crossfire</form>
 <tag>
 <AM lemma="Crossfire" src="auto">X@-------------</AM>
-<AM lemma="Crossfire_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Crossfire_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Crossfire_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2351-001-p1s36W18-Ta">

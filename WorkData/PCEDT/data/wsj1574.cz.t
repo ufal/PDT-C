@@ -2146,7 +2146,7 @@
 </LM>
 <LM id="T-wsj1574-001-p1s9a22">
 <a>
-<lex.rf>a#a-wsj1574-001-p1s9W20-Ta</lex.rf>
+<lex.rf>a#m-wsj1574-001-p1s9W20-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

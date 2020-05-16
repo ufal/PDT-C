@@ -2879,7 +2879,7 @@
 </LM>
 <LM id="T-wsj1507-001-p1s11a17">
 <a>
-<lex.rf>a#a-wsj1507-001-p1s11W16-Ta</lex.rf>
+<lex.rf>a#m-wsj1507-001-p1s11W16-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>denní</t_lemma>

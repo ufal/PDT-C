@@ -805,9 +805,9 @@
 </gram>
 <deepord>26</deepord>
 <children>
-<LM id="T-wsj0039-001-p1s3a36">
+<LM id="T-wsj0039-001-p1s3a37">
 <a>
-<lex.rf>a#a-wsj0039-001-p1s3W27-Ta</lex.rf>
+<lex.rf>a#m-wsj0039-001-p1s3W27-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>minutový</t_lemma>

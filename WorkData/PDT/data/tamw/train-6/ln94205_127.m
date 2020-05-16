@@ -2147,7 +2147,10 @@
 <LM>w#w-ln94205-127-p3s8w18</LM>
 </w.rf>
 <form>Lada</form>
-<tag lemma="Lada-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p3s8w19">
 <src.rf>manual</src.rf>
@@ -2157,8 +2160,9 @@
 <form>Togliatti</form>
 <tag>
 <AM lemma="Togliatti_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Togliatti_;G_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Togliatti_;G_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Togliatti_;G_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Togliatti-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-127-p3s8w20">

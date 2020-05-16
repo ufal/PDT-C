@@ -799,6 +799,7 @@
 <tag>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Time-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0039-001-p1s3W20-Ta">
@@ -881,37 +882,41 @@
 <w.rf>
 <LM>w#w-wsj0039-001-p1s3W27</LM>
 </w.rf>
-<form>36minutový</form>
+<form>36</form>
+<tag lemma="36" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0039-001-p1s3W27-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0039-001-p1s3W27</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>minutový</form>
 <tag>
-<AM lemma="36minutový" src="auto">AAFP1----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAFP4----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAFP5----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAFS2----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAFS3----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAFS6----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAIP1----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAIP4----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="36minutový" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="36minutový" src="auto" selected="1">AAIS4----1A----</AM>
-<AM lemma="36minutový" src="auto">AAIS5----1A----</AM>
-<AM lemma="36minutový" src="auto">AAMP1----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAMP4----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAMP5----1A---6</AM>
-<AM lemma="36minutový" src="auto">AAMS1----1A----</AM>
-<AM lemma="36minutový" src="auto">AAMS5----1A----</AM>
-<AM lemma="36minutový" src="auto">AANP1----1A---6</AM>
-<AM lemma="36minutový" src="auto">AANP4----1A---6</AM>
-<AM lemma="36minutový" src="auto">AANP5----1A---6</AM>
-<AM lemma="36minutový" src="auto">AANS1----1A---6</AM>
-<AM lemma="36minutový" src="auto">AANS4----1A---6</AM>
-<AM lemma="36minutový" src="auto">AANS5----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="minutový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="minutový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="minutový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="minutový" src="auto">AAIS1----1A----</AM>
+<AM lemma="minutový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="minutový" src="auto">AAIS5----1A----</AM>
+<AM lemma="minutový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="minutový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="minutový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="minutový" src="auto">AAMS1----1A----</AM>
+<AM lemma="minutový" src="auto">AAMS5----1A----</AM>
+<AM lemma="minutový" src="auto">AANP1----1A---6</AM>
+<AM lemma="minutový" src="auto">AANP4----1A---6</AM>
+<AM lemma="minutový" src="auto">AANP5----1A---6</AM>
+<AM lemma="minutový" src="auto">AANS1----1A---6</AM>
+<AM lemma="minutový" src="auto">AANS4----1A---6</AM>
+<AM lemma="minutový" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 36 minutový</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0039-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>

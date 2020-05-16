@@ -1992,7 +1992,8 @@
 <form>Mňága</form>
 <tag>
 <AM lemma="Mňága_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mňága-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Mňága-77" src="manual">F%-------------</AM>
+<AM lemma="Mňága_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-046-p7s2w6">
@@ -2012,7 +2013,8 @@
 <tag>
 <AM lemma="Žďorp_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Žďorp" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Žďorp-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Žďorp-77" src="manual">F%-------------</AM>
+<AM lemma="Žďorp_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-046-p7s2w8">
@@ -2029,7 +2031,10 @@
 <LM>w#w-lnd92252-046-p7s2w9</LM>
 </w.rf>
 <form>Znouzectnost</form>
-<tag lemma="Znouzectnost_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Znouzectnost_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="znouzectnost" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-046-p7s2w10">
 <src.rf>manual</src.rf>
@@ -4127,7 +4132,8 @@
 <form>té</form>
 <tag>
 <AM lemma="ten" src="orig">PDFS2----------</AM>
-<AM lemma="tý_^(např._x-tý)" src="manual" selected="1">AANS1----1A----</AM>
+<AM lemma="tý_^(např._x-tý)" src="manual">AANS1----1A----</AM>
+<AM lemma="tý-2_^(x-tý)" src="manual" selected="1">SANS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-046-p12s4w12">

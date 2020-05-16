@@ -442,7 +442,8 @@
 <form>Turner</form>
 <tag>
 <AM lemma="Turner_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Turner-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Turner-2_;S" src="manual">NNFXX-----A----</AM>
+<AM lemma="Turner-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p2s3w9">

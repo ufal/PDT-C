@@ -1854,19 +1854,23 @@
 <w.rf>
 <LM>w#w-wsj2386-001-p1s8W19</LM>
 </w.rf>
-<form>78letá</form>
+<form>78</form>
+<tag lemma="78" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2386-001-p1s8W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2386-001-p1s8W19</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>letá</form>
 <tag>
-<AM lemma="78letý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="78letý" src="auto">AAFS5----1A----</AM>
-<AM lemma="78letý" src="auto">AANP1----1A----</AM>
-<AM lemma="78letý" src="auto">AANP4----1A----</AM>
-<AM lemma="78letý" src="auto">AANP5----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="letý" src="auto">AAFS5----1A----</AM>
+<AM lemma="letý" src="auto">AANP1----1A----</AM>
+<AM lemma="letý" src="auto">AANP4----1A----</AM>
+<AM lemma="letý" src="auto">AANP5----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 78 letá</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2386-001-p1s8W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5082,19 +5086,23 @@
 <w.rf>
 <LM>w#w-wsj2386-001-p1s20W4</LM>
 </w.rf>
-<form>34letá</form>
+<form>34</form>
+<tag lemma="34" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2386-001-p1s20W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2386-001-p1s20W4</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>letá</form>
 <tag>
-<AM lemma="34letý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="34letý" src="auto">AAFS5----1A----</AM>
-<AM lemma="34letý" src="auto">AANP1----1A----</AM>
-<AM lemma="34letý" src="auto">AANP4----1A----</AM>
-<AM lemma="34letý" src="auto">AANP5----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="letý" src="auto">AAFS5----1A----</AM>
+<AM lemma="letý" src="auto">AANP1----1A----</AM>
+<AM lemma="letý" src="auto">AANP4----1A----</AM>
+<AM lemma="letý" src="auto">AANP5----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 34 letá</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2386-001-p1s20W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11343,16 +11351,20 @@
 <w.rf>
 <LM>w#w-wsj2386-001-p1s48W10</LM>
 </w.rf>
-<form>2000krát</form>
+<form>2000</form>
+<tag lemma="2000" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2386-001-p1s48W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2386-001-p1s48W10</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>krát</form>
 <tag>
-<AM lemma="2000krát" src="auto">X@-------------</AM>
-<AM lemma="2000krát" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto">J*-------------</AM>
+<AM lemma="krát-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 2000 krát</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2386-001-p1s48W11-Ta">
 <src.rf>tagger-a</src.rf>

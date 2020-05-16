@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="aanot_schema.xml" />
 <references>
-<reffile id="m" href="wsj2367.cz.m" name="mdata"/>
-<reffile id="w" href="wsj2367.cz.w" name="wdata"/>
+<reffile id="m" name="mdata" href="wsj2367.cz.m" />
+<reffile id="w" name="wdata" href="wsj2367.cz.w" />
 </references>
 </head>
 <meta>
@@ -2644,6 +2644,11 @@
 <afun>Atr</afun>
 <ord>14</ord>
 </LM>
+<LM id="m-wsj2367-001-p1s20W15-Ta-sw1-ia">
+<m.rf>m#m-wsj2367-001-p1s20W15-Ta-sw1</m.rf>
+<afun>AuxG</afun>
+<ord>16</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2655,12 +2660,12 @@
 <LM id="a-wsj2367-001-p1s20W16-Ta">
 <m.rf>m#m-wsj2367-001-p1s20W16-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>16</ord>
+<ord>17</ord>
 </LM>
 <LM id="a-wsj2367-001-p1s20W17-Ta">
 <m.rf>m#m-wsj2367-001-p1s20W17-Ta</m.rf>
 <afun>AuxG</afun>
-<ord>17</ord>
+<ord>18</ord>
 </LM>
 </children>
 </LM>

@@ -3943,23 +3943,25 @@
 <w.rf>
 <LM>w#w-wsj0443-001-p1s11W8</LM>
 </w.rf>
-<form>30sekundových</form>
+<form>30</form>
 <tag>
-<AM lemma="30sekundový" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="30sekundový" src="auto">AAFP6----1A----</AM>
-<AM lemma="30sekundový" src="auto">AAIP2----1A----</AM>
-<AM lemma="30sekundový" src="auto">AAIP6----1A----</AM>
-<AM lemma="30sekundový" src="auto">AAMP2----1A----</AM>
-<AM lemma="30sekundový" src="auto">AAMP6----1A----</AM>
-<AM lemma="30sekundový" src="auto">AANP2----1A----</AM>
-<AM lemma="30sekundový" src="auto">AANP6----1A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 30 sekundových</text>
-</LM>
-</comment>
-</m>
+<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj0443-001-p1s11W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0443-001-p1s11W8</LM>
+</w.rf>
+<form>sekundových</form>
+<tag>
+<AM lemma="sekundový" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="sekundový" src="auto">AAFP6----1A----</AM>
+<AM lemma="sekundový" src="auto">AAIP2----1A----</AM>
+<AM lemma="sekundový" src="auto">AAIP6----1A----</AM>
+<AM lemma="sekundový" src="auto">AAMP2----1A----</AM>
+<AM lemma="sekundový" src="auto">AAMP6----1A----</AM>
+<AM lemma="sekundový" src="auto">AANP2----1A----</AM>
+<AM lemma="sekundový" src="auto">AANP6----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj0443-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

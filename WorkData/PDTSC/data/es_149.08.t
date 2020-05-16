@@ -852,7 +852,7 @@
 <lex.rf>a#es_149.08-SCzechA-m-d1t1652-8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>34,5</t_lemma>
+<t_lemma>34.5</t_lemma>
 <functor>THL</functor>
 <gram>
 <sempos>n.quant.def</sempos>

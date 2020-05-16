@@ -151,7 +151,10 @@
 <LM>w#w-wsj1140-001-p1s0W13</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1140-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -666,7 +669,10 @@
 <LM>w#w-wsj1140-001-p1s1W23</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1140-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1224,7 +1230,10 @@
 <LM>w#w-wsj1140-001-p1s3W3</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1140-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1419,7 +1428,7 @@
 <form>Geneho</form>
 <tag>
 <AM lemma="Geneho" src="auto">X@-------------</AM>
-<AM lemma=" Gene-1_;Y_^(muž)" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gene-1_;Y_^(muž)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1140-001-p1s4W4-Ta">
@@ -2496,7 +2505,10 @@
 <LM>w#w-wsj1140-001-p1s6W9</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1140-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5883,7 +5895,10 @@
 <LM>w#w-wsj1140-001-p1s15W22</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1140-001-p1s15W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7583,7 +7598,10 @@
 <LM>w#w-wsj1140-001-p1s24W3</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1140-001-p1s24W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8137,7 +8155,10 @@
 <LM>w#w-wsj1140-001-p1s25W9</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1140-001-p1s25W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8514,7 +8535,10 @@
 <LM>w#w-wsj1140-001-p1s25W42</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1140-001-p1s25W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8753,7 +8777,10 @@
 <LM>w#w-wsj1140-001-p1s25W63</LM>
 </w.rf>
 <form>Nasdaq</form>
-<tag lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="NASDAQ-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="Nasdaq_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1140-001-p1s25W64-Ta">
 <src.rf>tagger-a</src.rf>

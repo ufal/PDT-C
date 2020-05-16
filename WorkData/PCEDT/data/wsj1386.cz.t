@@ -3113,11 +3113,14 @@
 <children>
 <LM id="T-wsj1386-001-p1s8a33">
 <a>
-<lex.rf>a#a-wsj1386-001-p1s8W32-Ta</lex.rf>
+<lex.rf>a#m-wsj1386-001-p1s8W32-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>mm</t_lemma>
+<t_lemma>milimetrový</t_lemma>
 <functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
 <deepord>32</deepord>
 <children>
 <LM id="T-wsj1386-001-p1s8a49">

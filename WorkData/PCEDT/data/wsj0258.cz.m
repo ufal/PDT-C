@@ -924,16 +924,20 @@
 <w.rf>
 <LM>w#w-wsj0258-001-p1s2W6</LM>
 </w.rf>
-<form>RC6280</form>
+<form>RC</form>
 <tag>
-<AM lemma="RC6280" src="auto">X@-------------</AM>
-<AM lemma="RC6280" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RC-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: RC 6280</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0258-001-p1s2W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0258-001-p1s2W6</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>6280</form>
+<tag lemma="6280" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0258-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6165,16 +6169,24 @@
 <w.rf>
 <LM>w#w-wsj0258-001-p1s19W15</LM>
 </w.rf>
-<form>VAX9000</form>
+<form>VAX</form>
 <tag>
-<AM lemma="VAX9000" src="auto">X@-------------</AM>
-<AM lemma="VAX9000" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Vax_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Vax_;K_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="vax_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="vax_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="VAX-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="VAX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: VAX 9000</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0258-001-p1s19W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0258-001-p1s19W15</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>9000</form>
+<tag lemma="9000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0258-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6513,16 +6525,20 @@
 <w.rf>
 <LM>w#w-wsj0258-001-p1s20W16</LM>
 </w.rf>
-<form>RC6280</form>
+<form>RC</form>
 <tag>
-<AM lemma="RC6280" src="auto">X@-------------</AM>
-<AM lemma="RC6280" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RC-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: RC 6280</text>
-</LM>
-</comment>
+</m>
+<m id="m-wsj0258-001-p1s20W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0258-001-p1s20W16</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>6280</form>
+<tag lemma="6280" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0258-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>

@@ -49,7 +49,7 @@
 <children>
 <LM id="T-wsj2141-001-p1s0a4">
 <a>
-<lex.rf>a#a-wsj2141-001-p1s0W1-Ta</lex.rf>
+<lex.rf>a#m-wsj2141-001-p1s0W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -330,7 +330,7 @@
 <children>
 <LM id="T-wsj2141-001-p1s2a4">
 <a>
-<lex.rf>a#a-wsj2141-001-p1s2W1-Ta</lex.rf>
+<lex.rf>a#m-wsj2141-001-p1s2W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

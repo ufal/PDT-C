@@ -2057,7 +2057,7 @@
 </LM>
 <LM id="hs_004.05-SCzechT-m-d1t2042-9">
 <a>
-<lex.rf>a#hs_004.05-SCzechA-m-d1t2042-9</lex.rf>
+<lex.rf>a#m004-d1t2042-9-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>krát</t_lemma>
@@ -5330,9 +5330,13 @@
 <LM id="hs_004.05-SCzechT-m-d1t2198-9">
 <a>
 <lex.rf>a#hs_004.05-SCzechA-m-d1t2198-9</lex.rf>
+<aux.rf>
+<LM>a#m004-d1t2198-9-sw1-ia</LM>
+<LM>a#m004-d1t2198-9-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>V3Ska</t_lemma>
+<t_lemma>V_3_Ska</t_lemma>
 <functor>PAT</functor>
 <gram>
 <sempos>n.denot</sempos>

@@ -3549,10 +3549,12 @@
 <lex.rf>a#ak_056.14-SCzechA-m-d1t4017-12</lex.rf>
 <aux.rf>
 <LM>a#ak_056.14-SCzechA-m-d1t4017-11</LM>
+<LM>a#m056-d1t4017-12-sw1-ia</LM>
+<LM>a#m056-d1t4017-12-sw2-ia</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>V3Ska</t_lemma>
+<t_lemma>V_3_Ska</t_lemma>
 <functor>MEANS</functor>
 <is_member>1</is_member>
 <gram>

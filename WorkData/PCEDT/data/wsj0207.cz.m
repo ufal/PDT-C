@@ -1110,7 +1110,8 @@
 <form>Tashi</form>
 <tag>
 <AM lemma="Tashi" src="auto">X@-------------</AM>
-<AM lemma="Tashi-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tashi-77" src="manual">F%-------------</AM>
+<AM lemma="Tashi_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0207-001-p1s3W19-Ta">
@@ -6117,7 +6118,7 @@
 <AM lemma="dvouhlasý_,x" src="auto">AAMP6----1A----</AM>
 <AM lemma="dvouhlasý_,x" src="auto">AANP2----1A----</AM>
 <AM lemma="dvouhlasý_,x" src="auto">AANP6----1A----</AM>
-<AM lemma=" dvouhlasý_,s_^(^DD**dvojhlasý)" src="manual">AAFP6----1A----</AM>
+<AM lemma="dvouhlasý_,s_^(^DD**dvojhlasý)" src="manual">AAFP6----1A----</AM>
 <AM lemma="dvouhlasý_,s_^(^DD**dvojhlasý)" src="manual" selected="1">AAFP6----1A----</AM>
 </tag>
 </m>

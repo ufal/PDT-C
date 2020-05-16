@@ -1710,14 +1710,10 @@
 <w.rf>
 <LM>w#w-d1t1628-2</LM>
 </w.rf>
-<form>1,60</form>
-<tag lemma="1,60" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1.60</text>
-</LM>
-</comment>
-</m>
+<form>1.60</form>
+<tag>
+<AM lemma="1.60" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m039-d1t1628-1">
 <w.rf>
 <LM>w#w-d1t1628-1</LM>
@@ -1833,14 +1829,10 @@
 <w.rf>
 <LM>w#w-d1t1632-14</LM>
 </w.rf>
-<form>1,60</form>
-<tag lemma="1,60" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1.60</text>
-</LM>
-</comment>
-</m>
+<form>1.60</form>
+<tag>
+<AM lemma="1.60" src="auto" recommended="1">C=-------------</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m039-d1t1632-13">
 <w.rf>
 <LM>w#w-d1t1632-13</LM>

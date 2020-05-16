@@ -7894,10 +7894,10 @@
 <w.rf>
 <LM>w#w-wsj1446-001-p1s28W31</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Garcia</form>
-<tag>
-<AM lemma="Garcia_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="Garcia_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+</m>
 <m id="m-wsj1446-001-p1s28W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7962,22 +7962,23 @@
 <LM>w#w-wsj1446-001-p1s29W1</LM>
 </w.rf>
 <form>49</form>
-<tag>
-<AM lemma="49" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="49" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1446-001-p1s29W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1446-001-p1s29W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letá</form>
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="letý" src="auto">AAFS5----1A----</AM>
 <AM lemma="letý" src="auto">AANP1----1A----</AM>
 <AM lemma="letý" src="auto">AANP4----1A----</AM>
-<AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1446-001-p1s29W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9054,7 +9055,10 @@
 <LM>w#w-wsj1446-001-p1s34W19</LM>
 </w.rf>
 <form>Hutton</form>
-<tag lemma="Hutton_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hutton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hutton_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1446-001-p1s34W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9082,7 +9086,10 @@
 <LM>w#w-wsj1446-001-p1s34W22</LM>
 </w.rf>
 <form>Ingram</form>
-<tag lemma="Ingram_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ingram_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ingram_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1446-001-p1s34W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9111,7 +9118,8 @@
 <form>Yuzek</form>
 <tag>
 <AM lemma="Yuzek" src="auto">X@-------------</AM>
-<AM lemma="Yuzek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Yuzek_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Yuzek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1446-001-p1s34W26-Ta">
@@ -9143,6 +9151,7 @@
 <AM lemma="Carroll-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Carroll-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Carroll-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Carroll-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1446-001-p1s34W29-Ta">
@@ -9177,6 +9186,7 @@
 <AM lemma="Bertolotti_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bertolotti_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Bertolotti_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Bertolotti_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1446-001-p1s34W32-Ta">
@@ -13365,7 +13375,8 @@
 <form>DREXEL</form>
 <tag>
 <AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="DREXEL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="DREXEL-77" src="manual">F%-------------</AM>
+<AM lemma="Drexel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1446-001-p1s52W3-Ta">
@@ -13376,7 +13387,8 @@
 <form>BURNHAM</form>
 <tag>
 <AM lemma="Burnham_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="BURNHAM-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="BURNHAM-77" src="manual">F%-------------</AM>
+<AM lemma="Burnham-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1446-001-p1s52W4-Ta">
@@ -13387,7 +13399,8 @@
 <form>LAMBERT</form>
 <tag>
 <AM lemma="Lambert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="LAMBERT-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="LAMBERT-77" src="manual">F%-------------</AM>
+<AM lemma="Lambert-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1446-001-p1s52W5-Ta">
@@ -13613,7 +13626,10 @@
 <LM>w#w-wsj1446-001-p1s52W26</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1446-001-p1s52W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13928,7 +13944,10 @@
 <LM>w#w-wsj1446-001-p1s53W2</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1446-001-p1s53W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14475,7 +14494,10 @@
 <LM>w#w-wsj1446-001-p1s55W2</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1446-001-p1s55W3-Ta">
 <src.rf>tagger-a</src.rf>

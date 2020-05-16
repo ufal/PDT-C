@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="aanot_schema.xml" />
 <references>
-<reffile id="m" href="wsj2308.cz.m" name="mdata"/>
-<reffile id="w" href="wsj2308.cz.w" name="wdata"/>
+<reffile id="m" name="mdata" href="wsj2308.cz.m" />
+<reffile id="w" name="wdata" href="wsj2308.cz.w" />
 </references>
 </head>
 <meta>
@@ -6630,6 +6630,11 @@
 <afun>Atr</afun>
 <ord>20</ord>
 </LM>
+<LM id="m-wsj2308-001-p1s39W20-Ta-sw1-ia">
+<m.rf>m#m-wsj2308-001-p1s39W20-Ta-sw1</m.rf>
+<afun>Atr</afun>
+<ord>21</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -6641,7 +6646,7 @@
 <LM id="a-wsj2308-001-p1s39W21-Ta">
 <m.rf>m#m-wsj2308-001-p1s39W21-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>21</ord>
+<ord>22</ord>
 </LM>
 </children>
 <eng_sentence>The planes, long range versions of the medium-haul twin-jet, will be delivered with Pratt &amp; Whitney PW4060 engines.</eng_sentence>

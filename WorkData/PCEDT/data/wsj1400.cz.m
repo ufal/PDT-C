@@ -715,7 +715,8 @@
 <form>Champs</form>
 <tag>
 <AM lemma="Champs_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Champs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Champs-77" src="manual">F%-------------</AM>
+<AM lemma="Champs-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1400-001-p1s1W10-Ta">
@@ -969,7 +970,8 @@
 <form>Champs</form>
 <tag>
 <AM lemma="Champs_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Champs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Champs-77" src="manual">F%-------------</AM>
+<AM lemma="Champs-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1400-001-p1s1W30-Ta">
@@ -1054,7 +1056,8 @@
 <form>Champs</form>
 <tag>
 <AM lemma="Champs_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Champs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Champs-77" src="manual">F%-------------</AM>
+<AM lemma="Champs-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1400-001-p1s2W8-Ta">

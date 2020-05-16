@@ -3282,12 +3282,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>hg-26797_03.01-SCzechT-m-id59849-7</target-node.rf>
@@ -3295,6 +3289,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3375,12 +3375,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>hg-26797_03.01-SCzechT-m-id60193-4</target-node.rf>
@@ -3388,6 +3382,12 @@
 <src>maru</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6480,7 +6480,7 @@
 </LM>
 <LM id="hg-26797_03.01-SCzechT-m-id60583-5">
 <a>
-<lex.rf>a#hg-26797_03.01-SCzechA-m-id60583-5</lex.rf>
+<lex.rf>a#m973-id60583-5-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

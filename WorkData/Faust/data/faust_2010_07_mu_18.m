@@ -4065,16 +4065,20 @@
 <w.rf>
 <LM>w#w-mu_18-SCzechM-p1897-s1-w35</LM>
 </w.rf>
-<form>RECH3</form>
+<form>RECH</form>
 <tag>
-<AM lemma="RECH3">X@-------------</AM>
-<AM lemma="RECH3" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Rech_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="RECH-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="RECH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: RECH 3</text>
-</LM>
-</comment>
+</m>
+<m id="mu_18-SCzechM-p1897-s1-w35-sw1">
+<w.rf>
+<LM>w#w-mu_18-SCzechM-p1897-s1-w35</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>3</form>
+<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="mu_18-SCzechM-p1897-s1-w36">
 <w.rf>

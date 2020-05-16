@@ -1110,22 +1110,39 @@
 <AM lemma="Cortina_;R_,x_^(značka_automobilu_Ford_Mondeo)" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cortina_;R_,x_^(značka_automobilu_Ford_Mondeo)" src="auto">NNFP5-----A----</AM>
 <AM lemma="Cortina_;R_,x_^(značka_automobilu_Ford_Mondeo)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Cortina-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m148-d1t3655-4">
 <w.rf>
 <LM>w#w-d1t3655-4</LM>
 </w.rf>
-<form>d´Ampezzo</form>
+<form>d</form>
 <tag>
-<AM lemma="d´Ampezzo" src="auto">X@-------------</AM>
-<AM lemma="d´Ampezzo-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="d-77" src="auto" selected="1">F%-------------</AM>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: d ' Ampezzo</text>
-</LM>
-</comment>
+</m>
+<m id="m148-d1t3655-4-sw1">
+<w.rf>
+<LM>w#w-d1t3655-4</LM>
+</w.rf>
+<form>'</form>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m148-d1t3655-4-sw2">
+<w.rf>
+<LM>w#w-d1t3655-4</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>Ampezzo</form>
+<tag>
+<AM lemma="Ampezzo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Ampezzo_;G" src="auto">NNNS4-----A----</AM>
+<AM lemma="Ampezzo_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Ampezzo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m148-113-114">
 <w.rf>

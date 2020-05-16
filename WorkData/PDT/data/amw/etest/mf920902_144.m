@@ -347,9 +347,11 @@
 </w.rf>
 <form>Ešery</form>
 <tag>
-<AM lemma="Ešery_;G" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ešery_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Ešer_;S" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Ešer_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Ešery_;G" src="manual">NNFP1-----A----</AM>
+<AM lemma="Ešera_;G" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-144-p2s3w21">

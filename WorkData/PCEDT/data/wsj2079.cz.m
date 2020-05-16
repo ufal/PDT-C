@@ -664,10 +664,11 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AG-88" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="AG-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="AG-77" src="manual">F%-------------</AM>
+<AM lemma="AG-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2079-001-p1s1W17-Ta">

@@ -4791,7 +4791,8 @@
 <tag>
 <AM lemma="café_,t_^(kavárna)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="café_,^(kavárna)" src="manual">NNNXX-----A----</AM>
-<AM lemma="café_^(kavárna)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="café_^(kavárna)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Café-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m035-d1t2967-8">
@@ -4799,7 +4800,7 @@
 <LM>w#w-d1t2967-8</LM>
 </w.rf>
 <form>time</form>
-<tag lemma="time-77" src="auto" recommended="1">F%-------------</tag>
+<tag lemma="time-77" src="auto" recommended="1" selected="1">F%-------------</tag>
 </m>
 <m id="m035-d-m-d1e2956-x3-punct-punct">
 <w.rf>

@@ -1272,17 +1272,35 @@
 <w.rf>
 <LM>w#w-wsj2426-001-p1s3W17</LM>
 </w.rf>
-<form>T34C</form>
+<form>T</form>
 <tag>
-<AM lemma="T34C" src="auto">X@-------------</AM>
-<AM lemma="T34C" src="manual" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>3v1: T 34 C</text>
-</LM>
-</comment>
-</m>
+<AM lemma="T-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="T-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="t-1_^(t-mobile)" src="auto">A2--------A----</AM>
+<AM lemma="t-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="t-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="tuna" src="auto">NNFXX-----A---8</AM></tag>
+</m><m id="m-wsj2426-001-p1s3W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2426-001-p1s3W17</LM>
+</w.rf>
+<form>34</form>
+<tag>
+<AM lemma="34" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj2426-001-p1s3W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2426-001-p1s3W17</LM>
+</w.rf>
+<form>C</form>
+<tag>
+<AM lemma="C-3`100" src="auto">C}-------------</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
+<AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj2426-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

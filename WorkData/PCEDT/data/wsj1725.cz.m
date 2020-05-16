@@ -1277,19 +1277,21 @@
 <w.rf>
 <LM>w#w-wsj1725-001-p1s3W5</LM>
 </w.rf>
-<form>39letého</form>
+<form>39</form>
 <tag>
-<AM lemma="39letý" src="auto">AAIS2----1A----</AM>
-<AM lemma="39letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="39letý" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="39letý" src="auto">AANS2----1A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>2v1: 39 letého</text>
-</LM>
-</comment>
-</m>
+<AM lemma="39" src="auto" recommended="1">C=-------------</AM></tag>
+</m><m id="m-wsj1725-001-p1s3W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1725-001-p1s3W5</LM>
+</w.rf>
+<form>letého</form>
+<tag>
+<AM lemma="letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
+<form_change>spell</form_change></m>
 <m id="m-wsj1725-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

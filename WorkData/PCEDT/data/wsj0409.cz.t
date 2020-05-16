@@ -5638,19 +5638,28 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
-<deepord>16</deepord>
+<deepord>18</deepord>
 <children>
 <LM id="T-wsj0409-001-p1s26a14">
 <a>
 <lex.rf>a#a-wsj0409-001-p1s26W10-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>M8</t_lemma>
+<t_lemma>M</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
+<LM id="T-wsj0409-001-p1s26a24">
+<a>
+<lex.rf>a#m-wsj0409-001-p1s26W10-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>8</t_lemma>
+<functor>FPHR</functor>
+<deepord>13</deepord>
 </LM>
 <LM id="T-wsj0409-001-p1s26a23">
 <a>
@@ -5659,16 +5668,25 @@
 <nodetype>fphr</nodetype>
 <t_lemma>.</t_lemma>
 <functor>FPHR</functor>
-<deepord>13</deepord>
+<deepord>14</deepord>
 </LM>
 <LM id="T-wsj0409-001-p1s26a13">
 <a>
 <lex.rf>a#a-wsj0409-001-p1s26W12-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>7sp</t_lemma>
+<t_lemma>7</t_lemma>
 <functor>FPHR</functor>
-<deepord>14</deepord>
+<deepord>15</deepord>
+</LM>
+<LM id="T-wsj0409-001-p1s26a25">
+<a>
+<lex.rf>a#m-wsj0409-001-p1s26W12-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>sp</t_lemma>
+<functor>FPHR</functor>
+<deepord>16</deepord>
 </LM>
 <LM id="T-wsj0409-001-p1s26a10">
 <a>
@@ -5680,7 +5698,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>15</deepord>
+<deepord>17</deepord>
 </LM>
 <LM id="T-wsj0409-001-p1s26a12">
 <a>
@@ -5689,7 +5707,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Cycling</t_lemma>
 <functor>FPHR</functor>
-<deepord>17</deepord>
+<deepord>19</deepord>
 </LM>
 <LM id="T-wsj0409-001-p1s26a11">
 <a>
@@ -5698,7 +5716,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Simulator</t_lemma>
 <functor>FPHR</functor>
-<deepord>18</deepord>
+<deepord>20</deepord>
 </LM>
 </children>
 </LM>
@@ -5717,7 +5735,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>20</deepord>
+<deepord>22</deepord>
 <children>
 <LM id="T-wsj0409-001-p1s26a17">
 <a>
@@ -5729,7 +5747,7 @@
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
-<deepord>19</deepord>
+<deepord>21</deepord>
 </LM>
 </children>
 </LM>

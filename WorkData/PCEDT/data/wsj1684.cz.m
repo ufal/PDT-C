@@ -1572,6 +1572,7 @@
 <tag>
 <AM lemma="Turner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="turner" src="auto">NNMS1-----A----</AM>
+<AM lemma="Turner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1684-001-p1s4W11-Ta">
@@ -3193,16 +3194,21 @@
 <w.rf>
 <LM>w#w-wsj1684-001-p1s8W28</LM>
 </w.rf>
-<form>90stopou</form>
+<form>90</form>
+<tag lemma="90" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1684-001-p1s8W28-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1684-001-p1s8W28</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>stopou</form>
 <tag>
-<AM lemma="90stopou" src="auto">X@-------------</AM>
-<AM lemma="90stopý" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="stopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto">NNFS7-----A----</AM>
+<AM lemma="stopý" src="auto">AAFS4----1A----</AM>
+<AM lemma="stopý" src="auto" recommended="1">AAFS7----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>2v1: 90 stopou</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1684-001-p1s8W29-Ta">
 <src.rf>tagger-a</src.rf>

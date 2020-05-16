@@ -10622,7 +10622,8 @@
 <tag>
 <AM lemma="Abram_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Abram-2_;R" src="manual">NNIXX-----A----</AM>
-<AM lemma="Abram-2_;R _,i_^(^DS**Abrams-2)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Abram-2_;R _,i_^(^DS**Abrams-2)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Abram-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1474-001-p1s35W18-Ta">

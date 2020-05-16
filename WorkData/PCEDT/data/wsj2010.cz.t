@@ -2368,7 +2368,7 @@
 <children>
 <LM id="T-wsj2010-001-p1s7a14">
 <a>
-<lex.rf>a#a-wsj2010-001-p1s7W13-Ta</lex.rf>
+<lex.rf>a#m-wsj2010-001-p1s7W13-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolarový</t_lemma>
