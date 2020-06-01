@@ -1,0 +1,25 @@
+#!btred -N -T -e ind_num()
+# -*- cperl -*-
+
+use warnings;
+use strict;
+use feature qw{ say };
+
+sub ind_num {
+    return if $root == $this;
+    my $tag = $this->attr('tag');
+    if (IsAlt($tag)) {
+        my @tags = AltV($tag);
+        undef $tag;
+        $tag = (grep $_->{selected}, @tags)[0];
+        $tag ||= (grep $_->{recommended}, @tags)[0];
+        die Position() unless $tag;
+    }
+
+    my $lemma = $tag->{lemma};
+    return unless $lemma =~ /^sto\b/;
+
+    $tag = $tag->content;
+    print "$lemma\t$tag\t";
+    FPosition();
+}
