@@ -30,7 +30,7 @@ def process_block(block):
 
     analyses = []
     all_derivations = set()
-    all_lemmas = set()
+    all_lemmas_without_derivations = set()
     for line in block.split("\n")[:-1]:
         lemma, tag, form = line.rstrip("\n").split("\t")
 
@@ -41,12 +41,12 @@ def process_block(block):
 
         analyses.append((tag, form))
         all_derivations |= set(derivations)
-        all_lemmas.add(lemma)
+        all_lemmas_without_derivations.add(re.sub(r"_\^?\(\*[^)]*\)", "", lemma))
 
     lemma_id = raw_lemma + ("-{}".format(sense) if sense is not None else "")
 
-    if len(all_lemmas) > 1:
-        print("M-SameLemma The lemma {} has multiple variants: {}".format(lemma_id, all_lemmas))
+    if len(all_lemmas_without_derivations) > 1:
+        print("M-SameLemma The lemma {} has multiple variants: {}".format(lemma_id, all_lemmas_without_derivations))
 
     tag_set = set(tag for tag, _ in analyses)
     pos1 = set(tag[:1] for tag in tag_set)
@@ -72,9 +72,12 @@ def process_block(block):
         else:
             tag_set.remove(tag)
 
-    paradigm = hashlib.sha1()
-    paradigm.update("\t".join("{} {}".format(tag, form) for tag, form in sorted(analyses)).encode("utf-8"))
-    paradigm = paradigm.digest()
+    if all(tag.startswith("BN") for tag, _ in analyses):
+        paradigm = None
+    else:
+        paradigm = hashlib.sha1()
+        paradigm.update("\t".join("{} {}".format(tag, form) for tag, form in sorted(analyses)).encode("utf-8"))
+        paradigm = paradigm.digest()
 
     log = sys.stdout.getvalue()
     sys.stdout = real_stdout
@@ -92,14 +95,18 @@ def process_block(block):
 if __name__ == "__main__":
     pool = multiprocessing.Pool(8)
 
+    lemma_sense_re = re.compile(r"-[0-9]+$")
+
     lemmas = {}
+    raw_lemmas = collections.defaultdict(lambda: set())
     paradigms = collections.defaultdict(lambda: [])
     for lemma_id, derivations, paradigm, log in pool.imap_unordered(process_block, morpho_blocks(), chunksize=1000):
         print(log, end="")
 
         assert lemma_id not in lemmas
         lemmas[lemma_id] = derivations
-        paradigms[paradigm].append(lemma_id)
+        raw_lemmas[lemma_sense_re.sub("", lemma_id)].add(lemma_id)
+        if paradigm is not None: paradigms[paradigm].append(lemma_id)
 
     for lemma_id, derivations in lemmas.items():
         for link_type, link in derivations:
@@ -108,7 +115,11 @@ if __name__ == "__main__":
             if link == lemma_id:
                 print("M-ExiDer Lemma {} has derivational link of type {} to itself".format(lemma_id, link_type))
             if link not in lemmas:
-                print("M-ExiDer Lemma {} has derivational link of type {} to non-existing lemma {}".format(lemma_id, link_type, link))
+                wrong_sense_links = raw_lemmas.get(lemma_sense_re.sub("", link), None)
+                if wrong_sense_links is not None:
+                    print("M-ExiDer-Sense Lemma {} has derivational link of type {} to lemma {} with wrong sense ({} exist)".format(lemma_id, link_type, link, wrong_sense_links))
+                else:
+                    print("M-ExiDer Lemma {} has derivational link of type {} to non-existing lemma {}".format(lemma_id, link_type, link))
 
     for lemma_ids in paradigms.values():
         if len(lemma_ids) > 1:
