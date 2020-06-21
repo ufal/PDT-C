@@ -8,7 +8,7 @@ for d in Faust PCEDT PDT PDTSC; do
   (
     cd $d
     [ -n "$TSV_VALID" ] || python3 ../pdtc_to_vertical.py `find ../../../../$d -name "*.m"` >$d.tsv
-    perl ../consistency_vertical.pl "$1" $d.tsv >$d.tsv.log
+    perl ../consistency_vertical.pl "$@" $d.tsv >$d.tsv.log
   ) &
 done
 wait
